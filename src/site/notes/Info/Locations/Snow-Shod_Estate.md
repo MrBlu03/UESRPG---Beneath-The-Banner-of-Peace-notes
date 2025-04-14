@@ -27,5 +27,3 @@
 - [[Info/Locations/Riften\|Riften]]: Nearby city and seat of power
 
 ## Notes
-- The dam sabotage appears to have been part of a larger plot, possibly related to vampire activity in the region
-- The discovery of the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] symbol suggests a connection to supernatural threats

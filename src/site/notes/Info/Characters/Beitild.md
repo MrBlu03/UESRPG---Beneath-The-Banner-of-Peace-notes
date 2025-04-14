@@ -21,8 +21,3 @@ As a scout for the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]], Beitild 
 ## Location
 - [[Info/Locations/Riften\|Riften]], at the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] headquarters
 - Possibly travels to gather intelligence on threats
-
-## Notes
-- Equipped with a bow and spear, suggesting capability in both ranged and melee combat
-- Role as scout implies skills in stealth, tracking, and observation
-- Likely has specific knowledge about vampire activity in the region

@@ -26,8 +26,3 @@ As a core party member, Kirya serves as the party's tracker and is involved in d
 ## Relationships
 - Questioned by [[Info/Characters/Beitild\|Bejtield]] about her travels as a Khajiit
 
-## Notes
-- Skilled tracker
-- Diplomatic abilities
-- May have a significant backstory connection to "The Vestige"
-- Possible connection to the [[Info/Organizations/Court_of_Crows\|Court of Crows]]

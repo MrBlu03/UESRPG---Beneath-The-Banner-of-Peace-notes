@@ -5,7 +5,7 @@
 # Archmagus Mortgren
 
 ## Description
-[[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]] is a powerful mage who appeared briefly in Riften. His exact affiliation and position are unknown.
+[[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]] is a mage who appeared briefly in Riften. His exact affiliation and position are unknown.
 
 ## Role in the Story
 First seen at the start of [[1. Sessions/Session 4\|Session 4]] in conversation with [[Info/Characters/Queen_Freidr\|Queen Freidr]], discussing a prophecy and a scroll. He mentioned heading to Fjellhorst to investigate whether "those interred within hadn't awoken."

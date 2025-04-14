@@ -30,6 +30,3 @@ The [[Info/Locations/Snow-Shod_Dam\|Snow-Shod Dam]] is a water control structure
 - [[Info/Locations/Trevas_Bend\|Treva's Bend]]: Fishing village dependent on the dam's water flow
 
 ## Notes
-- Site of political tension between estate farmers and village fishermen
-- Location of a key piece of evidence linking the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] to local troubles
-- Strategic importance to local economy and water management

@@ -1,7 +1,7 @@
 ---
-dg-home: false
-dg-publish: true
+{"dg-publish":true,"permalink":"/info/organizations/blackfeather-court/"}
 ---
+
 
 # Blackfeather Court
 

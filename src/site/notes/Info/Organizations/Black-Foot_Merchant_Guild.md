@@ -31,6 +31,3 @@ The [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]] 
 - May maintain trade routes with other cities and settlements
 
 ## Notes
-- Named after its leader, suggesting a more personalized organizational structure
-- Represents an alternative to the main [[Info/Organizations/Merchant_Guild\|Merchant Guild]]
-- Competition between the guilds may influence local economics and politics

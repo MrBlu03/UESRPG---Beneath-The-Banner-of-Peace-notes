@@ -12,14 +12,9 @@ As the owner of [[Info/Locations/Snow-Shod_Estate\|Snow-Shod Estate]], Ingvar wa
 
 ## Relationships
 - Owner of [[Info/Locations/Snow-Shod_Estate\|Snow-Shod Estate]]
-- As a Thane, likely has political connections to [[Info/Characters/Queen_Freidr\|Queen Freidr]]
 
 ## Key Events
 - **[[1. Sessions/Session 2\|Session 2]]**: The party investigated the sabotaged dam on his estate, which was affecting water supply to [[Info/Locations/Trevas_Bend\|Treva's Bend]]
 
 ## Location
 - [[Info/Locations/Snow-Shod_Estate\|Snow-Shod Estate]]
-
-## Notes
-- Title of "Thane" indicates a position of nobility or high status in Nordic-inspired societies
-- Unwittingly involved in the machinations of the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] through the sabotage of his dam

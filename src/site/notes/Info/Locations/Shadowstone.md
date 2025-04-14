@@ -32,6 +32,3 @@ The [[Info/Locations/Shadowstone\|Shadowstone]] is an ancient Nordic standing st
   - Undead and draugr in the nearby ruins
 
 ## Notes
-- Could be a valuable magical resource if the party can safely access it
-- The connection to the Dragon War might be significant for future investigations
-- The power granted by attunement remains undefined but could be useful

@@ -5,7 +5,7 @@
 # Clan Volkihar
 
 ## Description
-[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] is an ancient and powerful vampire bloodline with direct connections to Molag Bal. They are known for their unique frost-based abilities and exceptional necromantic aptitude.
+[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] is an ancient and powerful vampire bloodline with direct connections to Molag Bal. 
 
 ## Key Features
 - Pure-blooded vampire lineage

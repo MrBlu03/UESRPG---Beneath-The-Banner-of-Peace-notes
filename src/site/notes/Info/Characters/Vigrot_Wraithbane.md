@@ -21,5 +21,3 @@ Vigrot led a military force that attempted to address the vampire threat at [[In
 - Was last known to be at the [[Info/Organizations/Companions\|Companions]] war camp near [[Info/Locations/Greenwall\|Greenwall]]
 
 ## Notes
-- The current status of Vigrot following the vampire ambush is unknown
-- His surname "Wraithbane" suggests someone who has fought against undead creatures before

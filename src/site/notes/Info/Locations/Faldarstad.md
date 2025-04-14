@@ -25,7 +25,3 @@
 - [[Info/Locations/Greenwall\|Greenwall]]: The blockage of which made Faldarstad's route more important
 - [[Info/Locations/Riften\|Riften]]: Connected by trade routes
 
-## Notes
-- May have historical significance given the mention of its distinctive shield emblem
-- Could be important for future travel plans if Greenwall remains inaccessible
-- Possible source of information about northern threats or vampire activity

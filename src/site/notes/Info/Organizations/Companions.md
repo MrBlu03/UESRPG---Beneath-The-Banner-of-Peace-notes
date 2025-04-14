@@ -5,10 +5,10 @@
 # Companions
 
 ## Description
-The [[Info/Organizations/Companions\|Companions]] are an ancient and powerful group of Nord warriors mentioned as being from Fallowstone Hall. They represent a significant military force in the region.
+The [[Info/Organizations/Companions\|Companions]] are a group of Nord warriors mentioned as being from Fallowstone Hall. 
 
 ## Key Features
-- Ancient Nord warrior organization
+- Nord warrior organization
 - Capable of mounting military operations
 - Based out of Fallowstone Hall
 - Experienced in combat against supernatural threats
@@ -25,10 +25,6 @@ The [[Info/Organizations/Companions\|Companions]] are an ancient and powerful gr
 - **[[1. Sessions/Session 5\|Session 5]]**: Their war camp was devastated by vampires
 - Regiment under Vigrot Wraithbane suffered heavy losses
 
-## Historical Significance
-- Mentioned by [[Info/Characters/Gjellir_Stormcrown\|Gjellir Stormcrown]] as "ancient, powerful Nord warriors"
-- Associated with Fallowstone Hall
-- Experienced in dealing with supernatural threats
 
 ## Related Locations
 - Fallowstone Hall: Their base of operations

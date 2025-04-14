@@ -44,7 +44,3 @@
 - **[[Info/Locations/Snowshot_Estate\|Snowshot Estate]]**: Property owned by Thane [[Info/Characters/Ingvar_Snowshod\|Ingvar Snowshod]]
 
 ## Notes
-- Central hub for the party's adventures
-- Political center with court intrigue
-- Commercial center with various specialized shops
-- Facing threats from supernatural forces including vampires

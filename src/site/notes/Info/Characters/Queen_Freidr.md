@@ -5,10 +5,10 @@
 # Queen Freidr "The Patient"
 
 ## Description
-[[Info/Characters/Queen_Freidr\|Queen Freidr "The Patient"]] is the ruler of [[Info/Locations/Riften\|Riften]] and its surrounding territories. Her epithet suggests a careful, measured approach to governance.
+[[Info/Characters/Queen_Freidr\|Queen Freidr "The Patient"]] is the ruler of [[Info/Locations/Riften\|Riften]] and its surrounding territories.
 
 ## Role in the Story
-As the monarch of [[Info/Locations/Riften\|Riften]], Queen Freidr provides quests and directions to the party, particularly regarding supernatural threats like the situation at [[Info/Locations/Greenwall\|Greenwall]].
+As the monarch of [[Info/Locations/Riften\|Riften]], Queen Freidr provides quests and directions to the party
 
 ## Relationships
 - Ruler of [[Info/Locations/Riften\|Riften]] and its surrounding areas
@@ -23,6 +23,4 @@ As the monarch of [[Info/Locations/Riften\|Riften]], Queen Freidr provides quest
 - Royal residence in [[Info/Locations/Riften\|Riften]]
 
 ## Notes
-- Her epithet "The Patient" suggests a deliberate governing style
-- Concerned about supernatural threats in her territory
 - Trusts the party with important missions like the [[Info/Locations/Greenwall\|Greenwall]] investigation

@@ -18,10 +18,6 @@
 
 ## Historical Significance
 - Played a crucial role during the war as a training ground for the Ebonheart Pact's mages
-- Meeting place where Speaks-Spells-Gently first encountered the Vestige
+- Meeting place where [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]] first encountered the Vestige
 - Connection to the mysterious Blackfeather Court through the Vestige's alleged founding of the organization
 
-## Notes
-- Continues to be an important magical institution in Morrowind
-- Historical connection to both the Ebonheart Pact and the secretive Blackfeather Court
-- Source of formal magical training for notable spellcasters

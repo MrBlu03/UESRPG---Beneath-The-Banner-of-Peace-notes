@@ -5,15 +5,12 @@
 # Cabbage Guy
 
 ## Description
-The individual known as the "[[Cabbage Guy\|Cabbage Guy]]" is a wanted person with a bounty on their head.
+The individual known as the "[[Cabbage Guy\|Cabbage Guy]]" is a local merchant or farmer who caught the party's attention and amusement.
 
 ## Role in the Story
-This bounty target represents a potential source of income for the party if they choose to pursue him.
-
-## Bounty Information
-- **Status**: Active (not yet claimed)
+A humorous background character that the party took a liking to.
 
 ## Notes
 - Known informally as "Cabbage Guy"
-- Real name unknown
-- Details of crimes and specific bounty amount are not recorded
+- A minor NPC who deals in cabbages
+- Provided some comic relief during the party's adventures

@@ -11,7 +11,7 @@
 As a messenger, Eirik delivers important information between locations and people, potentially serving as a connection for the party to distant events or characters.
 
 ## Information Provided
-- May have delivered messages to or for the party
+- Has delivered messages to or for the party
 
 ## Notes
 - Known for his speed, as suggested by his epithet "the Quick"

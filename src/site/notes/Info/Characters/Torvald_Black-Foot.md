@@ -16,7 +16,3 @@ As someone associated with a merchant guild, Torvald may represent commercial in
 
 ## Location
 - Likely operates in or around [[Info/Locations/Riften\|Riften]]
-
-## Notes
-- The "Black-Foot" name suggests a distinctive trait or history
-- May be involved in regional commerce and potentially politics through economic influence

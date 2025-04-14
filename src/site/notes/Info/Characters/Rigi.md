@@ -19,6 +19,3 @@ As the Queen's personal bodyguard, Rigi provides protection for the monarch and 
 - [[Info/Locations/Riften\|Riften]], likely always near the Queen at the royal residence
 
 ## Notes
-- The title "huscarl" traditionally refers to a personal bodyguard of Scandinavian nobles
-- Trusted position that would likely only be given to someone with proven loyalty and combat ability
-- Would be responsible for the Queen's personal safety in all situations

@@ -8,7 +8,7 @@
 [[Info/Characters/Olen\|Olen]] is a member of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] who handles court jobs. He is known to carry two axes.
 
 ## Role in the Story
-As the handler of court jobs for the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]], Olen likely serves as a liaison between the organization and various court officials or nobles.
+As the handler of court jobs for the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]],
 
 ## Relationships
 - Member of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
@@ -22,4 +22,3 @@ As the handler of court jobs for the [[Info/Organizations/Cult_of_Ysmir\|Cult of
 ## Notes
 - Armed with two axes, suggesting combat capability
 - Role as court jobs handler implies diplomatic skills and political connections
-- May serve as an intermediary between the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] and [[Info/Characters/Queen_Freidr\|Queen Freidr's]] court

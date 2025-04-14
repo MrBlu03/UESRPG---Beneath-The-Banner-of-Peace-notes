@@ -23,9 +23,3 @@ A core party member who contributes to combat and investigations. Known for exam
 
 ## Equipment
 - Helmet (worn constantly)
-
-## Notes
-- Paranoid about headshots, leading to constant helmet use
-- Shows investigative skills
-- Engages in social activities like gambling
-- Early riser within the party
