@@ -13,6 +13,14 @@ The party was summoned by [[Info/Characters/Queen_Freidr\|Queen Freidr]] to inve
 
 ### Morning at [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]]
 - The party woke up, ate and drank food and ale.
+- Overheard conversation between [[Info/Characters/Queen_Freidr\|Queen Freidr]] and [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]]
+  - Discussed a prophecy and scroll
+  - Mortgren mentioned heading to Fjellhorst to check on "those interred within"
+- [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]] spoke with [[Info/Characters/Onasha\|Onasha]]
+  - Confirmed the black feather's magical nature
+  - Advised her to keep it as it may become useful
+  - Departed for ruins on mountain south of Riften
+  - Has not been seen since
 - Before heading to the queen, the party visited **[[Info/Locations/The_Honed_Edge\|The Honed Edge]]** blacksmith to acquire more silver weapons.
   - **[[Info/Characters/Onasha\|Onasha]]** and **[[Info/Characters/Kirya\|Kirya]]** each bought 50 silver arrows for 100 gold.
   - **[[Info/Characters/Periwyn\|Periwyn]]** shared knowledge about **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]]**, the purest form of vampires, who are weak to sunlight and fire, resistant to non-magical damage, and undead.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/info/locations/snowshot-estate/"}
+{"dg-publish":true,"permalink":"/info/locations/snow-shod-estate/"}
 ---
 
 

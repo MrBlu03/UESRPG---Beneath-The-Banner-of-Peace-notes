@@ -5,17 +5,22 @@
 # Archmagus Mortgren
 
 ## Description
-[[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]] is a high-ranking mage associated with [[Info/Locations/Shad_Astula\|Shad Astula]], likely in a leadership position given the title "Archmagus."
+[[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]] is a powerful mage who appeared briefly in Riften. His exact affiliation and position are unknown.
 
 ## Role in the Story
-As a powerful magic user and possible leader at [[Info/Locations/Shad_Astula\|Shad Astula]], Archmagus Mortgren represents an authority in magical knowledge and may be a resource for magical expertise.
+First seen at the start of [[1. Sessions/Session 4\|Session 4]] in conversation with [[Info/Characters/Queen_Freidr\|Queen Freidr]], discussing a prophecy and a scroll. He mentioned heading to Fjellhorst to investigate whether "those interred within hadn't awoken."
 
-## Relationships
-- May have connections to [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]], possibly as a former teacher or colleague
+## Key Events
+- **[[1. Sessions/Session 4\|Session 4]]**: 
+  - Observed in conversation with Queen Freidr about a prophecy and scroll
+  - Informed [[Info/Characters/Onasha\|Onasha]] that her black feather was of magical origin and should be kept
+  - Departed for the ruins on top of the mountain, a few days south of Riften
 
 ## Location
-- [[Info/Locations/Shad_Astula\|Shad Astula]]
+- Last known location: Heading to ruins south of Riften
 
 ## Notes
-- The title "Archmagus" suggests significant magical ability and a position of authority
-- Could be a valuable contact for magical assistance or information
+- Shows interest in prophecies and ancient ruins
+- Has knowledge of magical artifacts
+- Title of "Archmagus" suggests significant magical ability
+- Has not been seen since his departure in Session 4

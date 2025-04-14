@@ -5,19 +5,23 @@
 # Shad Astula
 
 ## Description
-[[Info/Locations/Shad_Astula\|Shad Astula]] appears to be an academy or institution for magical studies, possibly where [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]] and other mages received formal training.
+[[Info/Locations/Shad_Astula\|Shad Astula]] is a prestigious magical institution located in mainland Morrowind. During the war, it was renowned for training some of the finest mages in the Ebonheart Pact.
 
 ## Key Features
 - Educational institution for magical studies
-- Led by or associated with [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]]
+- Located in mainland Morrowind
+- Historical significance in training Ebonheart Pact mages
 
-## NPCs
-- **[[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]]**: High-ranking mage at the institution
+## Notable Alumni
+- [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]] studied here during the war
+- The Vestige visited or studied at the institution
 
-## Significance
-- Source of formal magical training for spellcasters
-- Repository of magical knowledge and research
+## Historical Significance
+- Played a crucial role during the war as a training ground for the Ebonheart Pact's mages
+- Meeting place where Speaks-Spells-Gently first encountered the Vestige
+- Connection to the mysterious Blackfeather Court through the Vestige's alleged founding of the organization
 
 ## Notes
-- [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]] may have connections to this institution
-- May serve as a resource for magical information or assistance in the future
+- Continues to be an important magical institution in Morrowind
+- Historical connection to both the Ebonheart Pact and the secretive Blackfeather Court
+- Source of formal magical training for notable spellcasters

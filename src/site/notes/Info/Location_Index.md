@@ -26,11 +26,11 @@
 
 ## Settlements
 - **[[Info/Locations/Trevas_Bend\|Treva's Bend]]**: Fishing village
-  - In conflict with Snowshot Estate over water levels
+  - In conflict with Snow-Shod Estate over water levels
   - Local economy disrupted
-- **[[Info/Locations/Snowshot_Estate\|Snowshot Estate]]**: Agricultural settlement
+- **[[Info/Locations/Snowshot_Estate\|Snow-Shod Estate]]**: Agricultural settlement
   - New irrigation tunnels causing water disputes
-  - Run by the Snowshot family
+  - Run by the Snow-Shod family
 - **[[Info/Locations/Faldarstad\|Faldarstad]]**: Northern town
   - Alternative route for travelers avoiding [[Info/Locations/Greenwall\|Greenwall]]
 - **[[Info/Locations/Nimalten\|Nimalten]]**: Town, home of hunter [[Info/Characters/Eydis\|Eydis]]
@@ -44,7 +44,7 @@
 - **Fallowstone Hall**: Base of the [[Info/Organizations/Companions\|Companions]]
 
 ## Infrastructure
-- **[[Info/Locations/Snowshot_Dam\|Snowshot Dam]]**: Water control structure
+- **[[Info/Locations/Snowshot_Dam\|Snow-Shod Dam]]**: Water control structure
   - Site of Adrith Velan's murder
   - Location where coiled serpent symbol was found
 
