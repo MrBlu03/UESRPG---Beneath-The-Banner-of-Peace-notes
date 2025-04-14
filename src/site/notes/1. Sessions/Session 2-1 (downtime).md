@@ -25,4 +25,3 @@ Brief downtime session focused on [[Info/Characters/Periwyn\|Periwyn]]'s meeting
 
 ## Notes
 - [[Info/Characters/Periwyn\|Periwyn]]'s continued focus on vampire threats
-- Development of character connections and backgrounds

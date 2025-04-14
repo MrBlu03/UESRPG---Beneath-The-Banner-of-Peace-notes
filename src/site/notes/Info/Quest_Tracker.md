@@ -31,7 +31,6 @@
 ### ⚔️ [[Info/Quests/Vampire_Hunter_Search\|Periwyn's Vampire Hunter Search]]
 **Status**: Active ([[1. Sessions/Session 3\|Session 3]])  
 **Target**: [[Info/Characters/Wuunferth\|Wuunferth]] in [[Info/Locations/Greenwall\|Greenwall]]  
-**Connection**: [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]], personal vendetta
 
 ### 🌙 [[Info/Characters/Kirya\|Kirya's]] Vestige Connection
 **Status**: Active ([[1. Sessions/Session 4\|Session 4]])  
