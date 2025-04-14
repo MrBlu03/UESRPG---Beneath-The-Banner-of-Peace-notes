@@ -6,9 +6,7 @@
 
 ## Description
 [[Vigrot Wraithbane\|Vigrot Wraithbane]] is the leader of a regiment of [[Info/Organizations/Companions\|Companions]] that established a war camp near [[Info/Locations/Greenwall\|Greenwall]].
-
-## Role in the Story
-Vigrot led a military force that attempted to address the vampire threat at [[Info/Locations/Greenwall\|Greenwall]] but suffered devastating losses in a vampire ambush.
+	Vigrot led a military force that attempted to address the vampire threat at [[Info/Locations/Greenwall\|Greenwall]] but suffered devastating losses (only a few men left standing) in a vampire ambush.
 
 ## Relationships
 - Leader of a regiment of [[Info/Organizations/Companions\|Companions]]

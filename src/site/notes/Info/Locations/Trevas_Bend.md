@@ -7,12 +7,12 @@
 ## Description
 [[Info/Locations/Trevas_Bend\|Treva's Bend]] is a fishing village near [[Info/Locations/Riften\|Riften]] that depends on water flow from a dam at [[Info/Locations/Snowshot_Estate\|Snowshot Estate]]. The village was affected by the sabotage of this dam, creating water shortages.
 
-## Key Features
+## Features
 - Fishing-focused economy
 - Dependent on water from the [[Info/Locations/Snowshot_Estate\|Snowshot Estate]] dam
 - Located near [[Info/Locations/Riften\|Riften]]
 
-## Key Events
+## Events
 - **[[1. Sessions/Session 1\|Session 1]]**: 
   - Party discovered the riverbed was muddy and drier than normal, with a smell of rotting fish
   - Learned that upstream farmers had set up a water dam

@@ -13,7 +13,6 @@
 
 ## Key Events
 - Shared information about the talking crows and their connection to the Blackfeather Court
-- Revealed his past studies at [[Info/Locations/Shad_Astula\|Shad Astula]] and connection to the Vestige
 
 ## Location
 - Royal residence or magical workshop in [[Info/Locations/Riften\|Riften]]

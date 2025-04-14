@@ -42,7 +42,7 @@
 - **[[Info/Characters/Wuunferth\|Wuunferth]]**: Vampire hunter trapped in [[Info/Locations/Greenwall\|Greenwall]]
 
 ## Hunters and Scouts
-- **[[Info/Characters/Eydis\|Eydis]]**: Hunter from [[Info/Locations/Nimalten\|Nimalten]], father killed by frost troll
+- **[[Info/Characters/Eydis\|Eydis]]**: Hunter from [[Nimalten\|Nimalten]], father killed by frost troll
 - **Bejtield**: Scout with knowledge of necromancy, joined [[Info/Locations/Greenwall\|Greenwall]] expedition
 
 ## Bounty Targets

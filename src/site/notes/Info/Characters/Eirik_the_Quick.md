@@ -5,8 +5,7 @@
 # Eirik the Quick
 
 ## Description
-[[Eirik the Quick\|Eirik the Quick]] is a messenger who, as his name suggests, is known for his speed and reliability in delivering messages.
+[[Eirik the Quick\|Eirik the Quick]] is a messenger who moves way quicker than he has any right to
 
 ## Notes
 - Known for his speed
-- Could be a useful contact for sending messages to distant locations

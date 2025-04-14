@@ -15,4 +15,5 @@
 
 ## Location
 - [[Info/Locations/Riften\|Riften]]
+
 ## Notes

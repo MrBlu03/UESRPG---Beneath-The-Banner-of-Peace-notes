@@ -7,9 +7,6 @@
 ## Description
 [[Info/Characters/Adrith_Velan\|Adrith Velan]] was involved in the sabotage of the dam at [[Info/Locations/Snow-Shod_Estate\|Snow-Shod Estate]]. The party found him deceased near the dam site, with evidence connecting him to the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]].
 
-## Role in the Story
-Though deceased when encountered by the party, Adrith's actions in sabotaging the dam at [[Info/Locations/Snow-Shod_Estate\|Snow-Shod Estate]] created the initial water conflict between the estate and [[Info/Locations/Trevas_Bend\|Treva's Bend]].
-
 ## Key Events
 - **[[1. Sessions/Session 2\|Session 2]]**: Found dead near the sabotaged dam at [[Info/Locations/Snow-Shod_Estate\|Snow-Shod Estate]]
   - Had a note with the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] symbol

@@ -9,9 +9,3 @@
 
 ## Relationships
 - Associated with the [[Merchant Guild\|Merchant Guild]]
-
-## Location
-
-
-## Notes
-- Part of the merchant network in [[Info/Locations/Riften\|Riften]]

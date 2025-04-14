@@ -7,9 +7,6 @@
 ## Description
 [[Info/Characters/Queen_Freidr\|Queen Freidr "The Patient"]] is the ruler of [[Info/Locations/Riften\|Riften]] and its surrounding territories.
 
-## Role in the Story
-As the monarch of [[Info/Locations/Riften\|Riften]], Queen Freidr provides quests and directions to the party
-
 ## Relationships
 - Ruler of [[Info/Locations/Riften\|Riften]] and its surrounding areas
 - Protected by [[Info/Characters/Rigi\|Rigi]], her huscarl (bodyguard)
@@ -23,4 +20,4 @@ As the monarch of [[Info/Locations/Riften\|Riften]], Queen Freidr provides quest
 - Royal residence in [[Info/Locations/Riften\|Riften]]
 
 ## Notes
-- Trusts the party with important missions like the [[Info/Locations/Greenwall\|Greenwall]] investigation
+- 

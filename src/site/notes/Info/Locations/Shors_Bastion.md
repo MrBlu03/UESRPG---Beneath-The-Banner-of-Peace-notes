@@ -7,12 +7,6 @@
 ## Description
 [[Info/Locations/Shors_Bastion\|Shor's Bastion]] was the intended destination of the vampire hunter [[Info/Characters/Wuunferth\|Wuunferth]] before he became stranded in [[Info/Locations/Greenwall\|Greenwall]].
 
-## Key Features
-
-
-## Historical Significance
-
-
 ## Known Events
 - Was meant to be [[Info/Characters/Wuunferth\|Wuunferth]]'s destination before the [[Info/Locations/Greenwall\|Greenwall]] situation
 

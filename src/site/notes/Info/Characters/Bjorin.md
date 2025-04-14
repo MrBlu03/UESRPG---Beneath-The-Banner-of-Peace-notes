@@ -7,9 +7,6 @@
 ## Description
 [[Info/Characters/Bjorin\|Bjorin]] is the owner of the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]] inn in [[Info/Locations/Riften\|Riften]]. He is described as a large man.
 
-## Role in the Story
-As the proprietor of a local inn, Bjorin provides lodging for travelers and may serve as a source of local gossip and information.
-
 ## Relationships
 - Father of [[Info/Characters/Astrid\|Astrid]], who helps run the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]]
 

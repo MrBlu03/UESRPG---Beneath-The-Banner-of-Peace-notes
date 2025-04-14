@@ -5,7 +5,7 @@
 # Crypt, Hall of the Dead
 
 ## Description
-The [[Info/Locations/Crypt_Hall_of_the_Dead\|Crypt, Hall of the Dead]] is a location in [[Info/Locations/Riften\|Riften]] where the deceased are tended to and laid to rest. It serves as both a mortuary and a sacred burial site.
+The [[Info/Locations/Crypt_Hall_of_the_Dead\|Crypt, Hall of the Dead]] is a location in [[Info/Locations/Riften\|Riften]] where the deceased are tended to and laid to rest.
 
 ## Key Features
 - Facilities for examining and preparing bodies

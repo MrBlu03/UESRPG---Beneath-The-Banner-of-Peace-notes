@@ -12,8 +12,4 @@ As a scout for the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
 ## Relationships
 - Member of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
 - Works under [[Info/Characters/Gjellir_Stormcrown\|Gjellir Stormcrown]], the Harbinger
-- Works alongside [[Info/Characters/Olen\|Olen]], who handles court jobs
-
-## Key Events
-
-## Location
+- Works alongside [[Info/Characters/Olen\|Olen]]
