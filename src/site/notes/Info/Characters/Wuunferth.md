@@ -5,7 +5,7 @@
 # Wuunferth
 
 ## Description
-[[Info/Characters/Wuunferth\|Wuunferth]] is a vampire hunter who became stranded in [[Info/Locations/Greenwall\|Greenwall]]. He is connected to [[Info/Characters/Periwyn\|Periwyn]]'s personal quest.
+[[Info/Characters/Wuunferth\|Wuunferth]] is a vampire hunter who became stranded in [[Info/Locations/Greenwall\|Greenwall]]. He is the leader of a vampire hunter guild
 
 ## Role in the Story
 - Target of [[Info/Characters/Periwyn\|Periwyn]]'s search quest
