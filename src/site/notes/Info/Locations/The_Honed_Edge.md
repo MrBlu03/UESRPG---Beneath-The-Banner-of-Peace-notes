@@ -13,4 +13,4 @@ The [[Info/Locations/The_Honed_Edge\|Honed Edge]] is a blacksmith shop located i
 - Small shop area for customers
 
 ## Key NPCs
-- [[Info/Characters/Balimund\|Balimund]] (assumed owner/smith, verify name)
+- Female Blacksmith (we don't know her name)

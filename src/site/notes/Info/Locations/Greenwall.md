@@ -10,7 +10,6 @@
 ## Key Features
 - Currently surrounded by a magical blizzard, suspected to be created by vampires
 - May house [[Info/Characters/Wuunferth\|Wuunferth]], a vampire hunter who's believed to be trapped inside
-- Was reportedly lost to vampires approximately 2,000 years ago, according to information from [[Info/Locations/The_Honed_Edge\|The Honed Edge]]
 
 ## Key Events
 - **[[1. Sessions/Session 3\|Session 3]]**: [[Info/Characters/Gjellir_Stormcrown\|Gjellir Stormcrown]] discussed the magical blizzard around [[Info/Locations/Greenwall\|Greenwall]] and its possible vampire connections

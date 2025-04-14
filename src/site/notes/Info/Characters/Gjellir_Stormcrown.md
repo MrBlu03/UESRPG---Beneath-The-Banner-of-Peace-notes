@@ -12,7 +12,8 @@ Leader of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
 
 ## Relationships
 - Harbinger (leader) of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
-- Commands [[Info/Characters/Beitild\|Beitild]] (scout) and [[Info/Characters/Olen\|Olen]] (court jobs handler)
+- Commands [[Info/Characters/Beitild\|Beitild]] (scout) and [[Info/Characters/Olen\|Olen]] (just a dude with access)
 
 ## Location
 - [[Info/Locations/Riften\|Riften]], at the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] headquarters
+- Currently with the party in greenwall

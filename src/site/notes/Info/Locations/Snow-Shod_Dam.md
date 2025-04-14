@@ -21,7 +21,7 @@ The [[Info/Locations/Snow-Shod_Dam\|Snow-Shod Dam]] is a water control structure
   - Party helped restore functionality
   
 ## Related NPCs
-- [[Info/Characters/Ingvar_Snowshod\|Ingvar Snowshod]]: Owner of the estate and dam
+- [[Info/Characters/Ingvar_Snow-shod\|Ingvar Snowshod]]: Owner of the estate and dam
 - [[Info/Characters/Adrith_Velan\|Adrith Velan]]: Found deceased near the dam
 - Estate guards who maintain security
 

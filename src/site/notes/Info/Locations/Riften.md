@@ -30,13 +30,13 @@
 - Various shopkeepers and merchants
 
 ## Organizations
-- **[[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]**: Organization with knowledge of supernatural threats
+- **[[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]**: a bunch of mercenaries
 - **[[Info/Organizations/Merchant_Guild\|Merchant Guild]]**: Commercial organization
 - **[[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]]**: Competing merchant organization
 
 
 ## Related Locations
 - **[[Info/Locations/Trevas_Bend\|Treva's Bend]]**: Fishing village near Riften
-- **[[Info/Locations/Snowshot_Estate\|Snowshot Estate]]**: Property owned by Thane [[Info/Characters/Ingvar_Snowshod\|Ingvar Snowshod]]
+- **[[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]]**: Property owned by Thane [[Info/Characters/Ingvar_Snow-shod\|Ingvar Snow - Shod]]
 
 ## Notes

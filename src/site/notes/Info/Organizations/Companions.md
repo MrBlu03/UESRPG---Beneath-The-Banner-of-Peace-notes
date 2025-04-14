@@ -14,7 +14,7 @@ The [[Info/Organizations/Companions\|Companions]] are a group of Nord warriors m
 - Experienced in combat against supernatural threats
 
 ## Known Members
-- [[Info/Characters/Vigrot_Wraithbane\|Vigrot Wraithbane]]: Leader of a regiment near [[Info/Locations/Greenwall\|Greenwall]]
+- [[Info/Characters/Vigrod_Wraithbane\|Vigrot Wraithbane]]: Leader of a regiment near [[Info/Locations/Greenwall\|Greenwall]]
 
 ## Current Activities
 - Established a war camp near [[Info/Locations/Greenwall\|Greenwall]] to combat the vampire threat

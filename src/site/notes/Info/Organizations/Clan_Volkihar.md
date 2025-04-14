@@ -17,7 +17,7 @@
 - Evidence of a splinter faction (variant symbol discovered)
 
 ## Historical Events
-- Previously took control of [[Info/Locations/Greenwall\|Greenwall]] Castle approximately 2,000 years ago
+- Previously took control of a Castle in the "Sea of Ghosts" approximately 2,000 years ago
 - Current resurgence in activity around [[Info/Locations/Greenwall\|Greenwall]]
 
 ## Associated Locations

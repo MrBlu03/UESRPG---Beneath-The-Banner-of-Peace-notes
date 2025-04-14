@@ -23,7 +23,7 @@ The party ventured out to find missing alchemist [[Info/Characters/Alara\|Alara]
 - Discovered she went south looking for mushrooms in caves
 - Additional information gained:
   - Sabercats have made nests near the hills
-  - [[Info/Locations/Shadowstone\|Shadowstone]] standing stone in the area
+  - [[Info/Locations/Shadow Stone\|Shadow Stone]] standing stone in the area
     - Old relic from when Nords settled in Skyrim
     - Grants power to those who attune to it
     - Located next to old ruins from the Dragon War
@@ -132,7 +132,7 @@ The party ventured out to find missing alchemist [[Info/Characters/Alara\|Alara]
 - Follow up on the complex poison used on [[Info/Characters/Adrith_Velan\|Adrith Velan]]
 - Potentially consult with [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]] or [[Info/Locations/Winterhold\|Winterhold]] mages about the magical elements
 - Investigate the [[Info/Organizations/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]] in the cave mentioned by [[Info/Characters/Alara\|Alara]]
-- Learn more about the [[Info/Locations/Shadowstone\|Shadowstone]] and its powers
+- Learn more about the [[Info/Locations/Shadow Stone\|Shadow Stone]] and its powers
 
 ## Additional Context
 - Previous investigations from Sessions 1-2:
@@ -145,4 +145,4 @@ The party ventured out to find missing alchemist [[Info/Characters/Alara\|Alara]
   - [[Info/Locations/Greenwall\|Greenwall]]: Town now surrounded by magical ice wall
   - [[Info/Locations/Shors_Bastion\|Shor's Bastion]]: Original destination of vampire hunter [[Info/Characters/Wuunferth\|Wuunferth]]
   - [[Info/Locations/Faldarstad\|Faldarstad]]: Northern town, alternate route for travelers
-  - [[Info/Locations/Shadowstone\|Shadowstone]]: Ancient standing stone with special powers
+  - [[Info/Locations/Shadow Stone\|Shadow Stone]]: Ancient standing stone with special powers

@@ -19,7 +19,7 @@
 - [ ] Restore sunlight by disrupting eclipse
 
 **Key NPCs**: 
-- [[Info/Characters/Vigrot_Wraithbane\|Vigrot Wraithbane]]
+- [[Info/Characters/Vigrod_Wraithbane\|Vigrot Wraithbane]]
 - [[Info/Characters/Gjellir_Stormcrown\|Gjellir Stormcrown]]
 
 > *Connected to multiple other quests and plot threads*
@@ -32,11 +32,6 @@
 **Status**: Active ([[1. Sessions/Session 3\|Session 3]])  
 **Target**: [[Info/Characters/Wuunferth\|Wuunferth]] in [[Info/Locations/Greenwall\|Greenwall]]  
 
-### 🌙 [[Info/Characters/Kirya\|Kirya's]] Vestige Connection
-**Status**: Active ([[1. Sessions/Session 4\|Session 4]])  
-**Lead**: [[Info/Organizations/Court_of_Crows\|Court of Crows]] & [[Info/Locations/Nocturnal_Realm\|Nocturnal Realm]]  
-**Contact**: [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]]
-
 ---
 
 ## 🔍 Investigation Quests
@@ -45,7 +40,7 @@
 **Status**: Active ([[1. Sessions/Session 2\|Session 2]])
 
 **Current Leads**:
-- Symbol at [[Info/Locations/Snowshot_Dam\|Snowshot Dam]]
+- Symbol at [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]
 - Connection to [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] (Harmugstahl)
 - Link to [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s murder
 
@@ -105,7 +100,7 @@
 ## 📌 Optional Objectives
 
 - 🏛️ Investigate [[Info/Organizations/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]] cave
-- 🗿 Study [[Info/Locations/Shadowstone\|Shadowstone]] powers
+- 🗿 Study [[Info/Locations/Shadow Stone\|Shadow Stone]] powers
 - 👥 Follow up on Eldar's conversation
 - 🧙‍♂️ Consult [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]] about [[Info/Organizations/Court_of_Crows\|Court of Crows]]
 
@@ -113,12 +108,12 @@
 
 ## 📦 Quest Items & Evidence
 
-| Item                              | Source                        | Notes                               |                  |
-| :-------------------------------- | :---------------------------- | :---------------------------------- | ---------------- |
-| 🎀 Blue Ribbon                    | [[Info/Characters/Alara       \| Alara]]                             | Proof of rescue  |
-| 📜 Serpent Symbol                 | [[Info/Locations/Snowshot_Dam \| Snowshot Dam]]                      | Mystery symbol   |
-| 📕 [[Info/Characters/Adrith_Velan \| Adrith's]] Diary              | Murder Scene                        | Evidence         |
-| 🦅 Bone Hawk                      | Recent Journey                | Study material                      |                  |
-| 📚 Frozen Logbook                 | Harmugstahl                   | General's last entry                |                  |
-| 🪶 Black Feathers                 | Various                       | [[Info/Organizations/Court_of_Crows \| Court of Crows]] |
-|                                   |                               |                                     |                  |
+| Item              | Source                    | Notes                 |
+| :---------------- | :------------------------ | :-------------------- |
+| 🎀 Blue Ribbon    | [[Info/Characters/Alara\|Info/Characters/Alara]] | Proof of rescue       |
+| 📜 Serpent Symbol | [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]         | Mystery symbol        |
+| 📕 Adrith's Diary | Adrith (dead)             | Murder Scene Evidence |
+| 🦅 Bone Hawk      | Session 5                 | Study material        |
+| 📚 Frozen Logbook | Harmugstahl               | General's last entry  |
+| 🪶 Black Feathers | Crows                     |                       |
+

@@ -56,7 +56,7 @@ The party investigated tensions in [[Info/Locations/Trevas_Bend\|Treva's Bend]],
 - **Snowshot Dam Guards:** Initially restricted passage
 - **Village Aldermen:** Awarded investigation reward
 - **[[Info/Characters/Harvold\|Harvold]]:** Barrack's Captain knew of [[Info/Characters/Adrith_Velan\|Adrith Velan]]
-- **[[Info/Characters/Sigrid\|Sigrid]]:** Morgue attendant at [[Info/Locations/Crypt_Hall_of_the_Dead\|Crypt, Hall of the Dead]]
+- **[[Info/Characters/Sigrid\|Sigrid]]:** Morgue attendant at [[Info/Locations/Hall_of_the_Dead\|Crypt, Hall of the Dead]]
 - **[[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]]:** Argonian Court Wizard
 
 ## Items of Interest
@@ -75,7 +75,7 @@ The party investigated tensions in [[Info/Locations/Trevas_Bend\|Treva's Bend]],
   - Details:
     - Investigated quarrel in fishermen area
     - Explored [[Info/Locations/Snowshot_Estate\|Snowshot Estate]] issues
-    - [[Info/Characters/Ingvar_Snowshod\|Snowshots]]' irrigation tunnels suspected of causing water level problems
+    - [[Info/Characters/Ingvar_Snow-shod\|Snowshots]]' irrigation tunnels suspected of causing water level problems
     - Noted Eldar's interaction with a strange man
     - Fishermen trade disrupted
 

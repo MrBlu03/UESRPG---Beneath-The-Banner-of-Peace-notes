@@ -58,7 +58,7 @@ The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall
 **Day 6:**  
 - Unnatural darkness fell at 2:30 PM, mimicking the eclipse during the **[[Night of Crimson Tears\|Night of Crimson Tears]]** (linked to **[[Info/Characters/Periwyn\|Periwyn]]'s** past trauma).  
 - Arrived at the **[[Info/Organizations/Companions\|Companions]] war camp**, now a bloody ruin.  
-  - **[[Info/Characters/Vigrot_Wraithbane\|Vigrot Wraithbane]]** (leader) reported:  
+  - **[[Info/Characters/Vigrod_Wraithbane\|Vigrot Wraithbane]]** (leader) reported:  
     - 100 soldiers reduced to 5 survivors after a vampire ambush.  
     - The ice wall was unmeltable; possible smuggler tunnels existed.  
   - **[[Info/Characters/Periwyn\|Periwyn]]** unleashed lightning on vampire corpses in a rage.  
@@ -73,7 +73,7 @@ The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall
 - **Eirik**: Messenger who summoned the party.  
 - **[[Info/Characters/Hjar\|Hjar]]**, **[[Info/Characters/Bjorin\|Bjorin]]**, **Reyloth**, **Gronkar**: Travel [[Info/Organizations/Companions\|companions]].  
 - **Bejtield**: Scout with knowledge of necromantic creatures.  
-- **[[Info/Characters/Vigrot_Wraithbane\|Vigrot Wraithbane]]**: Leader of the decimated [[Info/Organizations/Companions\|Companions]] regiment.  
+- **[[Info/Characters/Vigrod_Wraithbane\|Vigrot Wraithbane]]**: Leader of the decimated [[Info/Organizations/Companions\|Companions]] regiment.  
 
 ---
 

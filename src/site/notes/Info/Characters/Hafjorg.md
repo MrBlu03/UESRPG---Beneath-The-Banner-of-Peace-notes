@@ -10,7 +10,7 @@
 ## Relationships
 - Son of [[Info/Characters/Alara\|Alara]], owner of [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]
 
-##Events
+## Events
 - **[[1. Sessions/Session 3\|Session 3]]**: Reported his mother missing and offered a 200 gold reward for finding her
 
 ## Location

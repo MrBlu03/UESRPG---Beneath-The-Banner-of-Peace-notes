@@ -5,10 +5,10 @@
 # Sigrid
 
 ## Description
-[[Info/Characters/Sigrid\|Sigrid]] is the mortician who manages the [[Info/Locations/Crypt_Hall_of_the_Dead\|Crypt, Hall of the Dead]] in [[Info/Locations/Riften\|Riften]]. She has expertise in examining bodies and determining causes of death.
+[[Info/Characters/Sigrid\|Sigrid]] is the mortician who manages the [[Info/Locations/Hall_of_the_Dead\|Crypt, Hall of the Dead]] in [[Info/Locations/Riften\|Riften]]. She has expertise in examining bodies and determining causes of death.
 
 ## Relationships
-- Works at the [[Info/Locations/Crypt_Hall_of_the_Dead\|Crypt, Hall of the Dead]] in [[Info/Locations/Riften\|Riften]]
+- Works at the [[Info/Locations/Hall_of_the_Dead\|Crypt, Hall of the Dead]] in [[Info/Locations/Riften\|Riften]]
 
 ## Key Events
 - **[[1. Sessions/Session 2\|Session 2]]**: Received [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s body from the party and promised to provide further details about his death after examination.
@@ -18,4 +18,4 @@
 - analysis on [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s unusual cause of death
 
 ## Location
-- [[Info/Locations/Crypt_Hall_of_the_Dead\|Crypt, Hall of the Dead]] in [[Info/Locations/Riften\|Riften]]
+- [[Info/Locations/Hall_of_the_Dead\|Hall of the Dead]] in [[Info/Locations/Riften\|Riften]]

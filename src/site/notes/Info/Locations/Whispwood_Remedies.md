@@ -20,4 +20,4 @@
 - Shop where party members may purchase alchemical supplies
 
 ## Related NPCs
-- Owner/proprietor (not specifically named in current notes)
+- [[Info/Characters/Ralvard\|Ralvard]]: owner
