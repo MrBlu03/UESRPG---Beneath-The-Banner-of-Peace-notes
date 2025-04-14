@@ -59,7 +59,7 @@ The party was summoned by [[Info/Characters/Queen_Freidr\|Queen Freidr]] to inve
     - "Gareth's little stray, still chasing ghosts?" (directed at [[Info/Characters/Periwyn\|Periwyn]], who threw a knife in response).
   - Torches flickered as a voice said: "All that faith, all that fire, and still you are afraid, you reek of Arkay's prayers."
   - A presence was felt in the room.
-  - Through one of the windows, they glimpsed a reflection of a dark-furred Khajiit standing in the snow, which disappeared when they blinked.
+  - Through the window of the overseer's quarters, they glimpsed a reflection of a mysterious female shadowy Khajiit standing in the snow, which disappeared when they blinked.
   - A force rattled the shutters closed.
   - The smell of fresh blood filled the air.
   - Frozen soldiers turned in their places.
@@ -67,7 +67,7 @@ The party was summoned by [[Info/Characters/Queen_Freidr\|Queen Freidr]] to inve
 - **Dungeon:**
   - Air felt like it was slightly pushing the party.
   - A trail of black feathers led to a cracked mirror in the last cell.
-  - The mirror reflected the Khajiit figure who said, "They left them for you" before disappearing.
+  - The mirror reflected the same shadowy Khajiit figure who said, "They left them for you" before disappearing. Only [[Info/Characters/Kirya\|Kirya]] could see the figure during this supernatural encounter when all lights were extinguished.
   - All torches were suddenly extinguished.
   - In front of [[Info/Characters/Durov\|Durov]], [[Info/Characters/Kirya\|Kirya]] saw symbols appear as if drawn by an invisible hand.
   - Two symbols were etched into the ground:
@@ -106,7 +106,11 @@ The party was summoned by [[Info/Characters/Queen_Freidr\|Queen Freidr]] to inve
 - **[[Info/Characters/Rigi\|Rigi]]:** Housecarl to the Queen of [[Info/Locations/Riften\|Riften]], lost a brother who was a captain at Harmugstahl.
 - **[[Info/Characters/Queen_Freidr\|Queen Freidr]] of [[Info/Locations/Riften\|Riften]]:** Tasked the party with investigating the military keep.
 - **[[Info/Organizations/Court_of_Crows\|Court of Crows]]:** Mysterious crows that followed the party, revealed to be messengers from the [[Info/Locations/Nocturnal_Realm\|Nocturnal Realm]].
-- **[[Info/Characters/Khajiit_Figure\|Khajiit Figure]]:** Appeared in the cracked mirror in the dungeon, delivering a cryptic message.
+- **[[Info/Characters/Khajiit_Figure\|Khajiit Figure]]:** A mysterious female shadowy Khajiit figure who appeared multiple times:
+  - First spotted in a mirror in the barracks
+  - Seen standing in the snow outside the overseer/captain's quarters
+  - Appeared in the dungeon during the supernatural encounter (only visible to [[Info/Characters/Kirya\|Kirya]] when the lights were out)
+  - Delivered cryptic messages through the cracked mirror
 - **[[Info/Characters/Grelka\|Grelka]]:** Met at the Amber Keg tavern.
 - **[[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]]:** Provided information about the Court of Crows and Everglow.
 
