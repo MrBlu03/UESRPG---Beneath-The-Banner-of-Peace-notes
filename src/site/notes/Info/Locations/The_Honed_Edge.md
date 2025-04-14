@@ -14,18 +14,3 @@ The [[Info/Locations/The_Honed_Edge\|Honed Edge]] is a blacksmith shop located i
 
 ## Key NPCs
 - [[Info/Characters/Balimund\|Balimund]] (assumed owner/smith, verify name)
-
-## History
-- Established as Riften's primary smithy
-- Has served the city's guards and adventurers for many years
-
-## Current Status
-- Active business
-- Supplies weapons and armor to the city guard and local adventurers
-
-## Quests/Events
-- Possible equipment upgrades and purchases for party members
-
-## Notes
-- Good location for the party to upgrade or repair equipment
-- May provide specialized crafting services for unique materials

@@ -20,7 +20,4 @@ First seen at the start of [[1. Sessions/Session 4\|Session 4]] in conversation 
 - Last known location: Heading to ruins south of Riften
 
 ## Notes
-- Shows interest in prophecies and ancient ruins
-- Has knowledge of magical artifacts
-- Title of "Archmagus" suggests significant magical ability
 - Has not been seen since his departure in Session 4

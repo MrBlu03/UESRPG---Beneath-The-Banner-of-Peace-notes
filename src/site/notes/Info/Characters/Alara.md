@@ -8,7 +8,7 @@
 [[Info/Characters/Alara\|Alara]] is the owner of [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]], an alchemy shop in [[Info/Locations/Riften\|Riften]]. She is knowledgeable about herbs, ingredients, and potion-making.
 
 ## Role in the Story
-As a skilled alchemist, Alara provides the party with potions and alchemical knowledge, contributing to their adventures through her expertise.
+An alchemist providing the party with knowledge, herbs and potions
 
 ## Relationships
 - Mother of [[Info/Characters/Hafjorg\|Hafjorg]], who helps manage [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]

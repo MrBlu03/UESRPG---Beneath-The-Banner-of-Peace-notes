@@ -10,7 +10,6 @@ The [[Info/Locations/Crypt_Hall_of_the_Dead\|Crypt, Hall of the Dead]] is a loca
 ## Key Features
 - Facilities for examining and preparing bodies
 - Sacred burial chambers
-- Likely contains religious elements related to Nordic funeral customs
 
 ## NPCs
 - **[[Info/Characters/Sigrid\|Sigrid]]**: The mortician who operates and maintains the crypt
@@ -20,4 +19,3 @@ The [[Info/Locations/Crypt_Hall_of_the_Dead\|Crypt, Hall of the Dead]] is a loca
 
 ## Notes
 - Important location for the [[Poisoned Dunmer Investigation\|Poisoned Dunmer Investigation]]
-- Sigrid's expertise has proven valuable for forensic analysis

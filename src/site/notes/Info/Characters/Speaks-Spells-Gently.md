@@ -7,12 +7,8 @@
 ## Description
 [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]] is the court mage to [[Info/Characters/Queen_Freidr\|Queen Freidr "The Patient"]] of [[Info/Locations/Riften\|Riften]]. He studied at [[Info/Locations/Shad_Astula\|Shad Astula]] during the war.
 
-## Role in the Story
-As the court mage, Speaks-Spells-Gently provides magical expertise and counsel to the Queen. He has knowledge of the Blackfeather Court and their mysterious origins, having met the Vestige during his time at Shad Astula.
-
 ## Relationships
 - Serves [[Info/Characters/Queen_Freidr\|Queen Freidr "The Patient"]] as court mage
-- Met the Vestige during his studies at [[Info/Locations/Shad_Astula\|Shad Astula]]
 - Works alongside other court officials like [[Info/Characters/Rigi\|Rigi]] and [[Info/Characters/Harvold\|Harvold]]
 
 ## Key Events

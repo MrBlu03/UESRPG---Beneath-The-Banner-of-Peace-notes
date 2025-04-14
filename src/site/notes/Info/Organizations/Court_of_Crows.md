@@ -41,9 +41,3 @@ The [[Info/Organizations/Court_of_Crows\|Court of Crows]] is a mysterious organi
 - [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]] encountered them during his time at [[Info/Locations/Shad_Astula\|Shad Astula]]
 - The Vestige is rumored to have founded the Blackfeather Court
 - May have connections to [[Info/Characters/Kirya\|Kirya]]'s personal history through the Vestige
-
-## Notes
-- Their true nature and extent of their influence remains unclear
-- The Blackfeather Court's existence has not been officially confirmed
-- Extremely secretive in their operations
-- Their black feathers appear to have magical properties

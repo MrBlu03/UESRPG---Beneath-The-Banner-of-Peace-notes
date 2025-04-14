@@ -21,7 +21,3 @@
 
 ## Related Locations
 - College of Winterhold
-
-## Notes
-- Important center of magical knowledge and research
-- Likely source of trained mages in the region

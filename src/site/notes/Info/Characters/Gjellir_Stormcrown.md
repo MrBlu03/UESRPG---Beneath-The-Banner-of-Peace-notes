@@ -8,7 +8,7 @@
 [[Info/Characters/Gjellir_Stormcrown\|Gjellir Stormcrown]] is the Harbinger (leader) of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
 
 ## Role in the Story
-As the leader of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
+Leader of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
 
 ## Relationships
 - Harbinger (leader) of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]

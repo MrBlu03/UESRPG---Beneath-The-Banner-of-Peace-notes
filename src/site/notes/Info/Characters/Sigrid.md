@@ -22,7 +22,3 @@ Sigrid provides forensic insights that have been valuable in the investigation o
 
 ## Location
 - [[Info/Locations/Crypt_Hall_of_the_Dead\|Crypt, Hall of the Dead]] in [[Info/Locations/Riften\|Riften]]
-
-## Notes
-- Has knowledge of poisons and postmortem analysis
-- Provided crucial information for the [[Poisoned Dunmer Investigation\|Poisoned Dunmer Investigation]]

@@ -10,16 +10,6 @@
 ## Key Features
 - Pure-blooded vampire lineage
 - Direct connection to Molag Bal
-- Unique frost and ice-based abilities
-- Exceptional necromantic powers
-- Ability to transform into mist
-
-## Known Abilities
-- Ice-walking
-- Frost-based magic
-- Mist transformation
-- Resistance to non-magical damage
-- Weakness to sunlight and fire
 
 ## Current Activities
 - Suspected involvement in [[Info/Locations/Greenwall\|Greenwall]]'s magical blizzard
@@ -45,4 +35,3 @@
 - Considered extremely dangerous even by vampire hunter standards
 - [[Info/Characters/Periwyn\|Periwyn]] has extensive knowledge of their capabilities from her time with the [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]
 - Current activities suggest possible alliance with the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]
-- Their mastery over frost magic makes them particularly dangerous in cold climates

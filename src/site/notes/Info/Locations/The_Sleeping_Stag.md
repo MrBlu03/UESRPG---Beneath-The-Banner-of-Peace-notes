@@ -11,17 +11,7 @@
 - Tavern with food and drink
 - Meeting spot for residents and travelers
 - Located in [[Info/Locations/Riften\|Riften]]
-
-## Notable Items
-- Standard tavern fare and drinks
-
-## Key Events
-- Meeting location used by the party and various NPCs
-
+- 
 ## Related NPCs
 - Tavern keeper/proprietor (not specifically named in current notes)
 - Various patrons
-
-## Notes
-- Serves as one of the social hubs in [[Info/Locations/Riften\|Riften]] where information and rumors might be gathered
-- Name suggests a Nordic-inspired setting, consistent with [[Info/Locations/Riften\|Riften's]] cultural aesthetic

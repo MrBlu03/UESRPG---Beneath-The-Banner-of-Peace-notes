@@ -13,21 +13,6 @@ The [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]] 
 ## Activities
 - Trade and commerce in [[Info/Locations/Riften\|Riften]]
 - Competition with the [[Info/Organizations/Merchant_Guild\|Merchant Guild]]
-- Likely involved in regional trade networks
-
-## Influence
-- One of two major merchant organizations in [[Info/Locations/Riften\|Riften]]
-- Presumably has significant economic influence
-- May have connections to local politics through trade relationships
-
-## Relationships
-- Competes with the main [[Info/Organizations/Merchant_Guild\|Merchant Guild]]
-- Likely has connections to various merchants and shops in [[Info/Locations/Riften\|Riften]]
-- Potential business relationships with local establishments
 
 ## Areas of Operation
 - Based in [[Info/Locations/Riften\|Riften]]
-- Likely operates throughout the surrounding region
-- May maintain trade routes with other cities and settlements
-
-## Notes

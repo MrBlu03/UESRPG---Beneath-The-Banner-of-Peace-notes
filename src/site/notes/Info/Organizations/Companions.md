@@ -29,9 +29,3 @@ The [[Info/Organizations/Companions\|Companions]] are a group of Nord warriors m
 ## Related Locations
 - Fallowstone Hall: Their base of operations
 - [[Info/Locations/Greenwall\|Greenwall]]: Site of their recent military campaign
-
-## Notes
-- Represent a significant military force in the region
-- Currently engaged in direct conflict with vampire forces
-- May be potential allies in the fight against [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]]
-- Their recent losses demonstrate the serious threat posed by the vampires

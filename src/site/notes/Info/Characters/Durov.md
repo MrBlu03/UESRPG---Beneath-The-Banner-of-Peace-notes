@@ -5,10 +5,7 @@
 # Durov
 
 ## Description
-[[Info/Characters/Durov\|Durov]] is a member of the party who notably always wears a helmet due to paranoia about headshots.
-
-## Role in the Story
-A core party member who contributes to combat and investigations. Known for examining evidence at crime scenes and engaging in social activities in towns.
+[[Info/Characters/Durov\|Durov]] is a member of the party who notably always wears a helmet
 
 ## Key Events
 - **[[1. Sessions/Session 2\|Session 2]]**: 

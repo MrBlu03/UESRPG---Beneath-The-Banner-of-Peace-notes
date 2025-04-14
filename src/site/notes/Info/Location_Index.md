@@ -33,7 +33,7 @@
   - Run by the Snow-Shod family
 - **[[Info/Locations/Faldarstad\|Faldarstad]]**: Northern town
   - Alternative route for travelers avoiding [[Info/Locations/Greenwall\|Greenwall]]
-- **[[Info/Locations/Nimalten\|Nimalten]]**: Town, home of hunter [[Info/Characters/Eydis\|Eydis]]
+- **[[Info/Locations/Nimalten\|Nimalten]]**: Town, home of hunter [[Eydis\|Eydis]]
 
 ## Military Installations
 - **[[Info/Locations/Shors_Bastion\|Shor's Bastion]]**: Military installation

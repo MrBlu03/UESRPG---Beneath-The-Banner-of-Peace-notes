@@ -18,12 +18,7 @@ The Blackfeather Court is a mysterious and secretive faction allegedly founded b
 - Relationship with the [[Info/Organizations/Court_of_Crows\|Court of Crows]] who serve Riften
 
 ## Significance
-- May have connections to [[Info/Characters/Kirya\|Kirya]]'s backstory through the Vestige
 - Their black feathers have been confirmed to have magical properties by [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]]
-
-## Known Members
-- The Vestige (alleged founder)
-- Possible connection to the [[Info/Organizations/Court_of_Crows\|Court of Crows]] members
 
 ## Notes
 - Their existence has not been officially confirmed

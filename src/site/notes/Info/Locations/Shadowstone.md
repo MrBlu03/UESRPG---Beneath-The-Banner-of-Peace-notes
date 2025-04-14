@@ -5,7 +5,7 @@
 # Shadowstone
 
 ## Description
-The [[Info/Locations/Shadowstone\|Shadowstone]] is an ancient Nordic standing stone located in the southern woods near [[Info/Locations/Riften\|Riften]]. It's a relic from the early days of Nordic settlement in Skyrim.
+The [[Info/Locations/Shadowstone\|Shadowstone]] is an ancient Nordic standing stone located in the southern woods near [[Info/Locations/Riften\|Riften]].
 
 ## Key Features
 - Ancient standing stone with magical properties

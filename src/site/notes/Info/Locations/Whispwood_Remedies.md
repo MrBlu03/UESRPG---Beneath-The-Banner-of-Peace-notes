@@ -21,7 +21,3 @@
 
 ## Related NPCs
 - Owner/proprietor (not specifically named in current notes)
-
-## Notes
-- Resource for healing potions and other alchemical needs
-- Name suggests a connection to nature and herbal remedies
