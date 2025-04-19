@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/info/quest-tracker/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/info/quest-tracker/"}
 ---
 
 # 📋 Quest Tracker
@@ -111,9 +111,8 @@
 | Item              | Source                    | Notes                 |
 | :---------------- | :------------------------ | :-------------------- |
 | 🎀 Blue Ribbon    | [[Info/Characters/Alara\|Info/Characters/Alara]] | Proof of rescue       |
-| 📜 Serpent Symbol | [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]         | Mystery symbol        |
+| 📜 Serpent Symbol | [[Info/Locations/Snow-Shod_Dam\|Info/Locations/Snow-Shod_Dam]]         | Mystery symbol        |
 | 📕 Adrith's Diary | Adrith (dead)             | Murder Scene Evidence |
 | 🦅 Bone Hawk      | Session 5                 | Study material        |
 | 📚 Frozen Logbook | Harmugstahl               | General's last entry  |
 | 🪶 Black Feathers | Crows                     |                       |
-
