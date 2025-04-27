@@ -58,7 +58,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 ### Inside Greenwall
 - The inn was filled with dead bodies showing claw marks
 - As they explored, trebuchet fire hit nearby buildings
-- Someone tasted mead in the inn and noted it had a berry flavor
+- [[Info/Characters/Durov\|Durov]] tasted mead in the inn and noted it had a berry flavor
 - The party maintained their formation as they stacked up to climb the stairs from the basement
 - [[Info/Characters/Periwyn\|Periwyn]] found the innkeeper's room containing a metal safe
 - [[Info/Characters/Kirya\|Kirya]] picked the lock, revealing:
@@ -69,7 +69,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
     - The town felt "wrong"
     - Reports of ghost lights on the 7th of Last Seed
     - Hunters reported empty woods on the 14th of Last Seed
-    - The "nobles" were listed by name on the 20th of Last Seed: A. Vettien, M. Carcette, I. Tharn, V. Alvuin (at least two were Breton, and all names were suspected aliases)
+    - The "nobles" were listed by name on the 20th of Last Seed: A. Vettien, M. Carcette, I. Tharn, V. Alvuin (at least two were Breton names, and all names were suspected aliases)
       - It was noted that I. Tharn couldn't be legitimate as the only Tharns are councilors
 - Outside, they observed permafrost-covered ground and flaming debris
 - Clouds of bats were seen flying toward the war camp, but eventually ceased
