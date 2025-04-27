@@ -5,7 +5,7 @@
 # Session 6 - 2025-04-26
 
 ## Summary
-The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler's tunnel while the [[Info/Organizations/Companions\|Companions]] provided a distraction with trebuchet fire. Inside the town, they discovered abandoned buildings, evidence of vampire attacks, and a disturbing Black Sacrament ritual site that summoned a member of the Dark Brotherhood. After striking a deal with the assassin to eliminate the source of the magical darkness, they explored the keep, finding a horrific ritual altar to Molag Bal with a mysterious crimson orb. The magical darkness lifted as the assassin completed his contract, and they rescued a barely alive man who had been tortured and suspended above the altar.
+The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler's tunnel while the [[Info/Organizations/Companions\|Companions]] provided a distraction with trebuchet fire. Inside the town, they discovered abandoned buildings, evidence of vampire attacks, and a disturbing Black Sacrament ritual site that summoned a member of the [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]] After striking a deal with the assassin to eliminate the source of the magical darkness, they explored the keep, finding a horrific ritual altar to [[Molag Bal\|Molag Bal]] with a mysterious crimson orb. The magical darkness lifted as the assassin completed his contract, and they rescued a barely alive man who had been tortured and suspended above the altar.
 
 ---
 
@@ -15,7 +15,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 - The party was awakened by [[Info/Characters/Hillevi\|Hillevi]], a [[Info/Organizations/Companions\|Companions]] member
 - Many trebuchets had already been reassembled overnight
 - [[Info/Characters/Periwyn\|Periwyn]] sketched people in the war tent while the group ate breakfast
-  - The breakfast provided a strength bonus (+5 to strength checks) that would help them during their missionin private:
+  - The breakfast provided a strength bonus (+5 to strength checks) that would help them during their mission
 - [[Info/Characters/Onasha\|Onasha]] and [[Info/Characters/Periwyn\|Periwyn]] discussed the bone hawk specimen in private:
   - [[Info/Characters/Periwyn\|Periwyn]] revealed she knows minor necromancy
   - They agreed to experiment with reanimating it later, away from other mages and away from the rest of the party
@@ -29,7 +29,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
   - The Companions operate from a large mead hall
 
 ### The Infiltration Plan
-- [[Info/Characters/Vigrod_Wraithbane\|Vigrod Wraithbane]] summoned the party to the war tent and outlined the plan:
+- [[Info/Characters/Vigrod_Wraithbane\|Vigrod_Wraithbane]] summoned the party to the war tent and outlined the plan:
   - The party would enter [[Info/Locations/Greenwall\|Greenwall]] through a hidden tunnel
   - The [[Info/Organizations/Companions\|Companions]] would launch flaming projectiles as a distraction
   - Once inside, they should head for the keep where the darkness likely originated
@@ -95,14 +95,14 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
   - A dull ebony dagger with strange runes
     - Similar to ones seen at statues in the Velothi mountains north on the road between Eastmarch and the region bordering Morrowind
   - A book titled "A Kiss, Sweet Mother"
-- [[Info/Characters/Onasha\|Onasha]] recognized this as the Black Sacrament ritual to summon the [[Dark Brotherhood\|Dark Brotherhood]]
+- [[Info/Characters/Onasha\|Onasha]] recognized this as the Black Sacrament ritual to summon the [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]
   - Explained that the ritual requires the remains of the intended victim
-  - She freezes in panic and Periwyn rushes in to calm her back down
+  - She freezes in panic and [[Info/Characters/Periwyn\|Periwyn]] rushes in to calm her back down
 - As they returned upstairs, they encountered a figure shrouded in darkness
 - The figure passed by them to the ritual site, kneeling and touching the circle
   - Green flames erupted, revealing a normal-sized man in dark clothing
   - He was about the size of Onasha
-  - Appeared to be a Dunmer, though his face was  obscured
+  - Appeared to be a Dunmer, though his face was obscured
   - He explained the sacrament had called him, and offered his services since the summoner was absent
   - He gave them one hour to provide a name for assassination
   - The assassin somehow knew [[Info/Characters/Periwyn\|Periwyn]]'s family name
@@ -196,7 +196,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 ---
 
 ## Reflection
-- The Dark Brotherhood's appearance adds a new faction to our growing list of interested parties
+- The [[Dark Brotherhood\|Dark Brotherhood]]'s appearance adds a new faction to our growing list of interested parties
 - The ritual altar to [[Molag Bal\|Molag Bal]] suggests the vampires may be conducting ceremonies to increase their power
 - The quick lifting of darkness after the assassin's hunt confirms the vampires had a magical source maintaining the eclipse
 - [[Info/Organizations/Companions\|Companions]] suffered additional losses ([[Info/Characters/Beitild\|Beitild]] and [[Info/Characters/Olen\|Olen]]) during the attack
@@ -209,7 +209,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 3. Search the keep thoroughly for any survivors or additional information
 4. Consider the implications of the Dark Brotherhood contract and future payment
 5. Experiment with the bone hawk remains using necromancy
-6. Report findings to [[Info/Characters/Vigrod_Wraithbane\|Vigrod Wraithbane]] and discuss next actions
+6. Report findings to [[Vigrod Wraithbane\|Vigrod Wraithbane]] and discuss next actions
 
 ---
 
