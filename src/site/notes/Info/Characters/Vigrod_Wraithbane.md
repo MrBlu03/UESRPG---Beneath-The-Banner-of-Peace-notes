@@ -13,7 +13,7 @@ Vigrod Wraithbane is the leader of a regiment of [[Info/Organizations/Companions
 - Likely has connections to other military or mercenary leaders
 
 ## Key Events
-- **[[Session 5\|Session 5]]**: His war camp near [[Info/Locations/Greenwall\|Greenwall]] was devastated by a vampire ambush
+- **[[1. Sessions/Session 5\|Session 5]]**: His war camp near [[Info/Locations/Greenwall\|Greenwall]] was devastated by a vampire ambush
 
 ## Location
 - Was last known to be at the [[Info/Organizations/Companions\|Companions]] war camp near [[Info/Locations/Greenwall\|Greenwall]]
