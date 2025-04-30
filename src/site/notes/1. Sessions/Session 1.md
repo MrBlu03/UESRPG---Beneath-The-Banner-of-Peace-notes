@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/1-sessions/session-1/"}
 ---
 
+
 # Session 1 - 15/December/2024
 
 ## Summary
