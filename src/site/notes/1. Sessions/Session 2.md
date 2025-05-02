@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/1-sessions/session-2/"}
 ---
 
+
 # Session 2 - 2024-12-20
 
 ## Summary

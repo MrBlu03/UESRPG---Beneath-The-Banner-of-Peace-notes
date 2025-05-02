@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/1-sessions/session-2-1-downtime/"}
 ---
 
+
 # Session 2-1 (Downtime) - 2024-12-21
 
 ## Summary

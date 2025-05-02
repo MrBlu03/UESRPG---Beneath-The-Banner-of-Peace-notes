@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/1-sessions/session-4/"}
 ---
 
+
 # Session 4 - 2025-03-02
 
 ## Summary

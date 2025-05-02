@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/1-sessions/session-3/"}
 ---
 
+
 # Session 3 - 2025-02-16 (9th of Hearthfire)
 
 ## Summary
