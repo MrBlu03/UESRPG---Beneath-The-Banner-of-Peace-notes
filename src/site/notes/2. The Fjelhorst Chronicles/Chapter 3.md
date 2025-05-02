@@ -35,6 +35,4 @@ These were not just monsters—they were vampires. And not just any. Clan Volkih
 
 ---
 
-<div style="text-align: right; margin-top: 20px;">
-<a href="[[2. The Fjelhorst Chronicles/Chapter 4\|Chapter 4]]" style="display: inline-block; background-color: #5c7080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-weight: bold;">→ Continue to Chapter 4</a>
-</div>
+[[2. The Fjelhorst Chronicles/Chapter 4\|Next Chapter →]]

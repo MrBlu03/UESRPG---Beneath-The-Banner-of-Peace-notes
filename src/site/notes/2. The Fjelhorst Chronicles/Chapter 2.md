@@ -30,6 +30,4 @@ That night, the party returned to the Wanderer’s Rest. Mead flowed freely, fir
 
 ---
 
-<div style="text-align: right; margin-top: 20px;">
-<a href="[[2. The Fjelhorst Chronicles/Chapter 3\|Chapter 3]]" style="display: inline-block; background-color: #5c7080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-weight: bold;">→ Continue to Chapter 3</a>
-</div>
+[[2. The Fjelhorst Chronicles/Chapter 3\|Next Chapter →]]

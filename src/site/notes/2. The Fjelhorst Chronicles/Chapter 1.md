@@ -22,6 +22,4 @@ The journey had begun with water—but it was already leading somewhere deeper.
 
 ---
 
-<div style="text-align: right; margin-top: 20px;">
-<a href="[[2. The Fjelhorst Chronicles/Chapter 2\|Chapter 2]]" style="display: inline-block; background-color: #5c7080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-weight: bold;">→ Continue to Chapter 2</a>
-</div>
+[[2. The Fjelhorst Chronicles/Chapter 2\|Next Chapter →]]

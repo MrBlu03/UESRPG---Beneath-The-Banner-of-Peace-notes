@@ -41,6 +41,4 @@ And with that, the party’s next chapter began.
 
 ---
 
-<div style="text-align: right; margin-top: 20px;">
-<a href="[[2. The Fjelhorst Chronicles/Chapter 5\|Chapter 5]]" style="display: inline-block; background-color: #5c7080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-weight: bold;">→ Continue to Chapter 5</a>
-</div>
+[[2. The Fjelhorst Chronicles/Chapter 5\|Next Chapter →]]

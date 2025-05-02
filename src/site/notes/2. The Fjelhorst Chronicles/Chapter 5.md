@@ -26,7 +26,13 @@ The fog lingered into the next day. Overhead, bone hawks circled in ominous loop
 **Day 5**  
 The road darkened. That afternoon, they found a grim sight—over a dozen corpses hanging from trees along the roadside, executed and left to rot. The sight triggered a sharp panic in Periwyn, who fell to her knees shaking. Durov, Olen, and Gjellir moved with solemn purpose, cutting the bodies down and building a pyre. There were no signs of who had done it—no banners, no tracks.
 
-That night, the group lingered by the fire longer than usual. Periwyn opened up, recounting the night her home was overrun by vampires. Her parents and twin brother had been turned into bloodfiends—feral, twisted shadows of what they once were. They were put down in front of her by Sir Gareth, the knight who would later become her mentor. It was mercy, he had said. But the memory of their screams—and the cold resolve in Gareth’s eyes—never left her. Kirya, her voice low, shared her own loss: her home in Elsweyr, razed by a dragon years ago. As they spoke, Onasha noticed a strange crow perched nearby, its eyes locked on Periwyn. It did not move. It simply watched, unblinking.
+That night, Periwyn was startled awake by a vivid nightmare, her scream piercing the stillness of camp. She thrashed in her bedroll, striking her head against the tent pole. The noise roused both Kirya and Onasha—Kirya was first to approach, gently pulling open the tent flap to find Periwyn sitting upright, pale and breathing heavily.
+
+Kirya knelt beside her and asked softly what had happened. Periwyn, eyes distant, admitted she suffered from frequent nightmares—remnants of what the vampires had taken from her. She didn’t go into detail, only saying that many she loved had been lost, and that she feared sleep as much as she needed it. She confessed to staying up late and waking early to avoid the stillness that let memories creep in.
+
+Kirya nodded in understanding, revealing she too had lost loved ones in Elsweyr, and that it was easy to drown in grief if one wasn't careful. "We can’t let the things that took them win twice," she said. The two shared a quiet moment, a fragile solidarity beneath the dark sky.
+
+From her own tent, Onasha watched silently. Her eyes shifted to the fire pit where a crow had landed on the cooking rack. It sat perfectly still, eyes fixed on Periwyn. It did not caw. It did not move. It simply stared, unblinking.
 
 **Day 6**  
 By early afternoon, the sun vanished behind a curtain of unnatural clouds. A darkness fell—not merely shade, but something deeper. Periwyn recognized it instantly, chilled by the memory of Northpoint and the shadow that had fallen there. It was not just the absence of light—it was the presence of something else.
@@ -44,6 +50,4 @@ As the fires of camp burned low, the party rested under a sky thick with ash and
 
 ---
 
-<div style="text-align: right; margin-top: 20px;">
-<a href="[[2. The Fjelhorst Chronicles/Chapter 6\|Chapter 6]]" style="display: inline-block; background-color: #5c7080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-weight: bold;">→ Continue to Chapter 6</a>
-</div>
+[[2. The Fjelhorst Chronicles/Chapter 6\|Next Chapter →]]

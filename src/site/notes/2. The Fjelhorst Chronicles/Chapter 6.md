@@ -89,6 +89,4 @@ And just like that, he vanished into shadow.
 
 ---
 
-<div style="text-align: right; margin-top: 20px;">
-<a href="[[Chapter 7\|Chapter 7]]" style="display: inline-block; background-color: #5c7080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-weight: bold;">→ Continue to Chapter 7</a>
-</div>
+[[Chapter 7\|Next Chapter →]]
