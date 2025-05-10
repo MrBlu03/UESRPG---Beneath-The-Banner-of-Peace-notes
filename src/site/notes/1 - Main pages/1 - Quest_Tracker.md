@@ -70,7 +70,7 @@
 
 > *[[Info/Characters/Hillevi\|Hillevi]] has taken [[Info/Characters/Wuunferth\|Wuunferth]] to Mistwatch for healing*
 
-### 🔥 Malacath's Interest in Periwyn
+### 🔥 [[Info/Quests/Malacath_Interest_in_Periwyn\|Malacath's Interest in Periwyn]]
 **Status**: Active ([[1. Sessions/Session 7\|Session 7]])  
 **Objective**: Discover why the Daedric Prince is targeting Periwyn through dreams
 
@@ -81,9 +81,9 @@
 
 **Key NPCs**: 
 - [[Info/Characters/Periwyn\|Periwyn]]
-- Malacath (Daedric Prince)
+- [[Info/Lore/Malacath\|Malacath]] (Daedric Prince)
 
-> *Periwyn has experienced nightmares featuring Malacath saying "Yes, feed that anger, give in to vengeance, be my pawn"*
+> *Periwyn has experienced [[Periwyn nightmares/Session 7 Nightmare sequences\|vivid nightmares]] featuring Malacath saying "Yes, feed that anger, give in to vengeance, be my pawn"*
 
 ---
 

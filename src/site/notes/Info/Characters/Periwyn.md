@@ -20,10 +20,11 @@
 - **[[1. Sessions/Session 7\|Session 7]]**: 
   - Received a vision of undead werewolves after touching the crimson orb
   - Attempted and failed a necromancy ritual on a bird
-  - Had a nightmare about the dying moments of the ones she loved most
+  - Experienced [[Periwyn nightmares/Session 7 Nightmare sequences\|intense nightmares]] showing her twin brother and mentor dying while blaming her
   - Began experiencing recurring nightmares featuring Malacath, Daedric Prince of Vengeance
   - Identified the tortured man at Greenwall as [[Info/Characters/Wuunferth\|Wuunferth]]
   - Suffered emotional trauma leading to withdrawal from the group and loss of appetite
+  - Often woke clutching her silver dagger with the moonstone and matching pendant
 
 ## Current Concerns
 - Being targeted by Malacath, who appears to be encouraging her vengeful tendencies

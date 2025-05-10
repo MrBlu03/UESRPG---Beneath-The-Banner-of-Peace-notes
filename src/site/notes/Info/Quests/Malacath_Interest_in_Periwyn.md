@@ -12,7 +12,7 @@
 **Active** - Recently manifested
 
 ## Quest History
-- **Started**: [[1. Sessions/Session 7\|Session 7]] - Periwyn experienced her first nightmare featuring Malacath after a failed necromancy attempt
+- **Started**: [[1. Sessions/Session 7\|Session 7]] - Periwyn experienced her first [[Periwyn nightmares/Session 7 Nightmare sequences\|harrowing nightmare]] featuring Malacath after a failed necromancy attempt
 
 ## Current Objectives
 - Discover why Malacath is interested in [[Info/Characters/Periwyn\|Periwyn]]

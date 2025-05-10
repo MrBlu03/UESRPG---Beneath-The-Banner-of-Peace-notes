@@ -6,7 +6,7 @@
 # Session 7 - 2025-05-10
 
 ## Summary
-After defeating the vampires at [[Info/Locations/Greenwall\|Greenwall]], the party transported the decapitated vampire head and informed [[Info/Characters/Vigrod_Wraithbane\|Vigrod]] of their [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]] encounter. [[Info/Characters/Periwyn\|Periwyn]] interacted with the mysterious crimson orb and received a terrifying vision of undead werewolves. The party was instructed to return to Riften and report to the Queen while the injured victim, identified as [[Info/Characters/Wuunferth\|Wuunferth]], was taken to Mistwatch for healing. After paying respects to their fallen companions [[Info/Characters/Olen\|Olen]] and [[Info/Characters/Beitild\|Beitild]], they began their five-day journey back to Riften, which was marked by difficult travel conditions, strained relationships after a failed necromancy attempt, encounters with strange creatures including a talking fox, and [[Info/Characters/Periwyn\|Periwyn]]'s recurring nightmares featuring Malacath. Upon reaching Riften, they reported their findings to [[Info/Characters/Queen_Freidr\|Queen Freidr]] and [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]], and received payment for their work.
+After defeating the vampires at [[Info/Locations/Greenwall\|Greenwall]], the party transported the decapitated vampire head and informed [[Info/Characters/Vigrod_Wraithbane\|Vigrod]] of their [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]] encounter. [[Info/Characters/Periwyn\|Periwyn]] interacted with the mysterious crimson orb and received a terrifying vision of undead werewolves. The party was instructed to return to Riften and report to the Queen while the injured victim, identified as [[Info/Characters/Wuunferth\|Wuunferth]], was taken to Mistwatch for healing. After paying respects to their fallen companions [[Info/Characters/Olen\|Olen]] and [[Info/Characters/Beitild\|Beitild]], they began their five-day journey back to Riften, which was marked by difficult travel conditions, strained relationships after a failed necromancy attempt, encounters with strange creatures including a talking fox, and [[Info/Characters/Periwyn\|Periwyn]]'s [[Periwyn nightmares/Session 7 Nightmare sequences\|recurring nightmares]] featuring both her traumatic past and the Daedric Prince Malacath. Upon reaching Riften, they reported their findings to [[Info/Characters/Queen_Freidr\|Queen Freidr]] and [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]], and received payment for their work.
 
 ---
 
@@ -55,10 +55,14 @@ After defeating the vampires at [[Info/Locations/Greenwall\|Greenwall]], the par
   - While waiting for the others to sleep, [[Info/Characters/Onasha\|Onasha]] read her ingredient book and [[Info/Characters/Periwyn\|Periwyn]] sketched Greenwall in her journal
   - [[Info/Characters/Periwyn\|Periwyn]]'s resurrection spell failed and backfired
     - She momentarily felt the souls of those affected by the spell
-  - [[Info/Characters/Periwyn\|Periwyn]] experienced a nightmare and sees her brother and mentor in their dying moments and then sees Malacath, the Daedric Prince of Vengeance
-    - She heard a voice: "Yes, feed that anger, give in to vengeance, be my pawn."
+  - [[Info/Characters/Periwyn\|Periwyn]] experienced a [[Periwyn nightmares/Session 7 Nightmare sequences\|harrowing nightmare]] that night:
+    - Relived being nine years old during the vampire attack that killed her family
+    - Saw her twin brother with bite marks, asking "Why didn't you save us?"
+    - The dream shifted to her mentor dying of vampire infection while she held a silver dagger
+    - As the nightmare ended, she heard Malacath's voice: "Yes, feed that anger, give in to vengeance, be my pawn."
     - She saw a large orc-like figure with a hammer, recognizing it as Malacath
-/
+    - She woke clutching her silver dagger and moonstone pendant, silently crying
+
 ### Journey to Riften - Day 2
 
 - The morning was chilly but pleasant
@@ -108,10 +112,11 @@ After defeating the vampires at [[Info/Locations/Greenwall\|Greenwall]], the par
   - Identified the scroll as a summoning ritual with unknown components
   - When a piece of the parchment was burned, it turned to tar and rose into the sky
   - The group felt watched during this interaction
-- [[Info/Characters/Periwyn\|Periwyn]] experienced another nightmare:
+- [[Info/Characters/Periwyn\|Periwyn]] experienced another [[Periwyn nightmares/Session 7 Nightmare sequences\|nightmare]]:
   - She saw Malacath on a throne of skulls
   - He stomped his hammer, creating a pool beneath her
-  - She jolted awake with a small cut on her forehead
+  - She jolted awake with a small cut on her forehead from hitting something as she woke
+  - Still clutched her silver dagger and moonstone pendant
 
 ### Arrival in Riften - Day 5
 

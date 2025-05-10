@@ -25,9 +25,10 @@ In [[Info/Characters/Periwyn\|Periwyn]]'s nightmares, Malacath appears as a larg
 - Those seeking vengeance may also be drawn to him
 
 ## Current Influence
-- Actively attempting to influence [[Info/Characters/Periwyn\|Periwyn]] through nightmares
+- Actively attempting to influence [[Info/Characters/Periwyn\|Periwyn]] through [[Periwyn nightmares/Session 7 Nightmare sequences\|traumatic nightmares]]
 - Using her desire for vengeance against vampires as a point of manipulation
 - Referred to her as his potential "pawn"
+- Appears after Periwyn relives the loss of her loved ones
 
 ## Connection to Current Events
 - Has appeared twice in [[Info/Characters/Periwyn\|Periwyn]]'s dreams after the events at [[Info/Locations/Greenwall\|Greenwall]]
