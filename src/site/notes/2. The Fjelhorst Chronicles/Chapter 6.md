@@ -89,4 +89,4 @@ And just like that, he vanished into shadow.
 
 ---
 
-[[Chapter 7\|Next Chapter →]]
+[[2. The Fjelhorst Chronicles/Chapter 7\|Next Chapter →]]
