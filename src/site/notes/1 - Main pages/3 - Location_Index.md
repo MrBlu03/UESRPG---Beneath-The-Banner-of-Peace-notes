@@ -37,7 +37,7 @@
 
 ## Military Installations
 - **[[Info/Locations/Shors_Bastion\|Shor's Bastion]]**: Military installation
-  - Original destination of [[Wuunferth\|Wuunferth]]
+  - Original destination of [[Info/Characters/Wuunferth\|Wuunferth]]
 - **Harmugstahl**: Military keep
   - Recently frozen by supernatural forces
   - Site of mysterious deaths
