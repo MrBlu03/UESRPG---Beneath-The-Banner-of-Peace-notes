@@ -14,7 +14,7 @@
 A mysterious fox with the ability to speak and translate ancient languages. It approached the party's campfire on the fourth night of their journey from Greenwall to Riften, showing particular interest in [[Info/Characters/Onasha\|Onasha]] and her scroll.
 
 ## Notable Interactions
-- **[[1. Sessions/Session 7\|Session 7]]**:
+- **[[2 -  Sessions/Session 7\|Session 7]]**:
   - Approached the party's campfire and accepted fish from [[Info/Characters/Onasha\|Onasha]]
   - Revealed its ability to speak, saying "You have hunted your prey, well done"
   - Translated [[Info/Characters/Onasha\|Onasha]]'s dragon language scroll in exchange for more fish

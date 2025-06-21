@@ -17,5 +17,5 @@
 - **[[Info/Characters/Hafjorg\|Hafjorg]]**: Son of Alara who helps run the shop
 
 ## Key Events
-- **[[1. Sessions/Session 1\|Session 1]]**: Party visited and purchased healing potions from [[Info/Characters/Hafjorg\|Hafjorg]]
-- **[[1. Sessions/Session 3\|Session 3]]**: Party learned that [[Info/Characters/Alara\|Alara]] had gone missing while gathering ingredients in the southern woods
+- **[[2 -  Sessions/Session 1\|Session 1]]**: Party visited and purchased healing potions from [[Info/Characters/Hafjorg\|Hafjorg]]
+- **[[2 -  Sessions/Session 3\|Session 3]]**: Party learned that [[Info/Characters/Alara\|Alara]] had gone missing while gathering ingredients in the southern woods

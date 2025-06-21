@@ -55,3 +55,10 @@
   - Built into old ruins
 - **[[Info/Locations/Shad_Astula\|Shad Astula]]**: Magical institution
   - Where Archmagus Mortgren is based
+- **[[Info/Locations/Haunted_Hunting_Lodge\|Haunted Hunting Lodge]]**: Ancient lodge east of [[Info/Locations/Riften\|Riften]]
+  - Built on disturbed ground where ancient massacre occurred
+  - Haunted by spirits of [[Info/Characters/Lagetha\|Lagetha]] and [[Info/Characters/Sven\|Sven]]
+  - Contains mysterious mask and well with remains
+- **[[Info/Locations/Khaarus_Hollow\|Khaarus Hollow]]**: Geographic location near the haunted hunting lodge
+  - Reference point for the lodge's location
+  - Area of dense forest and thick woods

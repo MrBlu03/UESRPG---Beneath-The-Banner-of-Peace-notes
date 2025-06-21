@@ -9,7 +9,7 @@
 ## 🎯 Active Main Quests
 
 ### 🔮 Undead Werewolf Threat
-**Status**: Active ([[1. Sessions/Session 7\|Session 7]])  
+**Status**: Active ([[2 -  Sessions/Session 7\|Session 7]])  
 **Objective**: Investigate the connection between the crimson orb and undead werewolves
 
 **Key Tasks**:
@@ -24,7 +24,7 @@
 > *The vision showed undead werewolves that may be connected to past experiments in Western Skyrim*
 
 ### 🗡️ Dark Brotherhood Contract
-**Status**: Active ([[1. Sessions/Session 6\|Session 6]])  
+**Status**: Active ([[2 -  Sessions/Session 6\|Session 6]])  
 **Objective**: Deal with the contract created with the Dark Brotherhood assassin
 
 **Key Tasks**:
@@ -37,7 +37,7 @@
 > *Created when [[Info/Characters/Durov\|Durov]] signed a blood contract for eliminating the source of darkness in Greenwall*
 
 ### 🖤 [[Info/Quests/Blackfeather_Investigation\|Blackfeather Court Investigation]]
-**Status**: Active ([[1. Sessions/Session 7\|Session 7]])  
+**Status**: Active ([[2 -  Sessions/Session 7\|Session 7]])  
 **Objective**: Research the mysterious organization mentioned by the talking fox
 
 **Key Tasks**:
@@ -55,12 +55,34 @@
 
 > *The [[Info/Characters/Talking_Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
 
+### 🏚️ Haunted Lodge Contract
+**Status**: Active ([[2 -  Sessions/Session 8\|Session 8]])  
+**Objective**: Clear the haunting at [[Info/Characters/Hadvar\|Hadvar]]'s hunting lodge for 200 gold reward
+
+**Key Tasks**:
+- [x] Accept contract from [[Info/Characters/Hadvar\|Hadvar]]
+- [x] Gather information about the lodge
+- [x] Travel to the lodge location
+- [x] Discover the spirits of [[Info/Characters/Lagetha\|Lagetha]] and [[Info/Characters/Sven\|Sven]]
+- [x] Find the mysterious mask
+- [ ] Complete Arkay's rite to put spirits to rest
+- [ ] Return to [[Info/Characters/Hadvar\|Hadvar]] for payment
+
+**Key NPCs**: 
+- [[Info/Characters/Hadvar\|Hadvar]] (Clan Cold-Moor)
+- [[Info/Characters/Lagetha\|Lagetha]] (Ancient spirit)
+- [[Info/Characters/Sven\|Sven]] (Undead figure)
+
+**Reward**: 200 gold each, one bottle of Cold-Moor Reserve, items from root cellar (excluding cursed items)
+
+> *The lodge lies on disturbed ground where an ancient massacre occurred, with spirits bound by pain and rage*
+
 ---
 
 ## 👤 Personal Quests
 
 ### ⚔️ [[Info/Quests/Vampire_Hunter_Search\|Periwyn's Vampire Hunter Search]]
-**Status**: Active ([[1. Sessions/Session 7\|Session 7]])  
+**Status**: Active ([[2 -  Sessions/Session 7\|Session 7]])  
 **Target**: [[Info/Characters/Wuunferth\|Wuunferth]] in [[Info/Locations/Mistwatch\|Mistwatch]]  
 
 **Key Tasks**:
@@ -71,7 +93,7 @@
 > *[[Info/Characters/Hillevi\|Hillevi]] has taken [[Info/Characters/Wuunferth\|Wuunferth]] to Mistwatch for healing*
 
 ### 🔥 [[Info/Quests/Malacath_Interest_in_Periwyn\|Malacath's Interest in Periwyn]]
-**Status**: Active ([[1. Sessions/Session 7\|Session 7]])  
+**Status**: Active ([[2 -  Sessions/Session 7\|Session 7]])  
 **Objective**: Discover why the Daedric Prince is targeting Periwyn through dreams
 
 **Key Tasks**:
@@ -90,7 +112,7 @@
 ## 🔍 Investigation Quests
 
 ### 🐍 [[Info/Quests/Coiled_Serpent_Investigation\|Coiled Serpent Mystery]]
-**Status**: Active ([[1. Sessions/Session 2\|Session 2]])
+**Status**: Active ([[2 -  Sessions/Session 2\|Session 2]])
 
 **Current Leads**:
 - Symbol at [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]
@@ -98,7 +120,7 @@
 - Link to [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s murder
 
 ### ⚗️ [[Info/Quests/Poisoned_Dunmer_Followup\|Poisoned Dunmer Case]]
-**Status**: Active ([[1. Sessions/Session 3\|Session 3]])
+**Status**: Active ([[2 -  Sessions/Session 3\|Session 3]])
 
 **Poison Components**:
 - 🧪 Vampire dust (silver-killed vampires)
@@ -108,7 +130,7 @@
 > *Perpetrator likely has [[Info/Locations/Nocturnal_Realm\|Oblivion]] access*
 
 ### 📜 [[Info/Quests/Burnt_Paper_Reconstruction\|Burnt Paper Reconstruction]]
-**Status**: Pending ([[1. Sessions/Session 2\|Session 2]])  
+**Status**: Pending ([[2 -  Sessions/Session 2\|Session 2]])  
 **Lead**: [[Info/Locations/Winterhold\|Winterhold]] mages  
 **Note**: Requires advanced magic
 
@@ -117,7 +139,7 @@
 ## ✅ Recently Completed
 
 ### 🏰 Return to Riften
-**Completed**: [[1. Sessions/Session 7\|Session 7]]  
+**Completed**: [[2 -  Sessions/Session 7\|Session 7]]  
 **Reward**: 250 gold each  
 **Outcome**: Successfully reported to [[Info/Characters/Queen_Freidr\|Queen Freidr]] about Greenwall
 
@@ -128,7 +150,7 @@
 - The Queen promised to involve the High King and Mages Guild
 
 ### 🌑 Dispel the Darkness
-**Completed**: [[1. Sessions/Session 6\|Session 6]]  
+**Completed**: [[2 -  Sessions/Session 6\|Session 6]]  
 **Outcome**: The magical darkness over Greenwall has been lifted
 
 **Details**:
@@ -138,7 +160,7 @@
 - Found ritual altar to [[Molag Bal\|Molag Bal]] with a crimson orb
 
 ### 👑 Fangs of Fjelhorst
-**Completed**: [[1. Sessions/Session 4\|Session 4]]  
+**Completed**: [[2 -  Sessions/Session 4\|Session 4]]  
 **Outcome**: Accepted [[Info/Characters/Queen_Freidr\|Queen Freidr]]'s offer to become her special hunters
 
 **Details**:
@@ -150,7 +172,7 @@
 > *Offered and accepted after Harmugstahl success*
 
 ### Harmugstahl Investigation ❄️
-**Completed**: [[1. Sessions/Session 4\|Session 4]]  
+**Completed**: [[2 -  Sessions/Session 4\|Session 4]]  
 **Reward**: 400 gold each
 
 **Key Findings**:
@@ -161,12 +183,12 @@
 - [[Info/Lore/Coiled_Serpent\|Coiled serpent]] connection
 
 ### [[Info/Quests/Find_Missing_Alchemist\|Find Missing Alchemist]] 🌿
-**Completed**: [[1. Sessions/Session 3\|Session 3]]  
+**Completed**: [[2 -  Sessions/Session 3\|Session 3]]  
 **Reward**: 50 gold each  
 **Outcome**: Found [[Info/Characters/Alara\|Alara]] safe with spriggan
 
 ### [[Info/Locations/Trevas_Bend\|Treva's Bend]] Aid 💧
-**Completed**: [[1. Sessions/Session 2\|Session 2]]  
+**Completed**: [[2 -  Sessions/Session 2\|Session 2]]  
 **Reward**: 250 gold total (50 from Aldermen, 200 from [[Info/Characters/Queen_Freidr\|Queen]])
 
 ---
@@ -202,3 +224,10 @@
 | 🔴 Crimson Orb                     | Greenwall keep (still inside)    | Connection to [[Molag Bal\|Molag Bal]], resists physical/magical attacks |
 | 📜 Dragon Language Scroll          | [[Info/Characters/Onasha\|Onasha]] | Summoning ritual, connected to the Blackfeather              |
 | 💰 250 Gold Each                   | [[Info/Characters/Queen_Freidr\|Queen Freidr]] | Reward for clearing Greenwall                  |
+| 🗺️ Lodge Area Map                 | [[2 -  Sessions/Session 8\|Session 8]]         | [[Info/Characters/Periwyn\|Periwyn]]'s detailed map including wyrd kern and hunter's corpse |
+| 🎭 Strange Metal Mask              | [[2 -  Sessions/Session 8\|Session 8]]         | Found in locked chest, sketched for court mage examination    |
+| 💰 Pouch of Unidentified Coins     | [[2 -  Sessions/Session 8\|Session 8]]         | Found with the mask                                           |
+| 💀 Lagetha's Head                  | [[2 -  Sessions/Session 8\|Session 8]]         | Retrieved from the well by [[Info/Characters/Onasha\|Onasha]] |
+| 📿 Lagetha's Necklace              | [[2 -  Sessions/Session 8\|Session 8]]         | Found in the well, given to her by [[Info/Characters/Sven\|Sven]] |
+| 📦 Tiny Lock Box                   | [[2 -  Sessions/Session 8\|Session 8]]         | Found in the well, requested to be burned by [[Info/Characters/Sven\|Sven]] |
+| 📜 Nordic Parchment                | [[2 -  Sessions/Session 8\|Session 8]]         | Excerpt from [[Info/Characters/Sven\|Sven]]'s journal explaining his ritual |

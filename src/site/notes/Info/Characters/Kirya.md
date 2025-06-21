@@ -13,18 +13,18 @@
 - Fears losing her current companions as she lost her sister
 
 ## Key Events
-- **[[1. Sessions/Session 2\|Session 2]]**: Helped with diplomatic reporting to [[Info/Characters/Queen_Freidr\|Queen Freidr]]
-- **[[1. Sessions/Session 3\|Session 3]]**: Successfully tracked [[Info/Characters/Alara\|Alara]]'s trail in the southern woods
-- **[[1. Sessions/Session 4\|Session 4]]**: 
+- **[[2 -  Sessions/Session 2\|Session 2]]**: Helped with diplomatic reporting to [[Info/Characters/Queen_Freidr\|Queen Freidr]]
+- **[[2 -  Sessions/Session 3\|Session 3]]**: Successfully tracked [[Info/Characters/Alara\|Alara]]'s trail in the southern woods
+- **[[2 -  Sessions/Session 4\|Session 4]]**: 
   - Purchased 50 silver arrows for vampire hunting
-- **[[1. Sessions/Session 5\|Session 5]]**: 
+- **[[2 -  Sessions/Session 5\|Session 5]]**: 
   - Assigned guard duty during journey to [[Info/Locations/Greenwall\|Greenwall]]
   - Questioned by [[Info/Characters/Beitild\|Beitild]] about travels as a Khajiit
-- **[[1. Sessions/Session 6\|Session 6]]**: 
+- **[[2 -  Sessions/Session 6\|Session 6]]**: 
   - Demonstrated lock-picking skills at the Greenwall inn
   - Helped explore the town and keep
   - Placed flowers on the funeral pyre for [[Info/Characters/Olen\|Olen]] and [[Info/Characters/Beitild\|Beitild]]
-- **[[1. Sessions/Session 7\|Session 7]]**: 
+- **[[2 -  Sessions/Session 7\|Session 7]]**: 
   - Revealed backstory about losing her sister
   - Expressed feelings of betrayal over [[Info/Characters/Onasha\|Onasha]] and [[Info/Characters/Periwyn\|Periwyn]]'s secretive necromancy experiment
   - Maintained silence toward them for most of the journey back to Riften

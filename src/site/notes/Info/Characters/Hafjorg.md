@@ -12,8 +12,8 @@
 - Lost extended family members in the Greenwall vampire attack
 
 ## Events
-- **[[1. Sessions/Session 3\|Session 3]]**: Reported his mother missing and offered a 200 gold reward for finding her
-- **[[1. Sessions/Session 7\|Session 7]]**: Informed the party that he and his mother were grieving after receiving news that their family in Greenwall had perished
+- **[[2 -  Sessions/Session 3\|Session 3]]**: Reported his mother missing and offered a 200 gold reward for finding her
+- **[[2 -  Sessions/Session 7\|Session 7]]**: Informed the party that he and his mother were grieving after receiving news that their family in Greenwall had perished
 
 ## Location
 - [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]] in [[Info/Locations/Riften\|Riften]]

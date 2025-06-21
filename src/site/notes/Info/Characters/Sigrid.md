@@ -11,8 +11,8 @@
 - Works at the [[Info/Locations/Hall_of_the_Dead\|Crypt, Hall of the Dead]] in [[Info/Locations/Riften\|Riften]]
 
 ## Key Events
-- **[[1. Sessions/Session 2\|Session 2]]**: Received [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s body from the party and promised to provide further details about his death after examination.
-- **[[1. Sessions/Session 3\|Session 3]]**: Revealed that [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s body was moved after death and poisoned with a complex mixture of [[vampire dust\|vampire dust]], shadow ichor, twilight poison, and nightshade.
+- **[[2 -  Sessions/Session 2\|Session 2]]**: Received [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s body from the party and promised to provide further details about his death after examination.
+- **[[2 -  Sessions/Session 3\|Session 3]]**: Revealed that [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s body was moved after death and poisoned with a complex mixture of [[vampire dust\|vampire dust]], shadow ichor, twilight poison, and nightshade.
 
 ## Information Provided
 - analysis on [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s unusual cause of death

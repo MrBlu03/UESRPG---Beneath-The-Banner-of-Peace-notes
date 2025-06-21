@@ -15,7 +15,7 @@ The [[Info/Locations/Hall_of_the_Dead\|Crypt, Hall of the Dead]] is a location i
 - **[[Info/Characters/Sigrid\|Sigrid]]**: The mortician who operates and maintains the crypt
 
 ## Key Events
-- **[[1. Sessions/Session 3\|Session 3]]**: [[Info/Characters/Sigrid\|Sigrid]] examined [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s body and determined it was moved after death and poisoned with a complex mixture including [[vampire dust\|vampire dust]], shadow ichor, twilight poison, and nightshade.
+- **[[2 -  Sessions/Session 3\|Session 3]]**: [[Info/Characters/Sigrid\|Sigrid]] examined [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s body and determined it was moved after death and poisoned with a complex mixture including [[vampire dust\|vampire dust]], shadow ichor, twilight poison, and nightshade.
 
 ## Notes
 - Important location for the [[Poisoned Dunmer Investigation\|Poisoned Dunmer Investigation]]

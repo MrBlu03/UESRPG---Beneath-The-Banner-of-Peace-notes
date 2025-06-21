@@ -13,7 +13,7 @@ As the owner of [[Info/Locations/Snow-Shod_Estate\|Snow-Shod Estate]], Ingvar wa
 - Owner of [[Info/Locations/Snow-Shod_Estate\|Snow-Shod Estate]]
 
 ## Key Events
-- **[[1. Sessions/Session 2\|Session 2]]**: The party investigated the sabotaged dam on his estate, which was affecting water supply to [[Info/Locations/Trevas_Bend\|Treva's Bend]]
+- **[[2 -  Sessions/Session 2\|Session 2]]**: The party investigated the sabotaged dam on his estate, which was affecting water supply to [[Info/Locations/Trevas_Bend\|Treva's Bend]]
 
 ## Location
 - [[Info/Locations/Snow-Shod_Estate\|Snow-Shod Estate]]

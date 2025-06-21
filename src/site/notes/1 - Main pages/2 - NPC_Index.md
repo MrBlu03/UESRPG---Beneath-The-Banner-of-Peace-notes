@@ -27,10 +27,17 @@
 - **[[Info/Characters/Boran\|Boran]]**: Owner of [[Info/Locations/Borans_Bullwarks\|Boran's Bullwarks]]
 - **[[Info/Characters/Cabbage_Guy\|Cabbage Guy]]**: we love him <3
 
+### Tavern Staff and Patrons
+- **[[Info/Characters/Eydis\|Eydis]]**: Bartender at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]] with knowledge of local history
+- **[[Info/Characters/Senya\|Senya]]**: Bard at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]], skeptical of supernatural claims
+- **[[Info/Characters/Sonya\|Sonya]]**: Bard with knowledge of ancient history, particularly Clan Coldmoor
+- **[[Info/Characters/Hadvar\|Hadvar]]**: Well-dressed noble of Clan Cold-Moor, offered haunted lodge contract
+
 ## Cult of Ysmir
 - **[[Info/Characters/Gjellir_Stormcrown\|Gjellir Stormcrown]]**: Harbinger, leader of the cult
 - **[[Info/Characters/Beitild\|Beitild]]**: Scout, uses bow and spear
 - **[[Info/Characters/Olen\|Olen]]**: Handles court jobs, carries two axes
+- **[[Info/Characters/Adda\|Adda]]**: Shaman currently in charge while [[Info/Characters/Gjellir_Stormcrown\|Gjellir]] is away
 
 ## [[Info/Organizations/Companions\|Companions]]
 - **[[Info/Characters/Vigrod_Wraithbane\|Vigrot Wraithbane]]**: Leader of regiment near [[Info/Locations/Greenwall\|Greenwall]]
@@ -46,13 +53,17 @@
 - **[[Info/Characters/Alaric\|Alaric]]**: Bounty of 50gp each (completed)
 - **[[Info/Characters/Adrith_Velan\|Adrith Velan]]**: Bounty of 30 gold (completed)
 
-
-## Unusual Characters
+## Supernatural Beings
 - **[[Info/Characters/Baron_Jangleplume\|Baron Jangleplume]]**: A talking crow
 - **[[Info/Characters/Khajiit_Figure\|Khajiit Figure]]**: Mysterious figure seen in mirrors and reflections
+- **[[Info/Characters/Lagetha\|Lagetha]]**: Ancient spirit haunting the hunting lodge, bound by pain and rage
+- **[[Info/Characters/Sven\|Sven]]**: Undead figure
 
 ## Travelers and Messengers
 - **[[Info/Characters/Eirik_the_Quick\|Eirik the Quick]]**: Messenger in [[Info/Locations/Riften\|Riften]]
+
+## Local Residents
+- **[[Info/Characters/Olgierd\|Olgierd]]**: Farmer near the haunted hunting lodge who has witnessed supernatural phenomena
 
 ## Treva's Bend
 - Unnamed alderman/town leader: Mentioned as talking to a strange man

@@ -14,10 +14,10 @@
 - Currently recovering at [[Info/Locations/Mistwatch\|Mistwatch]] under [[Info/Characters/Hillevi\|Hillevi]]'s care
 
 ## Key Events
-- **[[1. Sessions/Session 2-1 (downtime)\|Session 2-1]]**: First mentioned during discussion with [[Info/Characters/Gjellir_Stormcrown\|Gjellir Stormcrown]]
-- **[[1. Sessions/Session 3\|Session 3]]**: Discovered to be trapped in [[Info/Locations/Greenwall\|Greenwall]]
-- **[[1. Sessions/Session 6\|Session 6]]**: Found suspended above a ritual altar to [[Molag Bal\|Molag Bal]] in Greenwall Keep, barely alive
-- **[[1. Sessions/Session 7\|Session 7]]**: Identified by the party and taken to [[Info/Locations/Mistwatch\|Mistwatch]] by [[Info/Characters/Hillevi\|Hillevi]] for medical attention
+- **[[2 -  Sessions/Session 2-1 (downtime)\|Session 2-1]]**: First mentioned during discussion with [[Info/Characters/Gjellir_Stormcrown\|Gjellir Stormcrown]]
+- **[[2 -  Sessions/Session 3\|Session 3]]**: Discovered to be trapped in [[Info/Locations/Greenwall\|Greenwall]]
+- **[[2 -  Sessions/Session 6\|Session 6]]**: Found suspended above a ritual altar to [[Molag Bal\|Molag Bal]] in Greenwall Keep, barely alive
+- **[[2 -  Sessions/Session 7\|Session 7]]**: Identified by the party and taken to [[Info/Locations/Mistwatch\|Mistwatch]] by [[Info/Characters/Hillevi\|Hillevi]] for medical attention
 
 ## Current Status
 - Severely injured from torture at the hands of vampires

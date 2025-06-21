@@ -16,7 +16,7 @@
 - Currently serving as detour for travelers blocked from the Greenwall route
 
 ## Known Events
-- **[[1. Sessions/Session 3\|Session 3]]**: 
+- **[[2 -  Sessions/Session 3\|Session 3]]**: 
   - Mentioned by town crier as alternate route when Greenwall became inaccessible
   - [[Info/Characters/Alara\|Alara]] referenced a Colovian living in Faldarstad
 

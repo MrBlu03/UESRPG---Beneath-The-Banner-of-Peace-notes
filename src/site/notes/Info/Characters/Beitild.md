@@ -5,7 +5,7 @@
 # Beitild
 
 ## Description
-[[Info/Characters/Beitild\|Beitild]] was a scout for the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] and later a member of the [[Info/Organizations/Companions\|Companions]], skilled with a bow and spear. She died during the attack on Greenwall in [[1. Sessions/Session 6\|Session 6]].
+[[Info/Characters/Beitild\|Beitild]] was a scout for the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] and later a member of the [[Info/Organizations/Companions\|Companions]], skilled with a bow and spear. She died during the attack on Greenwall in [[2 -  Sessions/Session 6\|Session 6]].
 
 ## Role in the Story
 - Served as a scout for the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
@@ -19,4 +19,4 @@
 - Worked alongside [[Info/Characters/Olen\|Olen]], who also died in the Greenwall attack
 
 ## Final Fate
-Died during the [[1. Sessions/Session 6\|Session 6]] attack on Greenwall. Her death, along with [[Info/Characters/Olen\|Olen]]'s, greatly upset [[Info/Characters/Periwyn\|Periwyn]], who reacted with rage when she learned of their deaths.
+Died during the [[2 -  Sessions/Session 6\|Session 6]] attack on Greenwall. Her death, along with [[Info/Characters/Olen\|Olen]]'s, greatly upset [[Info/Characters/Periwyn\|Periwyn]], who reacted with rage when she learned of their deaths.

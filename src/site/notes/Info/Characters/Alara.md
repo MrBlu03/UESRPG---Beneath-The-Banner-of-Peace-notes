@@ -13,8 +13,8 @@
 - Has a friendly relationship with a protective spriggan in the southern woods
 
 ## Key Events
-- **[[1. Sessions/Session 3\|Session 3]]**: Was reported missing while gathering mushrooms in caves south of [[Info/Locations/Riften\|Riften]]. The party found her safe with a protective spriggan. She gave them a dark blue ribbon to show her son as proof of her safety.
-- **[[1. Sessions/Session 7\|Session 7]]**: Received news from [[Info/Characters/Onasha\|Onasha]] that her family in Greenwall did not survive the vampire attack. She closed her shop to grieve.
+- **[[2 -  Sessions/Session 3\|Session 3]]**: Was reported missing while gathering mushrooms in caves south of [[Info/Locations/Riften\|Riften]]. The party found her safe with a protective spriggan. She gave them a dark blue ribbon to show her son as proof of her safety.
+- **[[2 -  Sessions/Session 7\|Session 7]]**: Received news from [[Info/Characters/Onasha\|Onasha]] that her family in Greenwall did not survive the vampire attack. She closed her shop to grieve.
 
 ## Location
 - [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]] in [[Info/Locations/Riften\|Riften]]

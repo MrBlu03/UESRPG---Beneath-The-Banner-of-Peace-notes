@@ -5,7 +5,7 @@
 # Olen
 
 ## Description
-[[Info/Characters/Olen\|Olen]] was a member of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] and later the [[Info/Organizations/Companions\|Companions]]. He was known to carry two axes. He died during the attack on Greenwall in [[1. Sessions/Session 6\|Session 6]].
+[[Info/Characters/Olen\|Olen]] was a member of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] and later the [[Info/Organizations/Companions\|Companions]]. He was known to carry two axes. He died during the attack on Greenwall in [[2 -  Sessions/Session 6\|Session 6]].
 
 ## Relationships
 - Member of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
@@ -14,7 +14,7 @@
 - Worked alongside [[Info/Characters/Beitild\|Beitild]], the scout, who also died in the Greenwall attack
 
 ## Final Fate
-Died during the [[1. Sessions/Session 6\|Session 6]] attack on Greenwall. His death, along with [[Info/Characters/Beitild\|Beitild]]'s, greatly upset [[Info/Characters/Periwyn\|Periwyn]], who reacted with rage when she learned of their deaths.
+Died during the [[2 -  Sessions/Session 6\|Session 6]] attack on Greenwall. His death, along with [[Info/Characters/Beitild\|Beitild]]'s, greatly upset [[Info/Characters/Periwyn\|Periwyn]], who reacted with rage when she learned of their deaths.
 
 ## Notes
 - Was armed with two axes

@@ -14,7 +14,7 @@
 A traveling Khajiit merchant who uses a donkey to transport his goods. Encountered by the party on the road to Riften after the Greenwall mission. He doesn't carry standard alchemy ingredients but offers mysterious potions of questionable origin.
 
 ## Notable Interactions
-- **[[1. Sessions/Session 7\|Session 7]]**: 
+- **[[2 -  Sessions/Session 7\|Session 7]]**: 
   - Encountered the party on the third day of their journey back to Riften
   - Noticed [[Info/Characters/Periwyn\|Periwyn]]'s distressed state and offered a sleeping potion
   - [[Info/Characters/Kirya\|Kirya]] explained Periwyn's nightmares to him

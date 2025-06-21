@@ -12,12 +12,12 @@
 - Lost family to vampires during the [[Night of Crimson Tears\|Night of Crimson Tears]]
 
 ## Key Events
-- **[[1. Sessions/Session 1\|Session 1]]**: Introduced as part of the party
-- **[[1. Sessions/Session 3\|Session 3]]**: Shared knowledge about vampire weaknesses
-- **[[1. Sessions/Session 4\|Session 4]]**: Provided critical information about [[Clan Volkihar\|Clan Volkihar]]
-- **[[1. Sessions/Session 5\|Session 5]]**: Experienced traumatic flashbacks when encountering scenes reminiscent of the [[Night of Crimson Tears\|Night of Crimson Tears]]
-- **[[1. Sessions/Session 6\|Session 6]]**: Revealed knowledge of necromancy to [[Info/Characters/Onasha\|Onasha]]
-- **[[1. Sessions/Session 7\|Session 7]]**: 
+- **[[2 -  Sessions/Session 1\|Session 1]]**: Introduced as part of the party
+- **[[2 -  Sessions/Session 3\|Session 3]]**: Shared knowledge about vampire weaknesses
+- **[[2 -  Sessions/Session 4\|Session 4]]**: Provided critical information about [[Clan Volkihar\|Clan Volkihar]]
+- **[[2 -  Sessions/Session 5\|Session 5]]**: Experienced traumatic flashbacks when encountering scenes reminiscent of the [[Night of Crimson Tears\|Night of Crimson Tears]]
+- **[[2 -  Sessions/Session 6\|Session 6]]**: Revealed knowledge of necromancy to [[Info/Characters/Onasha\|Onasha]]
+- **[[2 -  Sessions/Session 7\|Session 7]]**: 
   - Received a vision of undead werewolves after touching the crimson orb
   - Attempted and failed a necromancy ritual on a bird
   - Experienced [[Periwyn nightmares/Session 7 Nightmare sequences\|intense nightmares]] showing her twin brother and mentor dying while blaming her

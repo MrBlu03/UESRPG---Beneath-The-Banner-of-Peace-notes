@@ -11,7 +11,7 @@
 - Sister of [[Info/Characters/Bjorn\|Bjorn]], the smith at [[Info/Locations/Sweaty_Steel\|Sweaty Steel]]
 
 ## Key Events
-- **[[1. Sessions/Session 3\|Session 3]]**: The party visited [[Info/Locations/Sweaty_Steel\|Sweaty Steel]] to sell a sword
+- **[[2 -  Sessions/Session 3\|Session 3]]**: The party visited [[Info/Locations/Sweaty_Steel\|Sweaty Steel]] to sell a sword
 
 ## Location
 - [[Info/Locations/Sweaty_Steel\|Sweaty Steel]] in [[Info/Locations/Riften\|Riften]]
