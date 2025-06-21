@@ -207,27 +207,27 @@
 
 ## 📦 Quest Items & Evidence
 
-| Item                               | Source                           | Notes                                                         |
-| :--------------------------------- | :------------------------------- | :------------------------------------------------------------ |
-| 🎀 Blue Ribbon                     | [[Info/Characters/Alara\|Info/Characters/Alara]]        | Proof of rescue                                               |
-| 📜 Serpent Symbol                  | [[Info/Locations/Snow-Shod_Dam\|Info/Locations/Snow-Shod_Dam]] | Mystery symbol                                                |
-| 📕 Adrith's Diary                  | Adrith (dead)                    | Murder Scene Evidence                                         |
-| 🦅 Bone Hawk                       | Session 5                        | Study material                                                |
-| 📚 Frozen Logbook                  | Harmugstahl                      | General's last entry                                          |
-| 🪶 Black Feathers                  | Crows                            |                                                               |
-| 🗡️ Ebony Ritual Dagger            | Black Sacrament site             | Dull blade with Daedric runes                                 |
-| 📚 "A Kiss, Sweet Mother"          | Black Sacrament site             | Dark Brotherhood ritual book                                  |
-| 📚 "Herbalist's Guide to Skyrim"   | Greenwall tunnel                 | Alchemical reference                                          |
-| 📚 "Sithis"                        | Greenwall tunnel                 | Book about the Dark Brotherhood deity                         |
-| 📚 "Herbane's Bestiary: Hagravens" | Greenwall tunnel                 | Information on hagravens                                      |
-| 🧾 Inn Ledger                      | Greenwall inn                    | Records of "noble" vampires entering town                     |
-| 🔴 Crimson Orb                     | Greenwall keep (still inside)    | Connection to [[Molag Bal\|Molag Bal]], resists physical/magical attacks |
-| 📜 Dragon Language Scroll          | [[Info/Characters/Onasha\|Onasha]] | Summoning ritual, connected to the Blackfeather              |
-| 💰 250 Gold Each                   | [[Info/Characters/Queen_Freidr\|Queen Freidr]] | Reward for clearing Greenwall                  |
-| 🗺️ Lodge Area Map                 | [[2 -  Sessions/Session 8\|Session 8]]         | [[Info/Characters/Periwyn\|Periwyn]]'s detailed map including wyrd kern and hunter's corpse |
-| 🎭 Strange Metal Mask              | [[2 -  Sessions/Session 8\|Session 8]]         | Found in locked chest, sketched for court mage examination    |
-| 💰 Pouch of Unidentified Coins     | [[2 -  Sessions/Session 8\|Session 8]]         | Found with the mask                                           |
-| 💀 Lagetha's Head                  | [[2 -  Sessions/Session 8\|Session 8]]         | Retrieved from the well by [[Info/Characters/Onasha\|Onasha]] |
-| 📿 Lagetha's Necklace              | [[2 -  Sessions/Session 8\|Session 8]]         | Found in the well, given to her by [[Info/Characters/Sven\|Sven]] |
-| 📦 Tiny Lock Box                   | [[2 -  Sessions/Session 8\|Session 8]]         | Found in the well, requested to be burned by [[Info/Characters/Sven\|Sven]] |
-| 📜 Nordic Parchment                | [[2 -  Sessions/Session 8\|Session 8]]         | Excerpt from [[Info/Characters/Sven\|Sven]]'s journal explaining his ritual |
+| Item                               | Source                                         | Notes                                                               |
+| :--------------------------------- | :--------------------------------------------- | :------------------------------------------------------------------ |
+| 🎀 Blue Ribbon                     | [[Info/Characters/Alara\|Info/Characters/Alara]]                      | Proof of rescue                                                     |
+| 📜 Serpent Symbol                  | [[Info/Locations/Snow-Shod_Dam\|Info/Locations/Snow-Shod_Dam]]               | Mystery symbol                                                      |
+| 📕 Adrith's Diary                  | Adrith (dead)                                  | Murder Scene Evidence                                               |
+| 🦅 Bone Hawk                       | Session 5                                      | Study material                                                      |
+| 📚 Frozen Logbook                  | Harmugstahl                                    | General's last entry                                                |
+| 🪶 Black Feathers                  | Crows                                          |                                                                     |
+| 🗡️ Ebony Ritual Dagger            | Black Sacrament site                           | Dull blade with Daedric runes                                       |
+| 📚 "A Kiss, Sweet Mother"          | Black Sacrament site                           | Dark Brotherhood ritual book                                        |
+| 📚 "Herbalist's Guide to Skyrim"   | Greenwall tunnel                               | Alchemical reference                                                |
+| 📚 "Sithis"                        | Greenwall tunnel                               | Book about the Dark Brotherhood deity                               |
+| 📚 "Herbane's Bestiary: Hagravens" | Greenwall tunnel                               | Information on hagravens                                            |
+| 🧾 Inn Ledger                      | Greenwall inn                                  | Records of "noble" vampires entering town                           |
+| 🔴 Crimson Orb                     | Greenwall keep (still inside)                  | Connection to [[Molag Bal\|Molag Bal]], resists physical/magical attacks       |
+| 📜 Dragon Language Scroll          | [[Info/Characters/Onasha\|Onasha]]             | Summoning ritual, connected to the Blackfeather                     |
+| 💰 250 Gold Each                   | [[Info/Characters/Queen_Freidr\|Queen Freidr]] | Reward for clearing Greenwall                                       |
+| 🗺️ Lodge Area Map                 | [[2 -  Sessions/Session 8\|Session 8]]                       | [[Info/Characters/Periwyn\|Periwyn]] 's detailed map including wyrd kern and hunter's corpse |
+| 🎭 Strange Metal Mask              | [[2 -  Sessions/Session 8\|Session 8]]                       | Found in locked chest, sketched for court mage examination          |
+| 💰 Pouch of Unidentified Coins     | [[2 -  Sessions/Session 8\|Session 8]]                       | Found with the mask                                                 |
+| 💀 Lagetha's Head                  | [[2 -  Sessions/Session 8\|Session 8]]                       | Retrieved from the well by [[Info/Characters/Onasha\|Onasha]]                               |
+| 📿 Lagetha's Necklace              | [[2 -  Sessions/Session 8\|Session 8]]                       | Found in the well, given to her by [[Info/Characters/Sven\|Sven]]                         |
+| 📦 Tiny Lock Box                   | [[2 -  Sessions/Session 8\|Session 8]]                       | Found in the well                                                   |
+| 📜 Nordic Parchment                | [[2 -  Sessions/Session 8\|Session 8]]                       | Excerpt from [[Info/Characters/Sven\|Sven]]                                               |
