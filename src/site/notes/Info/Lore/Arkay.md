@@ -19,7 +19,7 @@ A divine being associated with death, burial, and the cycle of life. The god of 
 - Required components for Arkay's rite: Salt and Iron shard
 
 ## Associated Organizations
-- **[[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]**: Religious order dedicated to Arkay, specialized in vampire hunting and undead threats
+- **[[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]**: Religious order dedicated to Arkay
 - **[[Info/Characters/Periwyn\|Periwyn]]**: Former member of the Knights of Arkay
 
 ## Notes

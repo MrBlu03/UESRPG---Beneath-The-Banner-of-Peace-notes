@@ -15,7 +15,6 @@ Shaman of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] currently in c
 
 ## Background
 - Member of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
-- Currently acting as leader while [[Info/Characters/Gjellir_Stormcrown\|Gjellir]] is absent
 - Has spiritual knowledge and insights about supernatural phenomena
 
 ## Current Situation
@@ -37,6 +36,4 @@ Shaman of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] currently in c
 - **[[Info/Characters/Onasha\|Onasha]]**: Explained the talking fox's connection to her
 
 ## Notes
-- Has deep spiritual knowledge and can sense supernatural presences
-- Provides guidance to those seeking help with supernatural matters
 - Understands the nature of spirits and how to deal with them 

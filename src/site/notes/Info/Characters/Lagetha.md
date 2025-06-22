@@ -7,13 +7,13 @@
 ## Basic Information
 - **Status**: Spirit/Undead
 - **Location**: Haunted hunting lodge east of [[Info/Locations/Riften\|Riften]]
-- **Age**: Ancient (older than most vampires)
+- **Age**: Ancient (older than the first sighting of vampires)
 
 ## Description
-Ancient spirit haunting the hunting lodge. Appears as a pale figure in the lodge window. The spirit is bound by pain and rage.
+Ancient spirit haunting the hunting lodge. Appears as a pale figure in the lodge window.
 
 ## Background
-- Ancient spirit, older than most vampires
+- Ancient spirit, older than the first sighting of vampires
 - Connected to the massacre that occurred at the lodge location during the First Empire (at least 4,000 years ago)
 - The lodge lies on disturbed ground where no blessing of the gods has ever taken hold
 
@@ -26,12 +26,6 @@ Ancient spirit haunting the hunting lodge. Appears as a pale figure in the lodge
 - Her remains were found in the well, including her head and a necklace given to her by [[Info/Characters/Sven\|Sven]]
 
 ## Relationships
-- **[[Info/Characters/Sven\|Sven]]**: Connected to him, he gave her a necklace
+- **[[Info/Characters/Sven\|Sven]]**: Her lover, he gave her a necklace
 - **The Lodge**: Bound to the location where she died
 - **The Well**: Her remains were found in the well, including her head
-
-## Notes
-- The spirit is ancient and powerful, unlike typical spirits
-- Bound by pain and rage rather than simple haunting
-- May be reasoned with, though swords might still be useful
-- Her presence is unlike anything else in [[Info/Locations/Skyrim\|Skyrim]] 

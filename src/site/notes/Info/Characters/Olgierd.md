@@ -15,7 +15,6 @@ Farmer who lives in a small hut with a farming area near the woodland edge, clos
 ## Background
 - Lives near the haunted hunting lodge east of [[Info/Locations/Riften\|Riften]]
 - Has experienced the strange phenomena in the area
-- Sharpens his gear beside his hut
 
 ## Current Situation
 - Described the weird phenomena near the lodge:
@@ -31,5 +30,4 @@ Farmer who lives in a small hut with a farming area near the woodland edge, clos
 
 ## Notes
 - Has firsthand experience with the supernatural phenomena in the area
-- Provides local knowledge about the lodge's effects on the surrounding environment
 - Lives close enough to be affected by the lodge's influence but far enough to be safe 

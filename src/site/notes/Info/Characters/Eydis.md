@@ -13,7 +13,7 @@
 Bartender at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]] who has knowledge of local history.
 
 ## Background
-- Works at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]] tavern
+- Works at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]
 - Has knowledge of the area's history and local legends
 
 ## Current Situation
@@ -22,9 +22,6 @@ Bartender at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]] who has kno
 - Provided additional context about the lodge's location and history
 
 ## Relationships
-- **[[Info/Characters/Sonya\|Sonya]]**: Asked her to tell the story of Clan Coldmoor
-- **[[Info/Characters/Hadvar\|Hadvar]]**: Serves as his contact point for the haunted lodge contract
+- **[[Info/Characters/Sonya\|Sonya]]**: Bard at the inn
+- **[[Info/Characters/Hadvar\|Hadvar]]**: local drunk/rich boy/ guy who opened the contract
 
-## Notes
-- Has knowledge of the area's ancient history
-- Prefers to have others tell certain stories rather than telling them himself 

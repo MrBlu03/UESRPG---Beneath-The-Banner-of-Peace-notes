@@ -10,7 +10,7 @@
 - **Status**: Alive
 
 ## Description
-Bard who frequents [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]] and has knowledge of local legends.
+Bard who frequents [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]
 
 ## Background
 - Local bard with knowledge of the area's history and legends
@@ -23,7 +23,7 @@ Bard who frequents [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]] and h
 
 ## Relationships
 - **Other Bards**: Often seen chatting with other bards at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]
-- **[[Info/Characters/Senya\|Senya]]**: Fellow bard who provided additional information about the lodge
+- **[[Info/Characters/Senya\|Senya]]**: Fellow bard who provided additional information about the lodge (twin sister)
 - **[[Info/Characters/Eydis\|Eydis]]**: Bartender who asked her to tell the story of Clan Coldmoor
 
 ## Notes

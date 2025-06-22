@@ -37,7 +37,7 @@ The party ventured out to find missing alchemist [[Info/Characters/Alara\|Alara]
 - Visited a windmill surrounded by fields
 - Learned [[Info/Characters/Alara\|Alara]] bought meat from a farmer a few days ago
 - Information about Fjelhorst mountain having ruins from an old war
-- Gathered information from [[Info/Characters/Eydis\|Eydis]] (hunter) about [[Info/Characters/Alara\|Alara]]'s last known location
+- Gathered information from Eydis (hunter) about [[Info/Characters/Alara\|Alara]]'s last known location
 - Learned about potential dangers: sabercats, wolves, ruins with undead, and rare frost trolls
 - [[Info/Characters/Kirya\|Kirya]] tracked a trail finding:
   - Torn herb basket near a tree with spriggan claw marks
@@ -140,7 +140,7 @@ The party ventured out to find missing alchemist [[Info/Characters/Alara\|Alara]
   - [[Info/Characters/Adrith_Velan\|Adrith Velan]] (Dunmer) was found poisoned near [[Info/Locations/Snowshot_Dam\|Snowshot Dam]]
   - Mysterious [[Info/Lore/Coiled_Serpent\|coiled serpent]] logo found at his campsite
   - Burnt paper scraps that might be recoverable with magic
-  - Local tensions between [[Info/Locations/Snowshot_Estate\|Snowshot Estate]] farmers and [[Info/Locations/Trevas_Bend\|Treva's Bend]] fishermen
+  - Local tensions between [[Info/Locations/Snowshot_Estate\|Snowshod Estate]] farmers and [[Info/Locations/Trevas_Bend\|Treva's Bend]] fishermen
 - Relevant locations:
   - [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]: [[Info/Characters/Alara\|Alara]]'s alchemy shop in [[Info/Locations/Riften\|Riften]]
   - [[Info/Locations/Greenwall\|Greenwall]]: Town now surrounded by magical ice wall

@@ -38,10 +38,6 @@
 - The well contains [[Info/Characters/Lagetha\|Lagetha]]'s remains and a tiny lock box
 - The divines have turned their gaze away from this place
 
-## Required Items for Arkay's Rite
-- Salt
-- Iron shard
-
 ## Notes
 - The lodge has been abandoned longer than most people have been alive
 - Locals avoid the area due to "bad air" and strange phenomena

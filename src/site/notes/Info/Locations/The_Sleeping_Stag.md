@@ -5,7 +5,7 @@
 # The Sleeping Stag
 
 ## Description
-[[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]] is a inn in [[Info/Locations/Riften\|Riften]] that serves as a gathering place for locals and visitors alike.
+[[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]] is a inn in [[Info/Locations/Riften\|Riften]]
 
 ## Key Features
 - Located in [[Info/Locations/Riften\|Riften]]
