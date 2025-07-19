@@ -36,7 +36,7 @@
 
 > *Created when [[Info/Characters/Durov\|Durov]] signed a blood contract for eliminating the source of darkness in Greenwall*
 
-### 🖤 [[Info/Quests/Blackfeather_Investigation\|Blackfeather Court Investigation]]
+### 🖤 [[Blackfeather Court Investigation\|Blackfeather Court Investigation]]
 **Status**: Active ([[2 -  Sessions/Session 7\|Session 7]])  
 **Objective**: Research the mysterious organization mentioned by the talking fox
 
@@ -45,43 +45,44 @@
 - [ ] Determine the meaning and purpose of the dragon language summoning scroll
 - [ ] Identify the components mentioned in the ritual
 - [ ] Consult [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]] about his knowledge of the group
-- [ ] Ask [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]] about magical black feathers
+- [ ] Ask [[Archmagus Mortgren\|Archmagus Mortgren]] about magical black feathers
 
 **Key NPCs**: 
-- [[Info/Characters/Talking_Fox\|Talking Fox]]
-- [[Info/Organizations/Blackfeather\|Blackfeather Court]] (led by "The Vestige")
+- [[Talking Fox\|Talking Fox]]
+- [[Blackfeather Court\|Blackfeather Court]] (led by "The Vestige")
 - [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]]
-- [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]]
+- [[Archmagus Mortgren\|Archmagus Mortgren]]
 
-> *The [[Info/Characters/Talking_Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
+> *The [[Talking Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
 
 ### 🏚️ Haunted Lodge Contract
-**Status**: Active ([[2 -  Sessions/Session 8\|Session 8]])  
-**Objective**: Clear the haunting at [[Info/Characters/Hadvar\|Hadvar]]'s hunting lodge for 200 gold reward
+**Status**: Completed ([[2 -  Sessions/Session 9\|Session 9]])  
+**Objective**: Clear the haunting at [[Info/Characters/Hadvar\|Hadvar]]'s hunting lodge for 400 gold reward
 
 **Key Tasks**:
 - [x] Accept contract from [[Info/Characters/Hadvar\|Hadvar]]
 - [x] Gather information about the lodge
 - [x] Travel to the lodge location
-- [x] Discover the spirits of [[Info/Characters/Lagetha\|Lagetha]] and [[Info/Characters/Sven\|Sven]]
-- [x] Find the mysterious mask
-- [ ] Complete Arkay's rite to put spirits to rest
-- [ ] Return to [[Info/Characters/Hadvar\|Hadvar]] for payment
+- [x] Discover the spirits of [[Info/Characters/Lagetha\|Lagetha]] and [[Sven\|Sven]]
+- [x] Find the mysterious Dragon Cult mask
+- [x] Rescue [[Info/Characters/Periwyn\|Periwyn]] from Dragon Cult ritual
+- [x] Complete Arkay's rite to put spirits to rest
+- [x] Return to [[Info/Characters/Hadvar\|Hadvar]] for payment
 
 **Key NPCs**: 
 - [[Info/Characters/Hadvar\|Hadvar]] (Clan Cold-Moor)
-- [[Info/Characters/Lagetha\|Lagetha]] (Ancient spirit)
-- [[Info/Characters/Sven\|Sven]] (Undead figure)
+- [[Info/Characters/Lagetha\|Lagetha]] (Ancient spirit, now at rest)
+- [[Sven\|Sven]] (Undead figure controlled by Dragon Priest, now at rest)
 
-**Reward**: 200 gold each, one bottle of Cold-Moor Reserve, items from root cellar (excluding cursed items)
+**Reward**: 400 gold each (doubled from original 200), Dragon Cult mask, various items
 
-> *The lodge lies on disturbed ground where an ancient massacre occurred, with spirits bound by pain and rage*
+> *The lodge contained an ancient Dragon Cult barrow, with spirits bound by pain and rage for centuries*
 
 ---
 
 ## 👤 Personal Quests
 
-### ⚔️ [[Info/Quests/Vampire_Hunter_Search\|Periwyn's Vampire Hunter Search]]
+### ⚔️ [[Periwyn's Vampire Hunter Search\|Periwyn's Vampire Hunter Search]]
 **Status**: Active ([[2 -  Sessions/Session 7\|Session 7]])  
 **Target**: [[Info/Characters/Wuunferth\|Wuunferth]] in [[Info/Locations/Mistwatch\|Mistwatch]]  
 
@@ -92,7 +93,7 @@
 
 > *[[Info/Characters/Hillevi\|Hillevi]] has taken [[Info/Characters/Wuunferth\|Wuunferth]] to Mistwatch for healing*
 
-### 🔥 [[Info/Quests/Malacath_Interest_in_Periwyn\|Malacath's Interest in Periwyn]]
+### 🔥 [[Malacath's Interest in Periwyn\|Malacath's Interest in Periwyn]]
 **Status**: Active ([[2 -  Sessions/Session 7\|Session 7]])  
 **Objective**: Discover why the Daedric Prince is targeting Periwyn through dreams
 
@@ -105,31 +106,31 @@
 - [[Info/Characters/Periwyn\|Periwyn]]
 - [[Info/Lore/Malacath\|Malacath]] (Daedric Prince)
 
-> *Periwyn has experienced [[Periwyn nightmares/Session 7 Nightmare sequences\|vivid nightmares]] featuring Malacath saying "Yes, feed that anger, give in to vengeance, be my pawn"*
+> *Periwyn has experienced [[vivid nightmares\|vivid nightmares]] featuring Malacath saying "Yes, feed that anger, give in to vengeance, be my pawn"*
 
 ---
 
 ## 🔍 Investigation Quests
 
-### 🐍 [[Info/Quests/Coiled_Serpent_Investigation\|Coiled Serpent Mystery]]
+### 🐍 [[Coiled Serpent Mystery\|Coiled Serpent Mystery]]
 **Status**: Active ([[2 -  Sessions/Session 2\|Session 2]])
 
 **Current Leads**:
-- Symbol at [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]
-- Connection to [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] (Harmugstahl)
-- Link to [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s murder
+- Symbol at [[Snow-Shod Dam\|Snow-Shod Dam]]
+- Connection to [[Clan Volkihar\|Clan Volkihar]] (Harmugstahl)
+- Link to [[Adrith Velan\|Adrith Velan]]'s murder
 
-### ⚗️ [[Info/Quests/Poisoned_Dunmer_Followup\|Poisoned Dunmer Case]]
+### ⚗️ [[Poisoned Dunmer Case\|Poisoned Dunmer Case]]
 **Status**: Active ([[2 -  Sessions/Session 3\|Session 3]])
 
 **Poison Components**:
 - 🧪 Vampire dust (silver-killed vampires)
-- 🌑 Shadow ichor ([[Info/Locations/Nocturnal_Realm\|Oblivion]] hellhounds)
+- 🌑 Shadow ichor ([[Nocturnal Realm\|Nocturnal Realm]] hellhounds)
 - 💀 Twilight poison (winged twilight)
 
-> *Perpetrator likely has [[Info/Locations/Nocturnal_Realm\|Oblivion]] access*
+> *Perpetrator likely has [[Nocturnal Realm\|Nocturnal Realm]] access*
 
-### 📜 [[Info/Quests/Burnt_Paper_Reconstruction\|Burnt Paper Reconstruction]]
+### 📜 [[Burnt Paper Reconstruction\|Burnt Paper Reconstruction]]
 **Status**: Pending ([[2 -  Sessions/Session 2\|Session 2]])  
 **Lead**: [[Info/Locations/Winterhold\|Winterhold]] mages  
 **Note**: Requires advanced magic
@@ -138,13 +139,26 @@
 
 ## ✅ Recently Completed
 
+### 🏚️ Haunted Lodge Contract
+**Completed**: [[2 -  Sessions/Session 9\|Session 9]]  
+**Reward**: 400 gold each  
+**Outcome**: Successfully cleared the haunting and rescued [[Info/Characters/Periwyn\|Periwyn]]
+
+**Details**:
+- Discovered ancient Dragon Cult barrow beneath the lodge
+- Rescued [[Info/Characters/Periwyn\|Periwyn]] from ritual sacrifice attempt
+- Put [[Sven\|Sven]] and [[Info/Characters/Lagetha\|Lagetha]] to rest after centuries of torment
+- Destroyed the Dragon Priest controlling [[Sven\|Sven]]
+- Earned permanent welcome at [[Cult of Ysmir\|Cult of Ysmir]] hall
+- [[Info/Characters/Durov\|Durov]] successfully negotiated double payment from [[Info/Characters/Hadvar\|Hadvar]]
+
 ### 🏰 Return to Riften
 **Completed**: [[2 -  Sessions/Session 7\|Session 7]]  
 **Reward**: 250 gold each  
 **Outcome**: Successfully reported to [[Info/Characters/Queen_Freidr\|Queen Freidr]] about Greenwall
 
 **Details**:
-- Delivered the vampire head to [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]] for study
+- Delivered the vampire head to [[Archmagus Mortgren\|Archmagus Mortgren]] for study
 - Reported the discovery of the orb and Periwyn's vision
 - Informed the Queen about the loss of all Greenwall residents
 - The Queen promised to involve the High King and Mages Guild
@@ -165,7 +179,7 @@
 
 **Details**:
 - Official status as Queen's hunters granted
-- Direct line to [[Info/Characters/Queen_Freidr\|Queen Freidr]] and [[Info/Characters/Rigi\|Rigi]]
+- Direct line to [[Queen Freidr\|Queen Freidr]] and [[Info/Characters/Rigi\|Rigi]]
 - Tasked with defending against supernatural threats
 - Group now officially known as "The Fangs of Fjelhorst"
 
@@ -178,29 +192,29 @@
 **Key Findings**:
 - Keep mysteriously frozen
 - Frozen soldiers discovered
-- [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbols
-- Mysterious [[Info/Characters/Khajiit_Figure\|Khajiit]] appearances
-- [[Info/Lore/Coiled_Serpent\|Coiled serpent]] connection
+- [[Clan Volkihar\|Clan Volkihar]] symbols
+- Mysterious [[Khajiit Figure\|Khajiit Figure]] appearances
+- [[Coiled Serpent\|Coiled Serpent]] connection
 
-### [[Info/Quests/Find_Missing_Alchemist\|Find Missing Alchemist]] 🌿
+### [[Find Missing Alchemist\|Find Missing Alchemist]] 🌿
 **Completed**: [[2 -  Sessions/Session 3\|Session 3]]  
 **Reward**: 50 gold each  
 **Outcome**: Found [[Info/Characters/Alara\|Alara]] safe with spriggan
 
-### [[Info/Locations/Trevas_Bend\|Treva's Bend]] Aid 💧
+### [[Treva's Bend\|Treva's Bend]] Aid 💧
 **Completed**: [[2 -  Sessions/Session 2\|Session 2]]  
-**Reward**: 250 gold total (50 from Aldermen, 200 from [[Info/Characters/Queen_Freidr\|Queen]])
+**Reward**: 250 gold total (50 from Aldermen, 200 from [[Queen\|Queen]])
 
 ---
 
 ## 📌 Optional Objectives
 
-- 🏛️ Investigate [[Info/Organizations/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]] cave
+- 🏛️ Investigate [[Cult of Clavicus Vile\|Cult of Clavicus Vile]] cave
 - 🗿 Study [[Info/Locations/Shadow Stone\|Shadow Stone]] powers
 - 👥 Follow up on Eldar's conversation
-- 🧙‍♂️ Consult [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]] about the [[Info/Organizations/Blackfeather\|Blackfeather Court]] (formerly called Court of Crows)
+- 🧙‍♂️ Consult [[Archmagus Mortgren\|Archmagus Mortgren]] about the [[Blackfeather Court\|Blackfeather Court]] (formerly called Court of Crows)
 - 🦅 Study the bone hawk remains with other methods (necromancy attempt failed)
-- 🦊 Look for the [[Info/Characters/Talking_Fox\|Talking Fox]] again to learn more about the [[Info/Organizations/Blackfeather\|Blackfeather Court]]
+- 🦊 Look for the [[Talking Fox\|Talking Fox]] again to learn more about the [[Blackfeather Court\|Blackfeather Court]]
 - 🧪 Help [[Info/Characters/Alara\|Alara]] cope with the loss of her family from Greenwall
 
 ---
@@ -209,8 +223,8 @@
 
 | Item                               | Source                                         | Notes                                                               |                                        |
 | :--------------------------------- | :--------------------------------------------- | :------------------------------------------------------------------ | -------------------------------------- |
-| 🎀 Blue Ribbon                     | [[Info/Characters/Alara\|Info/Characters/Alara]]                      | Proof of rescue                                                     |                                        |
-| 📜 Serpent Symbol                  | [[Info/Locations/Snow-Shod_Dam\|Info/Locations/Snow-Shod_Dam]]               | Mystery symbol                                                      |                                        |
+| 🎀 Blue Ribbon                     | [[Info/Characters/Alara\|Alara]]                                      | Proof of rescue                                                     |                                        |
+| 📜 Serpent Symbol                  | [[Snow-Shod Dam\|Snow-Shod Dam]]                              | Mystery symbol                                                      |                                        |
 | 📕 Adrith's Diary                  | Adrith (dead)                                  | Murder Scene Evidence                                               |                                        |
 | 🦅 Bone Hawk                       | Session 5                                      | Study material                                                      |                                        |
 | 📚 Frozen Logbook                  | Harmugstahl                                    | General's last entry                                                |                                        |
@@ -222,12 +236,25 @@
 | 📚 "Herbane's Bestiary: Hagravens" | Greenwall tunnel                               | Information on hagravens                                            |                                        |
 | 🧾 Inn Ledger                      | Greenwall inn                                  | Records of "noble" vampires entering town                           |                                        |
 | 🔴 Crimson Orb                     | Greenwall keep (still inside)                  | Connection to [[Molag Bal\|Molag Bal]], resists physical/magical attacks       |                                        |
-| 📜 Dragon Language Scroll          | [[Info/Characters/Onasha\|Onasha]]             | Summoning ritual, connected to the Blackfeather                     |                                        |
-| 💰 250 Gold Each                   | [[Info/Characters/Queen_Freidr\|Queen Freidr]] | Reward for clearing Greenwall                                       |                                        |
-| 🗺️ Lodge Area Map                 | [[2 -  Sessions/Session 8\|Session 8]]                       | [[Info/Characters/Periwyn\|Periwyn]] 's detailed map including wyrd kern and hunter's corpse |                                        |
-| 🎭 Strange Metal Mask              | [[2 -  Sessions/Session 8\|Session 8]]                       | Found in locked chest, sketched for court mage examination          |                                        |
-| 💰 Pouch of Unidentified Coins     | [[2 -  Sessions/Session 8\|Session 8]]                       | Found with the mask                                                 |                                        |
-| 💀 Lagetha's Head                  | [[2 -  Sessions/Session 8\|Session 8]]                       | Retrieved from the well by [[Info/Characters/Onasha                 \| Onasha]]                               |
-| 📿 Lagetha's Necklace              | [[2 -  Sessions/Session 8\|Session 8]]                       | Found in the well, given to her by [[Info/Characters/Sven           \| Sven]]                                 |
-| 📦 Tiny Lock Box                   | [[2 -  Sessions/Session 8\|Session 8]]                       | Found in the well                                                   | Sven]]                                 |
-| 📜 Nordic Parchment                | [[2 -  Sessions/Session 8\|Session 8]]                       | Excerpt from [[Info/Characters/Sven                                 \| Sven]]'s journal explaining his ritual |
+| 📜 Dragon Language Scroll          | [[Info/Characters/Onasha\|Onasha]]                                     | Summoning ritual, connected to the Blackfeather                     |                                        |
+| 💰 250 Gold Each                   | [[Queen Freidr\|Queen Freidr]]                               | Reward for clearing Greenwall                                       |                                        |
+| 🗺️ Lodge Area Map                 | [[2 -  Sessions/Session 8\|Session 8]]                                  | [[Info/Characters/Periwyn\|Periwyn]]'s detailed map including wyrd kern and hunter's corpse |                                        |
+| 🎭 Strange Metal Mask              | [[2 -  Sessions/Session 8\|Session 8]]                                  | Found in locked chest, sketched for court mage examination          |                                        |
+| 💰 Pouch of Unidentified Coins     | [[2 -  Sessions/Session 8\|Session 8]]                                  | Found with the mask                                                 |                                        |
+| 💀 Lagetha's Head                  | [[2 -  Sessions/Session 8\|Session 8]]                                  | Retrieved from the well by [[Info/Characters/Onasha\|Onasha]]                               |                                        |
+| 📿 Lagetha's Necklace              | [[2 -  Sessions/Session 8\|Session 8]]                                  | Found in the well, given to her by [[Sven\|Sven]]                         |                                        |
+| 📦 Tiny Lock Box                   | [[2 -  Sessions/Session 8\|Session 8]]                                  | Found in the well                                                   |                                        |
+| 📜 Nordic Parchment                | [[2 -  Sessions/Session 8\|Session 8]]                                  | Excerpt from [[Sven\|Sven]]'s journal explaining his ritual               |                                        |
+| 🎭 Dragon Cult Mask                | [[2 -  Sessions/Session 9\|Session 9]]                                  | Retrieved from ritual chamber, Dragon Cult artifact                 |                                        |
+| 💰 400 Gold Each                   | [[2 -  Sessions/Session 9\|Session 9]]                                  | Final reward from [[Info/Characters/Hadvar\|Hadvar]] (doubled)                              |                                        |
+| 📚 Spell Book                      | [[2 -  Sessions/Session 9\|Session 9]]                                  | Found in barrow kitchen, unreadable                                 |                                        |
+| 💍 Silver Ring with Garnet         | [[2 -  Sessions/Session 9\|Session 9]]                                  | Found on pedestal, real gemstone                                    |                                        |
+| 🦴 Carved Bone Charm (Flower)      | [[2 -  Sessions/Session 9\|Session 9]]                                  | Necklace found in sleeping quarters                                 |                                        |
+| 📜 Disturbing Letter               | [[2 -  Sessions/Session 9\|Session 9]]                                  | Message about feeling words under skin                              |                                        |
+| 💎 Soul Gem Fragments (8)          | [[2 -  Sessions/Session 9\|Session 9]]                                  | Found near arcane enchanter                                         |                                        |
+| 🧪 Ectoplasm (1 dose)              | [[2 -  Sessions/Session 9\|Session 9]]                                  | Alchemical ingredient                                               |                                        |
+| 🔥 Firesalts (2 doses)             | [[2 -  Sessions/Session 9\|Session 9]]                                  | Alchemical ingredient                                               |                                        |
+| 🌸 Perfume Bottle                  | [[2 -  Sessions/Session 9\|Session 9]]                                  | Perfectly intact, found in alchemy room                             |                                        |
+| 🗡️ Ornate Axe                      | [[2 -  Sessions/Session 9\|Session 9]]                                  | Found with skeletal remains                                         |                                        |
+| 🏹 Broken Bow + 15 Arrows          | [[2 -  Sessions/Session 9\|Session 9]]                                  | Found in final chamber                                              |                                        |
+| 💰 30 Ancient Gold Pieces          | [[2 -  Sessions/Session 9\|Session 9]]                                  | Found in initial chamber                                            |                                        |

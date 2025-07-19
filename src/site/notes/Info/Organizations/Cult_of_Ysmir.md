@@ -5,21 +5,41 @@
 # Cult of Ysmir
 
 ## Description
-The [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] is an organization dedicated to fighting off forces if the coin is good enough
+The [[Cult of Ysmir\|Cult of Ysmir]] is an organization dedicated to fighting off forces if the coin is good enough, with strong spiritual knowledge and healing capabilities.
 
 ## Key Members
-- [[Info/Characters/Gjellir_Stormcrown\|Gjellir Stormcrown]]: Harbinger (leader)
-- [[Info/Characters/Beitild\|Beitild]]
-- [[Info/Characters/Olen\|Olen]]
+- **[[Gjellir Stormcrown\|Gjellir Stormcrown]]**: Harbinger (leader), currently in [[Info/Locations/Greenwall\|Greenwall]]
+- **[[Info/Characters/Adda\|Adda]]**: Shaman, currently in charge while [[Gjellir Stormcrown\|Gjellir Stormcrown]] is away
+- **[[Info/Characters/Víðir\|Víðir]]**: Ancient companion of [[Info/Characters/Adda\|Adda]], older and colder presence
+- **[[Info/Characters/Beitild\|Beitild]]**: Scout, uses bow and spear
+- **[[Info/Characters/Olen\|Olen]]**: Handles court jobs, carries two axes
 
 ## Activities
 - Taking bounties
 - Coordinating with local authorities
-- Working on the [[Info/Locations/Greenwall\|Greenwall]] situation with the par
+- Working on the [[Info/Locations/Greenwall\|Greenwall]] situation with the party
+- **Spiritual Healing**: Specialized in treating supernatural afflictions
+- **Ancient Knowledge**: Understanding of Dragon Cult and ancient spirits
+
+## Key Events
+- **[[2 -  Sessions/Session 9\|Session 9]]**: 
+  - Successfully resolved the haunted lodge situation
+  - [[Info/Characters/Adda\|Adda]] destroyed the Dragon Priest controlling [[Sven\|Sven]]
+  - Put [[Sven\|Sven]] and [[Info/Characters/Lagetha\|Lagetha]] to rest after centuries of torment
+  - Currently caring for [[Info/Characters/Periwyn\|Periwyn]] in comatose state
+  - Earned permanent recognition and welcome for the party
 
 ## Locations
 - Headquarters in [[Info/Locations/Riften\|Riften]]
 - Active throughout the region
+- **Hall**: Stone beds for healing, candle rituals
 
-## Important Events
-- Currently involved in addressing the vampire threat around [[Info/Locations/Greenwall\|Greenwall]]
+## Current Status
+- **[[Info/Characters/Periwyn\|Periwyn]]'s Care**: Providing healing for "touched by something ancient and hollow"
+- **Lodge Protection**: Sending [[Info/Characters/Víðir\|Víðir]] and others to ensure domain remains undisturbed
+- **Party Recognition**: Declared party has earned their place in the hall, always welcome
+
+## Notes
+- Possess powerful spiritual magic capable of destroying ancient entities
+- Understand the nature of Dragon Cult influence and control
+- Provide sanctuary and healing for those affected by supernatural forces
