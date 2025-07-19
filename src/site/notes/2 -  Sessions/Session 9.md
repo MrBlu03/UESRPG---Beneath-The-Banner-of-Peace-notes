@@ -26,7 +26,7 @@ The session began with [[Info/Characters/Kirya\|Kirya]] returning to [[Info/Loca
   - Visited [[Info/Characters/Alara\|Alara]] for salt
   - [[Info/Characters/Alara\|Alara]] provided salt without payment, showing generosity
 - **Encounter with Eirik the Quick:**
-  - Spotted [[Eirik the Quick\|Eirik the Quick]] speeding through town
+  - Spotted [[Info/Characters/Eirik_the_Quick\|Eirik_the_Quick]] speeding through town
   - Remarked on his constant movement - "No one has seen him stand still... can he?"
 
 #### Consultation with Speaks-Spells-Gently
