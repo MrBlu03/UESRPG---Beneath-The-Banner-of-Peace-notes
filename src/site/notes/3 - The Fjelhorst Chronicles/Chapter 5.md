@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-the-fjelhorst-chronicles/chapter-5/"}
 ---
 
-**Chapter 5: Onwards to Greenwall**  
+## Chapter 5: Onwards to Greenwall  
 
 **18th–23rd of Heartfire, 2E 600**
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-the-fjelhorst-chronicles/chapter-6/"}
 ---
 
-**Chapter 6: Into the Storm**
+## Chapter 6: Into the Storm
 **24th of Heartfire, 2E 600**
 
 The party stirred from uneasy dreams into a darkness that clung like fog—not the black of night, but the unnatural shade of the eclipse. No dawn light crept through the trees, only the faint glow of campfires flickering in the gloom. Hillevi, the Companions’ healer, stood over them with a tray of warm bread and porridge, her expression calm despite the dread hanging in the air.

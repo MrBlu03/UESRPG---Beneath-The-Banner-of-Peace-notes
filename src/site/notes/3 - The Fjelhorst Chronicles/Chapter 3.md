@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-the-fjelhorst-chronicles/chapter-3/"}
 ---
 
-**Chapter 3: The Alchemist, The Mortician, and the Whispers in the Ice**  
+## Chapter 3: The Alchemist, The Mortician, and the Whispers in the Ice  
 **9th of Heartfire, 2E 600**
 
 Some days had passed since their audience with Queen Freidr, each companion attending to their own matters. When they regrouped, it was by the bounty board in Riften’s square. One notice, penned in hurried script, stood out: Alara, the elderly alchemist known to many in the city, had not returned home. The same woman whose son, Hafjorg, they had met just days earlier. His worry was palpable, and when the group sought him out, he admitted his mother had been gone longer than usual. Alara often vanished for a day or two to gather herbs, but this had been too long. With more than sixty winters behind her, Hafjorg feared the worst—and begged them to find her before something else did.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-the-fjelhorst-chronicles/chapter-7/"}
 ---
 
-**Chapter 7: The Return**
+## Chapter 7: The Return
 **24th of Heartfire, 2E 600**  
 The party made final preparations to leave Fort Greenwall. Before they departed, Vigrod approached them with a grim warning. “You walk among dangerous powers now,” he said, casting a glance toward the chamber where the orb lay. “Choose your allies with care.”
 
@@ -85,3 +85,4 @@ The party first visited Alara’s shop, hoping to invite her and Hafjorg to join
 When they reached the Amber Keg, music and laughter greeted them. A celebration was already underway—some marked the changing season, others simply toasted to being alive. The group joined in, raising mugs for Olen, Beitild, and all those lost in Greenwall. For a few hours, grief gave way to memory, and memory to song.
 
 And for the first time in many nights, the sky above Riften was clear.
+[[3 - The Fjelhorst Chronicles/Chapter 8\|Next Chapter →]]

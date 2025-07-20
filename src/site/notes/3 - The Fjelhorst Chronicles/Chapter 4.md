@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-the-fjelhorst-chronicles/chapter-4/"}
 ---
 
-**Chapter 4: Silence in the Keep**  
+## Chapter 4: Silence in the Keep  
 **15th of Heartfire, 2E 600**
 
 During their days training with the Cult of Ysmir, the party was once again summoned to Mistveil Keep. On their way there, they stopped by The Honed Edge, a weaponsmith just a few houses down from the keep. Kirya had been there the day before, and noted that the owner was offering a discount on silver weaponry to any brave souls heading out to Greenwall. The party took the offer, with Onasha and Kirya each buying a bundle of silver arrows. While those were being assembled, the owner, Hilldis, revealed that her family had close ties to the vampires attacking Greenwall. Back during the early First Era, her ancestral clan owned a castle off the coast of Haafingar, Skyrim's northwestern Hold. During a bloody conflict that spanned many years, the castle was besieged and captured by Clan Volkihar. The survivors fled and resettled in the mountains of the Reach. She wished them luck as they departed.
