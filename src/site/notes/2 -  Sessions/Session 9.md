@@ -24,7 +24,7 @@ The session began with [[Info/Characters/Kirya\|Kirya]] returning to [[Info/Loca
   - [[Info/Characters/Boran\|Boran]] provided the shard but didn't grab the entire bucket as requested
 - **Scent of Serenity:**
   - Visited [[Info/Characters/Alara\|Alara]] for salt
-  - [[Info/Characters/Alara\|Alara]] provided salt without payment, showing generosity
+  - [[Info/Characters/Alara\|Alara]] provided salt without payment
 - **Encounter with Eirik the Quick:**
   - Spotted [[Info/Characters/Eirik_the_Quick\|Eirik_the_Quick]] speeding through town
   - Remarked on his constant movement - "No one has seen him stand still... can he?"
@@ -36,7 +36,7 @@ The session began with [[Info/Characters/Kirya\|Kirya]] returning to [[Info/Loca
   - Described [[Sven\|Sven]]'s condition: [[Info/Characters/Lagetha\|Lagetha]]'s spirit shields him from the full draugr curse
   - **Mask Information:** Identified it as a Dragon Cult mask
     - These masks were given to Dragon Cult generals to mask their personality
-    - Suggested consulting the shaman of [[Cult of Ysmir\|Cult of Ysmir]]
+    - Suggested consulting the shaman of [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]]
     - Warned that fire might help, but might not be sufficient
 - **Additional Resources:**
   - Obtained 3 extra horses for the return journey
@@ -77,89 +77,149 @@ The session began with [[Info/Characters/Kirya\|Kirya]] returning to [[Info/Loca
 - **[[Info/Characters/Durov\|Durov]] Takes Point:**
   - [[Info/Characters/Durov\|Durov]] entered first due to corridor size constraints
   - Small enough corridor to not allow anyone to pass him
+
 - **Path Choice:**
   - Took the left door first
   - **Discoveries:**
     - Ornate sword
     - 30 ancient gold pieces
 
+---
+
 #### Broad Room with Pillars
 - **Layout:**
   - Stepped into a broad room with pillars
   - Wooden ramp headed for 2nd floor
   - Small corridor leading into smaller room
+
 - **Kitchen Area:**
   - Led into kitchen of sorts
   - [[Info/Characters/Onasha\|Onasha]] rummaged through cupboards, found spell book but couldn't figure out what it was
-  - Words written in charcoal on table: "Some quote about making her whole again"
+  - Words written in charcoal on table: *"Some quote about making her whole again"*
   - Next to hearth in kitchen there's a lever, [[Info/Characters/Onasha\|Onasha]] pulled it
   - [[Info/Characters/Víðir\|Víðir]] exclaimed the metal gate back in previous room opened up
   - [[Info/Characters/Kirya\|Kirya]] couldn't figure out what the ring was they found
   - [[Info/Characters/Durov\|Durov]], with his smithing, could tell the ring is silver with garnet embedded into it
 
-#### Main Chamber
 - **Ancient Writing:**
   - Found inscriptions on walls
   - **"Vi.ir"** - meaning "Mask" in ancient language
+
 - **Metal Door:**
   - Encountered a closed metal door
   - Attempted to break it but failed
+
 - **Portcullis Mechanism:**
   - Found a portcullis that opened with a lever
-  - **Pedestal Discovery:**
-    - Silver ring with garnet
-    - Real life gem, red in color
 
-#### Lower Levels
-- **Ramp Descent:**
-  - Found strange metal tools
-  - Identified as embalming tools
-  - Discovered a mummified corpse
-- **Larger Portcullis:**
-  - Another lever-operated portcullis
-  - Turned right after activation
-  - Found another door
+---
 
-#### Complex Layout
-- **Right and Left Sections:**
-  - **Right Side:** Disturbing message found
-    - "I felt them under my skin, we shouldn't be here, we shouldn't..."
-    - Message ends abruptly
-  - **Observation Check:**
-    - Discovered spike wall trap
-- **Multiple Rooms:**
-  - **First Split - Right:**
-    - Arcane enchanter
-    - 8 Soul gem fragments
-    - Shelf with ingredients:
-      - 1 dose of ectoplasm
-      - 2 doses of firesalts
-    - Note pinned by dagger:
-      - "It failed, the soul slipped away, I will not let her go"
-  - **First Split - Left:**
-    - Alchemy room
-    - Shelves with various ingredients
-    - Potion identified as perfume
-  - **Left 2:**
-    - Old torture room
-    - One device stood out with recently used fresh leather straps
-    - Lever mechanism
-    - Pulled the lever, opened portcullis
-    - Disturbing text: "Not enough, not enough, not enough..." (repeating)
-  - **Right 2:**
-    - Sleeping quarters
-    - Appeared older than previous rooms
-    - Signs of rotting and decay
+#### Upper Level
+- **Mummified Body:**
+  - Went up wooden ramp
+  - Led to room with smaller pillars surrounding open space
+  - On one of them in middle of room is a table and mummified body bound to table with braided hair
+  - Found strange metal tools near the body
+  - [[Info/Characters/Onasha\|Onasha]] recognized tools as old embalming tools and some tools for dissection
 
-#### Final Approach
-- **New Portcullis:**
-  - Went directly to the left
-  - Found cracked sarcophagi
-  - **Skeletal Discovery:**
-    - Skeletal arm gripping a stone bowl
-    - Next to top bowl:
-      - Potions
-      - Ornate axe
+- **Complex Passage:**
+  - Saw another portcullis (big metal gate)
+  - Behind one of pillars another lever, pulled the lever
+  - Gate opened up and led into large L-shaped corridor that leads downwards
+  - At end there's another door
+
+- **Gap Crossing:**
+  - Past door, partially collapsed walkway
+  - Past it corridor continues but 3m gap they have to cross
+  - Left side past gap: another metal gate with chain you can pull
+  - Right side past gap: ramp leading to other side leading to walkway
+  - Group decided to lower themselves down into gap and walk over and climb back out
+  - Next to ramp another table with embalming tools, scattered as if dropped mid-use
+  - Right next to it another metal gate with chain to pull it, nearby another pillar with text: *"Something about finding ether touched"*
+  - Pulled chain, gate above them on walkway opened up, one in front stayed shut
+  - Chain next to gate up top opens gate below
+  - Went back down and went through gate below
+
+---
+
+#### Corridor Splits
+- **Right Path - Sleeping Quarters:**
+  - Corridor splits, one goes left, other goes right
+  - Went right, leads to larger room that used to be sleeping quarter
+  - [[Info/Characters/Kirya\|Kirya]] rummaged through closets and such, nothing of note
+  - On one of beds small necklace resting on pillow and dried out letter on different bed
+  - Letter half legible, not much readable
+  - *"He spoke the words again last night, I felt them under my skin, we shouldn't be here, we shouldn't-"*
+  - [[Info/Characters/Kirya\|Kirya]] took necklace with her, carved bone charm shaped like flower
+  - [[Info/Characters/Onasha\|Onasha]] took letter with her
+
+- **Left Path - Trap Avoidance:**
+  - Next went to hall on left
+  - Corridor opens up into room, on floor of corridor pressure plate, group avoids trap (wall of spikes)
+  - At end of corridor past trap, empty table and door to left
+  - Door opens into narrow corridor with multiple rooms on each side
+
+- **First Split - Right (Enchanter's Room):**
+  - First split, one left one right
+  - First checked right
+  - Enchanters room, shelves one with soul gem fragments, [[Info/Characters/Kirya\|Kirya]] took fragments (8 of them)
+  - Another shelf with ingredients: one dose of ectoplasm, 2 doses of firesalts
+  - On arcane enchanter note pinned by dagger: *"It failed, the soul slipped away"*
+  - [[Info/Characters/Onasha\|Onasha]] took note
+
+- **First Split - Left (Alchemy Room):**
+  - Next checked room left
+  - Alchemy room with ingredients, [[Info/Characters/Onasha\|Onasha]] and [[Info/Characters/Kirya\|Kirya]] took them
+  - Fully equipped alchemy gear
+  - One perfectly intact bottle, corked and clean with inside, perfume
+  - [[Info/Characters/Onasha\|Onasha]] took perfume with her
+
+---
+
+#### Next Set of Rooms
+- **Left Side - Torture Room:**
+  - Torture room
+  - Rack with fresh leather straps on it, wording on wall next to it, lever next to it
+  - Wording on wall: *"Not enough, not enough, not enough....."*
+  - [[Info/Characters/Durov\|Durov]] asked everybody to leave room so he can pull lever without anybody else getting harmed
+  - Gate in corridor opened up
+
+- **Right Side - Sleeping Quarters:**
+  - Sleeping quarters
+  - Older than previous ones
+
+- **Through Gate - Storage Room:**
+  - Went through gate
+  - Opens up into another room with potions and other random stuff laying around
+  - [[Info/Characters/Durov\|Durov]] took axe, [[Info/Characters/Onasha\|Onasha]] took random potions
+  - At end of room shelf with broke bow, 15 arrows and 30 coins
+  - [[Info/Characters/Kirya\|Kirya]] took arrows, [[Info/Characters/Onasha\|Onasha]] took coins
+
+---
+
+#### Final Chamber
+- **Ritual Room:**
+  - Corridor continues on, leads to larger room
+  - Walls lined with sarcophagi, 2 left, 2 right
+  - Room blackened, burned almost
+  - One sarcophagus half open
+  - In middle shriveled body with mouth open on ritual table
+  - Next to it [[Info/Characters/Periwyn\|Periwyn]] lies unconscious
+
+---
+
+#### The Confrontation
+- **Spirit Appearance:**
+  - Behind table spirit of [[Info/Characters/Lagetha\|Lagetha]] appears
+  - Spirit starts to "decay" shriveling up into form of body on table
+  - As spirit starts speaking, sarcophagi opens up and 4 draugr walk out
+
+- **Combat:**
+  - Combat starts
+  - After they kill everybody but [[Sven\|Sven]]:
+    - [[Info/Characters/Onasha\|Onasha]] shoves body off of altar
+    - Soul shrieks and disappears
+    - [[Sven\|Sven]] drops to knees
 
 ---
 
@@ -183,10 +243,11 @@ The session began with [[Info/Characters/Kirya\|Kirya]] returning to [[Info/Loca
   - Mirrors showed distorted versions of companions
   - [[Vigrod\|Vigrod]], [[Info/Characters/Onasha\|Onasha]], [[Info/Characters/Durov\|Durov]], [[Info/Characters/Kirya\|Kirya]] appeared hollow and soulless
   - Tried running in both directions - endless
-  - **Mirror Encounters:**
-    - [[Vigrod\|Vigrod]] with blackened, rotting eyes
-    - [[Info/Characters/Onasha\|Onasha]] saying "You abandoned us"
-  - Eventually ran straight into a mirror to escape
+	  - Eventually ran straight into a mirror in an attempt to escape
+		  - **Mirror Encounters:**
+		    - [[Vigrod\|Vigrod]] with blackened, rotting eyes
+		    - [[Info/Characters/Onasha\|Onasha]] saying "You abandoned us"
+		 
 
 #### Ritual Table
 - **Bound and Helpless:**
@@ -205,104 +266,7 @@ The session began with [[Info/Characters/Kirya\|Kirya]] returning to [[Info/Loca
 
 ---
 
-### Part 5: The Ritual Chamber (POV: Party)
-
-#### Kitchen Discovery
-- **Broad Room with Pillars:**
-  - Wooden ramp leading to second floor
-  - Small corridor to kitchen area
-- **Kitchen Investigation:**
-  - [[Info/Characters/Onasha\|Onasha]] found spell book in cupboards (unreadable)
-  - Charcoal writing on table: "Quote about making her whole again"
-  - Lever next to hearth - pulled by [[Info/Characters/Onasha\|Onasha]]
-  - [[Info/Characters/Víðir\|Víðir]] confirmed metal gate opened in previous room
-- **Ring Analysis:**
-  - [[Info/Characters/Kirya\|Kirya]] couldn't identify the ring
-  - [[Info/Characters/Durov\|Durov]] used smithing knowledge to identify as silver with garnet
-
-#### Upper Level
-- **Mummified Body:**
-  - Went up wooden ramp
-  - Led to room with smaller pillars surrounding open space
-  - On one of them in middle of room is a table and mummified body bound to table with braided hair
-  - Found strange metal tools near the body
-  - [[Info/Characters/Onasha\|Onasha]] recognized tools as old embalming tools and some tools for dissection
-  - Saw another portcullis (big metal gate)
-  - Behind one of pillars another lever, pulled the lever
-  - Gate opened up and led into large L-shaped corridor that leads downwards
-  - At end there's another door
-  - Went through door
-  - Past door, partially collapsed walkway
-  - Past it corridor continues but 3m gap they have to cross
-  - Left side past gap: another metal gate with chain you can pull
-  - Right side past gap: ramp leading to other side leading to walkway
-  - Group decided to lower themselves down into gap and walk over and climb back out
-  - Next to ramp another table with embalming tools, scattered as if dropped mid-use
-  - Right next to it another metal gate with chain to pull it, nearby another pillar with text: "Something about finding ether touched"
-  - Pulled chain, gate above them on walkway opened up, one in front stayed shut
-  - Chain next to gate up top opens gate below
-  - Went back down and went through gate below
-
-#### Corridor Splits
-- **Corridor splits, one goes left, other goes right**
-  - Went right, leads to larger room that used to be sleeping quarter
-  - [[Info/Characters/Kirya\|Kirya]] rummaged through closets and such, nothing of note
-  - On one of beds small necklace resting on pillow and dried out letter on different bed
-  - Letter half legible, not much readable
-  - "He spoke the words again last night, I felt them under my skin, we shouldn't be here, we shouldn't-"
-  - [[Info/Characters/Kirya\|Kirya]] took necklace with her, carved bone charm shaped like flower
-  - [[Info/Characters/Onasha\|Onasha]] took letter with her
-  - Next went to hall on left
-  - Corridor opens up into room, on floor of corridor pressure plate, group avoids trap (wall of spikes)
-  - At end of corridor past trap, empty table and door to left
-  - Door opens into narrow corridor with multiple rooms on each side
-  - First split, one left one right
-  - First checked right
-  - Enchanters room, shelves one with soul gem fragments, [[Info/Characters/Kirya\|Kirya]] took fragments (8 of them)
-  - Another shelf with ingredients: one dose of ectoplasm, 2 doses of firesalts
-  - On arcane enchanter note pinned by dagger: "It failed, the soul slipped away"
-  - [[Info/Characters/Onasha\|Onasha]] took note
-  - Next checked room left
-  - Alchemy room with ingredients, [[Info/Characters/Onasha\|Onasha]] and [[Info/Characters/Kirya\|Kirya]] took them
-  - Fully equipped alchemy gear
-  - One perfectly intact bottle, corked and clean with inside, perfume
-  - [[Info/Characters/Onasha\|Onasha]] took perfume with her
-
-#### Next Set of Rooms
-- **Left side first:**
-  - Torture room
-  - Rack with fresh leather straps on it, wording on wall next to it, lever next to it
-  - Wording on wall: "Not enough, not enough, not enough....."
-  - [[Info/Characters/Durov\|Durov]] asked everybody to leave room so he can pull lever without anybody else getting harmed
-  - Gate in corridor opened up
-- **Right side next:**
-  - Sleeping quarters
-  - Older than previous ones
-- **Went through gate:**
-  - Opens up into another room with potions and other random stuff laying around
-  - [[Info/Characters/Durov\|Durov]] took axe, [[Info/Characters/Onasha\|Onasha]] took random potions
-  - At end of room shelf with broke bow, 15 arrows and 30 coins
-  - [[Info/Characters/Kirya\|Kirya]] took arrows, [[Info/Characters/Onasha\|Onasha]] took coins
-
-#### Final Chamber
-- **Corridor continues on, leads to larger room:**
-  - Walls lined with sarcophagi, 2 left, 2 right
-  - Room blackened, burned almost
-  - One sarcophagus half open
-  - In middle shriveled body with mouth open on ritual table
-  - Next to it [[Info/Characters/Periwyn\|Periwyn]] lies unconscious
-
-#### The Confrontation
-- **Behind table spirit of [[Info/Characters/Lagetha\|Lagetha]] appears:**
-  - Spirit starts to "decay" shriveling up into form of body on table
-  - As spirit starts speaking, sarcophagi opens up and 4 draugr walk out
-- **Combat starts**
-- **After they kill everybody but [[Sven\|Sven]]:**
-  - [[Info/Characters/Onasha\|Onasha]] shoves body off of altar
-  - Soul shrieks and disappears
-  - [[Sven\|Sven]] drops to knees
-
-#### Arrival of Reinforcements
+### Part 5: Arrival of Reinforcements
 - **As [[Sven\|Sven]] falls to knees, footsteps heard from where group came from:**
   - [[Info/Characters/Adda\|Adda]] and [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]] come through
   - [[Info/Characters/Adda\|Adda]] speaks some magical words
@@ -335,12 +299,12 @@ The session began with [[Info/Characters/Kirya\|Kirya]] returning to [[Info/Loca
 - **They get on horses and head back to [[Info/Locations/Riften\|Riften]]**
 
 #### Cult of Ysmir Hall
-- **First stop is [[Cult of Ysmir\|Cult of Ysmir]] hall:**
+- **First stop is [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]] hall:**
   - [[Info/Characters/Periwyn\|Periwyn]] gets taken to back of hall
   - Gets placed on stone bed by [[Info/Characters/Víðir\|Víðir]] and few extra people walk up with candles to place next to her
   - [[Info/Characters/Kirya\|Kirya]] whispers something in [[Info/Characters/Periwyn\|Periwyn]]'s ear as she lays on stone bed
 - **[[Info/Characters/Adda\|Adda]] will send [[Info/Characters/Víðir\|Víðir]] and some others to make sure domain of [[Sven\|Sven]] and [[Info/Characters/Lagetha\|Lagetha]] will remain undisturbed from now on**
-- **[[Info/Characters/Adda\|Adda]] says party has earned their place in hall of [[Cult of Ysmir\|Cult of Ysmir]], they are always welcome here for anything**
+- **[[Info/Characters/Adda\|Adda]] says party has earned their place in hall of [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]], they are always welcome here for anything**
 
 #### Contract Completion
 - **Next stop is [[Info/Characters/Hadvar\|Hadvar]] at inn he was at last time to claim bounty:**
@@ -361,8 +325,8 @@ The session began with [[Info/Characters/Kirya\|Kirya]] returning to [[Info/Loca
   - [[Info/Characters/Kirya\|Kirya]] starts inhaling food
   - [[Info/Characters/Durov\|Durov]] has drink with [[Info/Characters/Bjorin\|Bjorin]]
   - Bottle each of Nord vodka, on the house
-- **[[Info/Characters/Kirya\|Kirya]] and [[Info/Characters/Onasha\|Onasha]] go back to hall of [[Cult of Ysmir\|Cult of Ysmir]] and eat more food**
-- **After [[Info/Characters/Bjorin\|Bjorin]] goes to bed, [[Info/Characters/Durov\|Durov]] heads back to hall of [[Cult of Ysmir\|Cult of Ysmir]] as well**
+- **[[Info/Characters/Kirya\|Kirya]] and [[Info/Characters/Onasha\|Onasha]] go back to hall of [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]] and eat more food**
+- **After [[Info/Characters/Bjorin\|Bjorin]] goes to bed, [[Info/Characters/Durov\|Durov]] heads back to hall of [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]] as well**
 
 ---
 
