@@ -4,7 +4,7 @@
 
 # Adda
 
-![Screenshot794.png](/img/user/Screenshot794.png)
+![Screenshot794 1.png](/img/user/Z%20-%20Image%20Assets/Screenshot794%201.png)
 
 ## Basic Information
 - **Occupation**: Shaman
