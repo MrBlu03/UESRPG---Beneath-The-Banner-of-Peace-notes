@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/info/characters/bjorin/"}
 ---
 
----
-Dg-home: false
-Dg-publish: true
----
-
 # Bjorin
 
 ## Description
