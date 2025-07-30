@@ -2,12 +2,16 @@
 {"dg-publish":true,"permalink":"/info/characters/bjorin/"}
 ---
 
+---
+Dg-home: false
+Dg-publish: true
+---
 
 # Bjorin
 
 ## Description
 
-<img src="Screenshot793.png" alt="Bjorin Portrait" width="177" height="177" style="float: right; margin-left: 10px; margin-bottom: 10px;"/>
+![Screenshot793.png|177x177](/img/user/Z%20-%20Image%20Assets/Screenshot793.png)
 
 [[Info/Characters/Bjorin\|Bjorin]] is the owner of the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]] inn in [[Info/Locations/Riften\|Riften]]. He is described as a large man.
 
