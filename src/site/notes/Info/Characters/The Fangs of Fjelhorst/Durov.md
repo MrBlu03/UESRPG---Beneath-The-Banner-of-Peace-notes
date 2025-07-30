@@ -4,6 +4,8 @@
 
 # Durov
 
+![Screenshot800.png](/img/user/Z%20-%20Image%20Assets/Screenshot800.png)
+
 ## Description
 [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] is a member of the party who notably always wears a helmet
 
