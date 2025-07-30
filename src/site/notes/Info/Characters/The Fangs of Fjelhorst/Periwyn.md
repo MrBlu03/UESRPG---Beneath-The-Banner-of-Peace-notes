@@ -4,7 +4,7 @@
 
 # Periwyn
 
-![Screenshot798.png](/img/user/Screenshot798.png)
+![Screenshot798.png](/img/user/Z%20-%20Image%20Assets/Screenshot798.png)
 
 ## Description
 [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] is a character with a tragic past involving vampires. She lost her family during the [[Night of Crimson Tears\|Night of Crimson Tears]] and subsequently trained with the [[Knights of Arkay\|Knights of Arkay]] to combat vampire threats.
