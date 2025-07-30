@@ -2,13 +2,14 @@
 {"dg-publish":true,"permalink":"/info/characters/bjorin/"}
 ---
 
+
 # Bjorin
 
 ## Description
-<img src="Screenshot793.png" alt="Bjorin" width="177" height="177" align="right" style="margin-left: 10px; margin-bottom: 10px;">
+
+<img src="Screenshot793.png" alt="Bjorin Portrait" width="177" height="177" style="float: right; margin-left: 10px; margin-bottom: 10px;"/>
 
 [[Info/Characters/Bjorin\|Bjorin]] is the owner of the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]] inn in [[Info/Locations/Riften\|Riften]]. He is described as a large man.
-
 
 ## Relationships
 - Father of [[Info/Characters/Astrid\|Astrid]], who helps run the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]]
