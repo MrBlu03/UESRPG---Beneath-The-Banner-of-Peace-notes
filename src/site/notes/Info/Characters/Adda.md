@@ -4,6 +4,8 @@
 
 # Adda
 
+![Screenshot794.png](/img/user/Screenshot794.png)
+
 ## Basic Information
 - **Occupation**: Shaman
 - **Organization**: [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
@@ -24,16 +26,16 @@ Shaman of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] currently in c
   - Should try to understand them
   - Presence unlike anything else in [[Info/Locations/Skyrim\|Skyrim]]
   - Spirits might be reasoned with, though swords might still be useful
-- Recognized [[Info/Characters/Periwyn\|Periwyn]] as the merchant's daughter
-- Told [[Info/Characters/Kirya\|Kirya]] her sister will come to her eventually
-- Explained the talking fox as spirits of nature taking interest in [[Info/Characters/Onasha\|Onasha]]
+- Recognized [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] as the merchant's daughter
+- Told [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] her sister will come to her eventually
+- Explained the talking fox as spirits of nature taking interest in [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]
 
 ## Relationships
 - **[[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]**: Shaman and current leader
 - **[[Info/Characters/Gjellir_Stormcrown\|Gjellir]]**: Usually leads the cult, currently away
-- **[[Info/Characters/Periwyn\|Periwyn]]**: Recognized her as the merchant's daughter
-- **[[Info/Characters/Kirya\|Kirya]]**: Provided spiritual guidance about her sister
-- **[[Info/Characters/Onasha\|Onasha]]**: Explained the talking fox's connection to her
+- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]**: Recognized her as the merchant's daughter
+- **[[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]]**: Provided spiritual guidance about her sister
+- **[[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]**: Explained the talking fox's connection to her
 
 ## Notes
 - Understands the nature of spirits and how to deal with them 
