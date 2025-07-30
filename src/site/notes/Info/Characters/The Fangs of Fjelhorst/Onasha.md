@@ -4,6 +4,8 @@
 
 # Onasha
 
+![Screenshot797.png](/img/user/Z%20-%20Image%20Assets/Screenshot797.png)
+
 ## Description
 [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] is a member of the party with an interest in alchemy, ingredients, and mysterious magical artifacts. She possesses a mysterious scroll written in the dragon language that appears to be connected to a secretive organization called the Blackfeather.
 
