@@ -3,7 +3,7 @@
 ---
 
 # Gjellir Stormcrown
-![Screenshot795.png](/img/user/Screenshot795.png)
+![Screenshot795 1.png](/img/user/Z%20-%20Image%20Assets/Screenshot795%201.png)
 ## Description
 [[Info/Characters/Gjellir_Stormcrown\|Gjellir Stormcrown]] is the Harbinger (leader) of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
 
