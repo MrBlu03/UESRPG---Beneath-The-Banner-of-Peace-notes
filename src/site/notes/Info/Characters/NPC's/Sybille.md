@@ -9,7 +9,7 @@
 - **Age:** Child
 - **Status:** Alive (in dream/vision)
 - **Location:** [[Info/Locations/Darnow Hollow\|Darnow Hollow]] grain mill
-- **First Appearance:** [[2 -  Sessions/Session 9 - 1 (Periwyn's slumber)\|Session 9 - 1 (Periwyn's slumber)]]
+- **First Appearance:** [[2 -  Sessions/Session 09-1 (Periwyn's slumber)\|Session 09-1 (Periwyn's slumber)]]
 
 ## Description
 - **Physical:** Small girl with straw-colored hair tangled at her shoulders
@@ -67,7 +67,7 @@
 
 ---
 **Related:**
-- [[2 -  Sessions/Session 9 - 1 (Periwyn's slumber)\|Session 9 - 1 (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 09-1 (Periwyn's slumber)\|Session 09-1 (Periwyn's slumber)]]
 - [[Info/Locations/Darnow Hollow\|Darnow Hollow]]
 - [[Info/Items/Child's Doll\|Child's Doll]]
 - [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]

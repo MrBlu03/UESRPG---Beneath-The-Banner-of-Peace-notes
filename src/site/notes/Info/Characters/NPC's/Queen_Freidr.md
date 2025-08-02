@@ -14,7 +14,7 @@
 - Authority over [[Info/Characters/NPC's/Harvold\|Harvold]], Captain of the [[Info/Locations/Riften\|Riften]] Guard
 
 ## Key Events
-- **[[2 -  Sessions/Session 4\|Session 4]]**: Tasked the party with investigating the frozen military keep at [[Info/Locations/Harmugstahl\|Harmugstahl]]
+- **[[2 -  Sessions/Session 04\|Session 04]]**: Tasked the party with investigating the frozen military keep at [[Info/Locations/Harmugstahl\|Harmugstahl]]
 
 ## Location
 - Royal residence in [[Info/Locations/Riften\|Riften]]

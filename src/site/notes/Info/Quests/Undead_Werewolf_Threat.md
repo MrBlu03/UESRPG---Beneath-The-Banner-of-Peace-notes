@@ -12,8 +12,8 @@ After [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s disturbing v
 **Active** - Awaiting further investigation
 
 ## Quest History
-- **Started**: [[2 -  Sessions/Session 7\|Session 7]] - Periwyn received a vision from the crimson orb showing undead werewolves
-- **Progress**: [[2 -  Sessions/Session 7\|Session 7]] - Reported findings to Queen Freidr who shared knowledge of past werewolf experimentation
+- **Started**: [[2 -  Sessions/Session 07\|Session 07]] - Periwyn received a vision from the crimson orb showing undead werewolves
+- **Progress**: [[2 -  Sessions/Session 07\|Session 07]] - Reported findings to Queen Freidr who shared knowledge of past werewolf experimentation
 
 ## Current Objectives
 - Wait for updates from [[Info/Characters/NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s investigation

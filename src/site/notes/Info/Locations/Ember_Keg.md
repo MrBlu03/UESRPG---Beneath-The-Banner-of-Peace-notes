@@ -38,5 +38,5 @@ No specific history is known at this time.
 No specific quests are currently associated with this location.
 
 ## Notes
-- First mentioned during [[2 -  Sessions/Session 7\|Session 7]] when the party returned from Greenwall
+- First mentioned during [[2 -  Sessions/Session 07\|Session 07]] when the party returned from Greenwall
 - Has a noticeboard that may provide quest opportunities

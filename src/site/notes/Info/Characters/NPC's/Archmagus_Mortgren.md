@@ -8,7 +8,7 @@
 [[Info/Characters/NPC's/Archmagus_Mortgren\|Archmagus Mortgren]] is a mage who appeared briefly in Riften. His exact affiliation and position are unknown. According to the mysterious figure in [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dream, he is much older than he appears and may be ancient.
 
 ## Key Events
-- **[[2 -  Sessions/Session 4\|Session 4]]**: 
+- **[[2 -  Sessions/Session 04\|Session 04]]**: 
   - Observed in conversation with Queen Freidr about a prophecy and scroll
   - Informed [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] that her black feather was of magical origin and should be kept
   - Departed for the ruins on top of the mountain, a few days south of Riften
@@ -17,7 +17,7 @@
 - Last known location: Heading to ruins south of Riften
 
 ## Notes
-- First seen at the start of [[2 -  Sessions/Session 4\|Session 4]] in conversation with [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]], discussing a prophecy and a scroll. He mentioned heading to Fjellhorst to investigate whether "those interred within hadn't awoken.
+- First seen at the start of [[2 -  Sessions/Session 04\|Session 04]] in conversation with [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]], discussing a prophecy and a scroll. He mentioned heading to Fjellhorst to investigate whether "those interred within hadn't awoken.
 - Has not been seen since his departure in Session 4
 
 ## Revelations from Session 9.5

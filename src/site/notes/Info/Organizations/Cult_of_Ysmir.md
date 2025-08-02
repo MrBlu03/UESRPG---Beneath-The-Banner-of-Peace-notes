@@ -22,7 +22,7 @@ The [[Cult of Ysmir\|Cult of Ysmir]] is an organization dedicated to fighting of
 - **Ancient Knowledge**: Understanding of Dragon Cult and ancient spirits
 
 ## Key Events
-- **[[2 -  Sessions/Session 9\|Session 9]]**: 
+- **[[2 -  Sessions/Session 09\|Session 09]]**: 
   - Successfully resolved the haunted lodge situation
   - [[Info/Characters/NPC's/Adda\|Adda]] destroyed the Dragon Priest controlling [[Sven\|Sven]]
   - Put [[Sven\|Sven]] and [[Info/Characters/NPC's/Lagetha\|Lagetha]] to rest after centuries of torment

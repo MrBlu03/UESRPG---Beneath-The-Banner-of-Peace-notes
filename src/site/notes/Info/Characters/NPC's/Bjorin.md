@@ -14,7 +14,7 @@
 - Father of [[Info/Characters/NPC's/Astrid\|Astrid]], who helps run the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]]
 
 ## Key Events
-- **[[2 -  Sessions/Session 2\|Session 2]]**: Served the party and merchants when they were treated to drinks at the inn
+- **[[2 -  Sessions/Session 02\|Session 02]]**: Served the party and merchants when they were treated to drinks at the inn
 
 ## Location
 - [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]] inn in [[Info/Locations/Riften\|Riften]]
