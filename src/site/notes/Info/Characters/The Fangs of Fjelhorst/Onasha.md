@@ -31,7 +31,7 @@
 ## Items of Interest
 - **Dragon Language Scroll**: A mysterious scroll containing a summoning ritual; turns to tar when burned
 - **Herbalist's Guide to Skyrim**: Book found in the Greenwall smuggler's tunnel
-- **[[Info/Items/Black Feather\|Black Feathers]]**: According to the Mysterious Figure in [[2 -  Sessions/Session 009.1 (Periwyn's slumber)\|Session 009.1 (Periwyn's slumber)]], [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] carries "another or two" black feathers similar to the one offered to [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+- **[[Info/Items/Black Feather\|Black Feathers]]**: According to the Mysterious Figure in [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]], [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] carries "another or two" black feathers similar to the one offered to [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 
 ## Connections
 - Has some knowledge or interest in necromancy, shared with [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]

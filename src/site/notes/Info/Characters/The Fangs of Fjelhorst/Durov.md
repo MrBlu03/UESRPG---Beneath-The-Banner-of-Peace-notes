@@ -24,4 +24,4 @@
 - Helmet (worn constantly)
 
 ## Party Dynamics
-- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s Assessment**: Described by [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to the Mysterious Figure in [[2 -  Sessions/Session 009.1 (Periwyn's slumber)\|Session 009.1 (Periwyn's slumber)]] as "Makes for a damn good meat shield" - indicating [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] values his combat utility and durability in dangerous situations
+- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s Assessment**: Described by [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to the Mysterious Figure in [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]] as "Makes for a damn good meat shield" - indicating [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] values his combat utility and durability in dangerous situations

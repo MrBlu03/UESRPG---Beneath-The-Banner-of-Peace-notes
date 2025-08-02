@@ -10,7 +10,7 @@
 - **Current Status:** Deceased (given final rest by [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]])
 - **Nature:** Vampire, but retains humanity and regret
 - **Location:** Chapel at [[Info/Locations/Darnell Hollow\|Darnell Hollow]] (in dreams)
-- **First Appearance:** [[2 -  Sessions/Session 009.1 (Periwyn's slumber)\|Session 009.1 (Periwyn's slumber)]]
+- **First Appearance:** [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]
 
 ## Description
 - **Physical:** Pale and sunken features, showing the toll of vampirism
@@ -84,7 +84,7 @@
 
 ---
 **Related:**
-- [[2 -  Sessions/Session 009.1 (Periwyn's slumber)\|Session 009.1 (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]
 - [[Info/Locations/Darnell Hollow\|Darnell Hollow]]
 - [[Info/Lore/Arkay\|Arkay]]
 - [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
