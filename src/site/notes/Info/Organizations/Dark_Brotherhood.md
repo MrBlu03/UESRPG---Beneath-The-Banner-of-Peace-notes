@@ -16,7 +16,7 @@ The Dark Brotherhood is a secretive organization of assassins who carry out cont
 - Connected to the deity [[Sithis\|Sithis]]
 
 ## Known Members
-- Unnamed Dunmer assassin: Encountered in Greenwall during [[2 -  Sessions/Session 06\|Session 06]], completed a contract for the party
+- Unnamed Dunmer assassin: Encountered in Greenwall during [[2 -  Sessions/Session 006\|Session 006]], completed a contract for the party
 
 ## Organization Structure
 - Highly secretive, full structure unknown
@@ -29,7 +29,7 @@ The Dark Brotherhood is a secretive organization of assassins who carry out cont
 - The assassin promised to return for payment at a later date
 
 ## Key Events
-- **[[2 -  Sessions/Session 06\|Session 06]]**: An assassin was summoned through the Black Sacrament ritual in Greenwall
+- **[[2 -  Sessions/Session 006\|Session 006]]**: An assassin was summoned through the Black Sacrament ritual in Greenwall
   - Successfully eliminated the vampire mage causing the magical darkness
   - Created a blood contract with [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]
   - Expressed interest in the party's story, promising to return

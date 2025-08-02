@@ -14,12 +14,12 @@
 - Lost family to vampires during the [[Night of Crimson Tears\|Night of Crimson Tears]]
 
 ## Key Events
-- **[[2 -  Sessions/Session 01\|Session 01]]**: Introduced as part of the party
-- **[[2 -  Sessions/Session 03\|Session 03]]**: Shared knowledge about vampire weaknesses
-- **[[2 -  Sessions/Session 04\|Session 04]]**: Provided critical information about [[Clan Volkihar\|Clan Volkihar]]
-- **[[2 -  Sessions/Session 05\|Session 05]]**: Experienced traumatic flashbacks when encountering scenes reminiscent of the [[Night of Crimson Tears\|Night of Crimson Tears]]
-- **[[2 -  Sessions/Session 06\|Session 06]]**: Revealed knowledge of necromancy to [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]
-- **[[2 -  Sessions/Session 07\|Session 07]]**: 
+- **[[2 -  Sessions/Session 001\|Session 001]]**: Introduced as part of the party
+- **[[2 -  Sessions/Session 003\|Session 003]]**: Shared knowledge about vampire weaknesses
+- **[[2 -  Sessions/Session 004\|Session 004]]**: Provided critical information about [[Clan Volkihar\|Clan Volkihar]]
+- **[[2 -  Sessions/Session 005\|Session 005]]**: Experienced traumatic flashbacks when encountering scenes reminiscent of the [[Night of Crimson Tears\|Night of Crimson Tears]]
+- **[[2 -  Sessions/Session 006\|Session 006]]**: Revealed knowledge of necromancy to [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]
+- **[[2 -  Sessions/Session 007\|Session 007]]**: 
   - Received a vision of undead werewolves after touching the crimson orb
   - Attempted and failed a necromancy ritual on a bird
   - Experienced [[vivid nightmares\|vivid nightmares]] showing her twin brother and mentor dying while blaming her
@@ -27,7 +27,7 @@
   - Identified the tortured man at Greenwall as [[Info/Characters/NPC's/Wuunferth\|Wuunferth]]
   - Suffered emotional trauma leading to withdrawal from the group and loss of appetite
   - Often woke clutching her silver dagger with the moonstone and matching pendant
-- **[[2 -  Sessions/Session 09\|Session 09]]**:
+- **[[2 -  Sessions/Session 009\|Session 009]]**:
   - Abducted by [[Sven\|Sven]] under Dragon Priest control
   - Subjected to ritual sacrifice attempt
   - Experienced traumatic visions and nightmares during captivity

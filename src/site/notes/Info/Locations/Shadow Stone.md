@@ -23,7 +23,7 @@ The [[Info/Locations/Shadow Stone\|Shadow Stone]] is an ancient Nordic standing 
 - Located in the southern woods near [[Info/Locations/Riften\|Riften]]
 
 ## Key Events
-- **[[2 -  Sessions/Session 03\|Session 03]]**: Mentioned by locals during the search for [[Info/Characters/NPC's/Alara\|Alara]]
+- **[[2 -  Sessions/Session 003\|Session 003]]**: Mentioned by locals during the search for [[Info/Characters/NPC's/Alara\|Alara]]
 
 ## Dangers
 - Area known for:

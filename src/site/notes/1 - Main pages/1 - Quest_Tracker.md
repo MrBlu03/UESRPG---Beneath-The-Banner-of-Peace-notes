@@ -9,7 +9,7 @@
 ## 🎯 Active Main Quests
 
 ### 🔮 Undead Werewolf Threat
-**Status**: Active ([[2 -  Sessions/Session 07\|Session 7]])  
+**Status**: Active ([[2 -  Sessions/Session 007\|Session 7]])  
 **Objective**: Investigate the connection between the crimson orb and undead werewolves
 
 **Key Tasks**:
@@ -24,7 +24,7 @@
 > *The vision showed undead werewolves that may be connected to past experiments in Western Skyrim*
 
 ### 🗡️ Dark Brotherhood Contract
-**Status**: Active ([[2 -  Sessions/Session 06\|Session 6]])  
+**Status**: Active ([[2 -  Sessions/Session 006\|Session 6]])  
 **Objective**: Deal with the contract created with the Dark Brotherhood assassin
 
 **Key Tasks**:
@@ -37,7 +37,7 @@
 > *Created when [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] signed a blood contract for eliminating the source of darkness in Greenwall*
 
 ### 🖤 [[Blackfeather Court Investigation\|Blackfeather Court Investigation]]
-**Status**: Active ([[2 -  Sessions/Session 07\|Session 07]])  
+**Status**: Active ([[2 -  Sessions/Session 007\|Session 007]])  
 **Objective**: Research the mysterious organization mentioned by the talking fox
 
 **Key Tasks**:
@@ -56,7 +56,7 @@
 > *The [[Talking Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
 
 ### 🏚️ Haunted Lodge Contract
-**Status**: Completed ([[2 -  Sessions/Session 09\|Session 09]])  
+**Status**: Completed ([[2 -  Sessions/Session 009\|Session 009]])  
 **Objective**: Clear the haunting at [[Info/Characters/NPC's/Hadvar\|Hadvar]]'s hunting lodge for 400 gold reward
 
 **Key Tasks**:
@@ -83,7 +83,7 @@
 ## 👤 Personal Quests
 
 ### ⚔️ [[Periwyn's Vampire Hunter Search\|Periwyn's Vampire Hunter Search]]
-**Status**: Active ([[2 -  Sessions/Session 07\|Session 07]])  
+**Status**: Active ([[2 -  Sessions/Session 007\|Session 007]])  
 **Target**: [[Info/Characters/NPC's/Wuunferth\|Wuunferth]] in [[Info/Locations/Mistwatch\|Mistwatch]]  
 
 **Key Tasks**:
@@ -94,7 +94,7 @@
 > *[[Info/Characters/NPC's/Hillevi\|Hillevi]] has taken [[Info/Characters/NPC's/Wuunferth\|Wuunferth]] to Mistwatch for healing*
 
 ### 🔥 [[Malacath's Interest in Periwyn\|Malacath's Interest in Periwyn]]
-**Status**: Active ([[2 -  Sessions/Session 07\|Session 07]])  
+**Status**: Active ([[2 -  Sessions/Session 007\|Session 007]])  
 **Objective**: Discover why the Daedric Prince is targeting Periwyn through dreams
 
 **Key Tasks**:
@@ -113,7 +113,7 @@
 ## 🔍 Investigation Quests
 
 ### 🐍 [[Coiled Serpent Mystery\|Coiled Serpent Mystery]]
-**Status**: Active ([[2 -  Sessions/Session 02\|Session 02]])
+**Status**: Active ([[2 -  Sessions/Session 002\|Session 002]])
 
 **Current Leads**:
 - Symbol at [[Snow-Shod Dam\|Snow-Shod Dam]]
@@ -121,7 +121,7 @@
 - Link to [[Adrith Velan\|Adrith Velan]]'s murder
 
 ### ⚗️ [[Poisoned Dunmer Case\|Poisoned Dunmer Case]]
-**Status**: Active ([[2 -  Sessions/Session 03\|Session 03]])
+**Status**: Active ([[2 -  Sessions/Session 003\|Session 003]])
 
 **Poison Components**:
 - 🧪 Vampire dust (silver-killed vampires)
@@ -131,7 +131,7 @@
 > *Perpetrator likely has [[Nocturnal Realm\|Nocturnal Realm]] access*
 
 ### 📜 [[Burnt Paper Reconstruction\|Burnt Paper Reconstruction]]
-**Status**: Pending ([[2 -  Sessions/Session 02\|Session 02]])  
+**Status**: Pending ([[2 -  Sessions/Session 002\|Session 002]])  
 **Lead**: [[Info/Locations/Winterhold\|Winterhold]] mages  
 **Note**: Requires advanced magic
 
@@ -140,7 +140,7 @@
 ## ✅ Recently Completed
 
 ### 🏚️ Haunted Lodge Contract
-**Completed**: [[2 -  Sessions/Session 09\|Session 09]]  
+**Completed**: [[2 -  Sessions/Session 009\|Session 009]]  
 **Reward**: 400 gold each  
 **Outcome**: Successfully cleared the haunting and rescued [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 
@@ -153,7 +153,7 @@
 - [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] successfully negotiated double payment from [[Info/Characters/NPC's/Hadvar\|Hadvar]]
 
 ### 🏰 Return to Riften
-**Completed**: [[2 -  Sessions/Session 07\|Session 7]]  
+**Completed**: [[2 -  Sessions/Session 007\|Session 7]]  
 **Reward**: 250 gold each  
 **Outcome**: Successfully reported to [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]] about Greenwall
 
@@ -164,7 +164,7 @@
 - The Queen promised to involve the High King and Mages Guild
 
 ### 🌑 Dispel the Darkness
-**Completed**: [[2 -  Sessions/Session 06\|Session 6]]  
+**Completed**: [[2 -  Sessions/Session 006\|Session 6]]  
 **Outcome**: The magical darkness over Greenwall has been lifted
 
 **Details**:
@@ -174,7 +174,7 @@
 - Found ritual altar to [[Molag Bal\|Molag Bal]] with a crimson orb
 
 ### 👑 Fangs of Fjelhorst
-**Completed**: [[2 -  Sessions/Session 04\|Session 4]]  
+**Completed**: [[2 -  Sessions/Session 004\|Session 4]]  
 **Outcome**: Accepted [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]]'s offer to become her special hunters
 
 **Details**:
@@ -186,7 +186,7 @@
 > *Offered and accepted after Harmugstahl success*
 
 ### Harmugstahl Investigation ❄️
-**Completed**: [[2 -  Sessions/Session 04\|Session 4]]  
+**Completed**: [[2 -  Sessions/Session 004\|Session 4]]  
 **Reward**: 400 gold each
 
 **Key Findings**:
@@ -197,12 +197,12 @@
 - [[Coiled Serpent\|Coiled Serpent]] connection
 
 ### [[Find Missing Alchemist\|Find Missing Alchemist]] 🌿
-**Completed**: [[2 -  Sessions/Session 03\|Session 03]]  
+**Completed**: [[2 -  Sessions/Session 003\|Session 003]]  
 **Reward**: 50 gold each  
 **Outcome**: Found [[Info/Characters/NPC's/Alara\|Alara]] safe with spriggan
 
 ### [[Treva's Bend\|Treva's Bend]] Aid 💧
-**Completed**: [[2 -  Sessions/Session 02\|Session 02]]  
+**Completed**: [[2 -  Sessions/Session 002\|Session 002]]  
 **Reward**: 250 gold total (50 from Aldermen, 200 from [[Queen\|Queen]])
 
 ---
@@ -242,22 +242,22 @@
 |🔴 Crimson Orb|Greenwall keep (still inside)|Connection to [[Molag Bal\|Molag Bal]], resists physical/magical attacks|
 |📜 Dragon Language Scroll|[[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]|Summoning ritual, connected to the Blackfeather|
 |💰 250 Gold Each|[[Queen Freidr\|Queen Freidr]]|Reward for clearing Greenwall|
-|🗺️ Lodge Area Map|[[2 -  Sessions/Session 08\|Session 08]]|[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s detailed map including wyrd kern and hunter's corpse|
-|🎭 Strange Metal Mask|[[2 -  Sessions/Session 08\|Session 08]]|Found in locked chest, sketched for court mage examination|
-|💰 Pouch of Unidentified Coins|[[2 -  Sessions/Session 08\|Session 08]]|Found with the mask|
-|💀 Lagetha's Head|[[2 -  Sessions/Session 08\|Session 08]]|Retrieved from the well by [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]|
-|📿 Lagetha's Necklace|[[2 -  Sessions/Session 08\|Session 08]]|Found in the well, given to her by [[Sven\|Sven]]|
-|📦 Tiny Lock Box|[[2 -  Sessions/Session 08\|Session 08]]|Found in the well|
-|📜 Nordic Parchment|[[2 -  Sessions/Session 08\|Session 08]]|Excerpt from [[Sven\|Sven]]'s journal explaining his ritual|
-|🎭 Dragon Cult Mask|[[2 -  Sessions/Session 09\|Session 09]]|Retrieved from ritual chamber, Dragon Cult artifact|
-|💰 400 Gold Each|[[2 -  Sessions/Session 09\|Session 09]]|Final reward from [[Info/Characters/NPC's/Hadvar\|Hadvar]] (doubled)|
-|📚 Spell Book|[[2 -  Sessions/Session 09\|Session 09]]|Found in barrow kitchen, unreadable|
-|💍 Silver Ring with Garnet|[[2 -  Sessions/Session 09\|Session 09]]|Found on pedestal, real gemstone|
-|🦴 Carved Bone Charm (Flower)|[[2 -  Sessions/Session 09\|Session 09]]|Necklace found in sleeping quarters|
-|📜 Disturbing Letter|[[2 -  Sessions/Session 09\|Session 09]]|Message about feeling words under skin|
-|💎 Soul Gem Fragments (8)|[[2 -  Sessions/Session 09\|Session 09]]|Found near arcane enchanter|
-|🧪 Ectoplasm (1 dose)|[[2 -  Sessions/Session 09\|Session 09]]|Alchemical ingredient|
-|🔥 Firesalts (2 doses)|[[2 -  Sessions/Session 09\|Session 09]]|Alchemical ingredient|
-|🌸 Perfume Bottle|[[2 -  Sessions/Session 09\|Session 09]]|Perfectly intact, found in alchemy room|
-|🗡️ Ornate Axe|[[2 -  Sessions/Session 09\|Session 09]]|Found with skeletal remains|
-|🏹 Broken Bow + 15 Arrows| [[2 -  Sessions/Session 09\|Session 09]] |Found in final chamber|
+|🗺️ Lodge Area Map|[[2 -  Sessions/Session 008\|Session 008]]|[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s detailed map including wyrd kern and hunter's corpse|
+|🎭 Strange Metal Mask|[[2 -  Sessions/Session 008\|Session 008]]|Found in locked chest, sketched for court mage examination|
+|💰 Pouch of Unidentified Coins|[[2 -  Sessions/Session 008\|Session 008]]|Found with the mask|
+|💀 Lagetha's Head|[[2 -  Sessions/Session 008\|Session 008]]|Retrieved from the well by [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]|
+|📿 Lagetha's Necklace|[[2 -  Sessions/Session 008\|Session 008]]|Found in the well, given to her by [[Sven\|Sven]]|
+|📦 Tiny Lock Box|[[2 -  Sessions/Session 008\|Session 008]]|Found in the well|
+|📜 Nordic Parchment|[[2 -  Sessions/Session 008\|Session 008]]|Excerpt from [[Sven\|Sven]]'s journal explaining his ritual|
+|🎭 Dragon Cult Mask|[[2 -  Sessions/Session 009\|Session 009]]|Retrieved from ritual chamber, Dragon Cult artifact|
+|💰 400 Gold Each|[[2 -  Sessions/Session 009\|Session 009]]|Final reward from [[Info/Characters/NPC's/Hadvar\|Hadvar]] (doubled)|
+|📚 Spell Book|[[2 -  Sessions/Session 009\|Session 009]]|Found in barrow kitchen, unreadable|
+|💍 Silver Ring with Garnet|[[2 -  Sessions/Session 009\|Session 009]]|Found on pedestal, real gemstone|
+|🦴 Carved Bone Charm (Flower)|[[2 -  Sessions/Session 009\|Session 009]]|Necklace found in sleeping quarters|
+|📜 Disturbing Letter|[[2 -  Sessions/Session 009\|Session 009]]|Message about feeling words under skin|
+|💎 Soul Gem Fragments (8)|[[2 -  Sessions/Session 009\|Session 009]]|Found near arcane enchanter|
+|🧪 Ectoplasm (1 dose)|[[2 -  Sessions/Session 009\|Session 009]]|Alchemical ingredient|
+|🔥 Firesalts (2 doses)|[[2 -  Sessions/Session 009\|Session 009]]|Alchemical ingredient|
+|🌸 Perfume Bottle|[[2 -  Sessions/Session 009\|Session 009]]|Perfectly intact, found in alchemy room|
+|🗡️ Ornate Axe|[[2 -  Sessions/Session 009\|Session 009]]|Found with skeletal remains|
+|🏹 Broken Bow + 15 Arrows| [[2 -  Sessions/Session 009\|Session 009]] |Found in final chamber|

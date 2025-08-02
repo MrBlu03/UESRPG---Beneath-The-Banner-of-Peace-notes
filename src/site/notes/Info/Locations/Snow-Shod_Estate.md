@@ -14,7 +14,7 @@
 - Site where [[Info/Characters/NPC's/Adrith_Velan\|Adrith Velan]] was found deceased
 
 ## Events
-- **[[2 -  Sessions/Session 02\|Session 02]]**: The party investigated the sabotaged dam at the estate
+- **[[2 -  Sessions/Session 002\|Session 002]]**: The party investigated the sabotaged dam at the estate
   - Found the body of [[Info/Characters/NPC's/Adrith_Velan\|Adrith Velan]] near the dam
   - Discovered evidence linking the sabotage to the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]
 

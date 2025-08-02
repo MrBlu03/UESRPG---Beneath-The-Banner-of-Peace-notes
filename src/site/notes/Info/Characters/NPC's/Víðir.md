@@ -24,7 +24,7 @@ An older and colder presence than [[Sven\|Sven]] and [[Info/Characters/NPC's/Lag
 - **Healing Arts**: Assisted with [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s care
 
 ## Key Events
-- **[[2 -  Sessions/Session 09\|Session 09]]**: 
+- **[[2 -  Sessions/Session 009\|Session 009]]**: 
   - Brought by [[Info/Characters/NPC's/Adda\|Adda]] to help with the lodge haunting
   - Assisted in the rescue mission
   - Helped place [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] on stone bed for healing

@@ -15,10 +15,10 @@
 - Site of a Black Sacrament ritual that summoned the Dark Brotherhood
 
 ## Key Events
-- **[[2 -  Sessions/Session 03\|Session 03]]**: [[Info/Characters/NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] discussed the magical darkness around [[Info/Locations/Greenwall\|Greenwall]] and its possible vampire connections
-- **[[2 -  Sessions/Session 04\|Session 04]]**: The party learned more details about [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] and their potential connection to [[Info/Locations/Greenwall\|Greenwall]]
-- **[[2 -  Sessions/Session 05\|Session 05]]**: The party prepared for and began their journey to [[Info/Locations/Greenwall\|Greenwall]], discovering the [[Info/Organizations/Companions\|Companions]] war camp had been devastated by vampires
-- **[[2 -  Sessions/Session 06\|Session 06]]**: The party infiltrated Greenwall, found evidence of vampire activity, contracted the Dark Brotherhood to eliminate the source of darkness, and discovered a ritual altar to Molag Bal with a crimson orb in the keep
+- **[[2 -  Sessions/Session 003\|Session 003]]**: [[Info/Characters/NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] discussed the magical darkness around [[Info/Locations/Greenwall\|Greenwall]] and its possible vampire connections
+- **[[2 -  Sessions/Session 004\|Session 004]]**: The party learned more details about [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] and their potential connection to [[Info/Locations/Greenwall\|Greenwall]]
+- **[[2 -  Sessions/Session 005\|Session 005]]**: The party prepared for and began their journey to [[Info/Locations/Greenwall\|Greenwall]], discovering the [[Info/Organizations/Companions\|Companions]] war camp had been devastated by vampires
+- **[[2 -  Sessions/Session 006\|Session 006]]**: The party infiltrated Greenwall, found evidence of vampire activity, contracted the Dark Brotherhood to eliminate the source of darkness, and discovered a ritual altar to Molag Bal with a crimson orb in the keep
 
 ## Important Locations
 - **Keep**: Contains an altar to [[Molag Bal\|Molag Bal]] with a crimson orb and was the center of vampire activity

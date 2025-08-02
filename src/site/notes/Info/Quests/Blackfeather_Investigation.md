@@ -12,7 +12,7 @@ After encountering a mysterious [[Info/Characters/NPC's/Talking_Fox\|Talking Fox
 **Active** - In early investigation stage
 
 ## Quest History
-- **Started**: [[2 -  Sessions/Session 07\|Session 07]] - The Talking Fox revealed information about the Blackfeather organization
+- **Started**: [[2 -  Sessions/Session 007\|Session 007]] - The Talking Fox revealed information about the Blackfeather organization
 
 ## Current Objectives
 - Research what or who the "Blackfeather Court" might be

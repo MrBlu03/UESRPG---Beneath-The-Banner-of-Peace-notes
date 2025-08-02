@@ -9,7 +9,7 @@
 - **Status:** Unmade/Destroyed by the Mysterious Figure
 - **Nature:** Seductive supernatural entity, possibly vampire or similar creature
 - **Location:** [[Info/Locations/Darnow Hollow\|Darnow Hollow]] manor ballroom (in dreams)
-- **First Appearance:** [[2 -  Sessions/Session 09-1 (Periwyn's slumber)\|Session 09-1 (Periwyn's slumber)]]
+- **First Appearance:** [[2 -  Sessions/Session 009-1 (Periwyn's slumber)\|Session 009-1 (Periwyn's slumber)]]
 
 ## Description
 - **Physical:** Pale, beautiful woman wrapped in noble silks that hang like mourning veils
@@ -87,7 +87,7 @@
 
 ---
 **Related:**
-- [[2 -  Sessions/Session 09-1 (Periwyn's slumber)\|Session 09-1 (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 009-1 (Periwyn's slumber)\|Session 009-1 (Periwyn's slumber)]]
 - [[Info/Locations/Darnow Hollow\|Darnow Hollow]]
 - [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 - [[Info/Characters/NPC's/Gareth\|Gareth]] 

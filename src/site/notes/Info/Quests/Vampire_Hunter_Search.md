@@ -11,9 +11,9 @@
 **Active** - Target found but not yet spoken with
 
 ## Quest History
-- **Started**: [[2 -  Sessions/Session 03\|Session 03]] - Periwyn learned from [[Info/Characters/NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] that Wuunferth was trapped in Greenwall
-- **Progress**: [[2 -  Sessions/Session 06\|Session 06]] - The party found a man being tortured at a ritual altar in Greenwall Keep
-- **Update**: [[2 -  Sessions/Session 07\|Session 07]] - The victim was identified as Wuunferth and taken to Mistwatch for recovery
+- **Started**: [[2 -  Sessions/Session 003\|Session 003]] - Periwyn learned from [[Info/Characters/NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] that Wuunferth was trapped in Greenwall
+- **Progress**: [[2 -  Sessions/Session 006\|Session 006]] - The party found a man being tortured at a ritual altar in Greenwall Keep
+- **Update**: [[2 -  Sessions/Session 007\|Session 007]] - The victim was identified as Wuunferth and taken to Mistwatch for recovery
 
 ## Current Objectives
 - Wait for the snow to melt to visit [[Info/Characters/NPC's/Wuunferth\|Wuunferth]] at [[Info/Locations/Mistwatch\|Mistwatch]]

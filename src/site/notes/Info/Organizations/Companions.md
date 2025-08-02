@@ -33,9 +33,9 @@ The [[Info/Organizations/Companions\|Companions]] are a group of Nord warriors w
 - Attempting to coordinate military actions against the vampires
 
 ## Key Events
-- **[[2 -  Sessions/Session 05\|Session 05]]**: Their war camp was devastated by vampires
+- **[[2 -  Sessions/Session 005\|Session 005]]**: Their war camp was devastated by vampires
 - Regiment under Vigrod Wraithbane suffered heavy losses
-- **[[2 -  Sessions/Session 06\|Session 06]]**: Provided trebuchet fire as a distraction while the party infiltrated Greenwall
+- **[[2 -  Sessions/Session 006\|Session 006]]**: Provided trebuchet fire as a distraction while the party infiltrated Greenwall
 - Lost two members (Beitild and Olen) during the attack
 - Assisted in lifting the vampire's darkness from Greenwall
 

@@ -13,11 +13,11 @@
 - Located near [[Info/Locations/Riften\|Riften]]
 
 ## Events
-- **[[2 -  Sessions/Session 01\|Session 01]]**: 
+- **[[2 -  Sessions/Session 001\|Session 001]]**: 
   - Party discovered the riverbed was muddy and drier than normal, with a smell of rotting fish
   - Learned that upstream farmers had set up a water dam
   - A stranger had offered help with the dam issue to the alderman
-- **[[2 -  Sessions/Session 02\|Session 02]]**: 
+- **[[2 -  Sessions/Session 002\|Session 002]]**: 
   - Party investigated tensions between the fishermen of [[Info/Locations/Trevas_Bend\|Treva's Bend]] and [[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]]
   - Discovered that [[Info/Characters/NPC's/Adrith_Velan\|Adrith Velan]] had been involved in sabotaging the dam
   - Restored dam functionality, improving water levels

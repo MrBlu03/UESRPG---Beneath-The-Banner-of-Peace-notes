@@ -8,7 +8,7 @@
 [[Eirik the Quick\|Eirik the Quick]] is a messenger who moves way quicker than he has any right to.
 
 ## Key Events
-- **[[2 -  Sessions/Session 09\|Session 09]]**: Spotted speeding through [[Info/Locations/Riften\|Riften]] - "No one has seen him stand still... can he?"
+- **[[2 -  Sessions/Session 009\|Session 009]]**: Spotted speeding through [[Info/Locations/Riften\|Riften]] - "No one has seen him stand still... can he?"
 
 ## Notes
 - Known for his incredible speed

@@ -29,8 +29,8 @@ Well-dressed man who looks too wealthy to be a local. Often seen with his boots 
 - **Payment**: Initially offered 200 gold each, but was intimidated by [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] into paying 400 gold each
 
 ## Key Events
-- **[[2 -  Sessions/Session 08\|Session 08]]**: Offered contract to clear the haunting
-- **[[2 -  Sessions/Session 09\|Session 09]]**: 
+- **[[2 -  Sessions/Session 008\|Session 008]]**: Offered contract to clear the haunting
+- **[[2 -  Sessions/Session 009\|Session 009]]**: 
   - Contract successfully completed
   - Intimidated by [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] into doubling the payment
   - Passed out drunk after payment

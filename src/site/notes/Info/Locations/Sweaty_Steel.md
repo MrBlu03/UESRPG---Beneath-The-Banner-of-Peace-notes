@@ -17,7 +17,7 @@
 - **[[Info/Characters/NPC's/Bjorn\|Bjorn]]**: Svana's brother, works as the blacksmith
 
 ## Key Events
-- **[[2 -  Sessions/Session 03\|Session 03]]**: The party visited to sell a sword
+- **[[2 -  Sessions/Session 003\|Session 003]]**: The party visited to sell a sword
 
 ## Notes
 - Notable for having both a vendor and a dedicated smith

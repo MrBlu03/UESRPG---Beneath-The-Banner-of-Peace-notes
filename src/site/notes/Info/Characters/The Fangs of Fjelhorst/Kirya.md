@@ -15,18 +15,18 @@
 - Fears losing her current companions as she lost her sister
 
 ## Key Events
-- **[[2 -  Sessions/Session 02\|Session 02]]**: Helped with diplomatic reporting to [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]]
-- **[[2 -  Sessions/Session 03\|Session 03]]**: Successfully tracked [[Info/Characters/NPC's/Alara\|Alara]]'s trail in the southern woods
-- **[[2 -  Sessions/Session 04\|Session 04]]**: 
+- **[[2 -  Sessions/Session 002\|Session 002]]**: Helped with diplomatic reporting to [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]]
+- **[[2 -  Sessions/Session 003\|Session 003]]**: Successfully tracked [[Info/Characters/NPC's/Alara\|Alara]]'s trail in the southern woods
+- **[[2 -  Sessions/Session 004\|Session 004]]**: 
   - Purchased 50 silver arrows for vampire hunting
-- **[[2 -  Sessions/Session 05\|Session 05]]**: 
+- **[[2 -  Sessions/Session 005\|Session 005]]**: 
   - Assigned guard duty during journey to [[Info/Locations/Greenwall\|Greenwall]]
   - Questioned by [[Info/Characters/NPC's/Beitild\|Beitild]] about travels as a Khajiit
-- **[[2 -  Sessions/Session 06\|Session 06]]**: 
+- **[[2 -  Sessions/Session 006\|Session 006]]**: 
   - Demonstrated lock-picking skills at the Greenwall inn
   - Helped explore the town and keep
   - Placed flowers on the funeral pyre for [[Info/Characters/NPC's/Olen\|Olen]] and [[Info/Characters/NPC's/Beitild\|Beitild]]
-- **[[2 -  Sessions/Session 07\|Session 07]]**: 
+- **[[2 -  Sessions/Session 007\|Session 007]]**: 
   - Revealed backstory about losing her sister
   - Expressed feelings of betrayal over [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s secretive necromancy experiment
   - Maintained silence toward them for most of the journey back to Riften
@@ -40,5 +40,5 @@
 - Betting on tavern brawls (has done this multiple times)
 
 ## Party Dynamics
-- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s Assessment**: Described by [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to the Mysterious Figure in [[2 -  Sessions/Session 09-1 (Periwyn's slumber)\|Session 09-1 (Periwyn's slumber)]] as "Steals things, saves my skin more times than I'd like to admit" - indicating [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] acknowledges [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]]'s thievery skills while recognizing her value as a reliable ally who has repeatedly protected the party
+- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s Assessment**: Described by [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to the Mysterious Figure in [[2 -  Sessions/Session 009-1 (Periwyn's slumber)\|Session 009-1 (Periwyn's slumber)]] as "Steals things, saves my skin more times than I'd like to admit" - indicating [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] acknowledges [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]]'s thievery skills while recognizing her value as a reliable ally who has repeatedly protected the party
 
