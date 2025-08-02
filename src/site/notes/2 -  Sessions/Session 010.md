@@ -68,6 +68,8 @@ After hours of forest travel, they reach the clearing and establish camp.
 - [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] successfully brings down the stag after multiple shots, claiming antlers worth ~100 gold
 - [[Info/Characters/NPC's/Alara\|Alara]] prepares stew while [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] sketches the scenery and journals her visions
 
+![drawing made during session 10.png](/img/user/Z%20-%20Image%20Assets/drawing%20made%20during%20session%2010.png)
+
 **Evening Conversations:**
 
 [[Info/Characters/NPC's/Alara\|Alara]] discusses her spriggan friend and asks [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] about her tribal connections. [[Info/Characters/NPC's/Astrid\|Astrid]] shares her background: raised by [[Info/Characters/NPC's/Bjorin\|Bjorin]] alone after her mother died in a war attack that collapsed a wall. She reveals keeping secret records of interesting inn visitors, including a man who spoke of dragons returning ~14 years ago. [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] confirms dragons have returned and killed her father.
@@ -94,6 +96,8 @@ The hunting party expands to include [[Info/Characters/The Fangs of Fjelhorst/Ki
 **Art and Reflection:**
 
 [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] sketches [[Info/Characters/NPC's/Gareth\|Gareth]] as she saw him in her visions. That evening, [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] observes her drawing, prompting [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to open up about seeing [[Info/Characters/NPC's/Gareth\|Gareth]] in her coma, their relationship, and having to kill him.
+
+![Gareth drawing based on coma visions.png](/img/user/Z%20-%20Image%20Assets/Gareth%20drawing%20based%20on%20coma%20visions.png)
 
 The hunting expedition yields 11 rations per party member.
 
