@@ -110,7 +110,7 @@
 	- Out comes a khajit, and stands near durov and bjorin (M'aiq)
 	- He starts rambling about random things
 	- Then says hes tired and asks to be left alone
-	- 
+	- Then leaves (weird dude)
 ## Detailed Recap
 - Detailed account of what happened during the session, including key decisions, battles, and discoveries.
 
