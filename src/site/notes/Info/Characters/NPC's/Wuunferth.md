@@ -14,7 +14,7 @@
 - Currently recovering at [[Info/Locations/Mistwatch\|Mistwatch]] under [[Info/Characters/NPC's/Hillevi\|Hillevi]]'s care
 
 ## Key Events
-- **[[2 -  Sessions/Session 002-1 (downtime)\|Session 2-1]]**: First mentioned during discussion with [[Info/Characters/NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]]
+- **[[2 -  Sessions/Session 002.1 (downtime)\|Session 2-1]]**: First mentioned during discussion with [[Info/Characters/NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]]
 - **[[2 -  Sessions/Session 003\|Session 003]]**: Discovered to be trapped in [[Info/Locations/Greenwall\|Greenwall]]
 - **[[2 -  Sessions/Session 006\|Session 006]]**: Found suspended above a ritual altar to [[Molag Bal\|Molag Bal]] in Greenwall Keep, barely alive
 - **[[2 -  Sessions/Session 007\|Session 007]]**: Identified by the party and taken to [[Info/Locations/Mistwatch\|Mistwatch]] by [[Info/Characters/NPC's/Hillevi\|Hillevi]] for medical attention

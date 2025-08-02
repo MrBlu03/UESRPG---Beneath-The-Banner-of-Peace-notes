@@ -10,7 +10,7 @@
 - **Status:** Deserted and sealed off
 - **Location:** Atop a hill, accessible by a familiar road
 - **Significance:** Former contract location for [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]], site of her transformative dream vision
-- **First Appearance:** [[2 -  Sessions/Session 009-1 (Periwyn's slumber)\|Session 009-1 (Periwyn's slumber)]]
+- **First Appearance:** [[2 -  Sessions/Session 009.1 (Periwyn's slumber)\|Session 009.1 (Periwyn's slumber)]]
 
 ## Description
 - **Overall:** Once grand manor, now crumbling yet retaining regal bearing
@@ -154,7 +154,7 @@
 
 ---
 **Related:**
-- [[2 -  Sessions/Session 009-1 (Periwyn's slumber)\|Session 009-1 (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 009.1 (Periwyn's slumber)\|Session 009.1 (Periwyn's slumber)]]
 - [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 - [[Info/Characters/NPC's/Gareth\|Gareth]]
 - [[Info/Characters/NPC's/Lady Elaris\|Lady Elaris]]

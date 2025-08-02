@@ -8,7 +8,7 @@
 - **Name:** Unknown (referred to as "The Elderly Woman")
 - **Status:** Appears only in dreams/visions
 - **Location:** [[Info/Locations/Darnell Hollow\|Darnell Hollow]] manor grounds
-- **First Appearance:** [[2 -  Sessions/Session 009-1 (Periwyn's slumber)\|Session 009-1 (Periwyn's slumber)]]
+- **First Appearance:** [[2 -  Sessions/Session 009.1 (Periwyn's slumber)\|Session 009.1 (Periwyn's slumber)]]
 
 ## Description
 - **Physical:** Elderly woman with cloudy eyes that are sharp with pain
@@ -37,6 +37,6 @@
 
 ---
 **Related:**
-- [[2 -  Sessions/Session 009-1 (Periwyn's slumber)\|Session 009-1 (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 009.1 (Periwyn's slumber)\|Session 009.1 (Periwyn's slumber)]]
 - [[Info/Locations/Darnell Hollow\|Darnell Hollow]]
 - [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] 
