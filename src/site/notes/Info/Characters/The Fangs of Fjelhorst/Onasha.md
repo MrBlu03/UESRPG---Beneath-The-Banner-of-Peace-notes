@@ -22,11 +22,11 @@
   - Learned about [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s knowledge of necromancy
 - **[[2 -  Sessions/Session 7\|Session 7]]**: 
   - Encouraged [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to attempt necromancy on a bird (which failed)
-  - Had her mysterious scroll translated by a [[Info/Characters/Talking_Fox\|Talking Fox]]
+  - Had her mysterious scroll translated by a [[Info/Characters/NPC's/Talking_Fox\|Talking Fox]]
   - Learned the scroll is a summoning ritual connected to the [[Info/Organizations/Blackfeather\|Blackfeather]]
   - Experienced dread during the scroll translation
   - Showed concern for [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s wellbeing during the journey
-  - Delivered the news to [[Info/Characters/Alara\|Alara]] about her family's fate in Greenwall
+  - Delivered the news to [[Info/Characters/NPC's/Alara\|Alara]] about her family's fate in Greenwall
 
 ## Items of Interest
 - **Dragon Language Scroll**: A mysterious scroll containing a summoning ritual; turns to tar when burned
@@ -35,7 +35,7 @@
 
 ## Connections
 - Has some knowledge or interest in necromancy, shared with [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
-- Encountered a [[Info/Characters/Talking_Fox\|Talking Fox]] that could translate dragon language
+- Encountered a [[Info/Characters/NPC's/Talking_Fox\|Talking Fox]] that could translate dragon language
 - Possible unknown connection to the [[Info/Organizations/Blackfeather\|Blackfeather]] organization
 - **Mysterious Connection**: The enigmatic figure in [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dream suggests [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] possesses multiple [[Info/Items/Black Feather\|black feathers]], hinting at deeper supernatural connections
 

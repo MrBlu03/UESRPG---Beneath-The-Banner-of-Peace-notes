@@ -16,13 +16,13 @@ The [[Info/Locations/Snow-Shod_Dam\|Snow-Shod Dam]] is a water control structure
 ## Events
 - **[[2 -  Sessions/Session 2\|Session 2]]**: 
   - Discovery of sabotage affecting water flow
-  - [[Info/Characters/Adrith_Velan\|Adrith Velan]]'s body found nearby
+  - [[Info/Characters/NPC's/Adrith_Velan\|Adrith Velan]]'s body found nearby
   - [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] symbol discovered at the scene
   - Party helped restore functionality
   
 ## Related NPCs
-- [[Info/Characters/Ingvar_Snow-shod\|Ingvar Snowshod]]: Owner of the estate and dam
-- [[Info/Characters/Adrith_Velan\|Adrith Velan]]: Found deceased near the dam
+- [[Info/Characters/NPC's/Ingvar_Snow-shod\|Ingvar Snowshod]]: Owner of the estate and dam
+- [[Info/Characters/NPC's/Adrith_Velan\|Adrith Velan]]: Found deceased near the dam
 - Estate guards who maintain security
 
 ## Related Locations

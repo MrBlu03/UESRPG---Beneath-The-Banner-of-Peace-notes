@@ -9,10 +9,10 @@ The [[Cult of Ysmir\|Cult of Ysmir]] is an organization dedicated to fighting of
 
 ## Key Members
 - **[[Gjellir Stormcrown\|Gjellir Stormcrown]]**: Harbinger (leader), currently in [[Info/Locations/Greenwall\|Greenwall]]
-- **[[Info/Characters/Adda\|Adda]]**: Shaman, currently in charge while [[Gjellir Stormcrown\|Gjellir Stormcrown]] is away
-- **[[Info/Characters/Víðir\|Víðir]]**: Ancient companion of [[Info/Characters/Adda\|Adda]], older and colder presence
-- **[[Info/Characters/Beitild\|Beitild]]**: Scout, uses bow and spear
-- **[[Info/Characters/Olen\|Olen]]**: Handles court jobs, carries two axes
+- **[[Info/Characters/NPC's/Adda\|Adda]]**: Shaman, currently in charge while [[Gjellir Stormcrown\|Gjellir Stormcrown]] is away
+- **[[Info/Characters/NPC's/Víðir\|Víðir]]**: Ancient companion of [[Info/Characters/NPC's/Adda\|Adda]], older and colder presence
+- **[[Info/Characters/NPC's/Beitild\|Beitild]]**: Scout, uses bow and spear
+- **[[Info/Characters/NPC's/Olen\|Olen]]**: Handles court jobs, carries two axes
 
 ## Activities
 - Taking bounties
@@ -24,9 +24,9 @@ The [[Cult of Ysmir\|Cult of Ysmir]] is an organization dedicated to fighting of
 ## Key Events
 - **[[2 -  Sessions/Session 9\|Session 9]]**: 
   - Successfully resolved the haunted lodge situation
-  - [[Info/Characters/Adda\|Adda]] destroyed the Dragon Priest controlling [[Sven\|Sven]]
-  - Put [[Sven\|Sven]] and [[Info/Characters/Lagetha\|Lagetha]] to rest after centuries of torment
-  - Currently caring for [[Info/Characters/Periwyn\|Periwyn]] in comatose state
+  - [[Info/Characters/NPC's/Adda\|Adda]] destroyed the Dragon Priest controlling [[Sven\|Sven]]
+  - Put [[Sven\|Sven]] and [[Info/Characters/NPC's/Lagetha\|Lagetha]] to rest after centuries of torment
+  - Currently caring for [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] in comatose state
   - Earned permanent recognition and welcome for the party
 
 ## Locations
@@ -35,8 +35,8 @@ The [[Cult of Ysmir\|Cult of Ysmir]] is an organization dedicated to fighting of
 - **Hall**: Stone beds for healing, candle rituals
 
 ## Current Status
-- **[[Info/Characters/Periwyn\|Periwyn]]'s Care**: Providing healing for "touched by something ancient and hollow"
-- **Lodge Protection**: Sending [[Info/Characters/Víðir\|Víðir]] and others to ensure domain remains undisturbed
+- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s Care**: Providing healing for "touched by something ancient and hollow"
+- **Lodge Protection**: Sending [[Info/Characters/NPC's/Víðir\|Víðir]] and others to ensure domain remains undisturbed
 - **Party Recognition**: Declared party has earned their place in the hall, always welcome
 
 ## Notes

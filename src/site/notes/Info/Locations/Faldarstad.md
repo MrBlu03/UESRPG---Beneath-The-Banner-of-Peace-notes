@@ -18,7 +18,7 @@
 ## Known Events
 - **[[2 -  Sessions/Session 3\|Session 3]]**: 
   - Mentioned by town crier as alternate route when Greenwall became inaccessible
-  - [[Info/Characters/Alara\|Alara]] referenced a Colovian living in Faldarstad
+  - [[Info/Characters/NPC's/Alara\|Alara]] referenced a Colovian living in Faldarstad
 
 ## Related Locations
 - [[Info/Locations/Greenwall\|Greenwall]]: The blockage of which made Faldarstad's route more important

@@ -6,7 +6,7 @@
 # 🔮 Undead Werewolf Threat
 
 ## Quest Overview
-After [[Info/Characters/Periwyn\|Periwyn]]'s disturbing vision of undead werewolves when touching the crimson orb at [[Info/Locations/Greenwall\|Greenwall]], the party must investigate this potential threat. [[Info/Characters/Queen_Freidr\|Queen Freidr]] indicated that similar hybrid experiments occurred in Western Skyrim in the past.
+After [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s disturbing vision of undead werewolves when touching the crimson orb at [[Info/Locations/Greenwall\|Greenwall]], the party must investigate this potential threat. [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]] indicated that similar hybrid experiments occurred in Western Skyrim in the past.
 
 ## Status
 **Active** - Awaiting further investigation
@@ -16,15 +16,15 @@ After [[Info/Characters/Periwyn\|Periwyn]]'s disturbing vision of undead werewol
 - **Progress**: [[2 -  Sessions/Session 7\|Session 7]] - Reported findings to Queen Freidr who shared knowledge of past werewolf experimentation
 
 ## Current Objectives
-- Wait for updates from [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]]'s investigation
+- Wait for updates from [[Info/Characters/NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s investigation
 - Research historical incidents involving werewolf experimentation in Western Skyrim
 - Learn more about the crimson orb's connection to [[Molag Bal\|Molag Bal]]
 - Understand the connection between vampires and werewolf experimentation
 
 ## Key Characters
-- **[[Info/Characters/Periwyn\|Periwyn]]**: Received the vision of undead werewolves from the orb
-- **[[Info/Characters/Queen_Freidr\|Queen Freidr]]**: Shared knowledge about past werewolf experiments
-- **[[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]]**: Investigating the vampire head and potentially the orb
+- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]**: Received the vision of undead werewolves from the orb
+- **[[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]]**: Shared knowledge about past werewolf experiments
+- **[[Info/Characters/NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]**: Investigating the vampire head and potentially the orb
 
 ## Locations
 - **[[Info/Locations/Greenwall\|Greenwall]]**: Location of the crimson orb
@@ -40,7 +40,7 @@ After [[Info/Characters/Periwyn\|Periwyn]]'s disturbing vision of undead werewol
 ## Notes
 - The vision showed creatures that were:
   - Pale with yellow eyes
-  - Taller than [[Info/Characters/Durov\|Durov]]
+  - Taller than [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]
   - Had exposed muscle and rotting flesh
   - Appeared to be undead werewolves
 - The Queen mentioned that reinforcements would be sent to Greenwall

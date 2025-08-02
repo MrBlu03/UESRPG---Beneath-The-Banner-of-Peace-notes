@@ -14,8 +14,8 @@ First session introduction to [[Info/Locations/Riften\|Riften]], meeting key NPC
 - Received quest to investigate local tensions
 
 ## NPCs Met
-- **[[Info/Characters/Torvald_Black-Foot\|Torvald Black-Foot]]** of [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]]: Has a cool gem we might want to buy when it gets appraised
-- **[[Info/Characters/Hafjorg\|Hafjorg]]**: Son of owner of [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]
+- **[[Info/Characters/NPC's/Torvald_Black-Foot\|Torvald Black-Foot]]** of [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]]: Has a cool gem we might want to buy when it gets appraised
+- **[[Info/Characters/NPC's/Hafjorg\|Hafjorg]]**: Son of owner of [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]
 	- Sells healing potions: 2 HP - 6 HP - 10 HP
 
 ## Items Acquired
@@ -41,7 +41,7 @@ First session introduction to [[Info/Locations/Riften\|Riften]], meeting key NPC
 - None yet
 
 ## Player Notes
-- [[Info/Characters/Kirya\|Kirya]] gave nickname FURY to [[Info/Characters/Periwyn\|Periwyn]] due to psycho behavior
+- [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] gave nickname FURY to [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] due to psycho behavior
 
 ## Reflection
 - Party is beginning to work together

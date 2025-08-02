@@ -5,28 +5,28 @@
 # Riften
 
 ## Description
-[[Info/Locations/Riften\|Riften]] is a major city that serves as the central hub for the party's activities. It's ruled by [[Info/Characters/Queen_Freidr\|Queen Freidr "The Patient"]] and houses numerous establishments, political figures, and quest givers.
+[[Info/Locations/Riften\|Riften]] is a major city that serves as the central hub for the party's activities. It's ruled by [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr "The Patient"]] and houses numerous establishments, political figures, and quest givers.
 
 ## Features
-- Seat of power for [[Info/Characters/Queen_Freidr\|Queen Freidr "The Patient"]]
+- Seat of power for [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr "The Patient"]]
 - Royal residence and court
 - Multiple shops and establishments
 - Center of regional governance
 
 ## Establishments
-- **[[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]**: Alchemy shop run by [[Info/Characters/Alara\|Alara]] and her son [[Info/Characters/Hafjorg\|Hafjorg]]
-- **[[Info/Locations/Sweaty_Steel\|Sweaty Steel]]**: Blacksmith shop operated by siblings [[Info/Characters/Svana\|Svana]] and [[Info/Characters/Bjorn\|Bjorn]]
+- **[[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]**: Alchemy shop run by [[Info/Characters/NPC's/Alara\|Alara]] and her son [[Info/Characters/NPC's/Hafjorg\|Hafjorg]]
+- **[[Info/Locations/Sweaty_Steel\|Sweaty Steel]]**: Blacksmith shop operated by siblings [[Info/Characters/NPC's/Svana\|Svana]] and [[Info/Characters/NPC's/Bjorn\|Bjorn]]
 - **[[Info/Locations/The_Honed_Edge\|The Honed Edge]]**: Weapon shop that sells silver weapons
-- **[[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]**: Establishment run by [[Info/Characters/Grelka\|Grelka]]
-- **[[Info/Locations/Borans_Bullwarks\|Boran's Bullwarks]]**: Shop owned by [[Info/Characters/Boran\|Boran]], likely selling shields/armor
-- **[[Info/Locations/Whispwood_Remedies\|Whispwood Remedies]]**: Shop owned by [[Info/Characters/Ralvard\|Ralvard]]
+- **[[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]**: Establishment run by [[Info/Characters/NPC's/Grelka\|Grelka]]
+- **[[Info/Locations/Borans_Bullwarks\|Boran's Bullwarks]]**: Shop owned by [[Info/Characters/NPC's/Boran\|Boran]], likely selling shields/armor
+- **[[Info/Locations/Whispwood_Remedies\|Whispwood Remedies]]**: Shop owned by [[Info/Characters/NPC's/Ralvard\|Ralvard]]
 - **[[Info/Locations/Wanderers_Rest\|Wanderer's Rest]]**: Likely an inn or tavern
 
 ## NPCs
-- **[[Info/Characters/Queen_Freidr\|Queen Freidr "The Patient"]]**: Ruler of Riften
-- **[[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]]**: Court mage
-- **[[Info/Characters/Harvold\|Harvold]]**: Captain of the Riften Guard
-- **[[Info/Characters/Rigi\|Rigi]]**: Queen's huscarl (bodyguard)
+- **[[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr "The Patient"]]**: Ruler of Riften
+- **[[Info/Characters/NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]**: Court mage
+- **[[Info/Characters/NPC's/Harvold\|Harvold]]**: Captain of the Riften Guard
+- **[[Info/Characters/NPC's/Rigi\|Rigi]]**: Queen's huscarl (bodyguard)
 - Various shopkeepers and merchants
 
 ## Organizations
@@ -37,6 +37,6 @@
 
 ## Related Locations
 - **[[Info/Locations/Trevas_Bend\|Treva's Bend]]**: Fishing village near Riften
-- **[[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]]**: Property owned by Thane [[Info/Characters/Ingvar_Snow-shod\|Ingvar Snow - Shod]]
+- **[[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]]**: Property owned by Thane [[Info/Characters/NPC's/Ingvar_Snow-shod\|Ingvar Snow - Shod]]
 
 ## Notes

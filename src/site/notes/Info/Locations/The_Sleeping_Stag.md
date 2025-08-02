@@ -11,4 +11,4 @@
 - Located in [[Info/Locations/Riften\|Riften]]
 
 ## Related NPCs
-- [[Info/Characters/Grelka\|Grelka]]: inn keeper
+- [[Info/Characters/NPC's/Grelka\|Grelka]]: inn keeper

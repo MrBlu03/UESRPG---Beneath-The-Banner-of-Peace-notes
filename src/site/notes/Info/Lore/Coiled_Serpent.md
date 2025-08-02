@@ -12,9 +12,9 @@ The symbol has been found at locations connected to vampire activities and myste
 
 ## Known Appearances
 - Found at the dam sabotage site at [[Info/Locations/Snowshot_Estate\|Snowshot Estate]]
-- Connected to the activities of [[Info/Characters/Adrith_Velan\|Adrith Velan]]
+- Connected to the activities of [[Info/Characters/NPC's/Adrith_Velan\|Adrith Velan]]
 - May be related to the vampire threats around [[Info/Locations/Greenwall\|Greenwall]]
 
 ## Associated Entities
-- [[Info/Characters/Adrith_Velan\|Adrith Velan]] (deceased) seemed to be working for or with this group
+- [[Info/Characters/NPC's/Adrith_Velan\|Adrith Velan]] (deceased) seemed to be working for or with this group
 - Possible connection to vampire factions or cults

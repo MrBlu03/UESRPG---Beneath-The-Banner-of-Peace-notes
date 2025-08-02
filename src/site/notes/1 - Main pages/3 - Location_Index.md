@@ -6,14 +6,14 @@
 
 ## Major Cities and Towns
 - **[[Info/Locations/Riften\|Riften]]**: Major city, seat of Queen Freidr
-  - **[[Info/Locations/Wanderers_Rest\|Wanderer's Rest]]**: Inn run by [[Info/Characters/Bjorin\|Bjorin]] and [[Info/Characters/Astrid\|Astrid]]
-  - **[[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]**: [[Info/Characters/Alara\|Alara]]'s alchemy shop
-  - **[[Info/Locations/Whispwood_Remedies\|Whispwood Remedies]]**: [[Info/Characters/Ralvard\|Ralvard]]'s shop
-  - **[[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]**: Tavern run by [[Info/Characters/Grelka\|Grelka]]
-  - **[[Info/Locations/Sweaty_Steel\|Sweaty Steel]]**: Blacksmith shop run by [[Info/Characters/Bjorn\|Bjorn]] and [[Info/Characters/Svana\|Svana]]
+  - **[[Info/Locations/Wanderers_Rest\|Wanderer's Rest]]**: Inn run by [[Info/Characters/NPC's/Bjorin\|Bjorin]] and [[Info/Characters/NPC's/Astrid\|Astrid]]
+  - **[[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]**: [[Info/Characters/NPC's/Alara\|Alara]]'s alchemy shop
+  - **[[Info/Locations/Whispwood_Remedies\|Whispwood Remedies]]**: [[Info/Characters/NPC's/Ralvard\|Ralvard]]'s shop
+  - **[[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]**: Tavern run by [[Info/Characters/NPC's/Grelka\|Grelka]]
+  - **[[Info/Locations/Sweaty_Steel\|Sweaty Steel]]**: Blacksmith shop run by [[Info/Characters/NPC's/Bjorn\|Bjorn]] and [[Info/Characters/NPC's/Svana\|Svana]]
   - **[[Info/Locations/The_Honed_Edge\|The Honed Edge]]**: Blacksmith shop, lost [[Info/Locations/Greenwall\|Greenwall]] Castle to vampires
-  - **[[Info/Locations/Borans_Bullwarks\|Boran's Bullwarks]]**: [[Info/Characters/Boran\|Boran]]'s shop
-  - **[[Info/Locations/Hall_of_the_Dead\|Crypt, Hall of the Dead]]**: Where [[Info/Characters/Sigrid\|Sigrid]] works as mortician
+  - **[[Info/Locations/Borans_Bullwarks\|Boran's Bullwarks]]**: [[Info/Characters/NPC's/Boran\|Boran]]'s shop
+  - **[[Info/Locations/Hall_of_the_Dead\|Crypt, Hall of the Dead]]**: Where [[Info/Characters/NPC's/Sigrid\|Sigrid]] works as mortician
   - **Amber Keg**: Local tavern
   - **Mistvail Keep**: Notable landmark
 
@@ -37,7 +37,7 @@
 
 ## Military Installations
 - **[[Info/Locations/Shors_Bastion\|Shor's Bastion]]**: Military installation
-  - Original destination of [[Info/Characters/Wuunferth\|Wuunferth]]
+  - Original destination of [[Info/Characters/NPC's/Wuunferth\|Wuunferth]]
 - **Harmugstahl**: Military keep
   - Recently frozen by supernatural forces
   - Site of mysterious deaths

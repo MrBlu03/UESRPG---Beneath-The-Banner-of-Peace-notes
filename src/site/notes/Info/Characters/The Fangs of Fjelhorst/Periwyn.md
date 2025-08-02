@@ -24,7 +24,7 @@
   - Attempted and failed a necromancy ritual on a bird
   - Experienced [[vivid nightmares\|vivid nightmares]] showing her twin brother and mentor dying while blaming her
   - Began experiencing recurring nightmares featuring Malacath, Daedric Prince of Vengeance
-  - Identified the tortured man at Greenwall as [[Info/Characters/Wuunferth\|Wuunferth]]
+  - Identified the tortured man at Greenwall as [[Info/Characters/NPC's/Wuunferth\|Wuunferth]]
   - Suffered emotional trauma leading to withdrawal from the group and loss of appetite
   - Often woke clutching her silver dagger with the moonstone and matching pendant
 - **[[2 -  Sessions/Session 9\|Session 9]]**:
@@ -36,12 +36,12 @@
   - "Touched by something ancient and hollow" during the ritual
 - **[[Session 9.5\|Session 9.5]]**:
   - Experienced vivid dream/vision while comatose
-  - Confronted [[Info/Characters/Gareth\|Gareth]] (former mentor) at Darnell Hollow chapel
+  - Confronted [[Info/Characters/NPC's/Gareth\|Gareth]] (former mentor) at Darnell Hollow chapel
   - Received forgiveness and closure for past actions
   - Fought philosophical battle about mercy vs vengeance
   - Encountered mysterious figure offering black feather and cryptic advice
   - Learned about writing her own story rather than following fate/prophecy
-  - Gained insight into [[Info/Characters/Archmagus_Mortgren\|Archmagus Mortgren]]'s true age
+  - Gained insight into [[Info/Characters/NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s true age
 
 ## Current Concerns
 - Being targeted by Malacath, who appears to be encouraging her vengeful tendencies
@@ -55,9 +55,9 @@
 
 ## Current Status
 - Recovering at [[Cult of Ysmir\|Cult of Ysmir]] hall
-- Under care of [[Info/Characters/Adda\|Adda]] and [[Info/Characters/Víðir\|Víðir]]
+- Under care of [[Info/Characters/NPC's/Adda\|Adda]] and [[Info/Characters/NPC's/Víðir\|Víðir]]
 - Placed on stone bed with candles for healing
 - Condition described as "touched by something ancient and hollow"
-- **New**: Experienced significant emotional healing through dream confrontation with [[Info/Characters/Gareth\|Gareth]]
+- **New**: Experienced significant emotional healing through dream confrontation with [[Info/Characters/NPC's/Gareth\|Gareth]]
 - **New**: Received forgiveness and closure for past trauma
 - **New**: Gained mysterious black feather with unknown properties

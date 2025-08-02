@@ -41,12 +41,12 @@ An intact hunting lodge despite being ruins, located at the fork in the road whe
   - Alchemy room with various ingredients
   - Torture room with fresh leather straps
   - Sleeping quarters with disturbing letters
-- **Final Chamber**: Sarcophagi room with ritual table where [[Info/Characters/Periwyn\|Periwyn]] was held
+- **Final Chamber**: Sarcophagi room with ritual table where [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] was held
 
 ## Former Inhabitants (Now at Rest)
-- **[[Info/Characters/Lagetha\|Lagetha]]**: Ancient spirit, finally at rest alongside [[Sven\|Sven]]
+- **[[Info/Characters/NPC's/Lagetha\|Lagetha]]**: Ancient spirit, finally at rest alongside [[Sven\|Sven]]
 - **[[Sven\|Sven]]**: Undead figure controlled by Dragon Priest, now freed and at rest
-- **Dragon Priest**: Ancient entity that controlled [[Sven\|Sven]], destroyed by [[Info/Characters/Adda\|Adda]]
+- **Dragon Priest**: Ancient entity that controlled [[Sven\|Sven]], destroyed by [[Info/Characters/NPC's/Adda\|Adda]]
 
 ## Features
 - **Common Room**: Hearth that flickers, open wine bottle on table
@@ -62,10 +62,10 @@ An intact hunting lodge despite being ruins, located at the fork in the road whe
 - **Olgierd's Farm**: Small hut with farming area near the woodland edge
 
 ## Current Status
-- **Haunting Resolved**: [[Sven\|Sven]] and [[Info/Characters/Lagetha\|Lagetha]] finally put to rest
+- **Haunting Resolved**: [[Sven\|Sven]] and [[Info/Characters/NPC's/Lagetha\|Lagetha]] finally put to rest
 - **Protected**: Domain protected by [[Cult of Ysmir\|Cult of Ysmir]] to remain undisturbed
-- **Dragon Cult Mask**: Retrieved by [[Info/Characters/Kirya\|Kirya]] for study
-- **Contract Completed**: Successfully cleared for [[Info/Characters/Hadvar\|Hadvar]]
+- **Dragon Cult Mask**: Retrieved by [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] for study
+- **Contract Completed**: Successfully cleared for [[Info/Characters/NPC's/Hadvar\|Hadvar]]
 
 ## Notes
 - The divines had turned their gaze away from this place

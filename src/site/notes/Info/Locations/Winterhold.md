@@ -14,7 +14,7 @@
 
 ## Key Events
 - Historical connection to magical research and education
-- May have significance to [[Info/Characters/Speaks-Spells-Gently\|Speaks-Spells-Gently]], the court mage of [[Info/Locations/Riften\|Riften]]
+- May have significance to [[Info/Characters/NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]], the court mage of [[Info/Locations/Riften\|Riften]]
 
 ## Related NPCs
 - College faculty and students (not specifically named in current notes)

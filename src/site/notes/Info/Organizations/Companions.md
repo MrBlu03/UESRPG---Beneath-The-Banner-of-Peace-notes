@@ -17,10 +17,10 @@ The [[Info/Organizations/Companions\|Companions]] are a group of Nord warriors w
 - They operate from a large mead hall
 
 ## Known Members
-- [[Info/Characters/Vigrod_Wraithbane\|Vigrod Wraithbane]]: Leader of a regiment near [[Info/Locations/Greenwall\|Greenwall]]
-- [[Info/Characters/Hillevi\|Hillevi]]: Warrior and healer who has been with the Companions for 6 years
-- [[Info/Characters/Beitild\|Beitild]]: Member who died during the Greenwall attack (Session 6)
-- [[Info/Characters/Olen\|Olen]]: Member who died during the Greenwall attack (Session 6)
+- [[Info/Characters/NPC's/Vigrod_Wraithbane\|Vigrod Wraithbane]]: Leader of a regiment near [[Info/Locations/Greenwall\|Greenwall]]
+- [[Info/Characters/NPC's/Hillevi\|Hillevi]]: Warrior and healer who has been with the Companions for 6 years
+- [[Info/Characters/NPC's/Beitild\|Beitild]]: Member who died during the Greenwall attack (Session 6)
+- [[Info/Characters/NPC's/Olen\|Olen]]: Member who died during the Greenwall attack (Session 6)
 
 ## Organization Structure
 - Members are either descendants of the original companions or recruits who follow [[Ysgramor\|Ysgramor]]'s traditions

@@ -13,7 +13,7 @@ Located in [[Info/Locations/Riften\|Riften]], though the specific district or st
 
 ## Notable Features
 - Serves mead and likely other alcoholic beverages
-- Has a noticeboard that [[Info/Characters/Onasha\|Onasha]] checks for information
+- Has a noticeboard that [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] checks for information
 - Large enough to accommodate celebrations
 
 ## Key NPCs
@@ -31,8 +31,8 @@ No specific history is known at this time.
 - Possibly hosts brawls that people bet on (similar to other Riften establishments)
 
 ## Connections
-- [[Info/Characters/Onasha\|Onasha]] and [[Info/Characters/Periwyn\|Periwyn]] and the rest of the crew visited after returning from Greenwall
-- The party considered bringing [[Info/Characters/Alara\|Alara]] here to help her cope with grief
+- [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] and the rest of the crew visited after returning from Greenwall
+- The party considered bringing [[Info/Characters/NPC's/Alara\|Alara]] here to help her cope with grief
 
 ## Quests
 No specific quests are currently associated with this location.
