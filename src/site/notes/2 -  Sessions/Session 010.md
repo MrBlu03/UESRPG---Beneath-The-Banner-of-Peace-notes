@@ -3,133 +3,143 @@
 ---
 
 # Session 10 - 2025-08-02
+**8th of Frost Fall, 2E 600**
 
 ## Summary
-- We all find ourselves on the morning of the 8 th of frost fall at the hall of ysmir
-- Adda is in the main area, infront of her is periwyn on a fur cot still knocked out
-- Durov is the first to wake
-	- He goes to the main hall and grabs the biggest peace of meat he can find to eat ( hog) and a mead to drink
-- Kirya is next to wake
-	- Checks under her bed if the mask is still there, takes it with her wrapped in a blanket, waves to durov and grabs a fish 
-- Onasha is last to wake
-	- Grabs some food and joins the rest
-- Then periwyn finally wakes up
-	- Takes a deep breath and takes in her surroundings and asks adda where she is
-	- The last person she spoke to in her dreams was the "crow father"
-	- Onasha tosses an apple her way and periwyn catches it no issues
 
-- Kirya gives the blanket wrapped chest containing the mask to adda to be looked at
-	- Adda says its "just a trophy now" since its master is no longer here and its magic is faded
-	- Encourages kirya to keep it as a trophy
+The party awakens on the morning of the 8th of Frost Fall at the Hall of Ysmir. [[Info/Characters/NPC's/Adda\|Adda]] tends to [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]], who has been unconscious for three days following the events at the haunted lodge. As the party recovers from their ordeal, they decide to take a camping trip to decompress, recruiting several [[Info/Locations/Riften\|Riften]] locals including [[Info/Characters/NPC's/Alara\|Alara]], [[Info/Characters/NPC's/Bjorin\|Bjorin]], and [[Info/Characters/NPC's/Astrid\|Astrid]].
 
-- Adda explains the runes painted on periwyn's face while she goes to wash it off called "wode"
-	- Ancient form of magic
-	- Onasha asks if they can be used to cover up markings on (they're mainly used on the face so no)
-- Kirya pipes up and informs periwyn that sven an his wife are now dead and the land is being returned to normal
-	- Periwyn is barely phased and just ask if they got payed
-	- Durov throws her share in her direction from where he's sitting and she doesnt catch it since she was preoccupied reequipping her gear
-- Kirya then proposes to go to the lake to decompress a bit 
-	- Periwyn is sceptical but on board
-	- Then they ask periwyn about the crows thing
-	- They discuss who to bring allong on the lake trip
-	- Alara is closest to where we are so we go ask her first
-	- As the party leaves adda has some closing words about "feathers"
-- On our way to alara we see eirik the quick sprinting accross town again
-	- Onasha tries to trip him up for her own amusement but fails badly
-	- (new side quest for onasha trip up eirik the quick)
-	- Once we arrive we spot alara and her small husky named John
-		- Kirya proposes the lake trip to alara (collecting alchemy components, hunting, fishing relaxing)
-			- Alara accepts happily
-	- Next up we stop at the wanderers rest
-		- Senja and sonja are there prepping their instruments (not int he sleeping stag anymore)
-		- Bjorin at the bar
-			- Durov asks bjorin if he wants to tag allong for the camping, he accepts and has astrid tag allong and will meet us at the city gate
+The group travels north to a hunting clearing, where they spend time fishing, hunting, and sharing stories around the campfire. [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] processes her trauma through art, drawing scenes from her visions, while [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] experiences significant dreams about his forgotten past. [[Info/Characters/NPC's/Astrid\|Astrid]] reveals her hunting skills and shares knowledge about interesting inn visitors from years past, including someone who spoke of dragons returning.
 
+The trip proves therapeutic for the group, allowing them to bond with local NPCs and gain valuable provisions through successful hunting. They return to [[Info/Locations/Riften\|Riften]] with renewed spirits and several new leads to investigate.
 
-- We make our way over to the gate, located near the docks
-	- 10 min later bjorin and astrid arrive with their camping gear
-		- Bjorin has a proposition
-			- Clearing few hours north that they often go to to hunt stag
-			- Party accepts
-- We make our way past treva's bend 
-	- We stop by the alderman to collect the 50 gold per person he still owes us
-	- He remembers us and asks how much he owes us 
-	- Durov lies and says he owes us 60 per person
-		- Alderman doesnt believe him and says 'feels a bit much, 50 sounds right'
-		- His name is Alderman Torgir
-- We keep moving along
-	- During the walk onasha asks alara about her dog, its a stray she took in 3 years go
-- Few hours of walking through forests we arrive at the clearing
-	- We get set up
-	- Durov and bjorin go fish on the lake kirya is fishing with her hands (khajit)
-	- Astrid takes out her bow and some traps to go hunting and onasha tags allong
-	- Alara gets set up to make her stew
-	- Periwyn is at her tent, drawing the view and writing in her journal all she can remember of the visions she saw during her 3 day slumber
-
-- Trap hunting is unsuccessfull
-- Bow and arrow hunting a stag
-	- Onasha is successfull in finding tracks of a stag
-		- Soon enough they track it down and start stalking the stag
-			- Astrid says she's been hunting she's a child (she's early 20's)
-			- They find the stag and onasha shoots at it and lands a hit on it
-				- Its injured but not dead yet, onahsha gets another shot in and its barely standing
-				- One more shot gets landed and the stag goes down after stumbling a bit
-				- Onasha grabs the trophee of the stag (antlers worth about 100 gold)
-				- After that they drag it back to camp so they can harvest the rest
-- Meanwhile kirya is catching salmon 
-- Once onasha and astrid get in view of periwyn she runs over and helps them drag over the stag corpse
-- Periwyn resumes drawing and onahsa remarks that she could make money doing this (periwyn doesnt care about the money)
-- Alara starts yaping about the spriggon she knows
-	- She asks onasha what tribe she belongs to (the tribe that has ties to sythis)
-- Onasha ask astrid who taught her to hunt
-	- A group adventures taught her a few years ago
-	- Bjorin raised astrid alone because her mother died during the war and the inn got founded after her death
-	- There was an attack in the early years of the war, her mother got caught in an attack that collapsed a wall, bjorin and astrid made it out (she's 21 at most)
-	- She keeps a secret record of interesting people that have come by the inn over the years
-		- Example: there was a man who kept going about the end times and dragons being back (its been 14 ish years since they encounterd her)
-		- Kirya confirms that dragons are back and they took her father's life
-- While everybody is sleeping durov gets a dream
-	- A dream of a battle field, people dressed in similar armor and insignia as him
-	- One of his companions fall due to spear in chest, in the distance a large snowy castle is seen looming with a banner bearing the same insiginia as durov
-
-
-- The morning arrives, foggy and chill
-	- Periwyn wakes up first and restarts the fire
-	- Astrid is next to wake, checks up on the meat
-	- Durov wakes up next, 
-	- Bjorin wakes up, and goes to sit besides durov
-	- Kirya is next to wake, bundles up in a fur, comes out and sits by the fire
-	- Onasha, emerges from the lake because she slept at the bottom of the lake
-		- This jump scares durov, who reaches for the sword before realising its onasha
-	- Lastly alara wakes up, (due to bjorin screaming in terror at onasha emerging from the lake)
-- Onasha and astrid go to check up on the traps again 
-	- A rabbit was caught
-
-
-- We hear rustling in the leaves,
-	- Out comes a khajit, and stands near durov and bjorin (M'aiq)
-	- He starts rambling about random things
-	- Then says hes tired and asks to be left alone
-	- Then leaves (weird dude)
 ## Detailed Recap
-- Detailed account of what happened during the session, including key decisions, battles, and discoveries.
+
+### Morning at the Hall of Ysmir
+
+The party awakens at the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] hall. [[Info/Characters/NPC's/Adda\|Adda]] tends to [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]], who lies unconscious on a fur cot, still recovering from her three-day slumber following the lodge incident.
+
+- [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] wakes first, grabbing the largest piece of meat (hog) and mead he can find
+- [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] checks that the dragon priest mask is still under her bed, wraps it in a blanket, and grabs fish for breakfast
+- [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] wakes last, joining the others for food
+- [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] finally awakens, asking [[Info/Characters/NPC's/Adda\|Adda]] where she is. She reveals the last person she spoke to in her dreams was the "Crow Father"
+
+[[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] presents the wrapped dragon priest mask to [[Info/Characters/NPC's/Adda\|Adda]] for examination. [[Info/Characters/NPC's/Adda\|Adda]] declares it "just a trophy now" since its master is gone and its magic has faded, encouraging [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] to keep it.
+
+[[Info/Characters/NPC's/Adda\|Adda]] explains the runes painted on [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s face during her recovery, calling them "wode" - an ancient form of magic. When [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] asks if they can cover markings, [[Info/Characters/NPC's/Adda\|Adda]] explains they're primarily for facial use.
+
+[[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] informs [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] that [[Sven\|Sven]] and [[Info/Characters/NPC's/Lagetha\|Lagetha]] are dead and the land is returning to normal. [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] simply asks if they got paid. [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] throws her share of gold, but she misses it while reequipping her gear.
+
+### Planning the Lake Trip
+
+[[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] proposes a lake trip to decompress. Though skeptical, [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] agrees. They decide to recruit [[Info/Characters/NPC's/Alara\|Alara]] first since she's closest.
+
+As they leave, [[Info/Characters/NPC's/Adda\|Adda]] makes cryptic comments about "feathers."
+
+**Recruiting Companions:**
+
+En route to [[Info/Characters/NPC's/Alara\|Alara]]'s shop, they spot [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik the Quick]] sprinting across town. [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] attempts to trip him for amusement but fails spectacularly, inspiring a new personal quest.
+
+At [[Info/Characters/NPC's/Alara\|Alara]] 's shop, they meet her small husky companion, [[Info/Characters/NPC's/John\|John]]. [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] proposes the camping trip for alchemy component gathering, hunting, fishing, and relaxation. [[Info/Characters/NPC's/Alara\|Alara]] accepts enthusiastically.
+
+At the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]], [[Info/Characters/NPC's/Senya\|Senya]] and [[Info/Characters/NPC's/Sonya\|Sonya]] prepare their instruments (having moved from [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]). [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] invites [[Info/Characters/NPC's/Bjorin\|Bjorin]] camping, who accepts and brings [[Info/Characters/NPC's/Astrid\|Astrid]] along. They arrange to meet at the city gate.
+
+### Journey to the Clearing
+
+The group meets at the gate near the docks. [[Info/Characters/NPC's/Bjorin\|Bjorin]] and [[Info/Characters/NPC's/Astrid\|Astrid]] arrive with camping gear, and [[Info/Characters/NPC's/Bjorin\|Bjorin]] suggests a clearing a few hours north where they often hunt stag.
+
+**Stop at Treva's Bend:**
+
+They travel past [[Info/Locations/Trevas_Bend\|Treva's Bend]], stopping to collect the 50 gold per person still owed by the alderman. [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] attempts to claim 60 per person, but Alderman Torgir correctly remembers the actual amount and pays 50 gold each.
+
+During the walk, [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] learns that John is a stray [[Info/Characters/NPC's/Alara\|Alara]] adopted three years ago.
+
+### Camp Activities - Day One
+
+**Setting Up Camp:**
+
+After hours of forest travel, they reach the clearing and establish camp.
+
+**Fishing and Hunting:**
+
+- [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/NPC's/Bjorin\|Bjorin]] fish on the lake while [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] catches salmon with her hands
+- [[Info/Characters/NPC's/Astrid\|Astrid]] and [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] attempt trap hunting (unsuccessful) then track a stag
+- [[Info/Characters/NPC's/Astrid\|Astrid]] demonstrates her hunting skills learned from adventurers years ago
+- [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] successfully brings down the stag after multiple shots, claiming antlers worth ~100 gold
+- [[Info/Characters/NPC's/Alara\|Alara]] prepares stew while [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] sketches the scenery and journals her visions
+
+**Evening Conversations:**
+
+[[Info/Characters/NPC's/Alara\|Alara]] discusses her spriggan friend and asks [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] about her tribal connections. [[Info/Characters/NPC's/Astrid\|Astrid]] shares her background: raised by [[Info/Characters/NPC's/Bjorin\|Bjorin]] alone after her mother died in a war attack that collapsed a wall. She reveals keeping secret records of interesting inn visitors, including a man who spoke of dragons returning ~14 years ago. [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] confirms dragons have returned and killed her father.
+
+### Durov's Dream
+
+During the night, [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] experiences a vivid dream:
+- A battlefield with companions in matching armor and insignia
+- A fellow soldier falling to a spear wound
+- A distant snowy castle bearing the same insignia as his own
+
+### Second Day Activities
+
+**Morning Routine:**
+
+A foggy, chill morning sees [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] wake first to restart the fire, followed by [[Info/Characters/NPC's/Astrid\|Astrid]] checking the meat, then [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]], [[Info/Characters/NPC's/Bjorin\|Bjorin]], and [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]]. [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] emerges from the lake bottom where she slept, startling [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] who reaches for his sword. [[Info/Characters/NPC's/Alara\|Alara]] wakes last due to [[Info/Characters/NPC's/Bjorin\|Bjorin]]'s terrified screaming.
+
+**Hunting and Encounters:**
+
+[[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/NPC's/Astrid\|Astrid]] check traps, finding a caught rabbit. A mysterious [[Khajiit\|Khajiit]] named [[Info/Characters/NPC's/M'aiq\|M'aiq]] appears, rambles about random topics, claims tiredness, and departs as mysteriously as he arrived.
+
+The hunting party expands to include [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] for a bear hunt, successfully bringing down the animal with help from [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to drag it back.
+
+**Art and Reflection:**
+
+[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] sketches [[Info/Characters/NPC's/Gareth\|Gareth]] as she saw him in her visions. That evening, [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] observes her drawing, prompting [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to open up about seeing [[Info/Characters/NPC's/Gareth\|Gareth]] in her coma, their relationship, and having to kill him.
+
+The hunting expedition yields 11 rations per party member.
+
+### Return Journey
+
+The next morning, everyone packs up. [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] conduct a final sweep (finding nothing left behind). They return to [[Info/Locations/Riften\|Riften]] via [[Info/Locations/Trevas_Bend\|Treva's Bend]], dropping off [[Info/Characters/NPC's/Bjorin\|Bjorin]] and [[Info/Characters/NPC's/Astrid\|Astrid]] first, then [[Info/Characters/NPC's/Alara\|Alara]] (with farewells to John), finally reaching the Hall of Ysmir by afternoon.
 
 ## NPCs Met
-- **Name:** Brief description or notable interaction.
+
+- **[[Info/Characters/NPC's/Adda\|Adda]]**: Examined the dragon priest mask, explained wode magic, made cryptic "feathers" comment
+- **[[Info/Characters/NPC's/Alara\|Alara]]**: Joined camping trip with her husky John, discussed spriggan friendship and tribal connections
+- **John**: [[Info/Characters/NPC's/Alara\|Alara]]'s small husky companion, adopted stray
+- **[[Info/Characters/NPC's/Bjorin\|Bjorin]]**: Provided camping location and expertise, protective of [[Info/Characters/NPC's/Astrid\|Astrid]]
+- **[[Info/Characters/NPC's/Astrid\|Astrid]]**: Demonstrated hunting skills, shared war backstory and inn visitor records
+- **[[Info/Characters/NPC's/Eirik_the_Quick\|Eirik the Quick]]**: Brief encounter, dodged [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]'s trip attempt
+- **Alderman Torgir**: [[Info/Locations/Trevas_Bend\|Treva's Bend]] leader who paid owed quest rewards
+- **M'aiq**: Mysterious Khajiit who appeared at camp, spoke cryptically, then vanished
 
 ## Items Acquired
-- **Item Name:** Description and potential use.
+
+- **Rations**: 11 per party member from successful hunting
+- **Stag Antlers**: Trophy claimed by [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]], worth ~100 gold
+- **Dragon Priest Mask**: Confirmed powerless by [[Info/Characters/NPC's/Adda\|Adda]], kept by [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] as trophy
+- **Gold**: 50 per party member from Alderman Torgir
 
 ## Quests
+
 ### New
-- **Quest Name:** Brief description.
+- **Trip [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik the Quick]]**: [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]'s personal challenge after failed attempt
+
 ### In Progress
-- Updates on ongoing quests.
+- **Court of Crows Investigation**: New elements from [[Info/Characters/NPC's/Adda\|Adda]]'s "feathers" comment and [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s "Crow Father" vision
+- **[[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]'s Lost Past**: Dreams provide clues about military background and forgotten identity
+
 ### Completed
-- Summary of quests completed during this session.
+- **Lodge Haunting**: Final payment collected, [[Sven\|Sven]] and [[Info/Characters/NPC's/Lagetha\|Lagetha]] laid to rest
+- **Debt Collection**: Successfully retrieved owed payment from [[Info/Locations/Trevas_Bend\|Treva's Bend]]
 
 ## Player Notes
-- Observations or strategies related to other players' characters.
+
+The camping trip served as excellent character development, allowing deeper NPC relationships and revealing important backstory elements. [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s artistic processing of trauma, [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]'s prophetic dreams, and [[Info/Characters/NPC's/Astrid\|Astrid]]'s historical records all provide future plot hooks. The group's growing reputation in [[Info/Locations/Riften\|Riften]] continues to open new opportunities and connections.
 
 ## Next Steps
-- Anticipated actions or plans for the next session.
+
+- Investigate [[Info/Characters/NPC's/Adda\|Adda]]'s cryptic "feathers" reference and its connection to ongoing mysteries
+- Follow up on [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]'s dreams about his forgotten military past
+- Research [[Info/Characters/NPC's/Astrid\|Astrid]]'s inn visitor records, particularly the dragon-speaking individual from 14 years ago
+- Complete [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]'s personal quest to trip [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik the Quick]]
+- Continue monitoring [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s supernatural experiences and visions

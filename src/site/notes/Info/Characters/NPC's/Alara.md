@@ -15,18 +15,27 @@
 ## Key Events
 - **[[2 -  Sessions/Session 003\|Session 003]]**: Was reported missing while gathering mushrooms in caves south of [[Info/Locations/Riften\|Riften]]. The party found her safe with a protective spriggan. She gave them a dark blue ribbon to show her son as proof of her safety.
 - **[[2 -  Sessions/Session 007\|Session 007]]**: Received news from [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] that her family in Greenwall did not survive the vampire attack. She closed her shop to grieve.
+- **[[2 -  Sessions/Session 010\|Session 010]]**: Joined the party's camping trip to help her cope with grief
+  - Brought her husky companion John
+  - Discussed her spriggan friend and asked [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] about her tribal connections to [[Info/Organizations/House_of_Sythis\|Sythis]]
+  - Prepared stew for the camping group
+  - Showed signs of recovering from her grief through social interaction
 
 ## Location
 - [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]] in [[Info/Locations/Riften\|Riften]]
 - Sometimes ventures into the southern woods to gather ingredients
 
+## Companions
+- **John**: A small husky she adopted as a stray three years ago
+
 ## Current State
-- In mourning for her lost family members from Greenwall
-- Shop temporarily closed due to grief
-- Being supported by [[Info/Characters/NPC's/Hafjorg\|Hafjorg]] during this difficult time
+- Slowly recovering from mourning for her lost family members from Greenwall
+- Beginning to engage socially again, as evidenced by joining the camping trip
+- Being supported by [[Info/Characters/NPC's/Hafjorg\|Hafjorg]] and now befriended by the party
 
 ## Notes
 - Skilled in alchemy and herbalism
 - Maintains an unusual friendly relationship with a spriggan
 - Her son [[Info/Characters/NPC's/Hafjorg\|Hafjorg]] helps run the shop while she gathers ingredients
-- The party considered inviting her for drinks to help her cope with her loss
+- The camping trip appears to have been therapeutic for her grief
+- Has knowledge about tribal connections and supernatural creatures

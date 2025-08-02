@@ -38,6 +38,3 @@
 - Encountered a [[Info/Characters/NPC's/Talking_Fox\|Talking Fox]] that could translate dragon language
 - Possible unknown connection to the [[Info/Organizations/Blackfeather\|Blackfeather]] organization
 - **Mysterious Connection**: The enigmatic figure in [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dream suggests [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] possesses multiple [[Info/Items/Black Feather\|black feathers]], hinting at deeper supernatural connections
-
-## Party Dynamics
-- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s Assessment**: Described by [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to the Mysterious Figure as "Useful. Don't tell them" - indicating [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] values [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]'s contributions but maintains emotional distance

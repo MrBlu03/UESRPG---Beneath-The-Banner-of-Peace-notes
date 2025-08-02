@@ -108,6 +108,46 @@
 
 > *Periwyn has experienced [[vivid nightmares\|vivid nightmares]] featuring Malacath saying "Yes, feed that anger, give in to vengeance, be my pawn"*
 
+### 🏃‍♀️ [[Onasha's Eirik Challenge\|Onasha's Eirik Challenge]]
+**Status**: Active ([[2 -  Sessions/Session 010\|Session 010]])  
+**Objective**: Successfully trip [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik_the_Quick]] during one of his sprints
+
+**Key Tasks**:
+- [ ] Observe [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik_the_Quick]]'s running patterns and routes
+- [ ] Plan an effective tripping strategy
+- [ ] Execute the plan without causing serious injury
+
+**Key NPCs**: 
+- [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]
+- [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik_the_Quick]]
+
+> *Started after [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] failed to trip [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik_the_Quick]] on the way to [[Info/Characters/NPC's/Alara\|Alara]]'s shop*
+
+### ⚔️ [[Durov's Lost Past\|Durov's Lost Past]]
+**Status**: Active ([[2 -  Sessions/Session 010\|Session 010]])  
+**Objective**: Uncover [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]'s forgotten military history and identity
+
+**Key Tasks**:
+- [ ] Research the insignia/symbol on [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]'s shield
+- [ ] Investigate the snowy castle from his dream
+- [ ] Identify his former military unit or order
+- [ ] Learn about the battle where his companion died
+- [ ] Discover what caused his amnesia
+
+**Key NPCs**: 
+- [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]
+- [[Info/Characters/NPC's/Alara\|Alara]] (recognized his symbol but couldn't place it)
+- Potential contacts in [[Info/Locations/Faldarstad\|Faldarstad]] (mentioned by [[Info/Characters/NPC's/Alara\|Alara]])
+
+**Key Clues**:
+- Shield bears recognizable but unplaceable symbol
+- Dream of battlefield with fellow soldiers in matching armor
+- Large snowy castle with same insignia as [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]
+- Companion died from spear wound
+- [[Info/Characters/NPC's/Alara\|Alara]] mentioned Colovian acquaintance in [[Info/Locations/Faldarstad\|Faldarstad]] who might know more
+
+> *Dream occurred during camping trip in [[2 -  Sessions/Session 010\|Session 010]], suggesting his past is trying to surface*
+
 ---
 
 ## 🔍 Investigation Quests

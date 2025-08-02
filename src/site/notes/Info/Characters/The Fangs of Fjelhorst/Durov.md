@@ -19,9 +19,26 @@
   - Assigned guard duty during journey to [[Info/Locations/Greenwall\|Greenwall]]
   - Assisted with packing preparations
   - Revealed his helmet-wearing is due to paranoia about headshots
+- **[[2 -  Sessions/Session 010\|Session 010]]**: 
+  - Attempted to overcharge [[Info/Characters/NPC's/Alderman_Torgir\|Alderman_Torgir]] for quest payment (failed)
+  - Received significant prophetic dream about his forgotten past
+
+## Dreams and Visions
+### The Battlefield Dream ([[2 -  Sessions/Session 010\|Session 010]])
+During the camping trip, [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] experienced a vivid dream that may provide clues to his forgotten past:
+- **Setting**: A battlefield scene
+- **Companions**: People dressed in similar armor and insignia as his own
+- **Tragedy**: Witnessed one of his companions fall due to a spear in the chest
+- **Location**: In the distance, a large snowy castle with a banner bearing the same insignia as [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]
+- **Significance**: Suggests military background and connection to a specific stronghold or organization
+
+## Mystery of the Past
+- Suffers from amnesia regarding his previous life
+- His shield bears a symbol recognized by [[Info/Characters/NPC's/Alara\|Alara]] but she couldn't place it
+- The dream suggests he was part of a military unit or order
+- Connection to a castle or stronghold in a snowy region
+- May have lost companions in battle, explaining potential trauma
 
 ## Equipment
 - Helmet (worn constantly)
 
-## Party Dynamics
-- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s Assessment**: Described by [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to the Mysterious Figure in [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]] as "Makes for a damn good meat shield" - indicating [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] values his combat utility and durability in dangerous situations

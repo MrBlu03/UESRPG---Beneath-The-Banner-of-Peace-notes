@@ -9,6 +9,13 @@
 
 ## Key Events
 - **[[2 -  Sessions/Session 009\|Session 009]]**: Spotted speeding through [[Info/Locations/Riften\|Riften]] - "No one has seen him stand still... can he?"
+- **[[2 -  Sessions/Session 010\|Session 010]]**: 
+  - Seen sprinting across town again while party was heading to [[Info/Characters/NPC's/Alara\|Alara]]'s shop
+  - [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] attempted to trip him for amusement but failed
+  - This failure inspired a new personal quest for [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] to successfully trip him
+
+## Relationships
+- **[[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]**: Target of her new personal quest to trip him up
 
 ## Notes
 - Known for his incredible speed

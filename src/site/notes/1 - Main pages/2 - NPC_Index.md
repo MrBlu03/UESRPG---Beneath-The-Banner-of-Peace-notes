@@ -58,12 +58,19 @@
 - **[[Info/Characters/Khajiit_Figure\|Khajiit Figure]]**: Mysterious figure seen in mirrors and reflections
 - **[[Info/Characters/NPC's/Lagetha\|Lagetha]]**: Ancient spirit haunting the hunting lodge, bound by pain and rage
 - **[[Info/Characters/Sven\|Sven]]**: Undead figure
+- **[[Info/Characters/NPC's/M'aiq\|M'aiq]]**: Mysterious [[Khajiit\|Khajiit]] wanderer who appeared at party's camp
 
 ## Travelers and Messengers
-- **[[Info/Characters/NPC's/Eirik_the_Quick\|Eirik the Quick]]**: Messenger in [[Info/Locations/Riften\|Riften]]
+- **[[Info/Characters/NPC's/Eirik_the_Quick\|Eirik the Quick]]**: Messenger in [[Info/Locations/Riften\|Riften]], target of [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]'s tripping quest
 
 ## Local Residents
 - **[[Info/Characters/NPC's/Olgierd\|Olgierd]]**: Farmer near the haunted hunting lodge who has witnessed supernatural phenomena
+
+## Village Leaders
+- **[[Info/Characters/NPC's/Alderman_Torgir\|Alderman_Torgir]]**: Leader of [[Info/Locations/Trevas_Bend\|Treva's Bend]]
+
+## Animal Companions
+- **[[Info/Characters/NPC's/John\|John]]**: [[Info/Characters/NPC's/Alara\|Alara]]'s small husky companion
 
 ## Treva's Bend
 - Unnamed alderman/town leader: Mentioned as talking to a strange man

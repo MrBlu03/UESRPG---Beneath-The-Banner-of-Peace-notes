@@ -42,6 +42,16 @@
   - Encountered mysterious figure offering black feather and cryptic advice
   - Learned about writing her own story rather than following fate/prophecy
   - Gained insight into [[Info/Characters/NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s true age
+- **[[2 -  Sessions/Session 010\|Session 010]]**:
+  - Awakened from three-day coma at [[Cult of Ysmir\|Cult of Ysmir]] hall
+  - Last person she spoke to in dreams was the "Crow Father"
+  - Learned that [[Sven\|Sven]] and [[Info/Characters/NPC's/Lagetha\|Lagetha]] have been laid to rest
+  - Joined camping trip to decompress and process trauma
+  - Used art therapy, sketching scenery and journaling her visions
+  - Drew [[Info/Characters/NPC's/Gareth\|Gareth]] as she saw him in her coma/visions
+  - Opened up to [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] about seeing [[Info/Characters/NPC's/Gareth\|Gareth]] in her coma
+  - Shared details about her relationship with [[Info/Characters/NPC's/Gareth\|Gareth]] and having to kill him
+  - Showed signs of emotional healing and greater openness about her past
 
 ## Current Concerns
 - Being targeted by Malacath, who appears to be encouraging her vengeful tendencies
@@ -54,10 +64,19 @@
 - **New**: Black feather from mysterious figure - properties and significance unknown
 
 ## Current Status
-- Recovering at [[Cult of Ysmir\|Cult of Ysmir]] hall
-- Under care of [[Info/Characters/NPC's/Adda\|Adda]] and [[Info/Characters/NPC's/Víðir\|Víðir]]
-- Placed on stone bed with candles for healing
-- Condition described as "touched by something ancient and hollow"
-- **New**: Experienced significant emotional healing through dream confrontation with [[Info/Characters/NPC's/Gareth\|Gareth]]
-- **New**: Received forgiveness and closure for past trauma
-- **New**: Gained mysterious black feather with unknown properties
+- Awake and recovering from three-day coma following Dragon Priest ritual
+- Under care of [[Info/Characters/NPC's/Adda\|Adda]] at [[Cult of Ysmir\|Cult of Ysmir]] hall
+- Experiencing emotional healing and greater openness about her past
+- Processing trauma through art (sketching and journaling)
+- Showing renewed engagement with the party and their activities
+- **Previous**: Experienced significant emotional healing through dream confrontation with [[Info/Characters/NPC's/Gareth\|Gareth]]
+- **Previous**: Received forgiveness and closure for past trauma
+- **Previous**: Gained mysterious black feather with unknown properties
+
+## Relationship with [[Info/Characters/NPC's/Gareth\|Gareth]]
+- **Mentor and Student**: [[Info/Characters/NPC's/Gareth\|Gareth]] was [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s trainer and mentor with the [[Knights of Arkay\|Knights of Arkay]]
+- **Tragic End**: [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] was forced to kill [[Info/Characters/NPC's/Gareth\|Gareth]] after he was turned into a vampire
+- **Emotional Weight**: This act has been a source of deep trauma and guilt for [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+- **Dream Reconciliation**: During her coma, [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] encountered [[Info/Characters/NPC's/Gareth\|Gareth]]'s spirit and received forgiveness
+- **Healing Process**: She has begun opening up about this relationship and the circumstances of his death
+- **Artistic Expression**: Now draws [[Info/Characters/NPC's/Gareth\|Gareth]] as she saw him in her visions, suggesting acceptance and processing

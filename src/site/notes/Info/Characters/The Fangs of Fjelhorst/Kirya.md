@@ -39,6 +39,4 @@
 - Cooking (prepared slaughterfish during the journey)
 - Betting on tavern brawls (has done this multiple times)
 
-## Party Dynamics
-- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s Assessment**: Described by [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to the Mysterious Figure in [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]] as "Steals things, saves my skin more times than I'd like to admit" - indicating [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] acknowledges [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]]'s thievery skills while recognizing her value as a reliable ally who has repeatedly protected the party
 
