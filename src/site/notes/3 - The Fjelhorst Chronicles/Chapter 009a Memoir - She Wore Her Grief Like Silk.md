@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/3-the-fjelhorst-chronicles/chapter-009a-memoir-she-wore-her-grief-like-silk/"}
 ---
 
-# Memoir - She Wore Her Grief Like Silk
 ## Act I - The Hollow Village
 
 Periwyn found herself once again on the road to an old contract — one she had taken years ago.

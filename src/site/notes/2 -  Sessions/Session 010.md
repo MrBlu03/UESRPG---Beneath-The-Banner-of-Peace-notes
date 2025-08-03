@@ -26,7 +26,7 @@ The party awakens at the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] hal
 
 [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] presents the wrapped dragon priest mask to [[Info/Characters/NPC's/Adda\|Adda]] for examination. [[Info/Characters/NPC's/Adda\|Adda]] declares it "just a trophy now" since its master is gone and its magic has faded, encouraging [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] to keep it.
 
-[[Info/Characters/NPC's/Adda\|Adda]] explains the runes painted on [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s face during her recovery, calling them "wode" - an ancient form of magic. When [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] asks if they can cover markings, [[Info/Characters/NPC's/Adda\|Adda]] explains they're primarily for facial use.
+[[Info/Characters/NPC's/Adda\|Adda]] explains the runes painted on [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] 's face during her recovery, calling them "[[0 - House Rules/Homebrew/Woad\|Woad]]" - an ancient form of magic. When [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] asks if they can cover markings, [[Info/Characters/NPC's/Adda\|Adda]] explains they're primarily for facial use.
 
 [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] informs [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] that [[Sven\|Sven]] and [[Info/Characters/NPC's/Lagetha\|Lagetha]] are dead and the land is returning to normal. [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] simply asks if they got paid. [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] throws her share of gold, but she misses it while reequipping her gear.
 
@@ -107,7 +107,7 @@ The next morning, everyone packs up. [[Info/Characters/The Fangs of Fjelhorst/Du
 
 ## NPCs Met
 
-- **[[Info/Characters/NPC's/Adda\|Adda]]**: Examined the dragon priest mask, explained wode magic, made cryptic "feathers" comment
+- **[[Info/Characters/NPC's/Adda\|Adda]]**: Examined the dragon priest mask, explained [[0 - House Rules/Homebrew/Woad\|Woad]] magic, made cryptic "feathers" comment
 - **[[Info/Characters/NPC's/Alara\|Alara]]**: Joined camping trip with her husky John, discussed spriggan friendship and tribal connections
 - **John**: [[Info/Characters/NPC's/Alara\|Alara]]'s small husky companion, adopted stray
 - **[[Info/Characters/NPC's/Bjorin\|Bjorin]]**: Provided camping location and expertise, protective of [[Info/Characters/NPC's/Astrid\|Astrid]]

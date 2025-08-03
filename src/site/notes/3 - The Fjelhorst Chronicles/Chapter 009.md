@@ -86,4 +86,3 @@ Kirya, youthful mischief gleaming in her eyes, suggested a prank. Eydis, the inn
 Satisfied, they returned to the Wanderer’s Rest. Durov shared a drink with Bjorin. Kirya inhaled a full plate of food, ravenous. Then, she and Onasha returned to Ysmir’s Hall for rest.
 
 Durov stayed a little longer, downing Nord spirit with his old friend. Then, finally, he too retired—leaving behind the shadows of the hollow, if only for the night.
-[[3 - The Fjelhorst Chronicles/Chapter 009a Memoir - She Wore Her Grief Like Silk\|Next Chapter →]]
