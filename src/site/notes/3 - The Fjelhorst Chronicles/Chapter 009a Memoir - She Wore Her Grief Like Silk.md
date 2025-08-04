@@ -657,3 +657,6 @@ The stars blinked.
 The forest folded inward.
 
 And she awoke.
+
+[[3 - The Fjelhorst Chronicles/Chapter 010\|Next Chapter →]]
+
