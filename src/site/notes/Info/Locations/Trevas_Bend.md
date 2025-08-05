@@ -19,11 +19,11 @@
   - A stranger had offered help with the dam issue to the alderman
 - **[[2 -  Sessions/Session 002\|Session 002]]**: 
   - Party investigated tensions between the fishermen of [[Info/Locations/Trevas_Bend\|Treva's Bend]] and [[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]]
-  - Discovered that [[Info/Characters/NPC's/Adrith_Velan\|Adrith Velan]] had been involved in sabotaging the dam
+  - Discovered that [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]] had been involved in sabotaging the dam
   - Restored dam functionality, improving water levels
 
 ## NPCs
-- Unnamed alderman/town leader : Local resident mentioned as having talked to a strange man
+- [[Info/Characters/999 NPC's/Alderman_Torgir\|Alderman_Torgir]] : Local resident mentioned as having talked to a strange man
 
 ## Related Locations
 - [[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]]: Source of the village's water supply via a dam
@@ -32,5 +32,5 @@
 ## Notes
 - A fishing-based economy disrupted by water level issues
 - The water dispute with [[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]] appears to have been engineered as part of a larger plot
-- Site of early tensions that revealed deeper plots involving [[Info/Characters/NPC's/Adrith_Velan\|Adrith Velan]] and the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]
+- Site of early tensions that revealed deeper plots involving [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]] and the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]
 - The village's welfare was put at risk as collateral damage in what appears to be a scheme by the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]

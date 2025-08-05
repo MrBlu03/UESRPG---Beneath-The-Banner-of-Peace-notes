@@ -3,7 +3,7 @@
 ---
 
 
-# 🍻 The Ember Keg
+# The Ember Keg
 
 ## Overview
 The Ember Keg is a tavern in [[Info/Locations/Riften\|Riften]] frequented by the party. It serves as a place to unwind and gather information after their adventures.
@@ -13,14 +13,8 @@ Located in [[Info/Locations/Riften\|Riften]], though the specific district or st
 
 ## Notable Features
 - Serves mead and likely other alcoholic beverages
-- Has a noticeboard that [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] checks for information
+- Has a noticeboard that [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] checks for information
 - Large enough to accommodate celebrations
-
-## Key NPCs
-No specific staff or regular patrons have been identified yet.
-
-## History & Lore
-No specific history is known at this time.
 
 ## Current Status
 - Active and popular tavern in Riften
@@ -31,11 +25,8 @@ No specific history is known at this time.
 - Possibly hosts brawls that people bet on (similar to other Riften establishments)
 
 ## Connections
-- [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] and the rest of the crew visited after returning from Greenwall
-- The party considered bringing [[Info/Characters/NPC's/Alara\|Alara]] here to help her cope with grief
-
-## Quests
-No specific quests are currently associated with this location.
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and the rest of the crew visited after returning from Greenwall
+- The party considered bringing [[Info/Characters/999 NPC's/Alara\|Alara]] here to help her cope with grief
 
 ## Notes
 - First mentioned during [[2 -  Sessions/Session 007\|Session 007]] when the party returned from Greenwall

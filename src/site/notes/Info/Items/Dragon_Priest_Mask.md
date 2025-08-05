@@ -11,7 +11,7 @@ A [[Info/Items/Dragon_Priest_Mask\|dragon priest mask]] found in [[Info/Characte
 - **Type**: Ancient magical artifact
 - **Origin**: [[Info/Lore/Dragon_War\|Dragon War]] era
 - **Current Status**: Powerless trophy
-- **Current Owner**: [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]]
+- **Current Owner**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]
 
 ## History
 - Originally belonged to a Dragon Priest during the [[Info/Lore/Dragon_War\|Dragon War]]
@@ -22,18 +22,18 @@ A [[Info/Items/Dragon_Priest_Mask\|dragon priest mask]] found in [[Info/Characte
 ## Magical Properties
 - **Former Power**: Significant magical abilities (exact nature unknown)
 - **Current Status**: Magic has faded with the death/banishment of its master
-- **Assessment**: Declared "just a trophy now" by [[Info/Characters/NPC's/Adda\|Adda]]
+- **Assessment**: Declared "just a trophy now" by [[Info/Characters/999 NPC's/Adda\|Adda]]
 
 ## Physical Description
-- Detailed enough for [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] to create an accurate sketch
-- Recognizable as a Dragon Priest artifact to knowledgeable individuals like [[Info/Characters/NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]
+- Detailed enough for [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to create an accurate sketch
+- Recognizable as a Dragon Priest artifact to knowledgeable individuals like [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]
 - Stored in a locked chest, suggesting its perceived value
 
 ## Key Events
 - **[[2 -  Sessions/Session 008\|Session 008]]/[[2 -  Sessions/Session 009\|Session 009]]**: Found in [[Info/Characters/Sven\|Sven]]'s chest
-- **[[2 -  Sessions/Session 009\|Session 009]]**: [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] sketched it for identification
-- **[[2 -  Sessions/Session 009\|Session 009]]**: [[Info/Characters/NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] identified it as a Dragon Priest mask
-- **[[2 -  Sessions/Session 010\|Session 010]]**: [[Info/Characters/NPC's/Adda\|Adda]] examined it and confirmed it was now powerless
+- **[[2 -  Sessions/Session 009\|Session 009]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] sketched it for identification
+- **[[2 -  Sessions/Session 009\|Session 009]]**: [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] identified it as a Dragon Priest mask
+- **[[2 -  Sessions/Session 010\|Session 010]]**: [[Info/Characters/999 NPC's/Adda\|Adda]] examined it and confirmed it was now powerless
 
 ## Cultural Significance
 - **Dragon War Era**: Worn by those who served Dragons with utter devotion
@@ -41,15 +41,15 @@ A [[Info/Items/Dragon_Priest_Mask\|dragon priest mask]] found in [[Info/Characte
 - **Archaeological Value**: Important historical artifact even without magic
 
 ## Current Status
-- Kept by [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] as a trophy
+- Kept by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] as a trophy
 - No longer poses magical threat
 - Valuable as historical artifact and proof of the party's accomplishments
 
 ## Relationships
 - **[[Info/Characters/Sven\|Sven]]**: Former owner, connected to his corruption
-- **[[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]]**: Current keeper
-- **[[Info/Characters/NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]**: Provided identification and context
-- **[[Info/Characters/NPC's/Adda\|Adda]]**: Assessed its current magical state
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]**: Current keeper
+- **[[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]**: Provided identification and context
+- **[[Info/Characters/999 NPC's/Adda\|Adda]]**: Assessed its current magical state
 
 ## Notes
 - Represents the defeat of ancient evil

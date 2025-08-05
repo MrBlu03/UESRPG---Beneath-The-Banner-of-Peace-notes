@@ -13,13 +13,13 @@
 **Objective**: Investigate the connection between the crimson orb and undead werewolves
 
 **Key Tasks**:
-- [ ] Wait for updates from [[Info/Characters/NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s investigation
+- [ ] Wait for updates from [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s investigation
 - [ ] Research historical incidents involving werewolf experimentation in Western Skyrim
 - [ ] Learn more about the crimson orb's connection to [[Molag Bal\|Molag Bal]]
 
 **Key NPCs**: 
-- [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]]
-- [[Info/Characters/NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]
+- [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]]
+- [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]
 
 > *The vision showed undead werewolves that may be connected to past experiments in Western Skyrim*
 
@@ -34,7 +34,7 @@
 **Key NPCs**: 
 - Dark Brotherhood Assassin
 
-> *Created when [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] signed a blood contract for eliminating the source of darkness in Greenwall*
+> *Created when [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] signed a blood contract for eliminating the source of darkness in Greenwall*
 
 ### 🖤 [[Blackfeather Court Investigation\|Blackfeather Court Investigation]]
 **Status**: Active ([[2 -  Sessions/Session 007\|Session 007]])  
@@ -44,39 +44,17 @@
 - [ ] Research what or who the "Blackfeather Court" might be
 - [ ] Determine the meaning and purpose of the dragon language summoning scroll
 - [ ] Identify the components mentioned in the ritual
-- [ ] Consult [[Info/Characters/NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] about his knowledge of the group
-- [ ] Ask [[Archmagus Mortgren\|Archmagus Mortgren]] about magical black feathers
+- [ ] Consult [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] about his knowledge of the group
+- [ ] Ask [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]] about magical black feathers
 
 **Key NPCs**: 
-- [[Talking Fox\|Talking Fox]]
-- [[Blackfeather Court\|Blackfeather Court]] (led by "The Vestige")
-- [[Info/Characters/NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]
-- [[Archmagus Mortgren\|Archmagus Mortgren]]
+- [[Info/Characters/999 NPC's/Talking_Fox\|Talking_Fox]]
+- [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] (led by "The Vestige")
+- [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]
+- [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]
 
 > *The [[Talking Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
 
-### 🏚️ Haunted Lodge Contract
-**Status**: Completed ([[2 -  Sessions/Session 009\|Session 009]])  
-**Objective**: Clear the haunting at [[Info/Characters/NPC's/Hadvar\|Hadvar]]'s hunting lodge for 400 gold reward
-
-**Key Tasks**:
-- [x] Accept contract from [[Info/Characters/NPC's/Hadvar\|Hadvar]]
-- [x] Gather information about the lodge
-- [x] Travel to the lodge location
-- [x] Discover the spirits of [[Info/Characters/NPC's/Lagetha\|Lagetha]] and [[Sven\|Sven]]
-- [x] Find the mysterious Dragon Cult mask
-- [x] Rescue [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] from Dragon Cult ritual
-- [x] Complete Arkay's rite to put spirits to rest
-- [x] Return to [[Info/Characters/NPC's/Hadvar\|Hadvar]] for payment
-
-**Key NPCs**: 
-- [[Info/Characters/NPC's/Hadvar\|Hadvar]] (Clan Cold-Moor)
-- [[Info/Characters/NPC's/Lagetha\|Lagetha]] (Ancient spirit, now at rest)
-- [[Sven\|Sven]] (Undead figure controlled by Dragon Priest, now at rest)
-
-**Reward**: 400 gold each (doubled from original 200), Dragon Cult mask, various items
-
-> *The lodge contained an ancient Dragon Cult barrow, with spirits bound by pain and rage for centuries*
 
 ---
 
@@ -84,67 +62,69 @@
 
 ### ⚔️ [[Periwyn's Vampire Hunter Search\|Periwyn's Vampire Hunter Search]]
 **Status**: Active ([[2 -  Sessions/Session 007\|Session 007]])  
-**Target**: [[Info/Characters/NPC's/Wuunferth\|Wuunferth]] in [[Info/Locations/Mistwatch\|Mistwatch]]  
+**Target**: [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]] in [[Info/Locations/Mistwatch\|Mistwatch]]  
 
 **Key Tasks**:
-- [x] Identify the tortured man in the keep as [[Info/Characters/NPC's/Wuunferth\|Wuunferth]]
-- [ ] Visit [[Info/Characters/NPC's/Wuunferth\|Wuunferth]] at Mistwatch after he recovers
+- [x] Identify the tortured man in the keep as [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
+- [ ] Visit [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]] at Mistwatch after he recovers
 - [ ] Learn about his vampire hunting techniques
 
-> *[[Info/Characters/NPC's/Hillevi\|Hillevi]] has taken [[Info/Characters/NPC's/Wuunferth\|Wuunferth]] to Mistwatch for healing*
+> *[[Info/Characters/999 NPC's/Hillevi\|Hillevi]] has taken [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]] to Mistwatch for healing*
 
 ### 🔥 [[Malacath's Interest in Periwyn\|Malacath's Interest in Periwyn]]
 **Status**: Active ([[2 -  Sessions/Session 007\|Session 007]])  
 **Objective**: Discover why the Daedric Prince is targeting Periwyn through dreams
 
 **Key Tasks**:
-- [ ] Discover why Malacath is interested in [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+- [ ] Discover why Malacath is interested in [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 - [ ] Learn more about resisting Daedric influence
 - [ ] Understand the connection between Periwyn's anger and Malacath's domain of vengeance
 
 **Key NPCs**: 
-- [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 - [[Info/Lore/Malacath\|Malacath]] (Daedric Prince)
 
 > *Periwyn has experienced [[vivid nightmares\|vivid nightmares]] featuring Malacath saying "Yes, feed that anger, give in to vengeance, be my pawn"*
 
 ### 🏃‍♀️ [[Onasha's Eirik Challenge\|Onasha's Eirik Challenge]]
 **Status**: Active ([[2 -  Sessions/Session 010\|Session 010]])  
-**Objective**: Successfully trip [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik_the_Quick]] during one of his sprints
+**Objective**: Successfully trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] during one of his sprints
 
 **Key Tasks**:
-- [ ] Observe [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik_the_Quick]]'s running patterns and routes
+- [ ] Observe [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]]'s running patterns and routes
 - [ ] Plan an effective tripping strategy
 - [ ] Execute the plan without causing serious injury
 
 **Key NPCs**: 
-- [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]
-- [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik_the_Quick]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
+- [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]]
 
-> *Started after [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] failed to trip [[Info/Characters/NPC's/Eirik_the_Quick\|Eirik_the_Quick]] on the way to [[Info/Characters/NPC's/Alara\|Alara]]'s shop*
+> *Started after [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] failed to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] on the way to [[Info/Characters/999 NPC's/Alara\|Alara]]'s shop*
 
 ### ⚔️ [[Durov's Lost Past\|Durov's Lost Past]]
 **Status**: Active ([[2 -  Sessions/Session 010\|Session 010]])  
-**Objective**: Uncover [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]'s forgotten military history and identity
+**Objective**: Uncover [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s forgotten military history and identity
 
 **Key Tasks**:
-- [ ] Research the insignia/symbol on [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]'s shield
+- [ ] Research the insignia/symbol on [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s shield
 - [ ] Investigate the snowy castle from his dream
 - [ ] Identify his former military unit or order
 - [ ] Learn about the battle where his companion died
 - [ ] Discover what caused his amnesia
 
 **Key NPCs**: 
-- [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]
-- [[Info/Characters/NPC's/Alara\|Alara]] (recognized his symbol but couldn't place it)
-- Potential contacts in [[Info/Locations/Faldarstad\|Faldarstad]] (mentioned by [[Info/Characters/NPC's/Alara\|Alara]])
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
+- [[Info/Characters/999 NPC's/Alara\|Alara]] (recognized his symbol but couldn't place it)
+- Potential contacts in [[Info/Locations/Faldarstad\|Faldarstad]] (mentioned by [[Info/Characters/999 NPC's/Alara\|Alara]])
 
 **Key Clues**:
 - Shield bears recognizable but unplaceable symbol
 - Dream of battlefield with fellow soldiers in matching armor
-- Large snowy castle with same insignia as [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]
+- Large snowy castle with same insignia as [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
 - Companion died from spear wound
-- [[Info/Characters/NPC's/Alara\|Alara]] mentioned Colovian acquaintance in [[Info/Locations/Faldarstad\|Faldarstad]] who might know more
+- [[Info/Characters/999 NPC's/Alara\|Alara]] mentioned Colovian acquaintance in [[Info/Locations/Faldarstad\|Faldarstad]] who might know more
+
+Add session 5 info
 
 > *Dream occurred during camping trip in [[2 -  Sessions/Session 010\|Session 010]], suggesting his past is trying to surface*
 
@@ -156,9 +136,9 @@
 **Status**: Active ([[2 -  Sessions/Session 002\|Session 002]])
 
 **Current Leads**:
-- Symbol at [[Snow-Shod Dam\|Snow-Shod Dam]]
-- Connection to [[Clan Volkihar\|Clan Volkihar]] (Harmugstahl)
-- Link to [[Adrith Velan\|Adrith Velan]]'s murder
+- Symbol at [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]
+- Connection to [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]] (Harmugstahl)
+- Link to [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]] 's murder
 
 ### ⚗️ [[Poisoned Dunmer Case\|Poisoned Dunmer Case]]
 **Status**: Active ([[2 -  Sessions/Session 003\|Session 003]])
@@ -171,7 +151,9 @@
 > *Perpetrator likely has [[Nocturnal Realm\|Nocturnal Realm]] access*
 
 ### 📜 [[Burnt Paper Reconstruction\|Burnt Paper Reconstruction]]
-**Status**: Pending ([[2 -  Sessions/Session 002\|Session 002]])  
+- **Status**: 
+	- Pending ([[2 -  Sessions/Session 002\|Session 002]])  
+	- Sent to college of winterhold by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] ([[2 -  Sessions/Session 010\|Session 010]])
 **Lead**: [[Info/Locations/Winterhold\|Winterhold]] mages  
 **Note**: Requires advanced magic
 
@@ -182,20 +164,20 @@
 ### 🏚️ Haunted Lodge Contract
 **Completed**: [[2 -  Sessions/Session 009\|Session 009]]  
 **Reward**: 400 gold each  
-**Outcome**: Successfully cleared the haunting and rescued [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+**Outcome**: Successfully cleared the haunting and rescued [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 
 **Details**:
 - Discovered ancient Dragon Cult barrow beneath the lodge
-- Rescued [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] from ritual sacrifice attempt
-- Put [[Sven\|Sven]] and [[Info/Characters/NPC's/Lagetha\|Lagetha]] to rest after centuries of torment
+- Rescued [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] from ritual sacrifice attempt
+- Put [[Sven\|Sven]] and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] to rest after centuries of torment
 - Destroyed the Dragon Priest controlling [[Sven\|Sven]]
 - Earned permanent welcome at [[Cult of Ysmir\|Cult of Ysmir]] hall
-- [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] successfully negotiated double payment from [[Info/Characters/NPC's/Hadvar\|Hadvar]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] successfully negotiated double payment from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]
 
 ### 🏰 Return to Riften
 **Completed**: [[2 -  Sessions/Session 007\|Session 7]]  
 **Reward**: 250 gold each  
-**Outcome**: Successfully reported to [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]] about Greenwall
+**Outcome**: Successfully reported to [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] about Greenwall
 
 **Details**:
 - Delivered the vampire head to [[Archmagus Mortgren\|Archmagus Mortgren]] for study
@@ -215,11 +197,11 @@
 
 ### 👑 Fangs of Fjelhorst
 **Completed**: [[2 -  Sessions/Session 004\|Session 4]]  
-**Outcome**: Accepted [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]]'s offer to become her special hunters
+**Outcome**: Accepted [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]]'s offer to become her special hunters
 
 **Details**:
 - Official status as Queen's hunters granted
-- Direct line to [[Queen Freidr\|Queen Freidr]] and [[Info/Characters/NPC's/Rigi\|Rigi]]
+- Direct line to [[Queen Freidr\|Queen Freidr]] and [[Info/Characters/999 NPC's/Rigi\|Rigi]]
 - Tasked with defending against supernatural threats
 - Group now officially known as "The Fangs of Fjelhorst"
 
@@ -239,7 +221,7 @@
 ### [[Find Missing Alchemist\|Find Missing Alchemist]] 🌿
 **Completed**: [[2 -  Sessions/Session 003\|Session 003]]  
 **Reward**: 50 gold each  
-**Outcome**: Found [[Info/Characters/NPC's/Alara\|Alara]] safe with spriggan
+**Outcome**: Found [[Info/Characters/999 NPC's/Alara\|Alara]] safe with spriggan
 
 ### [[Treva's Bend\|Treva's Bend]] Aid 💧
 **Completed**: [[2 -  Sessions/Session 002\|Session 002]]  
@@ -251,53 +233,38 @@
 
 - 🏛️ Investigate [[Cult of Clavicus Vile\|Cult of Clavicus Vile]] cave
 - 🗿 Study [[Info/Locations/Shadow Stone\|Shadow Stone]] powers
-- 👥 Follow up on Eldar's conversation
-- 🧙‍♂️ Consult [[Archmagus Mortgren\|Archmagus Mortgren]] about the [[Blackfeather Court\|Blackfeather Court]] (formerly called Court of Crows)
-- 🦅 Study the bone hawk remains with other methods (necromancy attempt failed)
-- 🦊 Look for the [[Talking Fox\|Talking Fox]] again to learn more about the [[Blackfeather Court\|Blackfeather Court]]
-- 🧪 Help [[Info/Characters/NPC's/Alara\|Alara]] cope with the loss of her family from Greenwall
+- 🧙‍♂️ Consult [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]] about the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] (formerly called Court of Crows)
+- 🦊 Look for the [[Info/Characters/999 NPC's/Talking_Fox\|Talking_Fox]] again to learn more about the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]
 
 ---
 
 ## 📦 Quest Items & Evidence
 
-  
-
 # Party Inventory
 
-|Item|Source|Notes|
-|---|---|---|
-|🎀 Blue Ribbon|[[Info/Characters/NPC's/Alara\|Alara]]|Proof of rescue|
-|📜 Serpent Symbol|[[Snow-Shod Dam\|Snow-Shod Dam]]|Mystery symbol|
-|📕 Adrith's Diary|Adrith (dead)|Murder Scene Evidence|
-|🦅 Bone Hawk|Session 5|Study material|
-|📚 Frozen Logbook|Harmugstahl|General's last entry|
-|🪶 Black Feathers|Crows||
-|🗡️ Ebony Ritual Dagger|Black Sacrament site|Dull blade with Daedric runes|
-|📚 "A Kiss, Sweet Mother"|Black Sacrament site|Dark Brotherhood ritual book|
-|📚 "Herbalist's Guide to Skyrim"|Greenwall tunnel|Alchemical reference|
-|📚 "Sithis"|Greenwall tunnel|Book about the Dark Brotherhood deity|
-|📚 "Herbane's Bestiary: Hagravens"|Greenwall tunnel|Information on hagravens|
-|🧾 Inn Ledger|Greenwall inn|Records of "noble" vampires entering town|
-|🔴 Crimson Orb|Greenwall keep (still inside)|Connection to [[Molag Bal\|Molag Bal]], resists physical/magical attacks|
-|📜 Dragon Language Scroll|[[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]|Summoning ritual, connected to the Blackfeather|
-|💰 250 Gold Each|[[Queen Freidr\|Queen Freidr]]|Reward for clearing Greenwall|
-|🗺️ Lodge Area Map|[[2 -  Sessions/Session 008\|Session 008]]|[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s detailed map including wyrd kern and hunter's corpse|
-|🎭 Strange Metal Mask|[[2 -  Sessions/Session 008\|Session 008]]|Found in locked chest, sketched for court mage examination|
-|💰 Pouch of Unidentified Coins|[[2 -  Sessions/Session 008\|Session 008]]|Found with the mask|
-|💀 Lagetha's Head|[[2 -  Sessions/Session 008\|Session 008]]|Retrieved from the well by [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]|
-|📿 Lagetha's Necklace|[[2 -  Sessions/Session 008\|Session 008]]|Found in the well, given to her by [[Sven\|Sven]]|
-|📦 Tiny Lock Box|[[2 -  Sessions/Session 008\|Session 008]]|Found in the well|
-|📜 Nordic Parchment|[[2 -  Sessions/Session 008\|Session 008]]|Excerpt from [[Sven\|Sven]]'s journal explaining his ritual|
-|🎭 Dragon Cult Mask|[[2 -  Sessions/Session 009\|Session 009]]|Retrieved from ritual chamber, Dragon Cult artifact|
-|💰 400 Gold Each|[[2 -  Sessions/Session 009\|Session 009]]|Final reward from [[Info/Characters/NPC's/Hadvar\|Hadvar]] (doubled)|
-|📚 Spell Book|[[2 -  Sessions/Session 009\|Session 009]]|Found in barrow kitchen, unreadable|
-|💍 Silver Ring with Garnet|[[2 -  Sessions/Session 009\|Session 009]]|Found on pedestal, real gemstone|
-|🦴 Carved Bone Charm (Flower)|[[2 -  Sessions/Session 009\|Session 009]]|Necklace found in sleeping quarters|
-|📜 Disturbing Letter|[[2 -  Sessions/Session 009\|Session 009]]|Message about feeling words under skin|
-|💎 Soul Gem Fragments (8)|[[2 -  Sessions/Session 009\|Session 009]]|Found near arcane enchanter|
-|🧪 Ectoplasm (1 dose)|[[2 -  Sessions/Session 009\|Session 009]]|Alchemical ingredient|
-|🔥 Firesalts (2 doses)|[[2 -  Sessions/Session 009\|Session 009]]|Alchemical ingredient|
-|🌸 Perfume Bottle|[[2 -  Sessions/Session 009\|Session 009]]|Perfectly intact, found in alchemy room|
-|🗡️ Ornate Axe|[[2 -  Sessions/Session 009\|Session 009]]|Found with skeletal remains|
-|🏹 Broken Bow + 15 Arrows| [[2 -  Sessions/Session 009\|Session 009]] |Found in final chamber|
+| Item                               | Source                        | Notes                                                              |
+| ---------------------------------- | ----------------------------- | ------------------------------------------------------------------ |
+| 📜 Serpent Symbol                  | [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]             | Mystery symbol                                                     |
+| 📕 Adrith's Diary                  | Adrith (dead)                 | Murder Scene Evidence                                              |
+| 📚 Frozen Logbook                  | Harmugstahl                   | General's last entry                                               |
+| 🪶 Black Feathers                  | Crows                         |                                                                    |
+| 🗡️ Ebony Ritual Dagger            | Black Sacrament site          | Dull blade with Daedric runes                                      |
+| 📚 "A Kiss, Sweet Mother"          | Black Sacrament site          | Dark Brotherhood ritual book                                       |
+| 📚 "Herbalist's Guide to Skyrim"   | Greenwall tunnel              | Alchemical reference                                               |
+| 📚 "Sithis"                        | Greenwall tunnel              | Book about the Dark Brotherhood deity                              |
+| 📚 "Herbane's Bestiary: Hagravens" | Greenwall tunnel              | Information on hagravens                                           |
+| 🔴 Crimson Orb                     | Greenwall keep (still inside) | Connection to [[Molag Bal\|Molag Bal]], resists physical/magical attacks      |
+| 📜 Dragon Language Scroll          | [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]                    | Summoning ritual, connected to the Blackfeather                    |
+| 🗺️ Lodge Area Map                 | [[2 -  Sessions/Session 008\|Session 008]]               | [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s detailed map including wyrd kern and hunter's corpse |
+| 💰 Pouch of Unidentified Coins     | [[2 -  Sessions/Session 008\|Session 008]]               | Found with the mask                                                |
+| 📦 Tiny Lock Box                   | [[2 -  Sessions/Session 008\|Session 008]]               | Found in the well                                                  |
+| 📜 Nordic Parchment                | [[2 -  Sessions/Session 008\|Session 008]]               | Excerpt from [[Sven\|Sven]]'s journal explaining his ritual              |
+| 🎭 Dragon Cult Mask                | [[2 -  Sessions/Session 009\|Session 009]]               | Retrieved from ritual chamber, Dragon Cult artifact                |
+| 📚 Spell Book                      | [[2 -  Sessions/Session 009\|Session 009]]               | Found in barrow kitchen, unreadable                                |
+| 💍 Silver Ring with Garnet         | [[2 -  Sessions/Session 009\|Session 009]]               | Found on pedestal, real gemstone                                   |
+| 🦴 Carved Bone Charm (Flower)      | [[2 -  Sessions/Session 009\|Session 009]]               | Necklace found in sleeping quarters                                |
+| 📜 Disturbing Letter               | [[2 -  Sessions/Session 009\|Session 009]]               | Message about feeling words under skin                             |
+| 💎 Soul Gem Fragments (8)          | [[2 -  Sessions/Session 009\|Session 009]]               | Found near arcane enchanter                                        |
+| 🌸 Perfume Bottle                  | [[2 -  Sessions/Session 009\|Session 009]]               | Perfectly intact, found in alchemy room                            |
+| 🗡️ Ornate Axe                     | [[2 -  Sessions/Session 009\|Session 009]]               | Found with skeletal remains                                        |
+| Ornate sword                       | [[2 -  Sessions/Session 009\|Session 009]]               | Found somewhere                                                    |

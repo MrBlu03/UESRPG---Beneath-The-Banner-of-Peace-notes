@@ -11,7 +11,7 @@ A long, black feather faintly humming with energy, given to Periwyn by a mysteri
 - Session 9.5: Periwyn's Slumber (Other Realm)
 
 ## Related Pages
-- [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
-- [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]
-- [[Info/Organizations/Blackfeather\|Blackfeather Court]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
+- [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]
 - [[Info/Lore/Nocturnal\|Nocturnal]] 

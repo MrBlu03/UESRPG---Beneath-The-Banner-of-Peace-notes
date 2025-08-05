@@ -9,15 +9,15 @@
 ### [[Info/Organizations/Companions\|Companions]]
 - Ancient Nord warrior organization based in Fallowstone Hall
 - Currently engaged in vampire-hunting operations
-- Led by [[Info/Characters/NPC's/Vigrod_Wraithbane\|Vigrot Wraithbane]] near [[Info/Locations/Greenwall\|Greenwall]]
+- Led by [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod Wraithbane]] near [[Info/Locations/Greenwall\|Greenwall]]
 
 ### [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]
 - Religious order dedicated to Arkay
 - Specialized in vampire hunting and undead threats
-- Former affiliation of [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+- Former affiliation of [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 
 ### [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
-- Led by [[Info/Characters/NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] (Harbinger)
+- Led by [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] (Harbinger)
 - Active in [[Info/Locations/Riften\|Riften]] region
 
 ---
@@ -25,7 +25,7 @@
 ## 🏪 Merchant Organizations
 
 ### [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]]
-- Led by [[Info/Characters/NPC's/Torvald_Black-Foot\|Torvald Black-Foot]]
+- Led by [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]]
 - Based in [[Info/Locations/Riften\|Riften]]
 
 ---
@@ -41,7 +41,7 @@
 ### [[Info/Organizations/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]]
 - Cave-dwelling cult
 - Worship Clavicus Vile, Lord of Bargains
-- Location mentioned by [[Info/Characters/NPC's/Alara\|Alara]]
+- Location mentioned by [[Info/Characters/999 NPC's/Alara\|Alara]]
 
 ---
 
@@ -50,7 +50,7 @@
 ### The Fangs of Fjelhorst (that's us)
 - Queen's special hunters
 - Recently formed from party members
-- Direct line to [[Info/Characters/NPC's/Queen_Freidr\|Queen Freidr]] and [[Info/Characters/NPC's/Rigi\|Rigi]]
+- Direct line to [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] and [[Info/Characters/999 NPC's/Rigi\|Rigi]]
 - Tasked with supernatural threats
 
 ---

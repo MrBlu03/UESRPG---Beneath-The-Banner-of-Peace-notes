@@ -13,7 +13,7 @@
 
 ## Current Activities
 - Suspected involvement in [[Info/Locations/Greenwall\|Greenwall]]'s magical blizzard
-- Possible connection to frozen soldiers at Harmugstahl
+- Possible connection to frozen soldiers at [[Info/Locations/Harmugstahl\|Harmugstahl]]
 - Evidence of a splinter faction (variant symbol discovered)
 
 ## Historical Events
@@ -22,7 +22,7 @@
 
 ## Associated Locations
 - [[Info/Locations/Greenwall\|Greenwall]]: Current base of operations
-- Harmugstahl: Site where their variant symbol was found
+- [[Info/Locations/Harmugstahl\|Harmugstahl]]: Site where their variant symbol was found
 
 ## Threats and Weaknesses
 - Vulnerable to:
@@ -33,5 +33,5 @@
 
 ## Notes
 - Considered extremely dangerous even by vampire hunter standards
-- [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] has extensive knowledge of their capabilities from her time with the [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] has extensive knowledge of their capabilities from her time with the [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]
 - Current activities suggest possible alliance with the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]

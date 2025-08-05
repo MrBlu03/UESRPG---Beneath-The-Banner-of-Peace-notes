@@ -13,9 +13,9 @@
 - May offer other alchemy-related services
 
 ## NPCs
-- **[[Info/Characters/NPC's/Alara\|Alara]]**: Owner of the shop
-- **[[Info/Characters/NPC's/Hafjorg\|Hafjorg]]**: Son of Alara who helps run the shop
+- **[[Info/Characters/999 NPC's/Alara\|Alara]]**: Owner of the shop
+- **[[Info/Characters/999 NPC's/Hafjorg\|Hafjorg]]**: Son of Alara who helps run the shop
 
 ## Key Events
-- **[[2 -  Sessions/Session 001\|Session 001]]**: Party visited and purchased healing potions from [[Info/Characters/NPC's/Hafjorg\|Hafjorg]]
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Party learned that [[Info/Characters/NPC's/Alara\|Alara]] had gone missing while gathering ingredients in the southern woods
+- **[[2 -  Sessions/Session 001\|Session 001]]**: Party visited and purchased healing potions from [[Info/Characters/999 NPC's/Hafjorg\|Hafjorg]]
+- **[[2 -  Sessions/Session 003\|Session 003]]**: Party learned that [[Info/Characters/999 NPC's/Alara\|Alara]] had gone missing while gathering ingredients in the southern woods

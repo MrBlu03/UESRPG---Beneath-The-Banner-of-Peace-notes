@@ -11,5 +11,5 @@
 - Accommodation for travelers and visitors to [[Info/Locations/Riften\|Riften]]
 
 ## Related NPCs
-- [[Info/Characters/NPC's/Bjorin\|Bjorin]]: inn keep
-- [[Info/Characters/NPC's/Astrid\|Astrid]] inn keep's daughter
+- [[Info/Characters/999 NPC's/Bjorin\|Bjorin]]: inn keep
+- [[Info/Characters/999 NPC's/Astrid\|Astrid]] inn keep's daughter

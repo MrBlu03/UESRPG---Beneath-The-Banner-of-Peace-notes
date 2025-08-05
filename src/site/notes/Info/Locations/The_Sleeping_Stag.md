@@ -11,4 +11,5 @@
 - Located in [[Info/Locations/Riften\|Riften]]
 
 ## Related NPCs
-- [[Info/Characters/NPC's/Grelka\|Grelka]]: inn keeper
+- [[Info/Characters/999 NPC's/Grelka\|Grelka]]: inn keeper
+- [[Info/Characters/999 NPC's/Eydis\|Eydis]]: bartender

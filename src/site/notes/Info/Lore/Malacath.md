@@ -3,13 +3,13 @@
 ---
 
 
-# 🔥 Malacath
+# Malacath
 
 ## Overview
-Malacath is a Daedric Prince also known as the God of Curses, the Keeper of the Sworn Oath, and the Patron of the Spurned and Ostracized. He has appeared in [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s nightmares, attempting to influence her toward vengeance.
+Malacath is a Daedric Prince also known as the God of Curses, the Keeper of the Sworn Oath, and the Patron of the Spurned and Ostracized. He has appeared in [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s nightmares, attempting to influence her toward vengeance.
 
 ## Appearance
-In [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s nightmares, Malacath appears as a large, orc-like figure much larger than a normal orc. He carries a massive hammer and was seen either standing or sitting on a throne of skulls.
+In [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s nightmares, Malacath appears as a large, orc-like figure much larger than a normal orc. He carries a massive hammer and was seen either standing or sitting on a throne of skulls.
 
 ## Domain & Powers
 - **Vengeance**: Primary domain, which seems to be why he's interested in Periwyn
@@ -19,22 +19,22 @@ In [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s nightmares, Mal
 
 ## Known Artifacts
 - **Hammer of Might**: The massive hammer seen in Periwyn's visions
-- **Fractured Mask**: According to the mysterious figure in [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dream, Malacath's tusked mask is fractured but not ruined, as if something tried to break it and wasn't quite there
+- **Fractured Mask**: According to the mysterious figure in [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dream, Malacath's tusked mask is fractured but not ruined, as if something tried to break it and wasn't quite there
 
 ## Followers
 - The Orcs (Orsimer) typically worship Malacath as their primary deity
 - Those seeking vengeance may also be drawn to him
 
 ## Current Influence
-- Actively attempting to influence [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] through [[Periwyn nightmares/Session 7 Nightmare sequences\|traumatic nightmares]]
+- Actively attempting to influence [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] through [[Periwyn nightmares/Session 7 Nightmare sequences\|traumatic nightmares]]
 - Using her desire for vengeance against vampires as a point of manipulation
 - Referred to her as his potential "pawn"
 - Appears after Periwyn relives the loss of her loved ones
 - **New**: The mysterious figure warns that Malacath may be trying to create "another one of him running around"
-- **New**: Malacath's mask appears fractured in [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s vision, suggesting some kind of damage or weakening
+- **New**: Malacath's mask appears fractured in [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s vision, suggesting some kind of damage or weakening
 
 ## Connection to Current Events
-- Has appeared twice in [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dreams after the events at [[Info/Locations/Greenwall\|Greenwall]]
+- Has appeared twice in [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dreams after the events at [[Info/Locations/Greenwall\|Greenwall]]
 - Said to her: "Yes, feed that anger, give in to vengeance, be my pawn"
 - Created a pool beneath her when stomping his hammer on the ground
 - Seems interested in Periwyn's vengeful nature toward vampires

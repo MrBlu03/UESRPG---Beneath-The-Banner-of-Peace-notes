@@ -5,10 +5,11 @@
 # Black-Foot Merchant Guild
 
 ## Description
-The [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]] is a prominent merchant organization in [[Info/Locations/Riften\|Riften]], named after and led by [[Info/Characters/NPC's/Torvald_Black-Foot\|Torvald Black-Foot]].
+The [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]] is a prominent merchant organization in [[Info/Locations/Riften\|Riften]], named after and led by [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]].
 
 ## Key Members
-- [[Info/Characters/NPC's/Torvald_Black-Foot\|Torvald Black-Foot]]: merchant, family owns the guild
+- [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]]: merchant, family owns the guild
+- [[Info/Characters/999 NPC's/Hjar\|Hjar]]: merchant 
 
 ## Activities
 - Trade and commerce in [[Info/Locations/Riften\|Riften]]

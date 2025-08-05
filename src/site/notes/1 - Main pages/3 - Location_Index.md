@@ -5,25 +5,17 @@
 # Location Index
 
 ## Major Cities and Towns
-- **[[Info/Locations/Riften\|Riften]]**: Major city, seat of Queen Freidr
-  - **[[Info/Locations/Wanderers_Rest\|Wanderer's Rest]]**: Inn run by [[Info/Characters/NPC's/Bjorin\|Bjorin]] and [[Info/Characters/NPC's/Astrid\|Astrid]]
-  - **[[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]**: [[Info/Characters/NPC's/Alara\|Alara]]'s alchemy shop
-  - **[[Info/Locations/Whispwood_Remedies\|Whispwood Remedies]]**: [[Info/Characters/NPC's/Ralvard\|Ralvard]]'s shop
-  - **[[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]**: Tavern run by [[Info/Characters/NPC's/Grelka\|Grelka]]
-  - **[[Info/Locations/Sweaty_Steel\|Sweaty Steel]]**: Blacksmith shop run by [[Info/Characters/NPC's/Bjorn\|Bjorn]] and [[Info/Characters/NPC's/Svana\|Svana]]
-  - **[[Info/Locations/The_Honed_Edge\|The Honed Edge]]**: Blacksmith shop, lost [[Info/Locations/Greenwall\|Greenwall]] Castle to vampires
-  - **[[Info/Locations/Borans_Bullwarks\|Boran's Bullwarks]]**: [[Info/Characters/NPC's/Boran\|Boran]]'s shop
-  - **[[Info/Locations/Hall_of_the_Dead\|Crypt, Hall of the Dead]]**: Where [[Info/Characters/NPC's/Sigrid\|Sigrid]] works as mortician
+- **[[Info/Locations/Riften\|Riften]]**: Major city, seat of [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]]
+  - **[[Info/Locations/Wanderers_Rest\|Wanderer's Rest]]**: Inn run by [[Info/Characters/999 NPC's/Bjorin\|Bjorin]] and [[Info/Characters/999 NPC's/Astrid\|Astrid]]
+  - **[[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]**: [[Info/Characters/999 NPC's/Alara\|Alara]]'s alchemy shop
+  - **[[Info/Locations/Whispwood_Remedies\|Whispwood Remedies]]**: [[Info/Characters/999 NPC's/Ralvard\|Ralvard]]'s shop
+  - **[[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]**: Inn run by [[Info/Characters/999 NPC's/Grelka\|Grelka]]
+  - **[[Info/Locations/Sweaty_Steel\|Sweaty Steel]]**: Blacksmith shop run by [[Info/Characters/999 NPC's/Bjorn\|Bjorn]] and [[Info/Characters/999 NPC's/Svana\|Svana]]
+  - **[[Info/Locations/The_Honed_Edge\|The Honed Edge]]**: Blacksmith shop
+  - **[[Info/Locations/Borans_Bullwarks\|Boran's Bullwarks]]**: [[Info/Characters/999 NPC's/Boran\|Boran]] 's armor smith shop
+  - **[[Info/Locations/Hall_of_the_Dead\|Hall of the Dead]]**: Where [[Info/Characters/999 NPC's/Sigrid\|Sigrid]] works as mortician
   - **Amber Keg**: Local tavern
-  - **Mistvail Keep**: Notable landmark
-
-## Besieged Locations
-- **[[Info/Locations/Greenwall\|Greenwall]]**: Town surrounded by magical ice wall
-  - Currently under vampire control
-  - [[Info/Organizations/Companions\|Companions]]  war camp nearby (devastated)
-  - Hidden tunnel entrance discovered
-  - [[Info/Locations/Greenwall\|Greenwall]] Castle, lost to vampires 2,000 years ago
-
+  - **Mistveil Keep**: Notable landmark
 ## Settlements
 - **[[Info/Locations/Trevas_Bend\|Treva's Bend]]**: Fishing village
   - In conflict with Snow-Shod Estate over water levels
@@ -37,7 +29,7 @@
 
 ## Military Installations
 - **[[Info/Locations/Shors_Bastion\|Shor's Bastion]]**: Military installation
-  - Original destination of [[Info/Characters/NPC's/Wuunferth\|Wuunferth]]
+  - Original destination of [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
 - **Harmugstahl**: Military keep
   - Recently frozen by supernatural forces
   - Site of mysterious deaths
@@ -53,5 +45,3 @@
   - Grants power to those who attune to it
   - Near ruins from Dragon War
   - Built into old ruins
-- **[[Info/Locations/Shad_Astula\|Shad Astula]]**: Magical institution
-  - Where Archmagus Mortgren is based

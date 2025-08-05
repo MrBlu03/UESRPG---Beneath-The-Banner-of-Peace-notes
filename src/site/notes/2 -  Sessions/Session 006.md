@@ -13,15 +13,15 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 ## Detailed Recap
 
 ### War Camp Preparations
-- The party was awakened by [[Info/Characters/NPC's/Hillevi\|Hillevi]], a [[Info/Organizations/Companions\|Companions]] member
+- The party was awakened by [[Info/Characters/999 NPC's/Hillevi\|Hillevi]], a [[Info/Organizations/Companions\|Companions]] member
 - Many trebuchets had already been reassembled overnight
-- [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] sketched people in the war tent while the group ate breakfast
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] sketched people in the war tent while the group ate breakfast
   - The breakfast provided a strength bonus (+5 to strength checks) that would help them during their mission
-- [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] discussed the bone hawk specimen in private:
-  - [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] revealed she knows minor necromancy
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] discussed the bone hawk specimen in private:
+  - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] revealed she knows minor necromancy
   - They agreed to experiment with reanimating it later, away from other mages and away from the rest of the party
   - Agreed to use it for alchemical ingredients if they decided against necromancy
-- [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] learned from [[Info/Characters/NPC's/Hillevi\|Hillevi]] about the [[Info/Organizations/Companions\|Companions]]:
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] learned from [[Info/Characters/999 NPC's/Hillevi\|Hillevi]] about the [[Info/Organizations/Companions\|Companions]]:
   - She had been with them for 6 years
   - They typically operate in The Rift region
   - Their members are either descendants or recruits following [[Ysgramor\|Ysgramor]]'s traditions
@@ -30,7 +30,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
   - The Companions operate from a large mead hall
 
 ### The Infiltration Plan
-- [[Info/Characters/NPC's/Vigrod_Wraithbane\|Vigrod_Wraithbane]] summoned the party to the war tent and outlined the plan:
+- [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod_Wraithbane]] summoned the party to the war tent and outlined the plan:
   - The party would enter [[Info/Locations/Greenwall\|Greenwall]] through a hidden tunnel
   - The [[Info/Organizations/Companions\|Companions]] would launch flaming projectiles as a distraction
   - Once inside, they should head for the keep where the darkness likely originated
@@ -40,11 +40,11 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 ### Entering the Tunnel
 - The tunnel entrance was hidden under fallen leaves, a wooden trapdoor on a small hill
 - A 4-meter ladder led down to a torch-lit passage
-- Marching order: [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]], [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]], [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]], [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] (trailing behind due to anxiety)
+- Marching order: [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]], [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]], [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]], [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] (trailing behind due to anxiety)
 - The tunnel was narrow with barely enough room to move past Durov if he stood in the middle
 
 ### Tunnel Exploration
-- They found a small storage room where [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] discovered three books:
+- They found a small storage room where [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] discovered three books:
   - "Herbalist's Guide to Skyrim"
   - "Sithis"
   - "Herbane's Bestiary: Hagravens"
@@ -53,16 +53,16 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 - Further exploration revealed a larger room that appeared to be living quarters
   - Contained bedrolls and shackles
   - Initially seemed like a dead end until they noticed part of the wall was slightly offset
-- The tunnel ended at a false wall (wooden panel) that [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] broke through with his axe
+- The tunnel ended at a false wall (wooden panel) that [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] broke through with his axe
 - This led to the basement of the local inn, accessible via a bookshelf door
 
 ### Inside Greenwall
 - The inn was filled with dead bodies showing claw marks
 - As they explored, trebuchet fire hit nearby buildings
-- [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] tasted mead in the inn and noted it had a berry flavor
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] tasted mead in the inn and noted it had a berry flavor
 - The party maintained their formation as they stacked up to climb the stairs from the basement
-- [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] found the innkeeper's room containing a metal safe
-- [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] picked the lock, revealing:
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] found the innkeeper's room containing a metal safe
+- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] picked the lock, revealing:
   - 100 gold
   - A business ledger with concerning entries:
     - The captain of Greenwall had been absent-minded
@@ -79,11 +79,11 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 ### House Explorations
 - Blacksmith's house:
   - Main floor: Three doses of dried elves ear herb
-  - Basement: Smithing supplies and a piece of corundum ore (taken by [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]])
+  - Basement: Smithing supplies and a piece of corundum ore (taken by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]])
     - Specifically found 4 pieces of corundum ore
 - Final house before the keep:
-  - Door was locked; [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] and [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] failed to pick it
-  - [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] broke it down
+  - Door was locked; [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] and [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] failed to pick it
+  - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] broke it down
   - Main floor: Furniture was largely intact
     - Small items were knocked over, but larger furniture remained in place
   - Basement: Contained a ritual site - the Black Sacrament
@@ -96,9 +96,9 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
   - A dull ebony dagger with strange runes
     - Similar to ones seen at statues in the Velothi mountains north on the road between Eastmarch and the region bordering Morrowind
   - A book titled "A Kiss, Sweet Mother"
-- [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]] recognized this as the Black Sacrament ritual to summon the [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] recognized this as the Black Sacrament ritual to summon the [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]
   - Explained that the ritual requires the remains of the intended victim
-  - She freezes in panic and [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] rushes in to calm her back down
+  - She freezes in panic and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] rushes in to calm her back down
 - As they returned upstairs, they encountered a figure shrouded in darkness
 - The figure passed by them to the ritual site, kneeling and touching the circle
   - Green flames erupted, revealing a normal-sized man in dark clothing
@@ -106,9 +106,9 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
   - Appeared to be a Dunmer, though his face was obscured
   - He explained the sacrament had called him, and offered his services since the summoner was absent
   - He gave them one hour to provide a name for assassination
-  - The assassin somehow knew [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s family name
+  - The assassin somehow knew [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s family name
   - The party contracted him to kill the mage responsible for [[Info/Locations/Greenwall\|Greenwall]]'s darkness
-  - [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] signed the contract with his blood
+  - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] signed the contract with his blood
   - The assassin dissolved into shadow to begin the hunt
 
 ### Lifting the Darkness
@@ -116,7 +116,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 - After 15 minutes, trebuchet fire slowed significantly
 - After 30 minutes, sunlight began to reappear
 - Screams were heard from both the war camp and keep areas
-- [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] recognized them as vampires burning in sunlight (she loved the sound of that)
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] recognized them as vampires burning in sunlight (she loved the sound of that)
 
 ### The Keep
 - Inside the keep, they found a horrific scene:
@@ -125,17 +125,17 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
   - A crimson orb floating on a pedestal
   - Behind the altar, a man was hanging with limbs impaled on rusted spears
 - The victim was barely alive:
-  - [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] cast healing magic to stabilize him
-  - [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] gave him a potion that unexpectedly paralyzed him
+  - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] cast healing magic to stabilize him
+  - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] gave him a potion that unexpectedly paralyzed him
   - They decided to leave him to recover while they explored further
 - The crimson orb:
   - Appeared to be from [[Molag Bal\|Molag Bal]]'s realm
-  - Resisted movement attempts by [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]
-  - Deflected [[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]'s silver arrow, emitting white-red lightning
+  - Resisted movement attempts by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
+  - Deflected [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s silver arrow, emitting white-red lightning
 - The [[Info/Organizations/Companions\|Companions]] arrived, reporting the orb emitted no detectable magic
-- They freed the victim, with [[Info/Characters/NPC's/Hillevi\|Hillevi]] providing healing but noting he was barely clinging to life
-- [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] attempted to access ice-blocked doors
-- Upon learning [[Info/Characters/NPC's/Beitild\|Beitild]] and [[Info/Characters/NPC's/Olen\|Olen]] had died, [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] cracked the ice wall in a rage
+- They freed the victim, with [[Info/Characters/999 NPC's/Hillevi\|Hillevi]] providing healing but noting he was barely clinging to life
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] attempted to access ice-blocked doors
+- Upon learning [[Info/Characters/999 NPC's/Beitild\|Beitild]] and [[Info/Characters/999 NPC's/Olen\|Olen]] had died, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] cracked the ice wall in a rage
 - The vampire's head dropped from the ceiling, confirming the assassination was complete
 - The Dark Brotherhood assassin performed impressive parkour moves before departing
 - The Dark Brotherhood assassin promised to collect payment later, saying "Your story seems interesting, we will meet again"
@@ -143,7 +143,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 ---
 
 ## NPCs Met
-- **[[Info/Characters/NPC's/Hillevi\|Hillevi]]**: [[Info/Organizations/Companions\|Companions]] member who provided information about the organization
+- **[[Info/Characters/999 NPC's/Hillevi\|Hillevi]]**: [[Info/Organizations/Companions\|Companions]] member who provided information about the organization
 - **Dark Brotherhood Assassin**: Mysterious Dunmer figure summoned by the Black Sacrament who agreed to eliminate the source of darkness
 
 ---
@@ -174,8 +174,8 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
   - [ ] Identify the tortured victim in the keep
   - [ ] Investigate the crimson orb's purpose
 
-- **Vampire Hunter Search (Periwyn)**: Locate [[Info/Characters/NPC's/Wuunferth\|Wuunferth]], stranded in Greenwall #personal-quest
-  - [ ] Determine if the tortured man is [[Info/Characters/NPC's/Wuunferth\|Wuunferth]]
+- **Vampire Hunter Search (Periwyn)**: Locate [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], stranded in Greenwall #personal-quest
+  - [ ] Determine if the tortured man is [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
   - [ ] Learn about his vampire hunting techniques
 
 - **Bone Hawk Study**: Examine the necromantic creature #optional
@@ -189,10 +189,10 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 ---
 
 ## Player Notes
-- **[[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]** revealed knowledge of necromancy, which could be an interesting development for her character
-- **[[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]** was willing to sign a Dark Brotherhood contract with his own blood, showing his commitment
-- **[[Info/Characters/The Fangs of Fjelhorst/Onasha\|Onasha]]** recognized the Black Sacrament, suggesting possible knowledge of darker arts or cults
-- **[[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]]** demonstrated lock-picking skills at the inn, though not consistently successful
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** revealed knowledge of necromancy, which could be an interesting development for her character
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** was willing to sign a Dark Brotherhood contract with his own blood, showing his commitment
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** recognized the Black Sacrament, suggesting possible knowledge of darker arts or cults
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** demonstrated lock-picking skills at the inn, though not consistently successful
 
 ---
 
@@ -200,12 +200,12 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 - The [[Dark Brotherhood\|Dark Brotherhood]]'s appearance adds a new faction to our growing list of interested parties
 - The ritual altar to [[Molag Bal\|Molag Bal]] suggests the vampires may be conducting ceremonies to increase their power
 - The quick lifting of darkness after the assassin's hunt confirms the vampires had a magical source maintaining the eclipse
-- [[Info/Organizations/Companions\|Companions]] suffered additional losses ([[Info/Characters/NPC's/Beitild\|Beitild]] and [[Info/Characters/NPC's/Olen\|Olen]]) during the attack
+- [[Info/Organizations/Companions\|Companions]] suffered additional losses ([[Info/Characters/999 NPC's/Beitild\|Beitild]] and [[Info/Characters/999 NPC's/Olen\|Olen]]) during the attack
 
 ---
 
 ## Next Steps
-1. Identify and help the tortured victim, determining if he is [[Info/Characters/NPC's/Wuunferth\|Wuunferth]]
+1. Identify and help the tortured victim, determining if he is [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
 2. Investigate the crimson orb and its connection to [[Molag Bal\|Molag Bal]]
 3. Search the keep thoroughly for any survivors or additional information
 4. Consider the implications of the Dark Brotherhood contract and future payment

@@ -15,7 +15,7 @@
 - Site of a Black Sacrament ritual that summoned the Dark Brotherhood
 
 ## Key Events
-- **[[2 -  Sessions/Session 003\|Session 003]]**: [[Info/Characters/NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] discussed the magical darkness around [[Info/Locations/Greenwall\|Greenwall]] and its possible vampire connections
+- **[[2 -  Sessions/Session 003\|Session 003]]**: [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] discussed the magical darkness around [[Info/Locations/Greenwall\|Greenwall]] and its possible vampire connections
 - **[[2 -  Sessions/Session 004\|Session 004]]**: The party learned more details about [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] and their potential connection to [[Info/Locations/Greenwall\|Greenwall]]
 - **[[2 -  Sessions/Session 005\|Session 005]]**: The party prepared for and began their journey to [[Info/Locations/Greenwall\|Greenwall]], discovering the [[Info/Organizations/Companions\|Companions]] war camp had been devastated by vampires
 - **[[2 -  Sessions/Session 006\|Session 006]]**: The party infiltrated Greenwall, found evidence of vampire activity, contracted the Dark Brotherhood to eliminate the source of darkness, and discovered a ritual altar to Molag Bal with a crimson orb in the keep
@@ -28,7 +28,7 @@
 
 ## Notable Individuals
 - **Four "noble" vampires**: A. Vettien, M. Carcette, I. Tharn, and V. Alvuin - suspected to be using aliases
-- **Tortured man**: Found impaled but alive above the Molag Bal altar, possibly [[Info/Characters/NPC's/Wuunferth\|Wuunferth]] the vampire hunter
+- **Tortured man**: Found impaled but alive above the Molag Bal altar, possibly [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]] the vampire hunter
 - **Town Captain**: Mentioned in inn ledger as having become absent-minded before the vampire takeover
 
 ## Artifacts

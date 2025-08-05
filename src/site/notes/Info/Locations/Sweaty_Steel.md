@@ -13,8 +13,8 @@
 - Likely offers repair services for damaged equipment
 
 ## NPCs
-- **[[Info/Characters/NPC's/Svana\|Svana]]**: Runs the shop, handles customer interactions
-- **[[Info/Characters/NPC's/Bjorn\|Bjorn]]**: Svana's brother, works as the blacksmith
+- **[[Info/Characters/999 NPC's/Svana\|Svana]]**: Runs the shop, handles customer interactions
+- **[[Info/Characters/999 NPC's/Bjorn\|Bjorn]]**: Svana's brother, works as the blacksmith
 
 ## Key Events
 - **[[2 -  Sessions/Session 003\|Session 003]]**: The party visited to sell a sword

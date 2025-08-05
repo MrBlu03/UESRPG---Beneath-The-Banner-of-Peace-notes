@@ -25,14 +25,8 @@ The Dark Brotherhood is a secretive organization of assassins who carry out cont
 
 ## Current Activities
 - An assassin was summoned to Greenwall via the Black Sacrament
-- Contracted by [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]] to eliminate the source of magical darkness
+- Contracted by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] to eliminate the source of magical darkness
 - The assassin promised to return for payment at a later date
-
-## Key Events
-- **[[2 -  Sessions/Session 006\|Session 006]]**: An assassin was summoned through the Black Sacrament ritual in Greenwall
-  - Successfully eliminated the vampire mage causing the magical darkness
-  - Created a blood contract with [[Info/Characters/The Fangs of Fjelhorst/Durov\|Durov]]
-  - Expressed interest in the party's story, promising to return
 
 ## Related Rituals and Items
 - **Black Sacrament**: A ritual to summon the Dark Brotherhood
@@ -47,6 +41,6 @@ The Dark Brotherhood is a secretive organization of assassins who carry out cont
 - Velothi Mountains: Similar Daedric-runed daggers have been seen at statues there
 
 ## Notes
-- The assassin recognized [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s family name, suggesting possible connections or prior knowledge
+- The assassin recognized [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s family name, suggesting possible connections or prior knowledge
 - The assassin showed exceptional abilities including shadow manipulation and impressive combat prowess
 - The nature of the payment owed to the Dark Brotherhood remains undetermined

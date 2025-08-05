@@ -6,7 +6,7 @@
 # Session 1 - 15/12/2024
 
 ## Summary
-First session introduction to [[Info/Locations/Riften\|Riften]], meeting key NPCs and receiving the initial quest to investigate tensions between [[Info/Locations/Snowshot_Estate\|Snowshot Estate]] and [[Info/Locations/Trevas_Bend\|Treva's Bend]].
+First session introduction to [[Info/Locations/Riften\|Riften]], meeting key NPCs and receiving the initial quest to investigate tensions between [[Snowshot_Estate\|Snowshot Estate]] and [[Info/Locations/Trevas_Bend\|Treva's Bend]].
 
 ## Detailed Recap
 - Party arrived in [[Info/Locations/Riften\|Riften]]
@@ -14,8 +14,8 @@ First session introduction to [[Info/Locations/Riften\|Riften]], meeting key NPC
 - Received quest to investigate local tensions
 
 ## NPCs Met
-- **[[Info/Characters/NPC's/Torvald_Black-Foot\|Torvald Black-Foot]]** of [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]]: Has a cool gem we might want to buy when it gets appraised
-- **[[Info/Characters/NPC's/Hafjorg\|Hafjorg]]**: Son of owner of [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]
+- **[[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]]** of [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]]: Has a cool gem we might want to buy when it gets appraised
+- **[[Info/Characters/999 NPC's/Hafjorg\|Hafjorg]]**: Son of owner of [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]
 	- Sells healing potions: 2 HP - 6 HP - 10 HP
 
 ## Items Acquired
@@ -26,7 +26,7 @@ First session introduction to [[Info/Locations/Riften\|Riften]], meeting key NPC
 ## Quests
 ### New
 - **Quest Name:** Investigate quarrel in fishermen area, both sides angry with each other
-	- Find [[Info/Locations/Snowshot_Estate\|Snowshot Estate]] on the way
+	- Find [[Snowshot_Estate\|Snowshot Estate]] on the way
 		- Snowshots are arrogant, got new irrigation tunnels
 			- People think it caused water level issues
 		- [[Info/Locations/Trevas_Bend\|Treva's Bend]]
@@ -41,13 +41,13 @@ First session introduction to [[Info/Locations/Riften\|Riften]], meeting key NPC
 - None yet
 
 ## Player Notes
-- [[Info/Characters/The Fangs of Fjelhorst/Kirya\|Kirya]] gave nickname FURY to [[Info/Characters/The Fangs of Fjelhorst/Periwyn\|Periwyn]] due to psycho behavior
+- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] gave nickname FURY to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] due to psycho behavior
 
 ## Reflection
 - Party is beginning to work together
 - Local political tensions emerging as central theme
 
 ## Next Steps
-- Investigate the situation between [[Info/Locations/Snowshot_Estate\|Snowshot Estate]] and [[Info/Locations/Trevas_Bend\|Treva's Bend]]
+- Investigate the situation between [[Snowshot_Estate\|Snowshot Estate]] and [[Info/Locations/Trevas_Bend\|Treva's Bend]]
 - Follow up on Eldar's mysterious conversation
 - Consider buying gear from local merchants

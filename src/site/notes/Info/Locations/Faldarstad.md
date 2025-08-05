@@ -7,20 +7,8 @@
 ## Description
 [[Info/Locations/Faldarstad\|Faldarstad]] is a northern town that serves as an alternative travel route when the path to [[Info/Locations/Greenwall\|Greenwall]] is blocked.
 
-## Key Features
-- Located north of [[Info/Locations/Riften\|Riften]]
-- Part of an alternative trade/travel route
-
-## Strategic Importance
-- Provides alternate route around [[Info/Locations/Greenwall\|Greenwall]]'s magical blizzard
-- Currently serving as detour for travelers blocked from the Greenwall route
-
 ## Known Events
 - **[[2 -  Sessions/Session 003\|Session 003]]**: 
   - Mentioned by town crier as alternate route when Greenwall became inaccessible
-  - [[Info/Characters/NPC's/Alara\|Alara]] referenced a Colovian living in Faldarstad
-
-## Related Locations
-- [[Info/Locations/Greenwall\|Greenwall]]: The blockage of which made Faldarstad's route more important
-- [[Info/Locations/Riften\|Riften]]: Connected by trade routes
+  - [[Info/Characters/999 NPC's/Alara\|Alara]] referenced a Colovian living in Faldarstad
 
