@@ -26,14 +26,14 @@
   - Hay soaked with blood
   - Pile of bones neatly stacked in the corner
   - Small glint next to bones reveals a child's doll wrapped in cloth
-  - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] takes the [[Info/Items/Child's Doll\|child's doll]]
+  - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] takes the [[Child's Doll\|child's doll]]
 
 - **The Grain Mill:**
   - Soft humming coming from within
   - Small girl named [[Info/Characters/999 NPC's/Sybille\|Sybille]] with straw-colored hair inside
   - Girl warns about a lady in white from the manor who lives in the chapel
   - Lady asks for names and makes people forget them
-  - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] gives the [[Info/Items/Child's Doll\|child's doll]] back to [[Info/Characters/999 NPC's/Sybille\|Sybille]], as it belonged to her
+  - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] gives the [[Child's Doll\|child's doll]] back to [[Info/Characters/999 NPC's/Sybille\|Sybille]], as it belonged to her
 
 ### Part 3: The Chapel
 - **Exterior:**
@@ -262,13 +262,13 @@
   - Calls this place his "fixer upper" - a pocket created to be away from prying eyes
 
 - **The Feather:**
-  - Offers [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] a long, [[Info/Items/Black Feather\|black feather]] faintly humming with energy
+  - Offers [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] a long, [[Black Feather\|black feather]] faintly humming with energy
   - Air around it shivers
   - Mentions the Argonian ([[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]) carries another or two
   - "If you wake, keep it. Might keep you next time. If not, I recycle"
 
 - **The Vision:**
-  - As [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] touches the [[Info/Items/Black Feather\|feather]], she sees a vision
+  - As [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] touches the [[Black Feather\|feather]], she sees a vision
   - [[Info/Lore/Malacath\|Malacath]]'s tusked mask, fractured but not ruined
   - As if something tried to break it and wasn't quite there
   - Pieces hold just barely
@@ -322,8 +322,8 @@
 - **[[Info/Characters/999 NPC's/Mirel\|Mirel]]:** [[Info/Characters/999 NPC's/Mirel\|Vampire Priest]] seeking redemption
 
 ## Items Acquired
-- **Child's Doll:** [[Info/Items/Child's Doll\|Child's Doll]]
-- **Black Feather:** [[Info/Items/Black Feather\|Black Feather]]
+- **Child's Doll:** [[Child's Doll\|Child's Doll]]
+- **Black Feather:** [[Black Feather\|Black Feather]]
 
 
 

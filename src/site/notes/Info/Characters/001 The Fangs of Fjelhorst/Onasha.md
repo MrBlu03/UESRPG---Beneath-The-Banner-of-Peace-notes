@@ -31,10 +31,10 @@
 ## Items of Interest
 - **Dragon Language Scroll**: A mysterious scroll containing a summoning ritual; turns to tar when burned
 - **Herbalist's Guide to Skyrim**: Book found in the Greenwall smuggler's tunnel
-- **[[Info/Items/Black Feather\|Black Feathers]]**: According to the Mysterious Figure in [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]], [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] carries "another or two" black feathers similar to the one offered to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+- **[[Black Feather\|Black Feathers]]**: According to the Mysterious Figure in [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]], [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] carries "another or two" black feathers similar to the one offered to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 
 ## Connections
 - Has some knowledge or interest in necromancy, shared with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 - Encountered a [[Info/Characters/999 NPC's/Talking_Fox\|Talking Fox]] that could translate dragon language
 - Possible unknown connection to the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] organization
-- **Mysterious Connection**: The enigmatic figure in [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dream suggests [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] possesses multiple [[Info/Items/Black Feather\|black feathers]], hinting at deeper supernatural connections
+- **Mysterious Connection**: The enigmatic figure in [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dream suggests [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] possesses multiple [[Black Feather\|black feathers]], hinting at deeper supernatural connections

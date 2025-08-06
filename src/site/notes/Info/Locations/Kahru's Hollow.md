@@ -4,95 +4,113 @@
 
 # Kahru's Hollow
 
-## Basic Information
-- **Type**: Geographic location
+## Overview
+Kahru's Hollow is a forested valley area located east of [[Info/Locations/Riften\|Riften]], known primarily for the haunted hunting lodge situated within it. The hollow serves as a geographic landmark at a fork in the road where the woods grow particularly dense and foreboding.
+
+## Geographic Features
 - **Location**: East of [[Info/Locations/Riften\|Riften]]
-- **Status**: Unknown
+- **Terrain**: Dense forest valley with thick woodlands
+- **Key Landmark**: Fork in the road with stone kern
+- **Notable Structure**: The Haunted Hunting Lodge
 
-## Description
-A hollow or valley area near the haunted hunting lodge. The lodge is located near this area at the fork in the road where the woods thicken.
+---
 
-## Location Details
-- Located east of [[Info/Locations/Riften\|Riften]]
-- Near the fork in the road where the woods thicken
-- Close to the haunted hunting lodge
-- The area is known for its dense forest and thick woods
-
-## Notes
-- Mentioned as a reference point for the location of the haunted hunting lodge
-- The exact nature and features of Khaarus Hollow are not detailed in the available information 
-
-
-
-
-# Haunted Hunting Lodge
+# The Haunted Hunting Lodge
 
 ## Basic Information
-- **Type**: Abandoned hunting lodge
-- **Location**: East of [[Info/Locations/Riften\|Riften]], near [[Khaarus Hollow\|Khaarus Hollow]]
-- **Status**: Haunting resolved
-- **Age**: Ancient (abandoned longer than most people have been alive)
+- **Type**: Ancient hunting lodge (now ruins)
+- **Location**: Within Kahru's Hollow, east of [[Info/Locations/Riften\|Riften]]
+- **Age**: Ancient - abandoned for longer than most people have been alive
+- **Current Status**: Haunting resolved, protected by [[Cult of Ysmir\|Cult of Ysmir]]
 
-## Description
-An intact hunting lodge despite being ruins, located at the fork in the road where the woods thicken. The lodge is built on disturbed ground where no blessing of the gods has ever taken hold.
+## Historical Background
+The lodge sits on cursed ground with a dark history spanning millennia:
 
-## History
-- Built on ancient ground where a massacre occurred during the First Empire (at least 4,000 years ago)
-- There used to be a whole village in the area
-- Connected to Clan Coldmoor, though most information about them has been struck from history
-- The lodge has been abandoned longer than most people have been alive
-- **Dragon Cult Connection**: Contains ancient barrow with Dragon Cult ritual chambers
+### Ancient History (4,000+ years ago)
+- Built on the site of an ancient massacre during the First Empire
+- Originally part of a village that once existed in the area
+- Connected to the mysterious Clan Coldmoor (most records struck from history)
+- Contains hidden Dragon Cult ritual chambers beneath
 
-## Haunting Phenomena (Resolved)
-- Doors opening on their own
-- Hearth lighting itself
-- Whispers from the rafters
-- Bear rug growling
-- Bed moving across the floor at midnight
-- Cold air and strange noises
-- Well that never dries up, even during frost
-- Fog that rolls in densely
-- Trees leaning the wrong way
-- Whispers about weeping
+### Recent History
+- Lodge abandoned for generations
+- Became notorious for supernatural phenomena
+- Successfully cleared by adventurers working for [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]
 
-## Ancient Barrow
-- **Entrance**: Hidden entrance leading to Dragon Cult chambers
-- **Kitchen Area**: Contains spell book and charcoal writings
-- **Upper Level**: Mummified body bound with braided hair, embalming tools
-- **Ritual Chambers**: 
-  - Arcane enchanter with soul gem fragments
-  - Alchemy room with various ingredients
-  - Torture room with fresh leather straps
-  - Sleeping quarters with disturbing letters
-- **Final Chamber**: Sarcophagi room with ritual table where [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] was held
+## The Supernatural Haunting (Now Resolved)
+Before its resolution, the lodge was plagued by numerous paranormal phenomena:
 
-## Former Inhabitants (Now at Rest)
-- **[[Info/Characters/999 NPC's/Lagertha\|Lagertha]]**: Ancient spirit, finally at rest alongside [[Sven\|Sven]]
-- **[[Sven\|Sven]]**: Undead figure controlled by Dragon Priest, now freed and at rest
-- **Dragon Priest**: Ancient entity that controlled [[Sven\|Sven]], destroyed by [[Info/Characters/999 NPC's/Adda\|Adda]]
+### Manifestations
+- Doors opening spontaneously
+- Hearth lighting itself without fuel
+- Disembodied whispers from the rafters
+- Bear rug that would growl menacingly
+- Bed sliding across the floor at midnight
+- Unnatural cold air and strange noises
+- Fog rolling in with unusual density
+- Trees growing in unnatural directions
+- Mysterious weeping sounds
 
-## Features
-- **Common Room**: Hearth that flickers, open wine bottle on table
-- **Master Bedroom**: Wardrobe with drag marks, locked chest behind it containing Dragon Cult mask
-- **Cellar**: Extremely foul-smelling, contains skeleton with key and Nordic parchment
-- **Well**: 12 meters deep, leads to a big cavern, contained Lagetha's head, necklace, and tiny lock box
-- **Wyrd Kern**: Stone kern at the fork in the road, Nordic origin, set up to protect from evil spirits
+### The Spirits
+- **[[Info/Characters/999 NPC's/Lagertha\|Lagertha]]**: Ancient spirit, now finally at rest
+- **[[Sven\|Sven]]**: Undead figure controlled by a Dragon Priest, now freed and at peace
+- **Dragon Priest**: Ancient entity that bound [[Sven\|Sven]], destroyed by [[Info/Characters/999 NPC's/Adda\|Adda]]
+
+## Lodge Layout & Features
+
+### Main Structure
+- **Common Room**: Features a flickering hearth and open wine bottle on table
+- **Master Bedroom**: Contains wardrobe with drag marks and a hidden locked chest (formerly contained Dragon Cult mask)
+- **Cellar**: Foul-smelling basement area with skeletal remains and Nordic parchment
+
+### Special Features
+- **The Well**: 12-meter deep shaft leading to cavern system (formerly contained Lagertha's remains)
+- **Hidden Entrance**: Secret passage to underground Dragon Cult chambers
+
+### Underground Complex (Ancient Barrow)
+The lodge conceals extensive Dragon Cult ritual chambers:
+
+#### Upper Level
+- Kitchen area with spell books and charcoal writings
+- Mummified remains bound with braided hair
+- Embalming tools and preparation area
+
+#### Ritual Chambers
+- **Enchanting Room**: Arcane enchanter with soul gem fragments
+- **Alchemy Laboratory**: Various magical ingredients and equipment
+- **Torture Chamber**: Disturbing room with fresh leather restraints
+- **Sleeping Quarters**: Contains unsettling correspondence
+- **Final Chamber**: Sarcophagi room with ritual table (site of [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s captivity)
 
 ## Surrounding Area
-- **Fork in the Road**: Stone kern in the middle, worn and half-toppled
-- **Disused Shrine**: Overgrown and covered in leaves
-- **Hunter's Corpse**: Recent body with distinctive features
-- **Olgierd's Farm**: Small hut with farming area near the woodland edge
 
-## Current Status
-- **Haunting Resolved**: [[Sven\|Sven]] and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] finally put to rest
-- **Protected**: Domain protected by [[Cult of Ysmir\|Cult of Ysmir]] to remain undisturbed
-- **Dragon Cult Mask**: Retrieved by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] for study
-- **Contract Completed**: Successfully cleared for [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]
+### The Fork in the Road
+- **Wyrd Kern**: Ancient Nordic stone marker, worn and half-toppled
+  - Originally placed to ward off evil spirits
+  - Shows signs of great age and weathering
 
-## Notes
-- The divines had turned their gaze away from this place
-- The presence was unlike anything else in [[Skyrim\|Skyrim]]
-- Spirits were bound by pain and rage for centuries
-- The lodge lay on disturbed ground where an ancient massacre occurred
-- Dragon Cult activity revealed the true nature of the haunting 
+### Other Notable Features
+- **Disused Shrine**: Abandoned religious site, overgrown with vegetation
+- **Hunter's Corpse**: Recently deceased body with distinctive markings
+- **Olgierd's Farm**: Small farmstead with hut and cultivated area near woodland edge
+
+## Current Status & Resolution
+The haunting of Kahru's Hollow has been successfully resolved through the efforts of adventurers:
+
+### Achievements
+- **Spirits Laid to Rest**: [[Sven\|Sven]] and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] finally found peace
+- **Dragon Priest Destroyed**: Ancient evil eliminated by [[Info/Characters/999 NPC's/Adda\|Adda]]
+- **Area Secured**: Domain now protected by [[Cult of Ysmir\|Cult of Ysmir]] to prevent future disturbances
+- **Artifacts Recovered**: Dragon Cult mask retrieved by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] for scholarly study
+- **Contract Fulfilled**: Successfully completed clearing mission for [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]
+
+## Significance & Notes
+- **Cursed Ground**: The divines had turned their gaze away from this place
+- **Unique Presence**: The supernatural activity was unlike anything else documented in [[Skyrim\|Skyrim]]
+- **Ancient Trauma**: Spirits were bound by centuries of pain and rage from the original massacre
+- **Archaeological Importance**: Dragon Cult chambers provide insight into ancient religious practices
+- **Ongoing Protection**: Site remains under watch to ensure continued peace
+
+---
+
+*"The lodge lay on disturbed ground where an ancient massacre occurred, and no blessing of the gods has ever taken hold here."* 

@@ -19,10 +19,10 @@ The trip proves therapeutic for the group, allowing them to bond with local NPCs
 
 The party awakens at the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] hall. [[Info/Characters/999 NPC's/Adda\|Adda]] tends to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]], who lies unconscious on a fur cot, still recovering from her three-day slumber following the lodge incident.
 
-- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] wakes first, grabbing the largest piece of meat (hog) and mead he can find
-- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] checks that the dragon priest mask is still under her bed, wraps it in a blanket, and grabs fish for breakfast
-- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] wakes last, joining the others for food
-- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] finally awakens, asking [[Info/Characters/999 NPC's/Adda\|Adda]] where she is. She reveals the last person she spoke to in her dreams was the "Crow Father"
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] wakes first, grabbing the largest piece of hog meat and mead he can find, sitting in a corner to eat
+- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] wakes up and waves at [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]], who waves back. She checks that the dragon priest mask is still under her bed, wraps it in a blanket, and grabs fish for breakfast
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] wakes and grabs an apple before joining the others for food
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] finally awakens, immediately asking for her gear and picking up her book first. She asks [[Info/Characters/999 NPC's/Adda\|Adda]] where she is and reveals the last person she spoke to in her dreams was the "Crow Father"
 
 [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] presents the wrapped dragon priest mask to [[Info/Characters/999 NPC's/Adda\|Adda]] for examination. [[Info/Characters/999 NPC's/Adda\|Adda]] declares it "just a trophy now" since its master is gone and its magic has faded, encouraging [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] to keep it.
 
@@ -40,9 +40,9 @@ As they leave, [[Info/Characters/999 NPC's/Adda\|Adda]] makes cryptic comments a
 
 En route to [[Info/Characters/999 NPC's/Alara\|Alara]]'s shop, they spot [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]] sprinting across town. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] attempts to trip him for amusement but fails spectacularly, inspiring a new personal quest.
 
-At [[Info/Characters/999 NPC's/Alara\|Alara]] 's shop, they meet her small husky companion, [[Info/Characters/999 NPC's/John\|John]]. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] proposes the camping trip for alchemy component gathering, hunting, fishing, and relaxation. [[Info/Characters/999 NPC's/Alara\|Alara]] accepts enthusiastically.
+At [[Info/Characters/999 NPC's/Alara\|Alara]] 's shop, they meet her small husky companion, [[Info/Characters/999 NPC's/John\|John]]. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] proposes the camping trip for alchemy component gathering, hunting, fishing, and relaxation. [[Info/Characters/999 NPC's/Alara\|Alara]] accepts enthusiastically and is happy to come along with [[Info/Characters/999 NPC's/John\|John]].
 
-At the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]], [[Info/Characters/999 NPC's/Senya\|Senya]] and [[Info/Characters/999 NPC's/Sonya\|Sonya]] prepare their instruments (having moved from [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]). [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] invites [[Info/Characters/999 NPC's/Bjorin\|Bjorin]] camping, who accepts and brings [[Info/Characters/999 NPC's/Astrid\|Astrid]] along. They arrange to meet at the city gate.
+At the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]], [[Info/Characters/999 NPC's/Senya\|Senya]] and [[Info/Characters/999 NPC's/Sonya\|Sonya]] prepare their instruments (having moved from [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]). [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] invites [[Info/Characters/999 NPC's/Bjorin\|Bjorin]] camping, who accepts and asks [[Info/Characters/999 NPC's/Astrid\|Astrid]] to join them. They arrange to meet at the city gate.
 
 ### Journey to the Clearing
 
@@ -62,7 +62,7 @@ After hours of forest travel, they reach the clearing and establish camp.
 
 **Fishing and Hunting:**
 
-- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/999 NPC's/Bjorin\|Bjorin]] fish on the lake while [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] catches salmon with her hands
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/999 NPC's/Bjorin\|Bjorin]] fish on the lake (though they catch no fish), while [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] catches salmon with her hands
 - [[Info/Characters/999 NPC's/Astrid\|Astrid]] and [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] attempt trap hunting (unsuccessful) then track a stag
 - [[Info/Characters/999 NPC's/Astrid\|Astrid]] demonstrates her hunting skills learned from adventurers years ago
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] successfully brings down the stag after multiple shots, claiming antlers worth ~100 gold
@@ -72,14 +72,14 @@ After hours of forest travel, they reach the clearing and establish camp.
 
 **Evening Conversations:**
 
-[[Info/Characters/999 NPC's/Alara\|Alara]] discusses her spriggan friend and asks [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] about her tribal connections. [[Info/Characters/999 NPC's/Astrid\|Astrid]] shares her background: raised by [[Info/Characters/999 NPC's/Bjorin\|Bjorin]] alone after her mother died in a war attack that collapsed a wall. She reveals keeping secret records of interesting inn visitors, including a man who spoke of dragons returning ~14 years ago. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] confirms dragons have returned and killed her father.
+[[Info/Characters/999 NPC's/Alara\|Alara]] discusses her spriggan friend and asks [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] about her tribal connections. [[Info/Characters/999 NPC's/Astrid\|Astrid]] shares her background: raised by [[Info/Characters/999 NPC's/Bjorin\|Bjorin]] alone after her mother died when a giant smashed through the walls of the building they were sheltering in during a war. Both [[Info/Characters/999 NPC's/Bjorin\|Bjorin]] and [[Info/Characters/999 NPC's/Astrid\|Astrid]] escaped, but her mother didn't survive. She reveals keeping secret records of interesting inn visitors, including a man who spoke of dragons returning ~14 years ago - specifically noting a "schizo guy talking about dragons returning." [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] confirms dragons have returned and killed her father.
 
 ### Durov's Dream
 
 During the night, [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] experiences a vivid dream:
-- A battlefield with companions in matching armor and insignia
-- A fellow soldier falling to a spear wound
-- A distant snowy castle bearing the same insignia as his own
+- A muddy battlefield with companions in matching armor bearing the same insignia as his own
+- A fellow soldier falling with a spear wound to the chest
+- A distant large, snowy castle looming in the background, bearing banners with the same insignia
 
 ### Second Day Activities
 
@@ -89,7 +89,7 @@ A foggy, chill morning sees [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn
 
 **Hunting and Encounters:**
 
-[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/999 NPC's/Astrid\|Astrid]] check traps, finding a caught rabbit. A mysterious [[Khajiit\|Khajiit]] named [[Info/Characters/999 NPC's/M'aiq\|M'aiq]] appears, rambles about random topics, claims tiredness, and departs as mysteriously as he arrived.
+[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/999 NPC's/Astrid\|Astrid]] check traps, finding a caught rabbit. A mysterious [[Khajiit\|Khajiit]] named [[Info/Characters/999 NPC's/M'aiq\|M'aiq]] appears suddenly at their camp, rambling about not liking taxes and claiming he's tired, then departs as mysteriously as he arrived without elaborating further.
 
 The hunting party expands to include [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] for a bear hunt, successfully bringing down the animal with help from [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to drag it back.
 

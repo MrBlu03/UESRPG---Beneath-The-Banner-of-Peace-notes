@@ -27,7 +27,7 @@ Shaman of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] currently in c
 ## Current Situation
 - Cared for [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] during her three-day slumber following the lodge incident
 - Applied [[Wode\|wode]] runes to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s face as part of healing/protective magic
-- Examined the [[Info/Items/Dragon_Priest_Mask\|dragon priest mask]] and declared it powerless
+- Examined the [[Dragon_Priest_Mask\|dragon priest mask]] and declared it powerless
 - Provided insights about the haunted hunting lodge:
   - Lodge lies on disturbed ground; no blessing of the gods has ever taken hold there
   - Dealing with creatures bound by pain and rage
@@ -42,7 +42,7 @@ Shaman of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] currently in c
 - **[[2 -  Sessions/Session 010\|Session 010]]**: 
   - Cared for [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] during her recovery
   - Explained [[Wode\|wode]] magic and its ancient origins
-  - Examined the [[Info/Items/Dragon_Priest_Mask\|dragon priest mask]]
+  - Examined the [[Dragon_Priest_Mask\|dragon priest mask]]
   - Made cryptic comments about "feathers" as the party departed
 
 ## Relationships

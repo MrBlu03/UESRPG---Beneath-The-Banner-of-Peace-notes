@@ -13,7 +13,7 @@
 
 ## Description
 - **Physical:** Small girl with straw-colored hair tangled at her shoulders
-- **Possessions:** Wooden sword, [[Info/Items/Child's Doll\|child's doll]] (returned by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]])
+- **Possessions:** Wooden sword, [[Child's Doll\|child's doll]] (returned by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]])
 - **Demeanor:** Frightened but brave, hiding from danger
 
 ## Background
@@ -36,7 +36,7 @@
 - Revealed the Lady lives in the chapel with the broken bell
 
 ### The Doll:
-- Recognized the [[Info/Items/Child's Doll\|child's doll]] [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] found in the barn
+- Recognized the [[Child's Doll\|child's doll]] [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] found in the barn
 - Revealed it was hers, given by her mama before the tragedy
 - Gratefully accepted it back when [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] returned it
 - Clutched it tight after receiving it
