@@ -3,7 +3,7 @@
 ---
 
 
-# Session 1 - 15/12/2024
+# Session 001 - 15/12/2024
 
 ## Summary
 First session introduction to [[Info/Locations/Riften\|Riften]], meeting key NPCs and receiving the initial quest to investigate tensions between [[Snowshot_Estate\|Snowshot Estate]] and [[Info/Locations/Trevas_Bend\|Treva's Bend]].

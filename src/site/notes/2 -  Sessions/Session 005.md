@@ -3,7 +3,7 @@
 ---
 
 
-# Session 5 - 2025-03-29
+# Session 005 - 2025-03-29
 
 ## Summary  
 The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall]], encountering unsettling events along the way, including undead bone hawks and hanged corpses. Upon arrival, they found the [[Info/Organizations/Companions\|Companions]] war camp devastated by a vampire ambush. The ice wall surrounding [[Info/Locations/Greenwall\|Greenwall]] remained unyielding, but a potential smuggler's tunnel was discovered. Plans were made to infiltrate the town and restore sunlight by disrupting the unnatural eclipse.

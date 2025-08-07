@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-sessions/session-004/"}
 ---
 
-# Session 4 - 2025-03-02
+# Session 004 - 2025-03-02
 
 ## Summary
 The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] to investigate a military keep called Harmugstahl that had gone silent three days ago. Upon arrival, they discovered the keep was eerily frozen, with soldiers and objects frozen solid. The party encountered mysterious voices, a frostbitten hand in the well, and a trail of black feathers similar to the one [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] found earlier. They also uncovered a logbook from the frozen general, which revealed the last entry: "It is inside now." The party found a cracked mirror in the dungeon, which reflected a mysterious Khajiit figure. They also discovered two symbols etched into the ground: the [[Info/Lore/Coiled_Serpent\|coiled serpent]] and a variation of the [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbol. After reporting their findings to the queen, they received their reward and were invited to become the "Fangs of Fjelhorst."

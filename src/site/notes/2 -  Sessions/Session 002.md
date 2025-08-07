@@ -3,7 +3,7 @@
 ---
 
 
-# Session 2 - 2024-12-20
+# Session 002 - 2024-12-20
 
 ## Summary
 The party investigated tensions in [[Info/Locations/Trevas_Bend\|Treva's Bend]], uncovering a complex situation involving dam sabotage, a murdered Dunmer, and local political intrigue.

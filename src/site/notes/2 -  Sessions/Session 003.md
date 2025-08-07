@@ -3,7 +3,7 @@
 ---
 
 
-# Session 3 - 2025-02-16 (9th of Hearthfire)
+# Session 003 - 2025-02-16 (9th of Hearthfire)
 
 ## Summary
 The party ventured out to find missing alchemist [[Info/Characters/999 NPC's/Alara\|Alara]], successfully locating her in the woods with a protective spriggan. They also received findings about the murdered [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]'s body from [[Info/Characters/999 NPC's/Sigrid\|Sigrid]] and learned of a mysterious magical blizzard surrounding [[Info/Locations/Greenwall\|Greenwall]], potentially linked to vampire activity.

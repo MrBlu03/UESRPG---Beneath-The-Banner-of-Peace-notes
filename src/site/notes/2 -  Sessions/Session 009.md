@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-sessions/session-009/"}
 ---
 
-# Session 9 - 2025-06-28
+# Session 009 - 2025-06-28
 
 ## Summary
 The session began with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] returning to [[Info/Locations/Riften\|Riften]] to gather supplies for Arkay's rite while the rest of the party remained at the haunted lodge. After gathering materials and consulting with [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] and [[Info/Characters/999 NPC's/Adda\|Adda]], [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] returned with reinforcements. However, upon arrival, [[Sven\|Sven]] used a petrify spell to freeze the party in place and abducted [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] for a ritual, taking her to an ancient barrow. The party pursued through the barrow, discovering evidence of ancient Dragon Cult activity and a disturbing ritual site where [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] was being prepared for sacrifice.

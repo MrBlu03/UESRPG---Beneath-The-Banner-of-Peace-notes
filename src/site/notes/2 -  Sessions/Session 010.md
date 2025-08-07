@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-sessions/session-010/"}
 ---
 
-# Session 10 - 2025-08-02
+# Session 010 - 2025-08-02
 **8th of Frost Fall, 2E 600**
 
 ## Summary

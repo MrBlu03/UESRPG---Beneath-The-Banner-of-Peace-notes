@@ -3,7 +3,7 @@
 ---
 
 
-# Session 7 - 2025-05-10
+# Session 007 - 2025-05-10
 
 ## Summary
 After defeating the vampires at [[Info/Locations/Greenwall\|Greenwall]], the party transported the decapitated vampire head and informed [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod]] of their [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]] encounter. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] interacted with the mysterious crimson orb and received a terrifying vision of undead werewolves. The party was instructed to return to Riften and report to the Queen while the injured victim, identified as [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], was taken to Mistwatch for healing. After paying respects to their fallen companions [[Info/Characters/999 NPC's/Olen\|Olen]] and [[Info/Characters/999 NPC's/Beitild\|Beitild]], they began their five-day journey back to Riften, which was marked by difficult travel conditions, strained relationships after a failed necromancy attempt, encounters with strange creatures including a talking fox, and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s [[Periwyn nightmares/Session 7 Nightmare sequences\|recurring nightmares]] featuring both her traumatic past and the Daedric Prince Malacath. Upon reaching Riften, they reported their findings to [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] and [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]], and received payment for their work.

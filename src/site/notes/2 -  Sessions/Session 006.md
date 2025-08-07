@@ -3,7 +3,7 @@
 ---
 
 
-# Session 6 - 2025-04-26
+# Session 006 - 2025-04-26
 
 ## Summary
 The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler's tunnel while the [[Info/Organizations/Companions\|Companions]] provided a distraction with trebuchet fire. Inside the town, they discovered abandoned buildings, evidence of vampire attacks, and a disturbing Black Sacrament ritual site that summoned a member of the [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]] After striking a deal with the assassin to eliminate the source of the magical darkness, they explored the keep, finding a horrific ritual altar to [[Molag Bal\|Molag Bal]] with a mysterious crimson orb. The magical darkness lifted as the assassin completed his contract, and they rescued a barely alive man who had been tortured and suspended above the altar.

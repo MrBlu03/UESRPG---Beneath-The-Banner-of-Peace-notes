@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-sessions/session-008/"}
 ---
 
-# Session 8 - 2025-06-21
+# Session 008 - 2025-06-21
 
 ## Summary
 The party accepted a contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] of Clan Cold-Moor to investigate a haunted hunting lodge east of [[Info/Locations/Riften\|Riften]]. After gathering information from the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] and local bards, they discovered the lodge was built on ancient ground where a massacre occurred. At the lodge, they encountered the spirit of [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] and the undead [[Info/Characters/Sven\|Sven]]. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] retrieved the mask and returned to [[Info/Locations/Riften\|Riften]] for supplies while the others prepared a funeral pyre for the spirits. The party discovered the remains of [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] in the well, including her head and a necklace, and found a locked box that [[Info/Characters/Sven\|Sven]] requested be burned.
