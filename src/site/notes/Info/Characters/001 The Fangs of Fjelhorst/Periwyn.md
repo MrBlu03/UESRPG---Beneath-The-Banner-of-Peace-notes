@@ -52,6 +52,15 @@
   - Opened up to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] about seeing [[Info/Characters/999 NPC's/Gareth\|Gareth]] in her coma
   - Shared details about her relationship with [[Info/Characters/999 NPC's/Gareth\|Gareth]] and having to kill him
   - Showed signs of emotional healing and greater openness about her past
+- **[[Sessions/Session 011\|Session 011]]**:
+  - Awakened last among the party, examining her destruction tome
+  - Sketched Camonna Tong mask for future reference after dock worker descriptions
+  - Led interrogation of suspicious Argonian worker with shoulder pressure threats
+  - Conducted prisoner interrogation of captured Camonna Tong operative
+  - Used pebble-throwing tactics to lure and isolate Dunmer guards during ship assault
+  - Recognized invisibility magic limitations during confrontation with ship captain
+  - Caught fire during Dunmer leader's fireball attack, jumped through ship window
+  - Healed herself and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] from burn wounds using her abilities
 
 ## Current Concerns
 - Being targeted by Malacath, who appears to be encouraging her vengeful tendencies

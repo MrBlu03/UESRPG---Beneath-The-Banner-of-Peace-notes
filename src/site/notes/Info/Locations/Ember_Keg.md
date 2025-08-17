@@ -27,7 +27,9 @@ Located in [[Info/Locations/Riften\|Riften]], though the specific district or st
 ## Connections
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and the rest of the crew visited after returning from Greenwall
 - The party considered bringing [[Info/Characters/999 NPC's/Alara\|Alara]] here to help her cope with grief
+- [[Info/Characters/999 NPC's/Harvold\|Harvold]] offers free drinks here to those who help with difficult prisoner interrogations
 
 ## Notes
 - First mentioned during [[2 -  Sessions/Session 007\|Session 007]] when the party returned from Greenwall
 - Has a noticeboard that may provide quest opportunities
+- **[[Sessions/Session 011\|Session 011]]**: [[Info/Characters/999 NPC's/Harvold\|Harvold]] promised free drinks here if the party could make the captured Camonna Tong prisoner talk (which they accomplished)

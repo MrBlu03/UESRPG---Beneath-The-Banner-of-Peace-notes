@@ -7,34 +7,29 @@
 ---
 
 ## 🎯 Active Main Quests
+*(Sorted by newest to oldest)*
 
-### 🔮 Undead Werewolf Threat
-**Status**: Active ([[2 -  Sessions/Session 007\|Session 7]])  
-**Objective**: Investigate the connection between the crimson orb and undead werewolves
-
-**Key Tasks**:
-- [ ] Wait for updates from [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s investigation
-- [ ] Research historical incidents involving werewolf experimentation in Western Skyrim
-- [ ] Learn more about the crimson orb's connection to [[Molag Bal\|Molag Bal]]
-
-**Key NPCs**: 
-- [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]]
-- [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]
-
-> *The vision showed undead werewolves that may be connected to past experiments in Western Skyrim*
-
-### 🗡️ Dark Brotherhood Contract
-**Status**: Active ([[2 -  Sessions/Session 006\|Session 6]])  
-**Objective**: Deal with the contract created with the Dark Brotherhood assassin
+### 🌊 [[Sea of Ghosts Ship Investigation\|Sea of Ghosts Ship Investigation]]
+**Status**: Active ([[Sessions/Session 011\|Session 011]])  
+**Objective**: Investigate suspicious ships with house colors spotted in the Sea of Ghosts
 
 **Key Tasks**:
-- [ ] Determine what payment will be required
-- [ ] Prepare for the assassin's return
+- [ ] Wait for [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]'s investigation results about the recovered lockbox
+- [ ] Translate the Dunmeri ledger found on the Camonna Tong leader
+- [ ] Monitor for additional Camonna Tong activity in the region
+- [ ] Investigate the connection between the lockbox and the mysterious ships
 
 **Key NPCs**: 
-- Dark Brotherhood Assassin
+- [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]
+- [[Info/Organizations/Camonna_Tong\|Camonna_Tong]] operatives (eliminated)
 
-> *Created when [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] signed a blood contract for eliminating the source of darkness in Greenwall*
+**Key Evidence**:
+- Recovered lockbox from Camonna Tong ship raid
+- Dunmeri ledger from masked leader
+- Camonna Tong mask
+- Reports of ships with house colors in Sea of Ghosts
+
+> *Initiated after eliminating Camonna Tong operatives who seized merchant ship seeking a mysterious lockbox*
 
 ### 🖤 [[Blackfeather Court Investigation\|Blackfeather Court Investigation]]
 **Status**: Active ([[2 -  Sessions/Session 007\|Session 007]])  
@@ -55,10 +50,82 @@
 
 > *The [[Talking Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
 
+### 🔮 [[Undead Werewolf Threat\|Undead Werewolf Threat]]
+**Status**: Active ([[2 -  Sessions/Session 007\|Session 007]])  
+**Objective**: Investigate the connection between the crimson orb and undead werewolves
+
+**Key Tasks**:
+- [ ] Wait for updates from [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s investigation
+- [ ] Research historical incidents involving werewolf experimentation in Western Skyrim
+- [ ] Learn more about the crimson orb's connection to [[Molag Bal\|Molag Bal]]
+
+**Key NPCs**: 
+- [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]]
+- [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]
+
+> *The vision showed undead werewolves that may be connected to past experiments in Western Skyrim*
+
+### 🗡️ [[Dark Brotherhood Contract\|Dark Brotherhood Contract]]
+**Status**: Active ([[2 -  Sessions/Session 006\|Session 006]])  
+**Objective**: Deal with the contract created with the Dark Brotherhood assassin
+
+**Key Tasks**:
+- [ ] Determine what payment will be required
+- [ ] Prepare for the assassin's return
+
+**Key NPCs**: 
+- Dark Brotherhood Assassin
+
+> *Created when [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] signed a blood contract for eliminating the source of darkness in Greenwall*
 
 ---
 
 ## 👤 Personal Quests
+*(Sorted by newest to oldest)*
+
+### 🏃‍♀️ [[Onasha's Eirik Challenge\|Onasha's Eirik Challenge]]
+**Status**: Active ([[2 -  Sessions/Session 010\|Session 010]])  
+**Objective**: Successfully trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] during one of his sprints
+
+**Key Tasks**:
+- [ ] Observe [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]]'s running patterns and routes
+- [ ] Plan an effective tripping strategy
+- [ ] Execute the plan without causing serious injury
+
+**Key NPCs**: 
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
+- [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]]
+
+**Recent Attempts**:
+- **[[Sessions/Session 011\|Session 011]]**: Two more failed attempts - [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] jumped over [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s leg both times
+- **[[2 -  Sessions/Session 010\|Session 010]]**: Initial failed attempt that started the quest
+
+> *Started after [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] failed to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] on the way to [[Info/Characters/999 NPC's/Alara\|Alara]]'s shop*
+
+### ⚔️ [[Durov's Lost Past\|Durov's Lost Past]]
+**Status**: Active ([[2 -  Sessions/Session 010\|Session 010]])  
+**Objective**: Uncover [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s forgotten military history and identity
+
+**Key Tasks**:
+- [ ] Research the insignia/symbol on [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s shield
+- [ ] Investigate the snowy castle from his dream
+- [ ] Identify his former military unit or order
+- [ ] Learn about the battle where his companion died
+- [ ] Discover what caused his amnesia
+
+**Key NPCs**: 
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
+- [[Info/Characters/999 NPC's/Alara\|Alara]] (recognized his symbol but couldn't place it)
+- Potential contacts in [[Info/Locations/Faldarstad\|Faldarstad]] (mentioned by [[Info/Characters/999 NPC's/Alara\|Alara]])
+
+**Key Clues**:
+- Shield bears recognizable but unplaceable symbol
+- Dream of battlefield with fellow soldiers in matching armor
+- Large snowy castle with same insignia as [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
+- Companion died from spear wound
+- [[Info/Characters/999 NPC's/Alara\|Alara]] mentioned Colovian acquaintance in [[Info/Locations/Faldarstad\|Faldarstad]] who might know more
+
+> *Dream occurred during camping trip in [[2 -  Sessions/Session 010\|Session 010]], suggesting his past is trying to surface*
 
 ### ⚔️ [[Periwyn's Vampire Hunter Search\|Periwyn's Vampire Hunter Search]]
 **Status**: Active ([[2 -  Sessions/Session 007\|Session 007]])  
@@ -86,62 +153,23 @@
 
 > *Periwyn has experienced [[vivid nightmares\|vivid nightmares]] featuring Malacath saying "Yes, feed that anger, give in to vengeance, be my pawn"*
 
-### 🏃‍♀️ [[Onasha's Eirik Challenge\|Onasha's Eirik Challenge]]
-**Status**: Active ([[2 -  Sessions/Session 010\|Session 010]])  
-**Objective**: Successfully trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] during one of his sprints
-
-**Key Tasks**:
-- [ ] Observe [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]]'s running patterns and routes
-- [ ] Plan an effective tripping strategy
-- [ ] Execute the plan without causing serious injury
-
-**Key NPCs**: 
-- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
-- [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]]
-
-> *Started after [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] failed to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] on the way to [[Info/Characters/999 NPC's/Alara\|Alara]]'s shop*
-
-### ⚔️ [[Durov's Lost Past\|Durov's Lost Past]]
-**Status**: Active ([[2 -  Sessions/Session 010\|Session 010]])  
-**Objective**: Uncover [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s forgotten military history and identity
-
-**Key Tasks**:
-- [ ] Research the insignia/symbol on [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s shield
-- [ ] Investigate the snowy castle from his dream
-- [ ] Identify his former military unit or order
-- [ ] Learn about the battle where his companion died
-- [ ] Discover what caused his amnesia
-
-**Key NPCs**: 
-- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
-- [[Info/Characters/999 NPC's/Alara\|Alara]] (recognized his symbol but couldn't place it)
-- Potential contacts in [[Info/Locations/Faldarstad\|Faldarstad]] (mentioned by [[Info/Characters/999 NPC's/Alara\|Alara]])
-
-**Key Clues**:
-- Shield bears recognizable but unplaceable symbol
-- Dream of battlefield with fellow soldiers in matching armor
-- Large snowy castle with same insignia as [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
-- Companion died from spear wound
-- [[Info/Characters/999 NPC's/Alara\|Alara]] mentioned Colovian acquaintance in [[Info/Locations/Faldarstad\|Faldarstad]] who might know more
-
-Add session 5 info
-
-> *Dream occurred during camping trip in [[2 -  Sessions/Session 010\|Session 010]], suggesting his past is trying to surface*
-
 ---
 
 ## 🔍 Investigation Quests
+*(Sorted by newest to oldest)*
 
 ### 🐍 [[Coiled Serpent Mystery\|Coiled Serpent Mystery]]
-**Status**: Active ([[2 -  Sessions/Session 002\|Session 002]])
+**Status**: Active ([[2 -  Sessions/Session 002\|Session 002]])  
+**Objective**: Investigate the mysterious serpent symbol and its connections
 
 **Current Leads**:
 - Symbol at [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]
 - Connection to [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]] (Harmugstahl)
-- Link to [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]] 's murder
+- Link to [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]]'s murder
 
 ### ⚗️ [[Poisoned Dunmer Case\|Poisoned Dunmer Case]]
-**Status**: Active ([[2 -  Sessions/Session 003\|Session 003]])
+**Status**: Active ([[2 -  Sessions/Session 003\|Session 003]])  
+**Objective**: Identify the perpetrator behind the exotic poison murder
 
 **Poison Components**:
 - 🧪 Vampire dust (silver-killed vampires)
@@ -151,22 +179,36 @@ Add session 5 info
 > *Perpetrator likely has [[Nocturnal Realm\|Nocturnal Realm]] access*
 
 ### 📜 [[Burnt Paper Reconstruction\|Burnt Paper Reconstruction]]
-- **Status**: 
-	- Pending ([[2 -  Sessions/Session 002\|Session 002]])  
-	- Sent to college of winterhold by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] ([[2 -  Sessions/Session 010\|Session 010]])
-**Lead**: [[Info/Locations/Winterhold\|Winterhold]] mages  
-**Note**: Requires advanced magic
+**Status**: Pending ([[2 -  Sessions/Session 002\|Session 002]], sent to [[Info/Locations/Winterhold\|Winterhold]] in [[2 -  Sessions/Session 010\|Session 010]])  
+**Objective**: Restore burnt documents for clues
+
+**Current Progress**:
+- Papers sent to [[Info/Locations/Winterhold\|Winterhold]] mages by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
+- Requires advanced magical reconstruction techniques
+- Awaiting results from college experts
 
 ---
 
 ## ✅ Recently Completed
 
-### 🏚️ Haunted Lodge Contract
-**Completed**: [[2 -  Sessions/Session 009\|Session 009]]  
-**Reward**: 400 gold each  
+### 🛡️ [[Camonna Tong Dock Investigation\|Camonna Tong Dock Investigation]]
+**Completed**: [[Sessions/Session 011\|Session 011]] | **Reward**: 280 gold each  
+**Outcome**: Successfully eliminated Camonna Tong threat and recovered stolen lockbox
+
+**Key Achievements**:
+- Investigated Dunmer criminals harassing Argonian dock workers
+- Interrogated captured [[Info/Organizations/Camonna_Tong\|Camonna_Tong]] operative in [[Info/Locations/Riften\|Riften]] jail
+- Tracked criminals to [[Info/Locations/Abandoned_Cave_South_of_Riften\|abandoned cave hideout]] south of [[Info/Locations/Riften\|Riften]]
+- Eliminated four Camonna Tong operatives who had seized merchant ship
+- Recovered mysterious lockbox sought by the criminals
+- Obtained Camonna Tong mask and Dunmeri ledger as evidence
+- Learned of potential connection to ships in Sea of Ghosts
+
+### 🏚️ [[Haunted Lodge Contract\|Haunted Lodge Contract]]
+**Completed**: [[2 -  Sessions/Session 009\|Session 009]] | **Reward**: 400 gold each  
 **Outcome**: Successfully cleared the haunting and rescued [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 
-**Details**:
+**Key Achievements**:
 - Discovered ancient Dragon Cult barrow beneath the lodge
 - Rescued [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] from ritual sacrifice attempt
 - Put [[Sven\|Sven]] and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] to rest after centuries of torment
@@ -174,58 +216,53 @@ Add session 5 info
 - Earned permanent welcome at [[Cult of Ysmir\|Cult of Ysmir]] hall
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] successfully negotiated double payment from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]
 
-### 🏰 Return to Riften
-**Completed**: [[2 -  Sessions/Session 007\|Session 7]]  
-**Reward**: 250 gold each  
-**Outcome**: Successfully reported to [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] about Greenwall
+### 🏰 [[Return to Riften\|Return to Riften]]
+**Completed**: [[2 -  Sessions/Session 007\|Session 007]] | **Reward**: 250 gold each  
+**Outcome**: Successfully reported to [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]] about Greenwall
 
-**Details**:
+**Key Achievements**:
 - Delivered the vampire head to [[Archmagus Mortgren\|Archmagus Mortgren]] for study
 - Reported the discovery of the orb and Periwyn's vision
 - Informed the Queen about the loss of all Greenwall residents
 - The Queen promised to involve the High King and Mages Guild
 
-### 🌑 Dispel the Darkness
-**Completed**: [[2 -  Sessions/Session 006\|Session 6]]  
+### 🌑 [[Dispel the Darkness\|Dispel the Darkness]]
+**Completed**: [[2 -  Sessions/Session 006\|Session 006]] | **Reward**: Sunlight restored to Greenwall  
 **Outcome**: The magical darkness over Greenwall has been lifted
 
-**Details**:
+**Key Achievements**:
 - Dark Brotherhood assassin eliminated the vampire mage responsible
 - Sunlight returned to Greenwall
 - Exposed vampires burned in the sunlight
 - Found ritual altar to [[Molag Bal\|Molag Bal]] with a crimson orb
 
-### 👑 Fangs of Fjelhorst
-**Completed**: [[2 -  Sessions/Session 004\|Session 4]]  
-**Outcome**: Accepted [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]]'s offer to become her special hunters
+### 👑 [[Fangs of Fjelhorst Formation\|Fangs of Fjelhorst Formation]]
+**Completed**: [[2 -  Sessions/Session 004\|Session 004]] | **Reward**: Official Royal Status  
+**Outcome**: Accepted [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]]'s offer to become her special hunters
 
-**Details**:
+**Key Achievements**:
 - Official status as Queen's hunters granted
 - Direct line to [[Queen Freidr\|Queen Freidr]] and [[Info/Characters/999 NPC's/Rigi\|Rigi]]
 - Tasked with defending against supernatural threats
 - Group now officially known as "The Fangs of Fjelhorst"
 
-> *Offered and accepted after Harmugstahl success*
+### ❄️ [[Harmugstahl Investigation\|Harmugstahl Investigation]]
+**Completed**: [[2 -  Sessions/Session 004\|Session 004]] | **Reward**: 400 gold each
 
-### Harmugstahl Investigation ❄️
-**Completed**: [[2 -  Sessions/Session 004\|Session 4]]  
-**Reward**: 400 gold each
-
-**Key Findings**:
-- Keep mysteriously frozen
+**Key Achievements**:
+- Keep mysteriously frozen and investigated
 - Frozen soldiers discovered
-- [[Clan Volkihar\|Clan Volkihar]] symbols
-- Mysterious [[Khajiit Figure\|Khajiit Figure]] appearances
-- [[Coiled Serpent\|Coiled Serpent]] connection
+- [[Clan Volkihar\|Clan Volkihar]] symbols found
+- Mysterious [[Khajiit Figure\|Khajiit Figure]] appearances documented
+- [[Coiled Serpent\|Coiled Serpent]] connection established
 
-### [[Find Missing Alchemist\|Find Missing Alchemist]] 🌿
-**Completed**: [[2 -  Sessions/Session 003\|Session 003]]  
-**Reward**: 50 gold each  
+### 🌿 [[Find Missing Alchemist\|Find Missing Alchemist]]
+**Completed**: [[2 -  Sessions/Session 003\|Session 003]] | **Reward**: 50 gold each  
 **Outcome**: Found [[Info/Characters/999 NPC's/Alara\|Alara]] safe with spriggan
 
-### [[Treva's Bend\|Treva's Bend]] Aid 💧
-**Completed**: [[2 -  Sessions/Session 002\|Session 002]]  
-**Reward**: 250 gold total (50 from Aldermen, 200 from [[Queen\|Queen]])
+### 💧 [[Treva's Bend Aid\|Treva's Bend Aid]]
+**Completed**: [[2 -  Sessions/Session 002\|Session 002]] | **Reward**: 250 gold total  
+**Outcome**: Restored dam functionality, helped village
 
 ---
 
@@ -240,7 +277,7 @@ Add session 5 info
 
 ## 📦 Quest Items & Evidence
 
-# Party Inventory
+### 🎒 Party Inventory
 
 | Item                               | Source                        | Notes                                                              |
 | ---------------------------------- | ----------------------------- | ------------------------------------------------------------------ |
@@ -268,3 +305,18 @@ Add session 5 info
 | 🌸 Perfume Bottle                  | [[2 -  Sessions/Session 009\|Session 009]]               | Perfectly intact, found in alchemy room                            |
 | 🗡️ Ornate Axe                     | [[2 -  Sessions/Session 009\|Session 009]]               | Found with skeletal remains                                        |
 | Ornate sword                       | [[2 -  Sessions/Session 009\|Session 009]]               | Found somewhere                                                    |
+| 🎭 Camonna Tong Mask               | [[Sessions/Session 011\|Session 011]]               | Criminal syndicate mask from eliminated Dunmer leader              |
+| 📚 Dunmeri Ledger                  | [[Sessions/Session 011\|Session 011]]               | Written entirely in Dunmeri, found on Camonna Tong leader          |
+| 📦 Recovered Lockbox               | [[Sessions/Session 011\|Session 011]]               | Delivered to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]], connection to Sea of Ghosts   |
+|                                    |                               |                                                                    |
+
+
+
+
+
+### 💰 Party Treasury
+
+| Source | Amount | Session |
+|--------|--------|---------|
+| Dunmer looted corpses | 10 gold | [[Sessions/Session 011\|Session 011]] |
+| **TOTAL COMMUNAL FUNDS** | **10 gold** | - |
