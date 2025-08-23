@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/info/locations/sweaty-steel/"}
+{"dg-publish":true,"permalink":"/info/locations/sweaty-steel-monarch/"}
 ---
 
 # Sweaty Steel
@@ -18,9 +18,7 @@
 
 ## Key Events
 - **[[2 -  Sessions/Session 003\|Session 003]]**: The party visited to sell a sword
-- **[[2 -  Sessions/Session 011\|Session 011]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] purchased a short sword during equipment preparation for the dock investigation
 
 ## Notes
 - Notable for having both a vendor and a dedicated smith
 - One of the main places for weapons and armor in [[Info/Locations/Riften\|Riften]]
-- Regularly visited by [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]] for equipment needs

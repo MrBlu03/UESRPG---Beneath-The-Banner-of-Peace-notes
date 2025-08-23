@@ -16,8 +16,8 @@ The Camonna Tong is a criminal syndicate originating from Morrowind that operate
 - Use netch leather armor (exclusive to Morrowind)
 
 ## Known Members
-- **[[Info/Characters/999 NPC's/Tharen_Duleri\|Tharen_Duleri]]**: Leader of operations in the [[Info/Locations/Riften\|Riften]] region Eliminated in [[Sessions/Session 011\|Session 011]], possessed magical abilities including invisibility and fire magic
-- **Four Operatives**: Eliminated during ship raid in [[Sessions/Session 011\|Session 011]]
+- **[[Info/Characters/999 NPC's/Tharen_Duleri\|Tharen_Duleri]]**: Leader of operations in the [[Info/Locations/Riften\|Riften]] region Eliminated in [[2 -  Sessions/Session 011\|Session 011]], possessed magical abilities including invisibility and fire magic
+- **Four Operatives**: Eliminated during ship raid in [[2 -  Sessions/Session 011\|Session 011]]
 - **Unnamed Prisoner**: Captured member interrogated in [[Info/Locations/Riften\|Riften]] jail
 
 ## Organization Structure
@@ -27,7 +27,7 @@ The Camonna Tong is a criminal syndicate originating from Morrowind that operate
 - Members identified through mask system
 
 ## Current Activities
-**[[Sessions/Session 011\|Session 011]]**: 
+**[[2 -  Sessions/Session 011\|Session 011]]**: 
 - Harassed Argonian dock workers in [[Info/Locations/Riften\|Riften]]
 - Broke into merchant warehouses seeking mysterious lockbox
 - Seized merchant ship containing the sought-after lockbox

@@ -12,7 +12,7 @@
 - Works with [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]] on investigations requiring prisoner interrogation
 
 ## Recent Activities
-**[[Sessions/Session 011\|Session 011]]**: Oversaw the interrogation of a captured Camonna Tong Dunmer criminal. Offered free drinks at the [[Info/Locations/Ember_Keg\|Ember_Keg]] if the party could make the prisoner talk, which they successfully accomplished.
+**[[2 -  Sessions/Session 011\|Session 011]]**: Oversaw the interrogation of a captured Camonna Tong Dunmer criminal. Offered free drinks at the [[Info/Locations/Ember_Keg\|Ember_Keg]] if the party could make the prisoner talk, which they successfully accomplished.
 
 ## Location
 - [[Info/Locations/Riften\|Riften]] Jail and Dungeons

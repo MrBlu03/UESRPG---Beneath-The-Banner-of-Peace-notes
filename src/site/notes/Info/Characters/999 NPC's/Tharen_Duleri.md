@@ -14,11 +14,11 @@ Tharen Duleri is a Camonna Tong leader operating criminal enterprises between Mo
 
 ## Location
 - Last known location: Cave in woods south of [[Info/Locations/Riften\|Riften]], small clearing
-- Base likely moved after [[Sessions/Session 011\|Session 011]] elimination of his operatives
+- Base likely moved after [[2 -  Sessions/Session 011\|Session 011]] elimination of his operatives
 - Connected to return routes to Morrowind
 
 ## Recent Activities
-**[[Sessions/Session 011\|Session 011]]**: His operatives were eliminated by [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]] while attempting to recover a mysterious lockbox from a seized merchant ship. The lockbox was sought due to its potential connection to ships spotted in the Sea of Ghosts.
+**[[2 -  Sessions/Session 011\|Session 011]]**: His operatives were eliminated by [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]] while attempting to recover a mysterious lockbox from a seized merchant ship. The lockbox was sought due to its potential connection to ships spotted in the Sea of Ghosts.
 
 ## Notes
 - Mentioned by captured subordinate during interrogation in [[Info/Locations/Riften\|Riften]] jail

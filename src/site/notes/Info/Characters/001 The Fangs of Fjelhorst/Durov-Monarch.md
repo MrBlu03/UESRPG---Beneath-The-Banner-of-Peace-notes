@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/info/characters/001-the-fangs-of-fjelhorst/durov/"}
+{"dg-publish":true,"permalink":"/info/characters/001-the-fangs-of-fjelhorst/durov-monarch/"}
 ---
 
 # Durov
@@ -22,14 +22,6 @@
 - **[[2 -  Sessions/Session 010\|Session 010]]**: 
   - Attempted to overcharge [[Info/Characters/999 NPC's/Alderman_Torgir\|Alderman_Torgir]] for quest payment (failed)
   - Received significant prophetic dream about his forgotten past
-- **[[2 -  Sessions/Session 011\|Session 011]]**: 
-  - Successfully negotiated payment increase from 250 to 280 gold with [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]
-  - Acquired netch leather armor from eliminated Dunmer guard
-	  - And the armor of the dunmer masked leader
-  - Participated in stealth elimination of Camonna Tong operatives
-  - Engaged in final confrontation with masked Dunmer leader
-  - Caught fire during fireball attack, jumped through ship window to safety
-  - Damaged ship hull with weapons to sink it
 
 ## Dreams and Visions
 ### The Battlefield Dream ([[2 -  Sessions/Session 010\|Session 010]])

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/info/characters/001-the-fangs-of-fjelhorst/onasha/"}
+{"dg-publish":true,"permalink":"/info/characters/001-the-fangs-of-fjelhorst/onasha-monarch/"}
 ---
 
 # Onasha
@@ -27,21 +27,6 @@
   - Experienced dread during the scroll translation
   - Showed concern for [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s wellbeing during the journey
   - Delivered the news to [[Info/Characters/999 NPC's/Alara\|Alara]] about her family's fate in Greenwall
-- **[[2 -  Sessions/Session 010\|Session 010]]**: 
-  - Attempted to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] (failed spectacularly)
-  - Slept underwater during camping trip, startling [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
-  - Successfully hunted stag with [[Info/Characters/999 NPC's/Astrid\|Astrid]], claiming valuable antlers
-  - Participated in bear hunting expedition
-- **[[2 -  Sessions/Session 011\|Session 011]]**: 
-  - Failed to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] twice more during the session
-  - Recognized Camonna Tong mask from dock worker descriptions
-  - Questioned Argonian workers at docks about Dunmer criminals
-  - Discovered fellow Blacktongue tribe member among dock workers
-  - Intimidated captured Dunmer prisoner through tribal reputation
-  - Punched Dunmer prisoner, breaking his nose after interrogation
-  - Swam underwater to flank ship during final assault
-  - Used paralysis bomb (unsuccessfully) against Camonna Tong leader
-  - Recovered body and equipment from eliminated Dunmer leader
 
 ## Items of Interest
 - **Dragon Language Scroll**: A mysterious scroll containing a summoning ritual; turns to tar when burned

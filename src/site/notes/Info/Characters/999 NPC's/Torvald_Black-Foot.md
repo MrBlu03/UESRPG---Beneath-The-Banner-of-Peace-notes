@@ -13,7 +13,7 @@
 - Has contacts throughout the merchant network for intelligence gathering
 
 ## Recent Activities
-**[[Sessions/Session 011\|Session 011]]**: Hired the party to investigate Dunmer criminals (Camonna Tong) harassing his dock workers and breaking into warehouses. Paid 280 gold each for eliminating the threat and recovering a mysterious lockbox. Expressed concern about ships with house dress spotted in the Sea of Ghosts.
+**[[2 -  Sessions/Session 011\|Session 011]]**: Hired the party to investigate Dunmer criminals (Camonna Tong) harassing his dock workers and breaking into warehouses. Paid 280 gold each for eliminating the threat and recovering a mysterious lockbox. Expressed concern about ships with house dress spotted in the Sea of Ghosts.
 
 ## Location
 - [[Info/Locations/Riften\|Riften]]

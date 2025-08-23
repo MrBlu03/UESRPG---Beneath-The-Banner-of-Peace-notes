@@ -5,7 +5,7 @@
 # Abandoned Cave South of Riften
 
 ## Overview
-An abandoned cave/grotto entrance located at the foot of mountains south of [[Info/Locations/Riften\|Riften]], discovered during [[Sessions/Session 011\|Session 011]]. This location served as a temporary hideout for Camonna Tong criminals before their ship-based operations.
+An abandoned cave/grotto entrance located at the foot of mountains south of [[Info/Locations/Riften\|Riften]], discovered during [[2 -  Sessions/Session 011\|Session 011]]. This location served as a temporary hideout for Camonna Tong criminals before their ship-based operations.
 
 ## Geographic Location
 - Located south of [[Info/Locations/Riften\|Riften]] in mountainous terrain
@@ -25,7 +25,7 @@ An abandoned cave/grotto entrance located at the foot of mountains south of [[In
 - Likely no longer operationally significant after elimination of local criminals
 
 ## Evidence of Use
-**[[Sessions/Session 011\|Session 011]] Discovery:**
+**[[2 -  Sessions/Session 011\|Session 011]] Discovery:**
 - Extinguished campfire (cold for only a few hours)
 - Food scraps scattered near walls
 - Impressions where gear and equipment had been placed
@@ -38,7 +38,7 @@ An abandoned cave/grotto entrance located at the foot of mountains south of [[In
 - **Morrowind**: Served as waypoint for return routes to criminal syndicate homeland
 
 ## Related Events
-- **[[Sessions/Session 011\|Session 011]]**: Investigated by [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]] during pursuit of Camonna Tong criminals
+- **[[2 -  Sessions/Session 011\|Session 011]]**: Investigated by [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]] during pursuit of Camonna Tong criminals
 - Used as meeting point and base for lockbox recovery operation
 - Abandoned before final ship-based confrontation
 

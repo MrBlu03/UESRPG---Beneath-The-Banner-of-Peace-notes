@@ -10,7 +10,7 @@
 *(Sorted by newest to oldest)*
 
 ### 🌊 [[Sea of Ghosts Ship Investigation\|Sea of Ghosts Ship Investigation]]
-**Status**: Active ([[Sessions/Session 011\|Session 011]])  
+**Status**: Active ([[2 -  Sessions/Session 011\|Session 011]])  
 **Objective**: Investigate suspicious ships with house colors spotted in the Sea of Ghosts
 
 **Key Tasks**:
@@ -97,7 +97,7 @@
 - [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]]
 
 **Recent Attempts**:
-- **[[Sessions/Session 011\|Session 011]]**: Two more failed attempts - [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] jumped over [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s leg both times
+- **[[2 -  Sessions/Session 011\|Session 011]]**: Two more failed attempts - [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] jumped over [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s leg both times
 - **[[2 -  Sessions/Session 010\|Session 010]]**: Initial failed attempt that started the quest
 
 > *Started after [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] failed to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] on the way to [[Info/Characters/999 NPC's/Alara\|Alara]]'s shop*
@@ -192,7 +192,7 @@
 ## ✅ Recently Completed
 
 ### 🛡️ [[Camonna Tong Dock Investigation\|Camonna Tong Dock Investigation]]
-**Completed**: [[Sessions/Session 011\|Session 011]] | **Reward**: 280 gold each  
+**Completed**: [[2 -  Sessions/Session 011\|Session 011]] | **Reward**: 280 gold each  
 **Outcome**: Successfully eliminated Camonna Tong threat and recovered stolen lockbox
 
 **Key Achievements**:
@@ -305,9 +305,9 @@
 | 🌸 Perfume Bottle                  | [[2 -  Sessions/Session 009\|Session 009]]               | Perfectly intact, found in alchemy room                            |
 | 🗡️ Ornate Axe                     | [[2 -  Sessions/Session 009\|Session 009]]               | Found with skeletal remains                                        |
 | Ornate sword                       | [[2 -  Sessions/Session 009\|Session 009]]               | Found somewhere                                                    |
-| 🎭 Camonna Tong Mask               | [[Sessions/Session 011\|Session 011]]               | Criminal syndicate mask from eliminated Dunmer leader              |
-| 📚 Dunmeri Ledger                  | [[Sessions/Session 011\|Session 011]]               | Written entirely in Dunmeri, found on Camonna Tong leader          |
-| 📦 Recovered Lockbox               | [[Sessions/Session 011\|Session 011]]               | Delivered to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]], connection to Sea of Ghosts   |
+| 🎭 Camonna Tong Mask               | [[2 -  Sessions/Session 011\|Session 011]]               | Criminal syndicate mask from eliminated Dunmer leader              |
+| 📚 Dunmeri Ledger                  | [[2 -  Sessions/Session 011\|Session 011]]               | Written entirely in Dunmeri, found on Camonna Tong leader          |
+| 📦 Recovered Lockbox               | [[2 -  Sessions/Session 011\|Session 011]]               | Delivered to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]], connection to Sea of Ghosts   |
 |                                    |                               |                                                                    |
 
 
@@ -318,5 +318,5 @@
 
 | Source | Amount | Session |
 |--------|--------|---------|
-| Dunmer looted corpses | 10 gold | [[Sessions/Session 011\|Session 011]] |
+| Dunmer looted corpses | 10 gold | [[2 -  Sessions/Session 011\|Session 011]] |
 | **TOTAL COMMUNAL FUNDS** | **10 gold** | - |

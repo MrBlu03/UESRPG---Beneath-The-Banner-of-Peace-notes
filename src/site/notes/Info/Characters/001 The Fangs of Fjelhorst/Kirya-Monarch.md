@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/info/characters/001-the-fangs-of-fjelhorst/kirya/"}
+{"dg-publish":true,"permalink":"/info/characters/001-the-fangs-of-fjelhorst/kirya-monarch/"}
 ---
 
 # Kirya
@@ -33,25 +33,10 @@
   - Confronted onasha about trust issues on the fourth day of travel when asked
   - Reported to [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] about the Greenwall situation
 
-- **[[2 -  Sessions/Session 009\|Session 009]]**: 
-  - Retrieved Dragon Priest mask from ritual chamber
-  - Kept mask as trophy after [[Info/Characters/999 NPC's/Adda\|Adda]] confirmed it was powerless
-- **[[2 -  Sessions/Session 010\|Session 010]]**: 
-  - Caught salmon with bare hands during camping trip
-  - Participated in bear hunting with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/999 NPC's/Astrid\|Astrid]]
-- **[[2 -  Sessions/Session 011\|Session 011]]**: 
-  - Purchased short sword at [[Info/Locations/Sweaty_Steel\|Sweaty_Steel]] for equipment preparation
-  - Spotted suspicious Argonian worker at docks and pointed him out to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
-  - Used paralysis darts to incapacitate multiple Dunmer guards during ship assault
-  - Retrieved the sought-after lockbox during final confrontation
-  - Attempted but failed to pick the lockbox lock
-
 ## Skills & Interests
-- Lock picking (including attempts on mysterious lockboxes)
+- Lock picking
 - Gathering alchemy ingredients
 - Cooking (prepared slaughterfish during the journey)
 - Betting on tavern brawls (has done this multiple times)
-- Stealth and observation (spotting suspicious individuals)
-- Use of paralysis darts for non-lethal takedowns
 
 
