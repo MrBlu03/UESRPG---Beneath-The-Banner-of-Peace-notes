@@ -80,4 +80,4 @@ The journey back passed quietly. Bjorin and Astrid were dropped off at the Wande
 
 By afternoon, the party retired once more to the Hall of Ysmir.
 
-[[Chapter 011\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 011\|Next Chapter →]]
