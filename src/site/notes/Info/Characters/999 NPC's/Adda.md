@@ -44,6 +44,10 @@ Shaman of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] currently in c
   - Explained [[Wode\|wode]] magic and its ancient origins
   - Examined the [[Dragon_Priest_Mask\|dragon priest mask]]
   - Made cryptic comments about "feathers" as the party departed
+- **Session 012**:
+  - Agreed to teach [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] the ways of [[0 - House Rules/Homebrew/Woad\|Woad]] magic
+  - Explained that woads can cover magical marks, though less effectively when extending over the body
+  - Was found meditating in the great hall during morning hours
 
 ## Relationships
 - **[[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]**: Shaman and current leader

@@ -9,6 +9,71 @@
 ## 🎯 Active Main Quests
 *(Sorted by newest to oldest)*
 
+### 🐍 [[Coiled Serpent Conspiracy\|Coiled Serpent Conspiracy]]
+**Status**: Active ([[2 -  Sessions/Session 012\|Session 012]])
+**Objective**: Investigate the escalating activities of the serpent cult and their connection to vampire operations
+
+**Key Tasks**:
+- [ ] Monitor for [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]] vampire activities
+- [ ] Investigate further [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult operations
+- [ ] Fulfill favor obligation to [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] (1 month)
+- [ ] Await [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]'s analysis of Daedric orb at [[Info/Locations/Greenwall\|Greenwall]] (31st Frostfall)
+- [ ] Track down remaining cult operatives with black leathers and Daedric runes
+
+**Key NPCs**:
+- [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]] (rogue Volkihar vampire)
+- [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]] (deceased, Majorn's progeny)
+- [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] (information source)
+- [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] (incoming Mages Guild specialist)
+
+**Key Evidence**:
+- [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] mark found on burned [[Info/Locations/Ratway\|Ratway]] archways
+- Stolen Dunmer body and documentation from [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]]
+- Three masked figures in black leathers with Daedric runes
+- Connection between vampire activities and serpent cult operations
+
+> *Major escalation discovered - cult now stealing evidence and coordinating with rogue vampires*
+
+### 🔥 [[Majorn the Ancient Investigation\|Majorn the Ancient Investigation]]
+**Status**: Active ([[2 -  Sessions/Session 012\|Session 012]])
+**Objective**: Track and prepare for confrontation with the rogue Volkihar vampire
+
+**Key Tasks**:
+- [ ] Research [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]'s historical activities and known associates
+- [ ] Prepare specialized weapons and tactics (steel alone insufficient)
+- [ ] Monitor for vampire activities and missing persons
+- [ ] Coordinate with [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]] for strategic planning
+
+**Key NPCs**:
+- [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]] (primary target)
+- [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]] (expert advisor)
+- [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]] (coordinating response)
+
+**Intelligence**:
+- Survived supposed death 20 years ago during Planemeld
+- Former Harkon court member, grew tired of isolationism
+- Has been building loyalty and creating vampire progeny in secret
+- Opportunistic relationship with Daedric Princes
+- Name carries weight in dangerous circles
+
+> *[[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]] warns: requires patience, knowledge, and precision to defeat*
+
+### 🔮 [[Mages Guild Greenwall Coordination\|Mages Guild Greenwall Coordination]]
+**Status**: Active ([[2 -  Sessions/Session 012\|Session 012]])
+**Objective**: Coordinate with incoming Mages Guild specialists analyzing the Daedric orb
+
+**Key Tasks**:
+- [ ] Await [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]'s arrival at [[Info/Locations/Greenwall\|Greenwall]] (31st Frostfall)
+- [ ] Provide intelligence about orb's discovery and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s vision
+- [ ] Coordinate with Mages Guild analysis of Daedric artifact
+- [ ] Prepare for potential Witches Festival timing significance
+
+**Key NPCs**:
+- [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] (Daedric specialist)
+- Mages Guild expedition team
+
+> *Timing with Witches Festival may be significant for Daedric activities*
+
 ### 🌊 [[Sea of Ghosts Ship Investigation\|Sea of Ghosts Ship Investigation]]
 **Status**: Active ([[2 -  Sessions/Session 011\|Session 011]])  
 **Objective**: Investigate suspicious ships with house colors spotted in the Sea of Ghosts
@@ -50,20 +115,31 @@
 
 > *The [[Talking Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
 
-### 🔮 [[Undead Werewolf Threat\|Undead Werewolf Threat]]
-**Status**: Active ([[2 -  Sessions/Session 007\|Session 007]])  
-**Objective**: Investigate the connection between the crimson orb and undead werewolves
+### 🔮 [[Undead Werewolf Threat\|Undead Werewolf Threat]] / [[Grey Host Connection\|Grey Host Connection]]
+**Status**: Active ([[2 -  Sessions/Session 007\|Session 007]], Updated [[2 -  Sessions/Session 012\|Session 012]])  
+**Objective**: Investigate the connection between the crimson orb, undead werewolves, and the ancient Grey Host
 
 **Key Tasks**:
-- [ ] Wait for updates from [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s investigation
+- [ ] Wait for updates from [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]'s investigation
 - [ ] Research historical incidents involving werewolf experimentation in Western Skyrim
 - [ ] Learn more about the crimson orb's connection to [[Molag Bal\|Molag Bal]]
+- [ ] **NEW**: Investigate parallels between current threats and the Grey Host
+- [ ] **NEW**: Await intelligence from Skald-King Jorunn's Morthal contact (Grey Host expert)
+- [ ] **NEW**: Monitor for signs of "blood tide" rising again
 
 **Key NPCs**: 
-- [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]]
-- [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]
+- [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]] (remembers Grey Host threat)
+- [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]
+- **NEW**: Skald-King Jorunn (recognizes Grey Host patterns)
+- **NEW**: Morthal Contact (Grey Host expert, identity unknown)
 
-> *The vision showed undead werewolves that may be connected to past experiments in Western Skyrim*
+**Updated Intelligence (Session 012)**:
+- Skald-King Jorunn recognizes similar patterns to the ancient Grey Host
+- Grey Host previously burned Western holds and made "the dead march beside the living"
+- Current threats smell of "the same rot on the wind"
+- Messenger sent to Morthal to contact old ally who fought the Grey Host
+
+> *The vision showed undead werewolves that may be connected to past experiments in Western Skyrim - now confirmed connected to Grey Host activities*
 
 ### 🗡️ [[Dark Brotherhood Contract\|Dark Brotherhood Contract]]
 **Status**: Active ([[2 -  Sessions/Session 006\|Session 006]])  
@@ -101,6 +177,51 @@
 - **[[2 -  Sessions/Session 010\|Session 010]]**: Initial failed attempt that started the quest
 
 > *Started after [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] failed to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]] on the way to [[Info/Characters/999 NPC's/Alara\|Alara]]'s shop*
+
+### 🌸 [[Woad Training\|Woad Training]]
+**Status**: Active ([[2 -  Sessions/Session 012\|Session 012]])
+**Objective**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] learns woad magic from [[Info/Characters/999 NPC's/Adda\|Adda]]
+
+**Key Tasks**:
+- [ ] Complete woad training sessions with [[Info/Characters/999 NPC's/Adda\|Adda]]
+- [ ] Learn to apply woads for covering magical marks
+- [ ] Understand combat and diplomatic applications
+
+**Key NPCs**:
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
+- [[Info/Characters/999 NPC's/Adda\|Adda]]
+
+> *[[Info/Characters/999 NPC's/Adda\|Adda]] agreed to teach [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] after explaining woads can mask magical marks*
+
+### 🎵 [[Lute Acquisition\|Lute Acquisition]]
+**Status**: Active ([[2 -  Sessions/Session 012\|Session 012]])
+**Objective**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] seeks to obtain a lute
+
+**Key Tasks**:
+- [ ] Research where to purchase or acquire a lute in [[Info/Locations/Riften\|Riften]]
+- [ ] Determine cost and availability
+- [ ] Complete purchase
+
+**Key NPCs**:
+- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]
+
+> *[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] expressed interest in acquiring a lute during Session 012*
+
+### 💰 [[Moonsugar Business Venture\|Moonsugar Business Venture]]
+**Status**: Active ([[2 -  Sessions/Session 012\|Session 012]])
+**Objective**: [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s business partnership with [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]
+
+**Key Tasks**:
+- [ ] Provide 500 gold investment to [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]
+- [ ] Establish moonsugar trade operations
+- [ ] Define profit-sharing arrangement
+- [ ] Navigate legal/illegal aspects of moonsugar trade
+
+**Key NPCs**:
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
+- [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]
+
+> *Agreement made to cut [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]] into moonsugar business for information and future cooperation*
 
 ### ⚔️ [[Durov's Lost Past\|Durov's Lost Past]]
 **Status**: Active ([[2 -  Sessions/Session 010\|Session 010]])  
@@ -168,15 +289,20 @@
 - Link to [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]]'s murder
 
 ### ⚗️ [[Poisoned Dunmer Case\|Poisoned Dunmer Case]]
-**Status**: Active ([[2 -  Sessions/Session 003\|Session 003]])  
-**Objective**: Identify the perpetrator behind the exotic poison murder
+**Status**: **EVIDENCE STOLEN** ([[2 -  Sessions/Session 012\|Session 012]])
+**Objective**: Recover stolen evidence and identify the perpetrator behind the exotic poison murder
 
-**Poison Components**:
+**Updated Status**:
+- **Body**: Stolen from [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]] during [[Info/Locations/Ratway\|Ratway]] fire diversion
+- **Documentation**: All records removed by [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] operatives
+- **Connection**: Theft confirms importance of case to serpent cult activities
+
+**Original Poison Components**:
 - 🧪 Vampire dust (silver-killed vampires)
 - 🌑 Shadow ichor ([[Nocturnal Realm\|Nocturnal Realm]] hellhounds)
 - 💀 Twilight poison (winged twilight)
 
-> *Perpetrator likely has [[Nocturnal Realm\|Nocturnal Realm]] access*
+> *Evidence theft confirms [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult involvement in original murder*
 
 ### 📜 [[Burnt Paper Reconstruction\|Burnt Paper Reconstruction]]
 **Status**: Pending ([[2 -  Sessions/Session 002\|Session 002]], sent to [[Info/Locations/Winterhold\|Winterhold]] in [[2 -  Sessions/Session 010\|Session 010]])  
@@ -190,6 +316,25 @@
 ---
 
 ## ✅ Recently Completed
+
+### 🔥 [[Ratway Fire Investigation\|Ratway Fire Investigation]]
+**Completed**: [[2 -  Sessions/Session 012\|Session 012]] | **Reward**: 200 gold each (400 more promised)
+**Outcome**: Successfully uncovered [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult involvement and evidence theft
+
+**Key Achievements**:
+- Investigated [[Info/Locations/Ratway\|Ratway]] fires blamed on [[Info/Locations/Riften\|Riften]] guards
+- Negotiated with criminal networks in [[Info/Locations/The_Ragged_Flagon\|The_Ragged_Flagon]]
+- Established business relationship with [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]
+- Discovered theft of Dunmer body and documentation from [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]]
+- Found [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] markings on burned archways
+- Confirmed serpent cult escalation to evidence destruction
+- Restored trust between crown and underground population
+
+**Key Evidence**:
+- Three masked figures in black leathers with Daedric runes
+- Deliberate use of oil accelerants
+- Strategic timing to cover [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]] theft
+- Connection between vampire and serpent cult activities
 
 ### 🛡️ [[Camonna Tong Dock Investigation\|Camonna Tong Dock Investigation]]
 **Completed**: [[2 -  Sessions/Session 011\|Session 011]] | **Reward**: 280 gold each  
@@ -308,7 +453,7 @@
 | 🎭 Camonna Tong Mask               | [[2 -  Sessions/Session 011\|Session 011]]               | Criminal syndicate mask from eliminated Dunmer leader              |
 | 📚 Dunmeri Ledger                  | [[2 -  Sessions/Session 011\|Session 011]]               | Written entirely in Dunmeri, found on Camonna Tong leader          |
 | 📦 Recovered Lockbox               | [[2 -  Sessions/Session 011\|Session 011]]               | Delivered to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]], connection to Sea of Ghosts   |
-|                                    |                               |                                                                    |
+
 
 
 
@@ -316,7 +461,18 @@
 
 ### 💰 Party Treasury
 
-| Source | Amount | Session |
-|--------|--------|---------|
-| Dunmer looted corpses | 10 gold | [[2 -  Sessions/Session 011\|Session 011]] |
-| **TOTAL COMMUNAL FUNDS** | **10 gold** | - |
+| Source                       | Amount      | Session         |
+| ---------------------------- | ----------- | --------------- |
+| Dunmer looted corpses        | 10 gold     | [[2 -  Sessions/Session 011\|Session 011]] |
+| 50 gold from necromancy tomb | 50 gold     | [[2 -  Sessions/Session 012\|Session 012]] |
+| **TOTAL COMMUNAL FUNDS**     | **60 gold** | -               |
+
+### 💼 Business Ventures
+| Venture                      | Investment Required | Partner               | Status    |
+| ---------------------------- | ------------------- | --------------------- | --------- |
+| Moonsugar Trade Partnership  | 500 gold           | [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]   | Pending   |
+
+### 🤝 Outstanding Obligations
+| Obligation                   | Duration    | Owed To                       | Details                    |
+| ---------------------------- | ----------- | ----------------------------- | -------------------------- |
+| Favor/Questions             | 1 month     | [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]]    | Information exchange deal  |
