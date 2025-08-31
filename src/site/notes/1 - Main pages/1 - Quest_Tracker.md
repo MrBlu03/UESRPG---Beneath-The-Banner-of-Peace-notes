@@ -12,27 +12,27 @@
 ## Active Quests
 | File                                                                                                                        |    | Type          | Started     | Reward | Importance |
 | --------------------------------------------------------------------------------------------------------------------------- | -- | ------------- | ----------- | ------ | ---------- |
+| [[Info/Quests/Burnt_Paper_Reconstruction\|Burnt_Paper_Reconstruction]]                                                   | 🔍 | Investigation | Session 002 | TBD    | Minor      |
 | [[Info/Quests/Coiled_Serpent_Mystery\|Coiled_Serpent_Mystery]]                                                           | 🔍 | Investigation | Session 002 | TBD    | Major      |
 | [[Info/Quests/Poisoned_Dunmer_Case\|Poisoned_Dunmer_Case]]                                                               | 🔍 | Investigation | Session 002 | TBD    | Major      |
-| [[Info/Quests/Burnt_Paper_Reconstruction\|Burnt_Paper_Reconstruction]]                                                   | 🔍 | Investigation | Session 002 | TBD    | Minor      |
 | [[Info/Quests/Dark_Brotherhood_Contract\|Dark_Brotherhood_Contract]]                                                     | ⭐  | Main          | Session 006 | TBD    | Major      |
 | [[Info/Quests/Blackfeather_Court_Investigation\|Blackfeather_Court_Investigation]]                                       | ⭐  | Main          | Session 007 | TBD    | Major      |
 | [[Info/Quests/Undead_Werewolf_Threat_Grey_Host_Connection\|Undead_Werewolf_Threat_Grey_Host_Connection]]                 | ⭐  | Main          | Session 007 | TBD    | Major      |
 | [[Info/Quests/Sea_of_Ghosts_Ship_Investigation\|Sea_of_Ghosts_Ship_Investigation]]                                       | ⭐  | Main          | Session 011 | TBD    | Major      |
 | [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]                                                     | ⭐  | Main          | Session 012 | TBD    | Major      |
-| [[Info/Quests/Majorn_the_Ancient_Investigation\|Majorn_the_Ancient_Investigation]]                                       | ⭐  | Main          | Session 012 | TBD    | Major      |
 | [[Info/Quests/Mages_Guild_Greenwall_Coordination\|Mages_Guild_Greenwall_Coordination]]                                   | ⭐  | Main          | Session 012 | TBD    | Major      |
-| [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Investigate_Cult_of_Clavicus_Vile_Cave]]                           | 📋 | Optional      | TBD         | TBD    | Background |
-| [[Info/Quests/Study_Shadow_Stone_Powers\|Study_Shadow_Stone_Powers]]                                                     | 📋 | Optional      | TBD         | TBD    | Background |
+| [[Info/Quests/Majorn_the_Ancient_Investigation\|Majorn_the_Ancient_Investigation]]                                       | ⭐  | Main          | Session 012 | TBD    | Major      |
 | [[Info/Quests/Consult_Archmagus_Mortgren_about_Blackfeather_Court\|Consult_Archmagus_Mortgren_about_Blackfeather_Court]] | 📋 | Optional      | TBD         | TBD    | Background |
 | [[Info/Quests/Look_for_the_Talking_Fox\|Look_for_the_Talking_Fox]]                                                       | 📋 | Optional      | TBD         | TBD    | Background |
-| [[Info/Quests/Periwyns_Vampire_Hunter_Search\|Periwyns_Vampire_Hunter_Search]]                                           | 👤 | Personal      | Session 007 | TBD    | Minor      |
+| [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Investigate_Cult_of_Clavicus_Vile_Cave]]                           | 📋 | Optional      | TBD         | TBD    | Background |
+| [[Info/Quests/Study_Shadow_Stone_Powers\|Study_Shadow_Stone_Powers]]                                                     | 📋 | Optional      | TBD         | TBD    | Background |
 | [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                                             | 👤 | Personal      | Session 007 | TBD    | Major      |
-| [[Info/Quests/Onashas_Eirik_Challenge\|Onashas_Eirik_Challenge]]                                                         | 👤 | Personal      | Session 010 | TBD    | Minor      |
+| [[Info/Quests/Periwyns_Vampire_Hunter_Search\|Periwyns_Vampire_Hunter_Search]]                                           | 👤 | Personal      | Session 007 | TBD    | Minor      |
 | [[Info/Quests/Durovs_Lost_Past\|Durovs_Lost_Past]]                                                                       | 👤 | Personal      | Session 010 | TBD    | Major      |
-| [[Info/Quests/Woad_Training\|Woad_Training]]                                                                             | 👤 | Personal      | Session 012 | TBD    | Minor      |
+| [[Info/Quests/Onashas_Eirik_Challenge\|Onashas_Eirik_Challenge]]                                                         | 👤 | Personal      | Session 010 | TBD    | Minor      |
 | [[Info/Quests/Lute_Acquisition\|Lute_Acquisition]]                                                                       | 👤 | Personal      | Session 012 | TBD    | Minor      |
 | [[Info/Quests/Moonsugar_Business_Venture\|Moonsugar_Business_Venture]]                                                   | 👤 | Personal      | Session 012 | TBD    | Minor      |
+| [[Info/Quests/Woad_Training\|Woad_Training]]                                                                             | 👤 | Personal      | Session 012 | TBD    | Minor      |
 
 { .block-language-dataview}
 

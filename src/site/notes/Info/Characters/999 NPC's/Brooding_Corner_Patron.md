@@ -5,7 +5,7 @@
 # Brooding Corner Patron
 
 ## Description
-[[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] is a respected Dunmer who frequents [[Info/Locations/The_Ragged_Flagon\|The_Ragged_Flagon]] and commands significant influence within the [[Info/Locations/Ratway\|Ratway]] community. He maintains order through quiet authority and possesses valuable information about criminal activities.
+[[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] is a respected human who frequents [[Info/Locations/The_Ragged_Flagon\|The_Ragged_Flagon]] and commands significant influence within the [[Info/Locations/Ratway\|Ratway]] community. He maintains order through quiet authority and possesses valuable information about criminal activities.
 
 ## Relationships
 - **[[Info/Locations/The_Ragged_Flagon\|The_Ragged_Flagon]]**: Respected regular who can control other patrons

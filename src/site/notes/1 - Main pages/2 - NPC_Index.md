@@ -12,7 +12,7 @@
 | File                                                                              |    | Category         | Location           | Faction                   |    | First Seen  |
 | --------------------------------------------------------------------------------- | -- | ---------------- | ------------------ | ------------------------- | -- | ----------- |
 | [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]]                       | 🔴 | Criminal         | Snow-Shod Estate   | Coiled Serpent            | 🔴 | Session 002 |
-| [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]]   | 🟢 | Criminal         | Riften             | Ratway Community          | 🟢 | Unknown     |
+| [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]]   | 🟢 | Criminal         | Riften             | Ratway Community          | 🟢 | Session 012 |
 | [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]                 | 🟢 | Criminal         | Riften             | Ratway Network            | 🟢 | Unknown     |
 | [[Info/Characters/999 NPC's/Yannick_the_Brawler\|Yannick_the_Brawler]]         | 🟢 | Criminal         | Riften             | Ratway Network            | 🟢 | Unknown     |
 | [[Info/Characters/999 NPC's/Adda\|Adda]]                                       | 🟢 | Magical Figure   | Riften             | Cult of Ysmir             | 🟢 | Session 010 |
