@@ -34,7 +34,7 @@
 ## Recent Events (Session 012)
 - **Information Hub**: Served as central location for investigating the [[Info/Locations/Ratway\|Ratway]] fires
 - **Tension**: Heightened due to accusations against [[Info/Locations/Riften\|Riften]] guards
-- **Cooperation**: Ultimately provided crucial intelligence about [[Coiled_Serpent\|Coiled_Serpent]] involvement
+- **Cooperation**: Ultimately provided crucial intelligence about [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] involvement
 
 ## Services
 - **Drinks**: Ale and other alcoholic beverages (including Sujama from Morrowind)

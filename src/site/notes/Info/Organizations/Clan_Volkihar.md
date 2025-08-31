@@ -34,4 +34,4 @@
 ## Notes
 - Considered extremely dangerous even by vampire hunter standards
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] has extensive knowledge of their capabilities from her time with the [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]
-- Current activities suggest possible alliance with the [[Coiled_Serpent\|Coiled Serpent]]
+- Current activities suggest possible alliance with the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]

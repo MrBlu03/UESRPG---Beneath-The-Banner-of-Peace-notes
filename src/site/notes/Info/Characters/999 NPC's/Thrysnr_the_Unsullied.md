@@ -36,4 +36,4 @@ According to [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]
 - His existence confirms that [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]] has been actively building a vampire network
 - The analysis of his remains provided crucial intelligence about the larger vampire conspiracy
 - His death may have alerted [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]] to the party's interference
-- Represents evidence of the growing supernatural threat coordinated with the [[Coiled_Serpent\|Coiled_Serpent]] cult
+- Represents evidence of the growing supernatural threat coordinated with the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult

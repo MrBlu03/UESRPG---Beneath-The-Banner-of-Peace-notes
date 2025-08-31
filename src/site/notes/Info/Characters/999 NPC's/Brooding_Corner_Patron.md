@@ -23,7 +23,7 @@
 - **Perpetrators**: Three masked figures in black leathers with Daedric runes
 - **Location**: Fire started near catacombs, close to [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]] entrance
 - **Method**: Oil accelerants used (burned too quickly for tavern torches)
-- **Evidence**: [[Coiled_Serpent\|Coiled_Serpent]] mark found on burned archways
+- **Evidence**: [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] mark found on burned archways
 - **Purpose**: Suspected theft operation using fire as distraction
 
 ## Favor Agreement
