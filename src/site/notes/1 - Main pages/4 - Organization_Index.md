@@ -4,40 +4,50 @@
 
 # Organization Index
 
+## Legend
+**Types:** 🏛️ Guild | 🕯️ Cult | ⚔️ Military | 🗡️ Criminal | ⛪ Religious | 🏢 Other  
+**Status:** 🟢 Active | 🔴 Hostile | 🤝 Allied | ❌ Disbanded | ❓ Unknown
+
 ## All Organizations
-| File                                                                           |    | Type      |    | First Met   | Key Members                                                                                  |
-| ------------------------------------------------------------------------------ | -- | --------- | -- | ----------- | -------------------------------------------------------------------------------------------- |
-| [[Info/Organizations/Camonna_Tong\|Camonna_Tong]]                           | ❌  | Criminal  | ❌  | Session 011 | <ul><li>Tharen Duleri</li></ul>                                                              |
-| [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]                   | 🟢 | Criminal  | 🟢 | Session 006 | <ul><li>Unnamed Dunmer assassin</li></ul>                                                    |
-| [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]               | ❓  | Cult      | ❓  | Unknown     | <ul><li>The Vestige</li></ul>                                                                |
-| [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]]                         | 🔴 | Cult      | 🔴 | Unknown     | <ul></ul>                                                                                    |
-| [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] | 🟢 | Guild     | 🟢 | Unknown     | <ul><li>Torvald Black-Foot</li><li>Hjar</li></ul>                                            |
-| [[Info/Organizations/Companions\|Companions]]                               | 🤝 | Military  | 🤝 | Session 005 | <ul><li>Vigrod Wraithbane</li><li>Hillevi</li></ul>                                          |
-| [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]]                         | 🤝 | Religious | 🤝 | Session 009 | <ul><li>Gjellir Stormcrown</li><li>Adda</li><li>Víðir</li><li>Beitild</li><li>Olen</li></ul> |
-| [[Info/Organizations/Knights_of_Arkay\|Knights_of_Arkay]]                   | 🟢 | Religious | 🟢 | Unknown     | <ul><li>Periwyn (former)</li></ul>                                                           |
+| File                                                                           |    | Name                                                                           | Type      |    | First Met   |
+| ------------------------------------------------------------------------------ | -- | ------------------------------------------------------------------------------ | --------- | -- | ----------- |
+| [[Info/Organizations/Camonna_Tong\|Camonna_Tong]]                           | ❓  | [[Info/Organizations/Camonna_Tong\|Camonna_Tong]]                           | Criminal  | ❓  | Session 011 |
+| [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]                   | 🟢 | [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]                   | Criminal  | 🟢 | Session 006 |
+| [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]               | ❓  | [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]               | Cult      | ❓  | Unknown     |
+| [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]]                         | 🔴 | [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]]                         | Cult      | 🔴 | Unknown     |
+| [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] | 🟢 | [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] | Guild     | 🟢 | Unknown     |
+| [[Info/Organizations/Companions\|Companions]]                               | 🤝 | [[Info/Organizations/Companions\|Companions]]                               | Military  | 🤝 | Session 005 |
+| [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]]                         | 🤝 | [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]]                         | Religious | 🤝 | Session 009 |
+| [[Info/Organizations/Knights_of_Arkay\|Knights_of_Arkay]]                   | 🟢 | [[Info/Organizations/Knights_of_Arkay\|Knights_of_Arkay]]                   | Religious | 🟢 | Unknown     |
 
 { .block-language-dataview}
 
-## Military & Combat Organizations
-| File                                                         |    | First Met   | Key Members                                                                                  | Locations                                            |
-| ------------------------------------------------------------ | -- | ----------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [[Info/Organizations/Companions\|Companions]]             | 🤝 | Session 005 | <ul><li>Vigrod Wraithbane</li><li>Hillevi</li></ul>                                          | <ul><li>Fallowstone Hall</li><li>Greenwall</li></ul> |
-| [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]]       | 🤝 | Session 009 | <ul><li>Gjellir Stormcrown</li><li>Adda</li><li>Víðir</li><li>Beitild</li><li>Olen</li></ul> | <ul><li>Riften</li></ul>                             |
-| [[Info/Organizations/Knights_of_Arkay\|Knights_of_Arkay]] | 🟢 | Unknown     | <ul><li>Periwyn (former)</li></ul>                                                           | <ul></ul>                                            |
-
-{ .block-language-dataview}
-
-## Supernatural Groups
-| File                                                             |    | First Met | Key Members                   | Locations                                                             |
-| ---------------------------------------------------------------- | -- | --------- | ----------------------------- | --------------------------------------------------------------------- |
-| [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] | ❓  | Unknown   | <ul><li>The Vestige</li></ul> | <ul><li>Nocturnal Realm</li></ul>                                     |
-| [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]]           | 🔴 | Unknown   | <ul></ul>                     | <ul><li>Greenwall</li><li>Harmugstahl</li><li>Sea of Ghosts</li></ul> |
-
-{ .block-language-dataview}
-
-## Merchant Organizations
-| File                                                                           |    | First Met | Key Members                                       | Locations                |
-| ------------------------------------------------------------------------------ | -- | --------- | ------------------------------------------------- | ------------------------ |
-| [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] | 🟢 | Unknown   | <ul><li>Torvald Black-Foot</li><li>Hjar</li></ul> | <ul><li>Riften</li></ul> |
+## NPCs by Organization
+| File                                                                            |    | NPC Name                                                                        | Category         |    |
+| ------------------------------------------------------------------------------- | -- | ------------------------------------------------------------------------------- | ---------------- | -- |
+| [[Info/Characters/999 NPC's/Hjar\|Hjar]]                                     | 🟢 | [[Info/Characters/999 NPC's/Hjar\|Hjar]]                                     | Merchant         | 🟢 |
+| [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | 🟢 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | Merchant         | 🟢 |
+| [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                 | 🟢 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                 | Political Figure | 🟢 |
+| [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | 🟢 | [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | Supernatural     | 🟢 |
+| [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]   | 🔴 | [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]   | Supernatural     | 🔴 |
+| [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]]                     | 🔴 | [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]]                     | Criminal         | 🔴 |
+| [[Info/Characters/999 NPC's/Beitild\|Beitild]]                               | 🔴 | [[Info/Characters/999 NPC's/Beitild\|Beitild]]                               | Military         | 🔴 |
+| [[Info/Characters/999 NPC's/Hillevi\|Hillevi]]                               | 🟢 | [[Info/Characters/999 NPC's/Hillevi\|Hillevi]]                               | Military         | 🟢 |
+| [[Info/Characters/999 NPC's/Olen\|Olen]]                                     | 🔴 | [[Info/Characters/999 NPC's/Olen\|Olen]]                                     | Military         | 🔴 |
+| [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod_Wraithbane]]           | 🟢 | [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod_Wraithbane]]           | Military         | 🟢 |
+| [[Info/Characters/999 NPC's/Adda\|Adda]]                                     | 🟢 | [[Info/Characters/999 NPC's/Adda\|Adda]]                                     | Magical Figure   | 🟢 |
+| [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir_Stormcrown]]         | 🟢 | [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir_Stormcrown]]         | Military         | 🟢 |
+| [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | 🟢 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | Military         | 🟢 |
+| [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]         | 🟢 | [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]         | Magical Figure   | 🟢 |
+| [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]             | 🟢 | [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]             | Magical Figure   | 🟢 |
+| [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] | 🟢 | [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] | Criminal         | 🟢 |
+| [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]               | 🟢 | [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]               | Criminal         | 🟢 |
+| [[Info/Characters/999 NPC's/Yannick_the_Brawler\|Yannick_the_Brawler]]       | 🟢 | [[Info/Characters/999 NPC's/Yannick_the_Brawler\|Yannick_the_Brawler]]       | Criminal         | 🟢 |
+| [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]]                     | 🟢 | [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]]                     | Political Figure | 🟢 |
+| [[Info/Characters/999 NPC's/Rigi\|Rigi]]                                     | 🟢 | [[Info/Characters/999 NPC's/Rigi\|Rigi]]                                     | Political Figure | 🟢 |
+| [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]     | 🟢 | [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]     | Magical Figure   | 🟢 |
+| [[Info/Characters/999 NPC's/Harvold\|Harvold]]                               | 🟢 | [[Info/Characters/999 NPC's/Harvold\|Harvold]]                               | Political Figure | 🟢 |
+| [[Info/Characters/999 NPC's/Brann\|Brann]]                                   | 🟢 | [[Info/Characters/999 NPC's/Brann\|Brann]]                                   | Other            | 🟢 |
+| [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Ingvar_Snow-shod]]             | 🟢 | [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Ingvar_Snow-shod]]             | Political Figure | 🟢 |
 
 { .block-language-dataview}
