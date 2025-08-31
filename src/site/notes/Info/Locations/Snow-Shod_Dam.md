@@ -17,7 +17,7 @@ The [[Info/Locations/Snow-Shod_Dam\|Snow-Shod Dam]] is a water control structure
 - **[[2 -  Sessions/Session 002\|Session 002]]**: 
   - Discovery of sabotage affecting water flow
   - [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]'s body found nearby
-  - [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] symbol discovered at the scene
+  - [[Coiled_Serpent\|Coiled Serpent]] symbol discovered at the scene
   - Party helped restore functionality
   
 ## Related NPCs

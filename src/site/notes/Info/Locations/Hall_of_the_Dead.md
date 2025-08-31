@@ -21,9 +21,9 @@ The [[Info/Locations/Hall_of_the_Dead\|Hall of the Dead]] is a location in [[Inf
 ## Security Concerns
 - **Session 012**: Theft occurred without forced entry, suggesting inside knowledge or sophisticated distraction methods
 - **Connection to [[Info/Locations/Ratway\|Ratway]]**: Underground passages provide potential covert access routes
-- **[[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] Target**: Strategic location for cult operations involving necromancy or evidence destruction
+- **[[Coiled_Serpent\|Coiled_Serpent]] Target**: Strategic location for cult operations involving necromancy or evidence destruction
 
 ## Notes
 - Important location for the [[Poisoned Dunmer Investigation\|Poisoned Dunmer Investigation]]
 - **Vulnerability**: Connected to [[Info/Locations/Ratway\|Ratway]] system through ancient catacombs, creating security risks
-- **Strategic Value**: Houses evidence crucial to understanding the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult's activities
+- **Strategic Value**: Houses evidence crucial to understanding the [[Coiled_Serpent\|Coiled_Serpent]] cult's activities

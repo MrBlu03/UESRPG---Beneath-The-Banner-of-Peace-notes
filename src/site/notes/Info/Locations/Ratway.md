@@ -25,7 +25,7 @@
 - **Description**: Side passages leading deeper into the tunnel system
 - **Connection**: Links to ancient catacombs and [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]]
 - **Recent Events**: Site of deliberate arson attack in Session 012
-- **Damage**: Burned archways with [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] markings
+- **Damage**: Burned archways with [[Coiled_Serpent\|Coiled_Serpent]] markings
 
 ## NPCs
 - **[[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]**: Information broker and fence operating in the tunnels
@@ -42,10 +42,10 @@
 - **Method**: Deliberately set using oil accelerants
 - **Purpose**: Create chaos to cover theft from [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]]
 - **Perpetrators**: Three masked figures in black leathers with Daedric runes
-- **Evidence**: [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] mark found on burned archways
+- **Evidence**: [[Coiled_Serpent\|Coiled_Serpent]] mark found on burned archways
 
 ### Investigation Results
-- **Rumor Control**: Guards blamed for the fire, but investigation proved [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult involvement
+- **Rumor Control**: Guards blamed for the fire, but investigation proved [[Coiled_Serpent\|Coiled_Serpent]] cult involvement
 - **Theft Confirmed**: Poisoned Dunmer body and documentation stolen from [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]]
 - **Trust Issues**: Tension between surface authorities and underground population
 

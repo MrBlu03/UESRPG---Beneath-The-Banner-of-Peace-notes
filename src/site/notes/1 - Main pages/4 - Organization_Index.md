@@ -9,16 +9,16 @@
 **Status:** 🟢 Active | 🔴 Hostile | 🤝 Allied | ❌ Disbanded | ❓ Unknown
 
 ## All Organizations
-| File                                                                           |    | Name                                                                           | Type      |    | First Met   |
-| ------------------------------------------------------------------------------ | -- | ------------------------------------------------------------------------------ | --------- | -- | ----------- |
-| [[Info/Organizations/Camonna_Tong\|Camonna_Tong]]                           | ❓  | [[Info/Organizations/Camonna_Tong\|Camonna_Tong]]                           | Criminal  | ❓  | Session 011 |
-| [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]                   | 🟢 | [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]                   | Criminal  | 🟢 | Session 006 |
-| [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]               | ❓  | [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]               | Cult      | ❓  | Unknown     |
-| [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]]                         | 🔴 | [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]]                         | Cult      | 🔴 | Unknown     |
-| [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] | 🟢 | [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] | Guild     | 🟢 | Unknown     |
-| [[Info/Organizations/Companions\|Companions]]                               | 🤝 | [[Info/Organizations/Companions\|Companions]]                               | Military  | 🤝 | Session 005 |
-| [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]]                         | 🤝 | [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]]                         | Religious | 🤝 | Session 009 |
-| [[Info/Organizations/Knights_of_Arkay\|Knights_of_Arkay]]                   | 🟢 | [[Info/Organizations/Knights_of_Arkay\|Knights_of_Arkay]]                   | Religious | 🟢 | Unknown     |
+| File                                                                           |    | Type      |    | First Met   |
+| ------------------------------------------------------------------------------ | -- | --------- | -- | ----------- |
+| [[Info/Organizations/Camonna_Tong\|Camonna_Tong]]                           | ❓  | Criminal  | ❓  | Session 011 |
+| [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]                   | 🟢 | Criminal  | 🟢 | Session 006 |
+| [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]               | ❓  | Cult      | ❓  | Unknown     |
+| [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]]                         | 🔴 | Cult      | 🔴 | Unknown     |
+| [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] | 🟢 | Guild     | 🟢 | Unknown     |
+| [[Info/Organizations/Companions\|Companions]]                               | 🤝 | Military  | 🤝 | Session 005 |
+| [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]]                         | 🤝 | Religious | 🤝 | Session 009 |
+| [[Info/Organizations/Knights_of_Arkay\|Knights_of_Arkay]]                   | 🟢 | Religious | 🟢 | Unknown     |
 
 { .block-language-dataview}
 

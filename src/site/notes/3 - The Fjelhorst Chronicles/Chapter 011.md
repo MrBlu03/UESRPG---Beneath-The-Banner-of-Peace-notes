@@ -31,4 +31,4 @@ The fight ended in ruin. The Dunmer lay dead, his journal in hand. Kirya retriev
 They returned soaked, tired, and heavier with gold. Torvald listened gravely. His contacts in Windhelm spoke of House Dres ships wrecked near the Yorgrim. If the lockbox came from one, this was no small matter. He promised to dig deeper.
 
 Each of them left with 280 gold, and the shadows of House Dres now on their minds.
-[[Chapter 012\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 012\|Next Chapter →]]

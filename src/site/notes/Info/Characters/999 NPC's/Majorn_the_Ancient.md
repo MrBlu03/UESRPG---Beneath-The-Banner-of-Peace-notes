@@ -11,7 +11,7 @@
 - **Former Clan Volkihar Member**: Served in Harkon's court approximately a century ago
 - **[[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]**: Has personal history with Majorn, crossed paths multiple times though never as allies
 - **[[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]**: One of his vampire progeny, recently killed by the party
-- **Possible [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] Connection**: May be allied with or leading the serpent cult activities
+- **Possible [[Coiled_Serpent\|Coiled_Serpent]] Connection**: May be allied with or leading the serpent cult activities
 
 ## Key Characteristics
 - **Opportunistic**: Interested in Daedric Princes but not as a servant - seeks partnerships of convenience
@@ -37,5 +37,5 @@
 
 ## Notes
 - Represents a significant escalation in the vampire threat to the [[Info/Locations/Riften\|Rift]]
-- His survival and apparent connection to the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult suggests a major conspiracy
+- His survival and apparent connection to the [[Coiled_Serpent\|Coiled_Serpent]] cult suggests a major conspiracy
 - [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]] will remain in [[Info/Locations/Riften\|Riften]] to research and prepare defenses

@@ -138,7 +138,7 @@ The party ventured out to find missing alchemist [[Info/Characters/999 NPC's/Ala
 ## Additional Context
 - Previous investigations from Sessions 1-2:
   - [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]] (Dunmer) was found poisoned near [[Snowshot_Dam\|Snowshot Dam]]
-  - Mysterious [[Info/Lore/Coiled_Serpent\|coiled serpent]] logo found at his campsite
+  - Mysterious [[Coiled_Serpent\|coiled serpent]] logo found at his campsite
   - Burnt paper scraps that might be recoverable with magic
   - Local tensions between [[Snowshot_Estate\|Snowshod Estate]] farmers and [[Info/Locations/Trevas_Bend\|Treva's Bend]] fishermen
 - Relevant locations:

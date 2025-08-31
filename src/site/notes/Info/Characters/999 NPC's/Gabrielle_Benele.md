@@ -29,5 +29,5 @@
 ## Notes
 - Her arrival timing coincides with Witches Festival, which may be significant
 - The fact that [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] recognizes her name suggests a possible connection to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s past
-- Her expertise will be crucial in understanding the Daedric orb's purpose and connection to the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult
+- Her expertise will be crucial in understanding the Daedric orb's purpose and connection to the [[Coiled_Serpent\|Coiled_Serpent]] cult
 - Part of a larger response to the growing supernatural threats in the region

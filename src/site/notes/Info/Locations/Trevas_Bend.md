@@ -32,5 +32,5 @@
 ## Notes
 - A fishing-based economy disrupted by water level issues
 - The water dispute with [[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]] appears to have been engineered as part of a larger plot
-- Site of early tensions that revealed deeper plots involving [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]] and the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]
-- The village's welfare was put at risk as collateral damage in what appears to be a scheme by the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]
+- Site of early tensions that revealed deeper plots involving [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]] and the [[Coiled_Serpent\|Coiled Serpent]]
+- The village's welfare was put at risk as collateral damage in what appears to be a scheme by the [[Coiled_Serpent\|Coiled Serpent]]
