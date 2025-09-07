@@ -61,6 +61,11 @@
   - Recognized invisibility magic limitations during confrontation with ship captain
   - Caught fire during Dunmer leader's fireball attack, jumped through ship window
   - Healed herself and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] from burn wounds using her abilities
+- **[[2 -  Sessions/Session 012a\|Session 012a]]**:
+  - Sought out [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]] for necromantic training
+  - Agreed to begin formal necromantic studies under Mortgren's guidance
+  - Received "Mortgren's First Necromantic Tome" to begin her magical education
+  - Established formal teacher-student relationship with the Archmagus
 
 ## Current Concerns
 - Being targeted by Malacath, who appears to be encouraging her vengeful tendencies

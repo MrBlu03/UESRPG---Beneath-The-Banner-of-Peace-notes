@@ -16,6 +16,11 @@
   - Returned to [[Info/Locations/Riften\|Riften]] to analyze [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]'s severed head
   - Revealed the vampire was turned by [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]], not Harkon
   - Provided extensive intelligence about [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]'s history and survival
+- **[[2 -  Sessions/Session 012a\|Session 012a]]**:
+  - Approached by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] seeking necromantic training
+  - Agreed to teach her the art of necromancy after confirming her motivations
+  - Established formal teacher-student arrangement with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+  - Provided "Mortgren's First Necromantic Tome" as introductory material
 
 ## Location
 - **Current**: [[Info/Locations/Riften\|Riften]] (temporarily returned for vampire analysis)
