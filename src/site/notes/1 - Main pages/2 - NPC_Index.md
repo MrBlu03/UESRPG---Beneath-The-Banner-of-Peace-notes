@@ -41,6 +41,7 @@
 | [[Info/Characters/999 NPC's/Brann\|Brann]]                                     | 🟢 | Other            | Riften             | Royal Court               | 🟢 | Unknown     |
 | [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik_the_Quick]]                 | 🟢 | Other            | Riften             | Independent               | 🟢 | Unknown     |
 | [[Info/Characters/999 NPC's/Gareth\|Gareth]]                                   | 🟢 | Other            | Unknown            | Independent               | 🟢 | Unknown     |
+| [[Info/Characters/999 NPC's/Hrovald\|Hrovald]]                                 | 🟢 | Other            | Riften             | Riften Monarchy           | 🟢 | Session 013 |
 | [[Info/Characters/999 NPC's/John\|John]]                                       | 🟢 | Other            | Riften             | Independent               | 🟢 | Session 003 |
 | [[Info/Characters/999 NPC's/Mirel\|Mirel]]                                     | 🟢 | Other            | Unknown            | Independent               | 🟢 | Unknown     |
 | [[Info/Characters/999 NPC's/Olgierd\|Olgierd]]                                 | 🟢 | Other            | Near Haunted Lodge | Independent               | 🟢 | Session 009 |
@@ -61,6 +62,7 @@
 | [[Info/Characters/999 NPC's/Talking_Fox\|Talking_Fox]]                         | 🟢 | Supernatural     | Various            | Independent               | 🟢 | Unknown     |
 | [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]     | 🔴 | Supernatural     | Greenwall          | Clan Volkihar             | 🔴 | Session 012 |
 | [[Info/Characters/999 NPC's/Astrid\|Astrid]]                                   | 🟢 | Tavern Staff     | Riften             | Independent               | 🟢 | Session 010 |
+| [[Info/Characters/999 NPC's/Denskar\|Denskar]]                                 | 🟢 | Tavern Staff     | Falderstad         | Independent               | 🟢 | Session 013 |
 | [[Info/Characters/999 NPC's/Eydis\|Eydis]]                                     | 🟢 | Tavern Staff     | Riften             | Independent               | 🟢 | Unknown     |
 | [[Info/Characters/999 NPC's/Senya\|Senya]]                                     | 🟢 | Tavern Staff     | Riften             | Independent               | 🟢 | Unknown     |
 | [[Info/Characters/999 NPC's/Sonya\|Sonya]]                                     | 🟢 | Tavern Staff     | Riften             | Independent               | 🟢 | Unknown     |
@@ -99,12 +101,13 @@
 { .block-language-dataview}
 
 ## Tavern Staff and Patrons
-| File                                            | Location | Faction     |    | First Seen  |
-| ----------------------------------------------- | -------- | ----------- | -- | ----------- |
-| [[Info/Characters/999 NPC's/Astrid\|Astrid]] | Riften   | Independent | 🟢 | Session 010 |
-| [[Info/Characters/999 NPC's/Eydis\|Eydis]]   | Riften   | Independent | 🟢 | Unknown     |
-| [[Info/Characters/999 NPC's/Senya\|Senya]]   | Riften   | Independent | 🟢 | Unknown     |
-| [[Info/Characters/999 NPC's/Sonya\|Sonya]]   | Riften   | Independent | 🟢 | Unknown     |
+| File                                              | Location   | Faction     |    | First Seen  |
+| ------------------------------------------------- | ---------- | ----------- | -- | ----------- |
+| [[Info/Characters/999 NPC's/Astrid\|Astrid]]   | Riften     | Independent | 🟢 | Session 010 |
+| [[Info/Characters/999 NPC's/Denskar\|Denskar]] | Falderstad | Independent | 🟢 | Session 013 |
+| [[Info/Characters/999 NPC's/Eydis\|Eydis]]     | Riften     | Independent | 🟢 | Unknown     |
+| [[Info/Characters/999 NPC's/Senya\|Senya]]     | Riften     | Independent | 🟢 | Unknown     |
+| [[Info/Characters/999 NPC's/Sonya\|Sonya]]     | Riften     | Independent | 🟢 | Unknown     |
 
 { .block-language-dataview}
 

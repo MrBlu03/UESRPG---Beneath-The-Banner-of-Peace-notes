@@ -45,6 +45,17 @@
   - Used paralysis darts to incapacitate multiple Dunmer guards during ship assault
   - Retrieved the sought-after lockbox during final confrontation
   - Attempted but failed to pick the lockbox lock
+- **[[2 -  Sessions/Session 013\|Session 013]]**:
+  - Second to wake on departure morning
+  - Acquired Sunsnow, a dappled cream mare with curious and warm nature
+  - Horse matched her helpful optimism and ability to find light in dark times
+  - Served as scout during the six-day journey to Falderstad
+  - Played lute during evening entertainment around campfire
+  - Hunted small game with Onasha, successfully obtaining fox pelt and meat
+  - Poor scouting performance on Travel Day 2 slowed party's progress
+  - Attempted bear hunting unsuccessfully but gathered alchemy ingredients
+  - Offered to help unnamed hunter with white stag hunt in Falderstad
+  - Witnessed spectacular blue-green aurora that awed the entire party
 
 ## Skills & Interests
 - Lock picking (including attempts on mysterious lockboxes)

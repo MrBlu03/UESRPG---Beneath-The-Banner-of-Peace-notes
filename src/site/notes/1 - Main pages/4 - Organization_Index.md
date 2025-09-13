@@ -47,6 +47,7 @@
 | [[Info/Characters/999 NPC's/Rigi\|Rigi]]                                     | 🟢 | [[Info/Characters/999 NPC's/Rigi\|Rigi]]                                     | Political Figure | 🟢 |
 | [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]     | 🟢 | [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]     | Magical Figure   | 🟢 |
 | [[Info/Characters/999 NPC's/Harvold\|Harvold]]                               | 🟢 | [[Info/Characters/999 NPC's/Harvold\|Harvold]]                               | Political Figure | 🟢 |
+| [[Info/Characters/999 NPC's/Hrovald\|Hrovald]]                               | 🟢 | [[Info/Characters/999 NPC's/Hrovald\|Hrovald]]                               | Other            | 🟢 |
 | [[Info/Characters/999 NPC's/Brann\|Brann]]                                   | 🟢 | [[Info/Characters/999 NPC's/Brann\|Brann]]                                   | Other            | 🟢 |
 | [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Ingvar_Snow-shod]]             | 🟢 | [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Ingvar_Snow-shod]]             | Political Figure | 🟢 |
 

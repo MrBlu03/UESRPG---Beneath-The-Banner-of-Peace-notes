@@ -42,6 +42,19 @@
   - Swam underwater to flank ship during final assault
   - Used paralysis bomb (unsuccessfully) against Camonna Tong leader
   - Recovered body and equipment from eliminated Dunmer leader
+- **[[2 -  Sessions/Session 013\|Session 013]]**:
+  - First to wake with book in hand (borrowed from Adda)
+  - Met with Adda who was preparing to leave for East March to help other witches
+  - Acquired Mossback, a deep chestnut gelding reflecting her cautious pragmatism
+  - Horse perfectly matched her survivor's instincts and careful nature
+  - Served as travel assistant during the six-day journey to Falderstad
+  - Hunted small game with Kirya, successfully obtaining fox pelt and meat
+  - Inquired about Periwyn's family heraldry during evening conversations
+  - Found a roadside shrine and questioned hunter about his plans
+  - Offered to help with white stag hunt, arranged meeting through Denskar
+  - Attempted bear hunting unsuccessfully but gathered alchemy ingredients
+  - Finally succeeded in training Mossback to stand still after five days
+  - Witnessed spectacular blue-green aurora that awed the entire party
 
 ## Items of Interest
 - **Dragon Language Scroll**: A mysterious scroll containing a summoning ritual; turns to tar when burned

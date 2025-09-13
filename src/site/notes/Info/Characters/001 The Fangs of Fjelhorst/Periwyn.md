@@ -66,6 +66,16 @@
   - Agreed to begin formal necromantic studies under Mortgren's guidance
   - Received "Mortgren's First Necromantic Tome" to begin her magical education
   - Established formal teacher-student relationship with the Archmagus
+- **[[2 -  Sessions/Session 013\|Session 013]]**:
+  - Last to wake, found sketching in her journal after getting food
+  - Acquired Ashen, a coal-black mare with fierce temperament matching her own nature
+  - Designed crescent moon harness decorations while feeding Ashen berries
+  - Discussed family heraldry with Onasha during evening activities
+  - Often fell asleep against Ashen, showing deep bond with her horse
+  - Meditated at a kern (burial site) for three hours, connecting with the dead
+  - Sketched party members in her journal during the journey
+  - Witnessed spectacular blue-green aurora that awed the entire party
+  - Arrived safely in Falderstad after six-day journey from Riften
 
 ## Current Concerns
 - Being targeted by Malacath, who appears to be encouraging her vengeful tendencies

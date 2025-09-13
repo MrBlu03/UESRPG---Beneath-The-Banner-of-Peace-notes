@@ -20,8 +20,9 @@
 | [[Info/Quests/Undead_Werewolf_Threat_Grey_Host_Connection\|Undead_Werewolf_Threat_Grey_Host_Connection]]                 | ⭐  | Main          | Session 007  | TBD                                 | Major      |
 | [[Info/Quests/Sea_of_Ghosts_Ship_Investigation\|Sea_of_Ghosts_Ship_Investigation]]                                       | ⭐  | Main          | Session 011  | TBD                                 | Major      |
 | [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]                                                     | ⭐  | Main          | Session 012  | TBD                                 | Major      |
-| [[Info/Quests/Majorn_the_Ancient_Investigation\|Majorn_the_Ancient_Investigation]]                                       | ⭐  | Main          | Session 012  | TBD                                 | Major      |
 | [[Info/Quests/Mages_Guild_Greenwall_Coordination\|Mages_Guild_Greenwall_Coordination]]                                   | ⭐  | Main          | Session 012  | TBD                                 | Major      |
+| [[Info/Quests/Majorn_the_Ancient_Investigation\|Majorn_the_Ancient_Investigation]]                                       | ⭐  | Main          | Session 012  | TBD                                 | Major      |
+| [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]                                                                         | 📋 | Optional      | Session 013  | Unknown                             | Minor      |
 | [[Info/Quests/Consult_Archmagus_Mortgren_about_Blackfeather_Court\|Consult_Archmagus_Mortgren_about_Blackfeather_Court]] | 📋 | Optional      | TBD          | TBD                                 | Background |
 | [[Info/Quests/Look_for_the_Talking_Fox\|Look_for_the_Talking_Fox]]                                                       | 📋 | Optional      | TBD          | TBD                                 | Background |
 | [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Investigate_Cult_of_Clavicus_Vile_Cave]]                           | 📋 | Optional      | TBD          | TBD                                 | Background |
@@ -90,11 +91,14 @@
 
 ### 💰 Party Treasury
 
-| Source                       | Amount      | Session         |
-| ---------------------------- | ----------- | --------------- |
-| Dunmer looted corpses        | 10 gold     | [[2 -  Sessions/Session 011\|Session 011]] |
-| 50 gold from necromancy tomb | 50 gold     | [[2 -  Sessions/Session 012\|Session 012]] |
-| **TOTAL COMMUNAL FUNDS**     | **60 gold** | -               |
+| Source                       | Amount       | Session         |
+| ---------------------------- | ------------ | --------------- |
+| Dunmer looted corpses        | 10 gold      | [[2 -  Sessions/Session 011\|Session 011]] |
+| 50 gold from necromancy tomb | 50 gold      | [[2 -  Sessions/Session 012\|Session 012]] |
+| Gold from selling bear fur   | 100 gold     | [[2 -  Sessions/Session 013\|Session 013]] |
+| Small furr                   | 10 gold      | [[2 -  Sessions/Session 013\|Session 013]] |
+| Tavern room buying           | -15 gold     | [[2 -  Sessions/Session 013\|Session 013]] |
+| **TOTAL COMMUNAL FUNDS**     | **145 gold** | ****-           |
 
 ### 💼 Business Ventures
 | Venture                      | Investment Required | Partner               | Status    |

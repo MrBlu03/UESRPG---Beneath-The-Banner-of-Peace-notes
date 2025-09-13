@@ -30,6 +30,14 @@
   - Engaged in final confrontation with masked Dunmer leader
   - Caught fire during fireball attack, jumped through ship window to safety
   - Damaged ship hull with weapons to sink it
+- **[[2 -  Sessions/Session 013\|Session 013]]**:
+  - Third to wake on departure morning
+  - Acquired Rimefang, a massive iron-grey stallion with commanding presence
+  - Horse perfectly matched his reserved but powerful nature
+  - Served as camp assistant during travel, helping with practical tasks
+  - Ate meals behind his tent, maintaining his privacy habits
+  - Successfully completed six-day journey to Falderstad
+  - Witnessed spectacular blue-green aurora on Travel Day 4
 
 ## Dreams and Visions
 ### The Battlefield Dream ([[2 -  Sessions/Session 010\|Session 010]])

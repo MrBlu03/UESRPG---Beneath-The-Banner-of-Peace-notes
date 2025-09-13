@@ -12,6 +12,7 @@
 | File                                                                                 |    | Type           | Region          |    | First Visited |
 | ------------------------------------------------------------------------------------ | -- | -------------- | --------------- | -- | ------------- |
 | [[Info/Locations/Faldarstad\|Faldarstad]]                                         | 🟢 | City           | Northern Skyrim | 🟢 | Unknown       |
+| [[Info/Locations/Falderstad\|Falderstad]]                                         | 🟢 | City           | Eastern Skyrim  | 🟢 | Session 013   |
 | [[Info/Locations/Riften\|Riften]]                                                 | 🟢 | City           | Riften Hold     | 🟢 | Session 001   |
 | [[Info/Locations/Winterhold\|Winterhold]]                                         | 🟢 | City           | Northern Skyrim | 🟢 | Unknown       |
 | [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]]                             | 🟢 | Infrastructure | Riften Hold     | 🟢 | Session 003   |
@@ -27,13 +28,14 @@
 | [[Info/Locations/Northpoint\|Northpoint]]                                         | ❓  | Settlement     | Unknown         | ❓  | Unknown       |
 | [[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]]                             | 🟢 | Settlement     | Riften Hold     | 🟢 | Session 002   |
 | [[Info/Locations/Trevas_Bend\|Trevas_Bend]]                                       | 🟢 | Settlement     | Riften Hold     | 🟢 | Session 001   |
-| [[Info/Locations/Borans_Bullwarks\|Borans_Bullwarks]]                             | 🟢 | Shop           | Riften Hold     | 🟢 | Unknown       |
+| [[Info/Locations/Borans_Bullwarks\|Borans_Bullwarks]]                             | 🟢 | Shop           | Riften Hold     | 🟢 | Session 013   |
 | [[Info/Locations/Ember_Keg\|Ember_Keg]]                                           | 🟢 | Shop           | Riften Hold     | 🟢 | Session 007   |
 | [[Info/Locations/Scent_of_Serenity\|Scent_of_Serenity]]                           | 🟢 | Shop           | Riften Hold     | 🟢 | Session 001   |
 | [[Info/Locations/Sweaty_Steel\|Sweaty_Steel]]                                     | 🟢 | Shop           | Riften Hold     | 🟢 | Session 003   |
 | [[Info/Locations/The_Honed_Edge\|The_Honed_Edge]]                                 | 🟢 | Shop           | Riften Hold     | 🟢 | Unknown       |
 | [[Info/Locations/The_Ragged_Flagon\|The_Ragged_Flagon]]                           | 🟢 | Shop           | Riften Hold     | 🟢 | Session 012   |
 | [[Info/Locations/The_Sleeping_Stag\|The_Sleeping_Stag]]                           | 🟢 | Shop           | Riften Hold     | 🟢 | Unknown       |
+| [[Info/Locations/The_Wounded_Boar\|The_Wounded_Boar]]                             | 🟢 | Shop           | Falderstad      | 🟢 | Session 013   |
 | [[Info/Locations/Wanderers_Rest\|Wanderers_Rest]]                                 | 🟢 | Shop           | Riften Hold     | 🟢 | Unknown       |
 | [[Info/Locations/Whispwood_Remedies\|Whispwood_Remedies]]                         | 🟢 | Shop           | Riften Hold     | 🟢 | Unknown       |
 
@@ -43,6 +45,7 @@
 | File                                                     | Region          |    | First Visited | Establishments                                                                                                                                                                         |
 | -------------------------------------------------------- | --------------- | -- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Info/Locations/Faldarstad\|Faldarstad]]             | Northern Skyrim | 🟢 | Unknown       | <ul></ul>                                                                                                                                                                              |
+| [[Info/Locations/Falderstad\|Falderstad]]             | Eastern Skyrim  | 🟢 | Session 013   | <ul><li>The Wounded Boar</li></ul>                                                                                                                                                     |
 | [[Info/Locations/Riften\|Riften]]                     | Riften Hold     | 🟢 | Session 001   | <ul><li>Scent of Serenity</li><li>Sweaty Steel</li><li>The Honed Edge</li><li>The Sleeping Stag</li><li>Boran's Bullwarks</li><li>Whispwood Remedies</li><li>Wanderer's Rest</li></ul> |
 | [[Info/Locations/Winterhold\|Winterhold]]             | Northern Skyrim | 🟢 | Unknown       | <ul><li>College of Winterhold</li></ul>                                                                                                                                                |
 | [[Info/Locations/Greenwall\|Greenwall]]               | Northern Skyrim | 🔴 | Session 006   | <ul><li>Inn</li><li>Keep</li></ul>                                                                                                                                                     |
@@ -56,13 +59,14 @@
 ## Shops and Services
 | File                                                         | Region      |    | First Visited |
 | ------------------------------------------------------------ | ----------- | -- | ------------- |
-| [[Info/Locations/Borans_Bullwarks\|Borans_Bullwarks]]     | Riften Hold | 🟢 | Unknown       |
+| [[Info/Locations/Borans_Bullwarks\|Borans_Bullwarks]]     | Riften Hold | 🟢 | Session 013   |
 | [[Info/Locations/Ember_Keg\|Ember_Keg]]                   | Riften Hold | 🟢 | Session 007   |
 | [[Info/Locations/Scent_of_Serenity\|Scent_of_Serenity]]   | Riften Hold | 🟢 | Session 001   |
 | [[Info/Locations/Sweaty_Steel\|Sweaty_Steel]]             | Riften Hold | 🟢 | Session 003   |
 | [[Info/Locations/The_Honed_Edge\|The_Honed_Edge]]         | Riften Hold | 🟢 | Unknown       |
 | [[Info/Locations/The_Ragged_Flagon\|The_Ragged_Flagon]]   | Riften Hold | 🟢 | Session 012   |
 | [[Info/Locations/The_Sleeping_Stag\|The_Sleeping_Stag]]   | Riften Hold | 🟢 | Unknown       |
+| [[Info/Locations/The_Wounded_Boar\|The_Wounded_Boar]]     | Falderstad  | 🟢 | Session 013   |
 | [[Info/Locations/Wanderers_Rest\|Wanderers_Rest]]         | Riften Hold | 🟢 | Unknown       |
 | [[Info/Locations/Whispwood_Remedies\|Whispwood_Remedies]] | Riften Hold | 🟢 | Unknown       |
 
