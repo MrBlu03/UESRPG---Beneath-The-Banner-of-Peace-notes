@@ -35,4 +35,4 @@ Periwyn guessed the fire a distraction, meant to enter the Hall of the Dead. The
 They returned to Freidr, laying out what they had found. She reimbursed Durov for the gold he had spent and granted them wide authority to pursue the Coiled Serpent. Papers would follow in days, but for now the hunt was theirs.
 
 The party retired to Ysmir’s hall as the night deepened, the scent of rain and smoke still clinging to their cloaks.
-[[Chapter 013\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 013\|Next Chapter →]]

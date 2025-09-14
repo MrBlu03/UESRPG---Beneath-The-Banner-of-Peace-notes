@@ -3,7 +3,7 @@
 ---
 
 # Session 013 - Journey to Falderstad
-**19th-24th of Frostfall, 2E 600**
+
 
 ## Summary
 The party acquires horses from [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]] and embarks on a six-day journey from [[Info/Locations/Riften\|Riften]] to [[Info/Locations/Falderstad\|Falderstad]]. They purchase cold weather gear, encounter M'aiq the Liar speaking cryptically, witness a spectacular aurora, and meet a hunter planning a white stag hunt. Despite harsh winter weather and heavy snow, they arrive safely in Falderstad 1.5 days ahead of schedule.
@@ -21,22 +21,22 @@ At the stables, they met [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** received **Mossback** - a deep chestnut gelding, gentle but cautious
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** received **Ashen** - a coal-black mare with fierce temperament and white streak on muzzle
 
-### Travel Day 1 (19th Frostfall)
+### Travel Day 1
 Uneventful travel with good weather. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] and [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] hunted small game, returning with fox pelt and meat. Evening activities included [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] playing lute, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] sketching horse harness designs with crescent moons while feeding Ashen berries. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] inquired about [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s family heraldry. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] fell asleep against her horse.
 
-### Travel Day 2 (20th Frostfall) 
+### Travel Day 2 
 [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s grogginess and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s poor scouting slowed travel pace. Fog cleared by noon revealing bright skies. Found a kern (burial site) where [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] meditated with the dead for three hours.
 
-### Travel Day 3 (21st Frostfall)
+### Travel Day 3
 Encountered [[Info/Characters/999 NPC's/M'aiq\|M'aiq]] around midday, wearing orange-yellow robes and rambling about handkerchiefs, dark elves, and "hands in chains." Afternoon brought brief snowstorm. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] and [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] attempted bear hunting unsuccessfully but gathered alchemy ingredients.
 
-### Travel Day 4 (22nd Frostfall)
+### Travel Day 4
 Pleasant weather with sun breaking through clouds. Heard distant ice cracking from frozen lakes. Evening brought spectacular blue-green aurora that awed the entire party. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] sketched party members in her journal.
 
-### Travel Day 5 (23rd Frostfall)
+### Travel Day 5
 Heavy snowfall, though party remained 1.5 days ahead of schedule. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] finally succeeded in training Mossback to stand still. At evening camp, encountered a hunter at a shrine to the old gods (fox and hawk). Hunter revealed plans to hunt a white stag with friends once snow clears. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] offered assistance - meeting arranged at [[Info/Locations/The_Wounded_Boar\|The_Wounded_Boar]] inn in [[Info/Locations/Falderstad\|Falderstad]] through [[Info/Characters/999 NPC's/Denskar\|Denskar]].
 
-### Travel Day 6 - Arrival at Falderstad (24th Frostfall)
+### Travel Day 6 - Arrival at Falderstad
 Arrived at noon in -14°C weather. Guards questioned their business at city gates before welcoming them and directing them to [[Info/Locations/The_Wounded_Boar\|The_Wounded_Boar]] inn. After grooming horses, entered inn and met the gruff proprietor.
 
 ## NPCs Met
