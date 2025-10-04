@@ -56,6 +56,11 @@
   - Attempted bear hunting unsuccessfully but gathered alchemy ingredients
   - Offered to help unnamed hunter with white stag hunt in Falderstad
   - Witnessed spectacular blue-green aurora that awed the entire party
+- **[[2 -  Sessions/Session 014\|Session 014]]**:
+  - Morning routine included tending to horse [[Sunsnow\|Sunsnow]]
+  - Noticed bow hanging incorrectly by door at [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house (unusual for seasoned hunter)
+  - Searched kitchen with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] (found nothing useful)
+  - Participated in northern forest investigation
 
 ## Skills & Interests
 - Lock picking (including attempts on mysterious lockboxes)

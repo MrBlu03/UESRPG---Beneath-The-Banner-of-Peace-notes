@@ -38,6 +38,9 @@
   - Ate meals behind his tent, maintaining his privacy habits
   - Successfully completed six-day journey to Falderstad
   - Witnessed spectacular blue-green aurora on Travel Day 4
+- **[[2 -  Sessions/Session 014\|Session 014]]**:
+  - Was notably absent from common areas during morning activities
+  - No other specific activities recorded for this session
 
 ## Dreams and Visions
 ### The Battlefield Dream ([[2 -  Sessions/Session 010\|Session 010]])

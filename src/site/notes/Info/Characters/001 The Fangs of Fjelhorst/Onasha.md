@@ -55,6 +55,16 @@
   - Attempted bear hunting unsuccessfully but gathered alchemy ingredients
   - Finally succeeded in training Mossback to stand still after five days
   - Witnessed spectacular blue-green aurora that awed the entire party
+- **[[2 -  Sessions/Session 014\|Session 014]]**:
+  - Morning routine included getting food and tending to horse [[Mossback\|Mossback]]
+  - Sold antlers for 95 gold, adding to communal funds
+  - Scouted perimeter of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house, found it undisturbed but noted spoiled food through windows
+  - Searched kitchen with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] (found nothing useful)
+  - Successfully trained [[Mossback\|Mossback]] to stand still
+  - Conversed with mysterious crows that had been following the party
+  - Asked crow about the scroll she received, learned she'd understand "in time"
+  - Approached vampire cautiously with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+  - Inquired about vampire's hunting plans during interrogation
 
 ## Items of Interest
 - **Dragon Language Scroll**: A mysterious scroll containing a summoning ritual; turns to tar when burned

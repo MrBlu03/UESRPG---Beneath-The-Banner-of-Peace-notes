@@ -23,6 +23,8 @@
 | [[Info/Locations/Abandoned_Cave_South_of_Riften\|Abandoned_Cave_South_of_Riften]] | 🟡 | Natural        | Riften Hold     | 🟡 | Session 011   |
 | [[Info/Locations/Kahru's Hollow\|Kahru's Hollow]]                                 | 🟢 | Natural        | Riften Hold     | 🟢 | Unknown       |
 | [[Info/Locations/Arkayfell\|Arkayfell]]                                           | ❓  | Other          | Unknown         | ❓  | Unknown       |
+| [[Info/Locations/Nilan's_House\|Nilan's_House]]                                   | 🟡 | Residence      | Falderstad      | 🟡 | Session 014   |
+| [[Info/Locations/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]]                     | 🟡 | Ruin           | Northern_Forest | 🟡 | Session 014   |
 | [[Info/Locations/Greenwall\|Greenwall]]                                           | 🔴 | Settlement     | Northern Skyrim | 🔴 | Session 006   |
 | [[Info/Locations/Mistwatch\|Mistwatch]]                                           | 🟢 | Settlement     | Unknown         | 🟢 | Unknown       |
 | [[Info/Locations/Northpoint\|Northpoint]]                                         | ❓  | Settlement     | Unknown         | ❓  | Unknown       |
@@ -38,6 +40,7 @@
 | [[Info/Locations/The_Wounded_Boar\|The_Wounded_Boar]]                             | 🟢 | Shop           | Falderstad      | 🟢 | Session 013   |
 | [[Info/Locations/Wanderers_Rest\|Wanderers_Rest]]                                 | 🟢 | Shop           | Riften Hold     | 🟢 | Unknown       |
 | [[Info/Locations/Whispwood_Remedies\|Whispwood_Remedies]]                         | 🟢 | Shop           | Riften Hold     | 🟢 | Unknown       |
+| [[Info/Locations/Northern_Forest\|Northern_Forest]]                               | 🟢 | Wilderness     | Eastern Skyrim  | 🟢 | Session 014   |
 
 { .block-language-dataview}
 

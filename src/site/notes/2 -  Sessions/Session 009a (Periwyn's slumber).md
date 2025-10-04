@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-sessions/session-009a-periwyn-s-slumber/"}
 ---
 
-# Session 009a - Periwyn's Slumber - 2025-07-26
+3# Session 009a - Periwyn's Slumber - 2025-07-26
 
 ## Summary
 [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] experiences a vivid dream/vision while in her comatose state following the Dragon Cult ritual. She finds herself on a road leading to an old contract location - Darnow Hollow manor - where she encounters a mysterious elderly woman and explores the abandoned estate. The dream leads her to a chapel where she faces a manifestation of [[Info/Characters/999 NPC's/Gareth\|Gareth]] (her former mentor) in a philosophical battle about mercy versus vengeance, followed by a confrontation with a figure called "Lady Elaris" who attempts to seduce her into darkness. The sequence culminates with the appearance of a mysterious cloaked figure who offers her a black feather and cryptic advice about writing her own story rather than following fate or prophecy.

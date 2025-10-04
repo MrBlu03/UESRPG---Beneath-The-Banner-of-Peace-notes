@@ -76,6 +76,16 @@
   - Sketched party members in her journal during the journey
   - Witnessed spectacular blue-green aurora that awed the entire party
   - Arrived safely in Falderstad after six-day journey from Riften
+- **[[2 -  Sessions/Session 014\|Session 014]]**:
+  - Morning routine included checking weapons and bonding with [[Ashen\|Ashen]]
+  - Used necromantic abilities to detect death magic at [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house (back of house and bedroom)
+  - Sensed no destruction magic in the area during initial investigation
+  - Investigated bedroom and found death magic beneath rug, leading to basement discovery
+  - Sensed necromantic presence at ruined hunting lodge before entry
+  - Approached vampire cautiously with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]], demonstrating tactical awareness
+  - Finally shared details of her vision from [[2 -  Sessions/Session 009\|Session 009]] and her hesitation about killing vampires
+  - Conducted second necromancy lesson in [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s basement (Exercise 3)
+  - Letter filled with regret about vengeance consuming her soul and memories of good in her life
 
 ## Current Concerns
 - Being targeted by Malacath, who appears to be encouraging her vengeful tendencies
