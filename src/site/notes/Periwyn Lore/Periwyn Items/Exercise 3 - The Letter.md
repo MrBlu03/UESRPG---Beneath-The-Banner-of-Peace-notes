@@ -29,6 +29,8 @@ What would they think of me now? The merchant's daughter who uses her father's l
 
 I've pushed away everyone who tried to help. Phaelan. Liselle. Toren. Marielle. Elric. Darna. Even now—Kirya, Onasha, Durov. I keep them at arm's length. Catalog their tactical value. Never let them in. Because if I let them in, I might have to feel. And if I feel, the walls might come down. And if the walls come down, I'll have to face what I've done. Who I've become.
 
+I'm terrified I'm just empty. That I burned everything good away and there's nothing left but ash and screaming and a nine-year-old girl who died in those ruins. Twenty-seven years old. No home. No family. No purpose beyond destruction. Three companions I barely let myself call friends.
+
 They wouldn't recognize me. And that's the worst betrayal of all.
 
 The book says to record what I felt, not what I wished.
