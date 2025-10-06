@@ -27,6 +27,8 @@ Seventeen years wasted. Seventeen years of tarnishing their memories by making t
 
 What would they think of me now? The merchant's daughter who uses her father's lessons to catalog death? The little flower who became a blade? The girl who loved her brother so much she forgot how to love anything but vengeance?
 
+I've pushed away everyone who tried to help. Phaelan. Liselle. Toren. Marielle. Elric. Darna. Even now—Kirya, Onasha, Durov. I keep them at arm's length. Catalog their tactical value. Never let them in. Because if I let them in, I might have to feel. And if I feel, the walls might come down. And if the walls come down, I'll have to face what I've done. Who I've become.
+
 They wouldn't recognize me. And that's the worst betrayal of all.
 
 The book says to record what I felt, not what I wished.
