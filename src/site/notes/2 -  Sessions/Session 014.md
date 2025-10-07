@@ -93,7 +93,7 @@ Inside the lodge, the party found a [[Info/Characters/999 NPC's/Vampire_Survivor
 Around 4 PM, the party returned to report their findings to **[[Info/Characters/999 NPC's/Helga\|Helga]]** the huscarl.
 
 ### Evening Activities
-[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] conducted her second necromancy lesson in [[Info/Locations/Nilan's_House\|Nilan's_House]] basement, completing Exercise 3. Her letter was filled with regret about how vengeance had consumed her soul and memories of the good in her life.
+[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] conducted her second necromancy lesson in [[Info/Locations/Nilan's_House\|Nilan's]] basement, completing Exercise 3. Her letter was filled with regret about how vengeance had consumed her soul and memories of the good in her life.
 
 ## NPCs Met
 - **[[Info/Characters/999 NPC's/Helga\|Helga]]**: Huscarl serving in place of the ailing Jarl, provided information about the frozen hunter incident
