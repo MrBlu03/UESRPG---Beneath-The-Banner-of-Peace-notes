@@ -67,4 +67,4 @@ The guards questioned them bluntly at the gate, but admitted them once Durov sho
 
 They spent the day bonding with their mounts. Onasha demonstrated proper care, and by evening they retired to their rooms—Kirya and Onasha sharing one to spare the coffer. Their next step: to investigate the strange hunters who had frozen stiff on a clear day.
 
-[[Chapter 014\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 014\|Next Chapter →]]

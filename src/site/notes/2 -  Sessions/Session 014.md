@@ -69,7 +69,7 @@ Following necromantic emanations deeper into the woods, the party discovered the
 Inside the lodge, the party found a [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]] who, surprisingly, did not attack. Through conversation, they learned:
 - The vampire was involved in the [[Info/Locations/Greenwall\|Greenwall]] incident to sow chaos and terror
 - Works for [[Majorn\|Majorn]]'s cohort as part of larger conspiracy
-- The frozen hunters were a "field test" for blocking out the sun
+- Greenwall was a "field test" for blocking out the sun
 - Claims their magic comes from [[Molag_Bal\|Molag_Bal]], though they don't serve him directly
 - Is the only survivor from [[Info/Locations/Greenwall\|Greenwall]]
 - Has been injured by a territorial creature in the woods
