@@ -86,6 +86,17 @@
   - Finally shared details of her vision from [[2 -  Sessions/Session 009\|Session 009]] and her hesitation about killing vampires
   - Conducted second necromancy lesson in [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s basement (Exercise 3)
   - Letter filled with regret about vengeance consuming her soul and memories of good in her life
+- **[[2 -  Sessions/Session 015\|Session 015]]**:
+  - Couldn't decipher [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s creature sketch despite her skills
+  - Left emotional letter in [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s basement (previous session)
+  - Had confrontation with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] about guilt and performance concerns
+  - Stated her issues were not their concern and ran off for several hours
+  - Participated in [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s Favor with [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
+  - Conducted physical search of caravan wagons
+  - Tackled and killed attacking [[Dunmer\|Dunmer]] guard, broke his neck
+  - Encountered Hooded Figure who claimed to be "no one of consequence"
+  - Voice similar to figure from her dreams
+  - Met at [[Soggy Beaver\|Soggy Beaver]] tavern for party reunion
 
 ## Current Concerns
 - Being targeted by Malacath, who appears to be encouraging her vengeful tendencies

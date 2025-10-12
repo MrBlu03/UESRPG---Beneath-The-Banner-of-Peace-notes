@@ -41,6 +41,19 @@
 - **[[2 -  Sessions/Session 014\|Session 014]]**:
   - Was notably absent from common areas during morning activities
   - No other specific activities recorded for this session
+- **[[2 -  Sessions/Session 015\|Session 015]]**:
+  - Returned after mysterious absence from [[2 -  Sessions/Session 014\|Session 014]]
+  - Encountered massive creature in woods, drew poor sketch that even [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] couldn't decipher
+  - Learned about [[Dunmer\|Dunmer]] merchant caravan from party
+  - Found Nordic rune near creature site (later examined by [[Info/Characters/999 NPC's/Svala\|Svala]])
+  - Discovered arrow with note from [[Info/Characters/999 NPC's/Stryder\|Stryder]] calling in favor
+  - Showed letter to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and prepared for mission
+  - Participated in [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s Favor: intercepted [[Dunmer\|Dunmer]] caravan
+  - Claimed authority from [[Queen Freidr\|Queen Freidr]] to inspect caravan
+  - Separated guard for interrogation, discovered moonsugar and forged documents
+  - Planted additional evidence to justify executing merchants
+  - Worked with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to capture caravan and evidence
+  - Met with [[Info/Characters/999 NPC's/Stryder\|Stryder]] and Hooded Figure for final coordination
 
 ## Dreams and Visions
 ### The Battlefield Dream ([[2 -  Sessions/Session 010\|Session 010]])

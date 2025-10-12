@@ -31,6 +31,7 @@
 | [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | 🟢 | [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | Supernatural        | 🟢 |
 | [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]   | 🔴 | [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]   | Supernatural        | 🔴 |
 | [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]]                     | 🔴 | [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]]                     | Criminal            | 🔴 |
+| [[Info/Characters/999 NPC's/Dunmer_Merchants\|Dunmer_Merchants]]             | ❓  | [[Info/Characters/999 NPC's/Dunmer_Merchants\|Dunmer_Merchants]]             | Criminal            | ❓  |
 | [[Info/Characters/999 NPC's/Beitild\|Beitild]]                               | 🔴 | [[Info/Characters/999 NPC's/Beitild\|Beitild]]                               | Military            | 🔴 |
 | [[Info/Characters/999 NPC's/Hillevi\|Hillevi]]                               | 🟢 | [[Info/Characters/999 NPC's/Hillevi\|Hillevi]]                               | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Olen\|Olen]]                                     | 🔴 | [[Info/Characters/999 NPC's/Olen\|Olen]]                                     | Military            | 🔴 |
@@ -39,6 +40,7 @@
 | [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir_Stormcrown]]         | 🟢 | [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir_Stormcrown]]         | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | 🟢 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | 🟢 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | Political Figure    | 🟢 |
+| [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | 🟢 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | Underworld Contact  | 🟢 |
 | [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]         | 🟢 | [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]         | Magical Figure      | 🟢 |
 | [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]             | 🟢 | [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]             | Magical Figure      | 🟢 |
 | [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]]             | 🟢 | [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]]             | Antagonist          | 🟢 |
@@ -53,5 +55,6 @@
 | [[Info/Characters/999 NPC's/Brann\|Brann]]                                   | 🟢 | [[Info/Characters/999 NPC's/Brann\|Brann]]                                   | Other               | 🟢 |
 | [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Ingvar_Snow-shod]]             | 🟢 | [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Ingvar_Snow-shod]]             | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Mysterious_Crow\|Mysterious_Crow]]               | 🟢 | [[Info/Characters/999 NPC's/Mysterious_Crow\|Mysterious_Crow]]               | Supernatural Entity | 🟢 |
+| [[Info/Characters/999 NPC's/Hooded_Figure\|Hooded_Figure]]                   | 🟢 | [[Info/Characters/999 NPC's/Hooded_Figure\|Hooded_Figure]]                   | Mysterious Contact  | 🟢 |
 
 { .block-language-dataview}

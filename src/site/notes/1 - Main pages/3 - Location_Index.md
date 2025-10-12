@@ -15,6 +15,7 @@
 | [[Info/Locations/Falderstad\|Falderstad]]                                         | 🟢 | City           | Eastern Skyrim  | 🟢 | Session 013   |
 | [[Info/Locations/Riften\|Riften]]                                                 | 🟢 | City           | Riften Hold     | 🟢 | Session 001   |
 | [[Info/Locations/Winterhold\|Winterhold]]                                         | 🟢 | City           | Northern Skyrim | 🟢 | Unknown       |
+| [[Info/Locations/Cursed_Grove\|Cursed_Grove]]                                     | ❓  | Cursed Area    | Northern_Forest | ❓  | Session 015   |
 | [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]]                             | 🟢 | Infrastructure | Riften Hold     | 🟢 | Session 003   |
 | [[Info/Locations/Ratway\|Ratway]]                                                 | 🟢 | Infrastructure | Riften Hold     | 🟢 | Session 012   |
 | [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]                                   | 🟢 | Infrastructure | Riften Hold     | 🟢 | Session 002   |
@@ -24,6 +25,7 @@
 | [[Info/Locations/Kahru's Hollow\|Kahru's Hollow]]                                 | 🟢 | Natural        | Riften Hold     | 🟢 | Unknown       |
 | [[Info/Locations/Arkayfell\|Arkayfell]]                                           | ❓  | Other          | Unknown         | ❓  | Unknown       |
 | [[Info/Locations/Nilan's_House\|Nilan's_House]]                                   | 🟡 | Residence      | Falderstad      | 🟡 | Session 014   |
+| [[Info/Locations/Abandoned_Guild_House\|Abandoned_Guild_House]]                   | 🟡 | Ruin           | Falderstad      | 🟡 | Session 015   |
 | [[Info/Locations/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]]                     | 🟡 | Ruin           | Northern_Forest | 🟡 | Session 014   |
 | [[Info/Locations/Greenwall\|Greenwall]]                                           | 🔴 | Settlement     | Northern Skyrim | 🔴 | Session 006   |
 | [[Info/Locations/Mistwatch\|Mistwatch]]                                           | 🟢 | Settlement     | Unknown         | 🟢 | Unknown       |
@@ -40,6 +42,7 @@
 | [[Info/Locations/The_Wounded_Boar\|The_Wounded_Boar]]                             | 🟢 | Shop           | Falderstad      | 🟢 | Session 013   |
 | [[Info/Locations/Wanderers_Rest\|Wanderers_Rest]]                                 | 🟢 | Shop           | Riften Hold     | 🟢 | Unknown       |
 | [[Info/Locations/Whispwood_Remedies\|Whispwood_Remedies]]                         | 🟢 | Shop           | Riften Hold     | 🟢 | Unknown       |
+| [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]]                             | 🟢 | Tavern         | Falderstad      | 🟢 | Session 015   |
 | [[Info/Locations/Northern_Forest\|Northern_Forest]]                               | 🟢 | Wilderness     | Eastern Skyrim  | 🟢 | Session 014   |
 
 { .block-language-dataview}

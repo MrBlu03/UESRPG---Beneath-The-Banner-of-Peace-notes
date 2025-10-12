@@ -65,6 +65,20 @@
   - Asked crow about the scroll she received, learned she'd understand "in time"
   - Approached vampire cautiously with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
   - Inquired about vampire's hunting plans during interrogation
+- **[[2 -  Sessions/Session 015\|Session 015]]**:
+  - Questioned [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] about his absence, didn't buy his evasive answers
+  - Pointed out [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] left letter in basement, expressed concern about performance
+  - Had confrontation with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] about guilt affecting her abilities
+  - Prepared for White Stag Hunt with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]
+  - Met hunting party: [[Info/Characters/999 NPC's/Svala\|Svala]], [[Info/Characters/999 NPC's/Hoki\|Hoki]], and Brovin the dog
+  - Participated in tracking white stag through Northern Forest
+  - Threw snowball at [[Info/Characters/999 NPC's/Hoki\|Hoki]] to get his attention when he pressed into danger
+  - Tried to physically trip [[Info/Characters/999 NPC's/Hoki\|Hoki]] to stop his dangerous pursuit
+  - Witnessed dying white stag with five claw marks
+  - Fled when chased by territorial creature
+  - Slapped traumatized [[Info/Characters/999 NPC's/Hoki\|Hoki]]
+  - Went to [[Soggy Beaver\|Soggy Beaver]] tavern for information and food
+  - Met at tavern for party reunion
 
 ## Items of Interest
 - **Dragon Language Scroll**: A mysterious scroll containing a summoning ritual; turns to tar when burned

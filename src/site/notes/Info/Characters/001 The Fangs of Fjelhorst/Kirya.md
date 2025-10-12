@@ -61,6 +61,18 @@
   - Noticed bow hanging incorrectly by door at [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house (unusual for seasoned hunter)
   - Searched kitchen with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] (found nothing useful)
   - Participated in northern forest investigation
+- **[[2 -  Sessions/Session 015\|Session 015]]**:
+  - Prepared for White Stag Hunt with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
+  - Asked [[Info/Characters/999 NPC's/Svala\|Svala]] about the rune [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] found (identified as Nordic but unreadable)
+  - Participated in tracking white stag through Northern Forest
+  - Attempted paralysis dart on [[Info/Characters/999 NPC's/Hoki\|Hoki]] but missed
+  - Tried to physically stop [[Info/Characters/999 NPC's/Hoki\|Hoki]]'s dangerous pursuit
+  - Second paralysis dart was dodged by [[Info/Characters/999 NPC's/Hoki\|Hoki]]
+  - Spotted patterns in bloodstains around dying white stag
+  - Stag turned head toward her and sighed before dying
+  - Fled when chased by territorial creature
+  - Went to [[Soggy Beaver\|Soggy Beaver]] tavern with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
+  - Met at tavern for party reunion
 
 ## Skills & Interests
 - Lock picking (including attempts on mysterious lockboxes)
