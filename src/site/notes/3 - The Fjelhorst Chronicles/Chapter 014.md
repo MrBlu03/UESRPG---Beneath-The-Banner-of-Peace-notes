@@ -64,4 +64,4 @@ She whispered the names of the dead — her mother, her father, her brother, her
 
 Upstairs, the others settled near the fire, their bedrolls laid in a rough circle. Outside, the wind rose, carrying faint echoes of the howl they had heard before.
 
-[[Chapter 015\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 014a - The Legionnaire\|Next Chapter →]]
