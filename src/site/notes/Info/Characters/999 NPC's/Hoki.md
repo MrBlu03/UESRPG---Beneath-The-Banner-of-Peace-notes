@@ -49,6 +49,21 @@ Hoki is a young, impulsive hunter from [[Info/Locations/Falderstad\|Falderstad]]
 - Received a slap from [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] while in traumatic state
 - Displayed signs of severe psychological trauma
 
+### [[2 -  Sessions/Session 016\|Session 016]] - Protected from the Hunt
+- Initially gathered at market when [[Info/Characters/999 NPC's/Svala\|Svala]] tolled the hunting bell
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] worked together to dissuade him from joining the Skinstealer hunt
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] gave him a stern talking to, but her demeanor was completely different
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s approach was warm and soft, contrasting her usual cold sternness
+- Successfully convinced to stay behind for his own safety
+- Showed he can be reasoned with when approached with care
+
+#### After the Hunt
+- Approached the party when they returned from the hunt
+- Informed that [[Info/Characters/999 NPC's/Bjorr\|Bjorr]] had been killed by the Skinstealer
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] looked very sad and regretful when speaking to him
+- She told him, "There's nothing you could have done"
+- This acknowledgment showed respect for his desire to help while protecting him from danger
+
 ## Character Traits
 - **Impulsive**: Acts without considering consequences or heeding warnings
 - **Obsessive**: Becomes fixated on objectives regardless of danger

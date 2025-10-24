@@ -46,25 +46,54 @@ A forested wilderness area north of [[Info/Locations/Falderstad\|Falderstad]] th
 - Followed trail of footprints and claw marks deeper into forest
 - Discovered [[Info/Locations/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]] following necromantic emanations
 
+### [[2 -  Sessions/Session 015\|Session 015]] - The White Stag Hunt
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] joined local hunters [[Info/Characters/999 NPC's/Svala\|Svala]], [[Info/Characters/999 NPC's/Hoki\|Hoki]], and [[Info/Characters/999 NPC's/Brovin\|Brovin]]
+- Tracked the white stag into the [[Info/Locations/Cursed_Grove\|Cursed_Grove]]
+- Found the white stag dying with five deep claw marks
+- Chased by unseen Skinstealer when retreating
+- Creature slowly faded as they reached city safety
+
+### [[2 -  Sessions/Session 016\|Session 016]] - The Organized Hunt
+- [[Info/Characters/999 NPC's/Svala\|Svala]] organized hunting party at dawn with hunting bell
+- Party of six hunters plus adventurers ventured deep into forest
+- **Environmental Changes**: Air felt wrong, too empty, footsteps unnaturally loud
+- **Half-Frozen Stream**: Found hundreds of iron nails in trees, burned totem, blood-stained snow
+- **Skinstealer's Blood**: Warm blood leaking from totems confirmed creature's recent presence
+- **Grotesque Clearing**: Discovered bone monolith shrine to the Ragged Lord
+- **Bjorr's Death**: Woodsman killed when Skinstealer created supernatural maze
+- **Voice Mimicry**: Creature copied [[Info/Characters/999 NPC's/Ingrin\|Ingrin]]'s voice to separate prey
+- **Torik's Ritual**: Fire salt ceremony broke the spatial enchantment
+- **Final Attack**: Skinstealer struck at [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]], blocked by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s shield
+- **Return**: Party escaped with knowledge of fire weakness
+
 ### Evidence of Supernatural Activity
-- **Frozen Hunters:** Two men killed by supernatural freezing effect
-- **Claw Marks:** Deep gouges in tree trunks from creature with massive claws
-- **Footprint Trails:** Paths leading through forest marked by supernatural signs
-- **Wildlife Absence:** Complete lack of normal forest animals
-- **Battlefield Signs:** Broken branches and evidence of supernatural combat
+- **Frozen Hunters**: Two men killed by supernatural freezing effect
+- **Claw Marks**: Deep gouges in tree trunks from creature with massive claws (45 cm ebony-sharp)
+- **Footprint Trails**: Paths leading through forest marked by supernatural signs
+- **Wildlife Absence**: Complete lack of normal forest animals
+- **Battlefield Signs**: Broken branches and evidence of supernatural combat
+- **Othala Runes**: Nordic runes carved on back of trees meaning "heritage/inheritance"
+- **Totems**: Freshly added carved totems throughout the forest
+- **Iron Nails**: Hundreds driven into trees around half-frozen streams
+- **Blood Stains**: Warm supernatural blood leaking from burned totems
 
 ## Supernatural Entities
 
-### Territorial Creature
-- **Status:** Unknown supernatural entity
-- **Evidence:** Massive claw marks, drives away wildlife
-- **Behavior:** Attacks other supernatural creatures (injured vampire)
-- **Territory:** Controls significant portion of northern forest
+### The Skinstealer (Ragged Lord)
+- **Status**: Active supernatural threat - aspect of Hircine
+- **Evidence**: Massive claw marks, drives away wildlife
+- **Behavior**: Attacks other supernatural creatures (injured vampire)
+- **Territory**: Controls significant portion of northern forest
+- **Timeline**: Active for 3-4 weeks as of Session 016
+- **Nature**: Ragged Lord aspect associated with mockery and hunter's madness
+- **Weakness**: Vulnerable to fire, specifically Kyne's flame
+- **Markings**: Carved Othala runes throughout territory
+- **Shrine**: Grotesque clearing with bone monolith and human skins
 
 ### [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]]
-- **Location:** [[Info/Locations/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]]
-- **Status:** Injured by territorial creature
-- **Activities:** Necromantic experimentation, thrall control
+- **Location**: [[Info/Locations/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]]
+- **Status**: Injured by territorial creature
+- **Activities**: Necromantic experimentation, thrall control
 
 ## Return Journey Events
 - **Wolf Howl:** Strange, sorrowful sound during party's return

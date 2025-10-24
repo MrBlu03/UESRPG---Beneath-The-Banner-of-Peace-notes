@@ -40,6 +40,48 @@ Svala is an experienced older hunter from [[Info/Locations/Falderstad\|Faldersta
 - Planned to gather people to hunt the territorial creature in the woods
 - Takes responsibility for organizing community response to supernatural threat
 
+### [[2 -  Sessions/Session 016\|Session 016]] - Leading the Skinstealer Hunt
+
+#### Dawn Rally - The Hunting Bell
+- Stood on a small podium in the market at 5:00 AM
+- Tolled the hunting bell to gather hunters
+- Market streets were nearly empty in the early hours
+- Torn animal hides left to dry hung around her as evidence of the creature's presence
+
+#### Organizing the Expedition
+Assembled a party of six experienced hunters:
+- **[[Info/Characters/999 NPC's/Torik\|Torik]]**: Clever mage who studied at Winterhold
+- **[[Info/Characters/999 NPC's/Bjorr\|Bjorr]]**: Woodsman
+- **[[Info/Characters/999 NPC's/Ingrin\|Ingrin]]**: Huntress who had found the bone clearing
+- **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Huntress
+- **[[Info/Characters/999 NPC's/Runa\|Runa]]**: Hunter and respected meat seller
+- **[[Info/Characters/999 NPC's/Hoki\|Hoki]]**: Initially present but convinced to stay behind
+
+#### Strategic Planning
+- **Primary Strategy**: Gather all known information and exploit the creature's weaknesses
+- Facilitated [[Info/Characters/999 NPC's/Torik\|Torik]]'s analysis of the Othala rune
+- Helped compile intelligence about the Skinstealer's behavior and territory
+- Led the party deep into the [[Info/Locations/Northern_Forest\|Northern_Forest]] to the grotesque clearing
+
+#### The Hunt Results
+- Successfully located the Ragged Lord's shrine
+- Lost [[Info/Characters/999 NPC's/Bjorr\|Bjorr]] to the Skinstealer during the retreat
+- Witnessed [[Info/Characters/999 NPC's/Torik\|Torik]]'s ritual that broke the supernatural maze
+- Discovered the creature fears Kyne's flame
+- Returned safely with critical intelligence
+
+#### Post-Hunt Leadership
+After returning to [[Info/Locations/Falderstad\|Falderstad]]:
+- Tolled the hunting bell again to signal the hunt's end
+- Announced plans to regroup the next day for final confrontation
+- **Coordinated with her sister** to muster guards at the eastern gate
+- Instructed [[Info/Characters/999 NPC's/Helga\|Helga]] (through her sister) to:
+  - Order guards to shoot at anything coming from the forest
+  - Keep extra grease for fire arrows
+  - Set up extra bonfires
+  - Prepare fire-based defenses
+- Demonstrated ability to mobilize both civilian hunters and military forces
+
 ## Expertise and Knowledge
 - **Rune Identification**: Can recognize Nordic script but needs specialists for translation
 - **Forest Lore**: Understands boundaries between natural and supernatural areas
@@ -55,11 +97,15 @@ Svala is an experienced older hunter from [[Info/Locations/Falderstad\|Faldersta
 - Balances hunt objectives with safety concerns
 
 ## Relationships
-- **[[Info/Characters/999 NPC's/Hoki\|Hoki]]**: Works with but tries to restrain impulsive young hunter
+- **[[Info/Characters/999 NPC's/Hoki\|Hoki]]**: Works with but tries to restrain impulsive young hunter, successfully convinced him to stay safe in Session 016
 - **[[Info/Characters/999 NPC's/Brovin\|Brovin]]**: Partners with hunting dog who shares her instincts about danger
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]**: Collaborated with party members on hunt
 - **Community Hunters**: Organizes and leads other hunters in [[Info/Locations/Falderstad\|Falderstad]]
 - **Court Officials**: Has connections to Jarl's court wizard and local alchemists
+- **[[Info/Characters/999 NPC's/Torik\|Torik]]**: Works with educated mage on supernatural threats
+- **[[Info/Characters/999 NPC's/Bjorr\|Bjorr]]**, **[[Info/Characters/999 NPC's/Ingrin\|Ingrin]]**, **[[Info/Characters/999 NPC's/Alma\|Alma]]**, **[[Info/Characters/999 NPC's/Runa\|Runa]]**: Led these hunters on the Skinstealer expedition (lost [[Info/Characters/999 NPC's/Bjorr\|Bjorr]])
+- **Her Sister**: Has family connection who can muster the guards
+- **[[Info/Characters/999 NPC's/Helga\|Helga]]**: Coordinates with huscarl on military preparations
 
 ## Community Role
 - Experienced guide for hunting expeditions
@@ -69,13 +115,15 @@ Svala is an experienced older hunter from [[Info/Locations/Falderstad\|Faldersta
 - Mentor figure for younger hunters
 
 ## Significance
-Svala represents the experienced local knowledge that bridges normal hunting activities with supernatural awareness. Her recognition of dangerous supernatural boundaries and ability to organize community responses makes her a valuable ally in addressing the territorial creature threat affecting the [[Info/Locations/Northern_Forest\|Northern_Forest]].
+Svala represents the experienced local knowledge that bridges normal hunting activities with supernatural awareness. Her recognition of dangerous supernatural boundaries and ability to organize community responses makes her a valuable ally in addressing the territorial creature threat affecting the [[Info/Locations/Northern_Forest\|Northern_Forest]]. She demonstrates exceptional leadership by organizing both civilian hunters and coordinating with military forces, and has family connections that give her influence over guard deployments.
 
 ## Future Involvement
-- Leading organized expedition against forest creature
+- Leading final confrontation against the Skinstealer using fire-based tactics
+- Coordinating between hunters, guards, and adventuring party
 - Potential source of information about local supernatural lore
 - Connection to court officials for rune translation and magical consultation
 - Community organizer for ongoing supernatural threats
+- May have additional family connections that provide resources or influence
 
 ## Notes
 - Demonstrates appropriate caution regarding supernatural dangers

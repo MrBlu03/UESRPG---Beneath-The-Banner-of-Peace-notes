@@ -40,6 +40,7 @@
 | [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir_Stormcrown]]         | 🟢 | [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir_Stormcrown]]         | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | 🟢 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | 🟢 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | Political Figure    | 🟢 |
+| [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | ❓  | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | Supernatural        | ❓  |
 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | 🟢 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | Underworld Contact  | 🟢 |
 | [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]         | 🟢 | [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]         | Magical Figure      | 🟢 |
 | [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]             | 🟢 | [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]             | Magical Figure      | 🟢 |
