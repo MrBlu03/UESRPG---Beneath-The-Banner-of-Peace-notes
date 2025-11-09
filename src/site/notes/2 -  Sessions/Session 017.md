@@ -193,10 +193,10 @@ Before the Ragged Lord manifested, seven wolves with glowing green eyes material
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]**: Missed chain lightning, repositioned defensively
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]**: Obliterated a wolf with fire-varnished sword (14 damage total: 8+2 fire+4 overkill)
 - **[[Info/Characters/999 NPC's/Runa\|Runa]]**: Wounded but fighting
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Frozen first round (failed willpower check), then recovered and killed wolf with arrow through its mouth (16 damage total), provided medical aid to [[Info/Characters/999 NPC's/Alma\|Alma]]
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Frozen first round (failed willpower check), then recovered and killed wolf with arrow through its mouth (16 damage total)
 - **[[Info/Characters/999 NPC's/Ingrin\|Ingrin]]**: Decapitated attacking wolf with longsword, saving [[Info/Characters/999 NPC's/Runa\|Runa]]
 
-All seven wolves fell within minutes. Their corpses dissolved into ash.
+All seven wolves fell within minutes. Their corpses remained for later salvaging.
 
 ### **Phase Two: Anorak, The Ragged Lord Appears**
 
@@ -211,8 +211,9 @@ From the tree line emerged a nightmare: **8-9 meters tall**, constructed of stit
 
 **Party Response:**
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]**: Slow arrow hit (5 damage), reduced his speed significantly
-- **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Drank healing potion, retreated to altar (wounded but stable)
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Stabilized [[Info/Characters/999 NPC's/Alma\|Alma]]'s bleeding with survival check
+- **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Critically wounded, bleeding out
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Stabilized [[Info/Characters/999 NPC's/Alma\|Alma]]'s bleeding with survival check on her turn
+- **[[Info/Characters/999 NPC's/Alma\|Alma]]**: After stabilization, drank healing potion, retreated to altar (wounded but stable)
 - **[[Info/Characters/999 NPC's/Svala\|Svala]]**: Killed additional wolf (Wilfred)
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** & **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]**: Held actions defensively
 
