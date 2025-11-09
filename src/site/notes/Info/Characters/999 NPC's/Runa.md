@@ -88,12 +88,44 @@ Runa represents the experienced hunters who form the backbone of [[Info/Location
 - His business likely suffered from the supernatural threat driving away wildlife
 - Personal stake in eliminating the Skinstealer to restore hunting grounds
 
-## Future Considerations
-- Part of group preparing for final confrontation
-- His hunting expertise valuable for tracking
-- Market presence makes him community information node
-- May provide supplies or resources for battle preparations
-- Knows about Skinstealer's weaknesses and tactics now
+### [[2 -  Sessions/Session 017\|Session 017]] - The Battle of the Ragged Woods
+
+**Phase One - Wolf Attack:**
+- **Wounded by wolf attack**
+- **[[Info/Characters/999 NPC's/Ingrin\|Ingrin]] saved his life** by decapitating the attacking wolf with her longsword
+- Contracted **rock joint** from the wolf bite (same condition as Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]])
+
+**Final Phase Contribution:**
+- Despite injury, participated in final assault on Ragged Lord
+- Fired two shots at creature
+- Narrowly missed both shots (rolled 77, 81 vs 70 target)
+- Showed courage fighting while wounded and diseased
+
+**Post-Battle:**
+- Received medical treatment from healer
+- **Rock joint confirmed but treatable**
+- Recovered with medical care
+- Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]] specifically thanked party for bringing him back alive
+
+**Shared Experience:**
+- Both Runa and Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]] suffered from rock joint
+- May have bonded over shared disease recovery
+- Treatment successful for both
+
+## Health Status
+- **Wounded**: Wolf bite during combat
+- **Disease**: Contracted rock joint (treatable)
+- **Recovered**: Successfully treated post-battle
+- **Resilient**: Fought through injury during final phase
+
+## Combat Performance
+- **Brave**: Continued fighting despite wound and disease
+- **Unlucky**: Two near-misses on critical shots (off by 7 and 11)
+- **Resilient**: Didn't retreat despite injury
+- **Survivor**: Made it back alive despite complications
+
+## Significance
+Runa's near-death, disease contraction, and successful recovery demonstrated both the danger of the hunt and the quality of [[Info/Locations/Falderstad\|Falderstad]]'s medical care. Sharing rock joint with the Jarl created an unexpected bond. His survival became a point of celebration, showing the community's value for its hunters.
 
 ## Notes
 - The enthusiasm ("MY BOYY") suggests he's well-liked
@@ -101,5 +133,7 @@ Runa represents the experienced hunters who form the backbone of [[Info/Location
 - His stream cleansing may indicate traditional Nordic practices
 - Professional hunter willing to risk life for community
 - Successful observe check shows he's not just brave but competent
-- Survival of the expedition adds to his reputation
-- His continued meat selling depends on defeating the Skinstealer
+- Survival despite wound and disease adds to his reputation
+- His market business can now resume with forest restored
+- Jarl's specific mention shows community value for his life
+- Rock joint contraction creates connection with Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]

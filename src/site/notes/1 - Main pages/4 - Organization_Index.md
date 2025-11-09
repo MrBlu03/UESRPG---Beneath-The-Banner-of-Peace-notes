@@ -28,6 +28,7 @@
 | [[Info/Characters/999 NPC's/Hjar\|Hjar]]                                     | 🟢 | [[Info/Characters/999 NPC's/Hjar\|Hjar]]                                     | Merchant            | 🟢 |
 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | 🟢 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | Merchant            | 🟢 |
 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                 | 🟢 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                 | Political Figure    | 🟢 |
+| [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]                                 | 🟢 | [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]                                 | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | 🟢 | [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | Supernatural        | 🟢 |
 | [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]   | 🔴 | [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]   | Supernatural        | 🔴 |
 | [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]]                     | 🔴 | [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith_Velan]]                     | Criminal            | 🔴 |

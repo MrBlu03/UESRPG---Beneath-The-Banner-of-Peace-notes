@@ -22,10 +22,10 @@
 | [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]                                                     | ⭐  | Main          | Session 012  | TBD                                 | Major      |
 | [[Info/Quests/Mages_Guild_Greenwall_Coordination\|Mages_Guild_Greenwall_Coordination]]                                   | ⭐  | Main          | Session 012  | TBD                                 | Major      |
 | [[Info/Quests/Majorn_the_Ancient_Investigation\|Majorn_the_Ancient_Investigation]]                                       | ⭐  | Main          | Session 012  | TBD                                 | Major      |
-| [[Info/Quests/Hunt_Forest_Creature\|Hunt_Forest_Creature]]                                                               | 📋 | Monster Hunt  | Session 015  | Unknown                             | Major      |
+| [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]                                                                         | 📋 | Optional      | Session 013  | Unknown                             | Minor      |
 | [[Info/Quests/Consult_Archmagus_Mortgren_about_Blackfeather_Court\|Consult_Archmagus_Mortgren_about_Blackfeather_Court]] | 📋 | Optional      | TBD          | TBD                                 | Background |
-| [[Info/Quests/Look_for_the_Talking_Fox\|Look_for_the_Talking_Fox]]                                                       | 📋 | Optional      | TBD          | TBD                                 | Background |
 | [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Investigate_Cult_of_Clavicus_Vile_Cave]]                           | 📋 | Optional      | TBD          | TBD                                 | Background |
+| [[Info/Quests/Look_for_the_Talking_Fox\|Look_for_the_Talking_Fox]]                                                       | 📋 | Optional      | TBD          | TBD                                 | Background |
 | [[Info/Quests/Study_Shadow_Stone_Powers\|Study_Shadow_Stone_Powers]]                                                     | 📋 | Optional      | TBD          | TBD                                 | Background |
 | [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                                             | 👤 | Personal      | Session 007  | TBD                                 | Major      |
 | [[Info/Quests/Periwyns_Vampire_Hunter_Search\|Periwyns_Vampire_Hunter_Search]]                                           | 👤 | Personal      | Session 007  | TBD                                 | Minor      |
@@ -41,8 +41,8 @@
 ## Completed Quests
 | File                                                                                |    | Type               | Completed   | Reward                                           |
 | ----------------------------------------------------------------------------------- | -- | ------------------ | ----------- | ------------------------------------------------ |
+| [[Info/Quests/Hunt_Forest_Creature\|Hunt_Forest_Creature]]                       | 📋 | Monster Hunt       | Session 017 | 500 gold each + Free house in Falderstad         |
 | [[Info/Quests/Stryder's_Favor\|Stryder's_Favor]]                                 | 📋 | Criminal Operation | Session 015 | Contraband Goods, Intelligence on Coiled Serpent |
-| [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]                                 | 📋 | Optional           | Session 015 | Intelligence on Territorial Creature             |
 | [[Info/Quests/Investigate_Frozen_Hunters\|Investigate_Frozen_Hunters]]           | 🔍 | Investigation      | Session 014 | 95 Gold, Intelligence on Vampire Conspiracy      |
 | [[Info/Quests/Ratway_Fire_Investigation\|Ratway_Fire_Investigation]]             | 🔍 | Investigation      | Session 012 | 200 gold each (400 more promised)                |
 | [[Info/Quests/Camonna_Tong_Dock_Investigation\|Camonna_Tong_Dock_Investigation]] | ⭐  | Main               | Session 011 | 280 gold each                                    |

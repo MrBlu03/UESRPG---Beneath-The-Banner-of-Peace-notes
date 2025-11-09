@@ -117,13 +117,50 @@ After returning to [[Info/Locations/Falderstad\|Falderstad]]:
 ## Significance
 Svala represents the experienced local knowledge that bridges normal hunting activities with supernatural awareness. Her recognition of dangerous supernatural boundaries and ability to organize community responses makes her a valuable ally in addressing the territorial creature threat affecting the [[Info/Locations/Northern_Forest\|Northern_Forest]]. She demonstrates exceptional leadership by organizing both civilian hunters and coordinating with military forces, and has family connections that give her influence over guard deployments.
 
-## Future Involvement
-- Leading final confrontation against the Skinstealer using fire-based tactics
-- Coordinating between hunters, guards, and adventuring party
-- Potential source of information about local supernatural lore
-- Connection to court officials for rune translation and magical consultation
-- Community organizer for ongoing supernatural threats
-- May have additional family connections that provide resources or influence
+### [[2 -  Sessions/Session 017\|Session 017]] - The Final Confrontation
+
+**The Battle:**
+- Participated in final hunt against the Ragged Lord
+- **Killed multiple wolves** during Phase One combat
+- Killed additional wolf (Wilfred) during Phase Two
+- **Survived unharmed** through entire encounter
+- Demonstrated exceptional combat skills
+
+**Post-Battle:**
+- Returned safely to [[Info/Locations/Falderstad\|Falderstad]]
+- Sister [[Info/Characters/999 NPC's/Helga\|Helga]] personally thanked the party for bringing her back alive
+- [[Info/Characters/999 NPC's/Helga\|Helga]]'s gratitude showed deep family bond and relief
+
+**Leadership Success:**
+- Successfully led community response to supernatural threat
+- Coordination with guards and fire-based defenses proved effective
+- Lost only one hunter ([[Info/Characters/999 NPC's/Bjorr\|Bjorr]]) despite facing Daedric aspect
+- Demonstrated competent crisis management and tactical planning
+
+## Leadership Qualities
+- Takes charge during hunting expeditions
+- Demonstrates protective instincts toward younger hunters
+- Shows wisdom in recognizing when to retreat from danger
+- Organizes community responses to threats
+- Balances hunt objectives with safety concerns
+- **Successful Crisis Resolution**: Led hunt that eliminated major threat
+
+## Relationships
+- **[[Info/Characters/999 NPC's/Hoki\|Hoki]]**: Works with but tries to restrain impulsive young hunter, successfully convinced him to stay safe in Session 016
+- **[[Info/Characters/999 NPC's/Brovin\|Brovin]]**: Partners with hunting dog who shares her instincts about danger
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]**: Collaborated with party members on hunt
+- **Community Hunters**: Organizes and leads other hunters in [[Info/Locations/Falderstad\|Falderstad]]
+- **Court Officials**: Has connections to Jarl's court wizard and local alchemists
+- **[[Info/Characters/999 NPC's/Torik\|Torik]]**: Works with educated mage on supernatural threats
+- **[[Info/Characters/999 NPC's/Alma\|Alma]]**, **[[Info/Characters/999 NPC's/Runa\|Runa]]**: Led these hunters successfully through dangerous hunt
+- **Her Sister [[Info/Characters/999 NPC's/Helga\|Helga]]**: Has family connection who can muster the guards, deep bond
+- **[[Info/Characters/999 NPC's/Helga\|Helga]]**: Coordinates with huscarl on military preparations
+- **[[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]]**: Collaborated successfully on Ragged Lord hunt
+
+## Combat Skills
+- **Wolf Killer**: Eliminated multiple wolves efficiently
+- **Experienced Fighter**: Survived Daedric aspect encounter unharmed
+- **Quick Reactions**: Killed threats before they reached vulnerable targets
 
 ## Notes
 - Demonstrates appropriate caution regarding supernatural dangers
@@ -131,3 +168,5 @@ Svala represents the experienced local knowledge that bridges normal hunting act
 - Shows leadership qualities in crisis situations
 - May have additional knowledge about local supernatural history
 - Represents bridge between common folk and learned officials
+- Successful leadership under extreme supernatural threat
+- Sister's position as huscarl gives her additional influence and resources

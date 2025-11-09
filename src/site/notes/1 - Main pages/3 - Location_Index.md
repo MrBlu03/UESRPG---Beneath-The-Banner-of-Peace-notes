@@ -21,6 +21,7 @@
 | [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]                                   | 🟢 | Infrastructure | Riften Hold     | 🟢 | Session 002   |
 | [[Info/Locations/Shadow Stone\|Shadow Stone]]                                     | 🟢 | Magical        | Riften Hold     | 🟢 | Unknown       |
 | [[Info/Locations/Shors_Bastion\|Shors_Bastion]]                                   | ❓  | Military       | Northern Skyrim | ❓  | Unknown       |
+| [[Info/Locations/Harmugstahl\|Harmugstahl]]                                       | 🟡 | Military Keep  | Riften Hold     | 🟡 | Session 004   |
 | [[Info/Locations/Abandoned_Cave_South_of_Riften\|Abandoned_Cave_South_of_Riften]] | 🟡 | Natural        | Riften Hold     | 🟡 | Session 011   |
 | [[Info/Locations/Kahru's Hollow\|Kahru's Hollow]]                                 | 🟢 | Natural        | Riften Hold     | 🟢 | Unknown       |
 | [[Info/Locations/Arkayfell\|Arkayfell]]                                           | ❓  | Other          | Unknown         | ❓  | Unknown       |

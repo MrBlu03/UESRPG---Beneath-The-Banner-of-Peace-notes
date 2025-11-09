@@ -24,9 +24,16 @@ Helga serves as the huscarl to the Jarl of [[Info/Locations/Falderstad\|Falderst
 - Described [[Info/Characters/999 NPC's/Nilan\|Nilan]] as a scruffy man with short hair and a two-braided brown beard
 - Received the party's final report on their investigation findings
 
+### [[2 -  Sessions/Session 017\|Session 017]] - Post-Hunt Gratitude
+- Accompanied Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]] when he met the party after the Ragged Lord's defeat
+- **Personally thanked** [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]], [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]], [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]], and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] for bringing her sister [[Info/Characters/999 NPC's/Svala\|Svala]] back alive
+- Witnessed the Jarl's exceptional generosity (500 gold each, free house)
+- Sister's safe return was clearly of deep personal importance
+
 ## Relationships
-- **The Jarl**: Serves as huscarl and deputy when he is incapacitated
-- **[[The_Party\|The_Party]]**: Provided official cooperation in investigating the frozen hunter incident
+- **Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]**: Serves as huscarl and deputy when he is incapacitated
+- **[[Info/Characters/999 NPC's/Svala\|Svala]]**: Her sister, hunter who participated in dangerous Ragged Lord hunt
+- **[[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]]**: Grateful for protecting her sister, provided official cooperation
 - **[[Info/Locations/Falderstad\|Falderstad]] Guards**: Works with local security forces in managing city affairs
 
 ## Significance

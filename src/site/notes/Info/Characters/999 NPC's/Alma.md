@@ -62,15 +62,59 @@ Alma represents the ordinary hunters of [[Info/Locations/Falderstad\|Falderstad]
 - Made it back to [[Info/Locations/Falderstad\|Falderstad]] safely
 - Witnessed [[Info/Characters/999 NPC's/Torik\|Torik]]'s ritual breaking the forest enchantment
 
-## Future Considerations
-- Part of the group preparing for final confrontation
-- Knows about the Skinstealer's weaknesses and tactics
-- May participate in fire-based attack strategy
-- Witnessed the effectiveness of Kyne's flame against the creature
+### [[2 -  Sessions/Session 017\|Session 017]] - The Battle of the Ragged Woods
+
+**Phase One - Wolves:**
+- Participated in initial wolf combat
+- Hit wolf for **10 damage** after missing first shot
+- Held her own during opening phase
+
+**Phase Two - Ragged Lord's First Strike:**
+- **Targeted by the Ragged Lord** when he first manifested
+- Creature teleported behind her, mimicking her exact stance
+- Slashed with 30-40cm claws across her chest
+- **Failed to evade**
+- Suffered **12 damage + Grievous Wound**
+- Lost 1 AP from the wound
+- Near death condition
+
+**Critical Counter-Attack:**
+- Despite grievous injury, made attack of opportunity
+- Struck with fire-varnished blade
+- **Permanently burned the Ragged Lord**
+- Creature howled in pain from the fire wound
+- Her fire attack remained burning him throughout the fight
+
+**Medical Treatment:**
+- Drank healing potion immediately
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] successfully stabilized her bleeding with survival check
+- Retreated to altar area but remained conscious
+- Survived with medical intervention
+
+**Final Phase Contribution:**
+- Recovered enough to participate in final assault
+- Fired two shots dealing **6 damage** total
+- Survived the entire encounter
+
+**Post-Battle:**
+- Received medical treatment from healer for grievous wound
+- Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]] specifically thanked party for bringing her back alive
+- Her survival was of deep importance to the community
+
+## Combat Performance
+- **Brave Under Fire**: Made attack of opportunity despite near-fatal wound
+- **Fire Effectiveness**: Her fire-varnished blade created permanent burning wound
+- **Resilience**: Remained conscious and contributed to final phase
+- **Tactical**: Retreated when necessary for medical treatment
+
+## Significance
+Alma's near-death experience and critical fire counter-attack demonstrated both the danger of the Ragged Lord and the effectiveness of fire-based tactics. Her survival became a point of community celebration, showing the value [[Info/Locations/Falderstad\|Falderstad]] places on its hunters' lives. Her permanent burning wound on the creature contributed to its eventual defeat.
 
 ## Notes
-- Her suggestion to leave quickly was natural but ill-timed
+- Her suggestion to leave quickly (Session 016) was natural but ill-timed
 - Showed nervousness through desire to move rather than plan
 - Survived an expedition that claimed one life ([[Info/Characters/999 NPC's/Bjorr\|Bjorr]])
-- Part of the core group now preparing fire-based defenses
-- Her experience will inform future hunts and community defense
+- Nearly became second casualty but saved by fire, healing, and [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s medical skills
+- Her fire attack proved [[Info/Characters/999 NPC's/Torik\|Torik]]'s intelligence correct
+- One of the most grievously wounded NPCs to survive in campaign
+- Jarl's specific mention of her survival shows community value for her life

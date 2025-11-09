@@ -72,9 +72,25 @@ Stryder represents the organized criminal element in [[Info/Locations/Falderstad
 - Knowledge of various criminal organizations
 - Ability to coordinate complex operations
 
+### [[2 -  Sessions/Session 017\|Session 017]] - Post-Hunt Appearance
+
+**The Celebration:**
+- Appeared at the celebration after the Ragged Lord's defeat
+- Congratulated the party on their success
+- Presence cryptic as always
+- Departed toward the old tannery (his usual meeting location)
+
+**Implications:**
+- Monitors major events in [[Info/Locations/Falderstad\|Falderstad]]
+- Maintains interest in party's activities
+- May have future business or information to share
+- Continued mysterious presence suggests ongoing involvement
+
 ## Notes
 - Operates with apparent official tolerance or cooperation
 - Connected to larger criminal conspiracy networks
 - Uses sophisticated operational planning and security
 - May be valuable source of underworld intelligence
 - Relationship with court-connected figures suggests political implications
+- Monitors supernatural threats and community events
+- May have future plot hooks or quests for the party

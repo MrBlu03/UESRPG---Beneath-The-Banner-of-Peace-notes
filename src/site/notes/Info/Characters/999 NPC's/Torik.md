@@ -120,12 +120,49 @@ During the retreat, when the Skinstealer trapped the party in an infinite forest
 ## Significance
 Torik represents the bridge between academic magical knowledge and practical supernatural combat. His identification of the Ragged Lord and discovery of its weakness to fire provides the key to defeating the Skinstealer. His acceptance of [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s necromancy shows intellectual openness and could provide her with a valuable mentor or ally in understanding her abilities.
 
+### [[2 -  Sessions/Session 017\|Session 017]] - The Final Hunt
+
+**Morning Preparations:**
+- Applied camouflage woad to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] upon request
+- Applied night vision woad to party members
+- Briefed party on the Ragged Lord's nature as aspect of [[Hircine\|Hircine]]
+- Explained the creature is tied to the hides it hangs
+- Confirmed creature likely immune to disease and poisons
+
+**The Summoning Ritual:**
+- Led party to the transformed shrine in the [[Info/Locations/Cursed_Grove\|Cursed_Grove]]
+- Performed ritual to summon the Ragged Lord using its "mimic" (Daedric name/DNA)
+- Spoke ancient words in borrowed language while frost crept up his arms
+- Brazier burst with ash and fire, triggering the manifestation
+- Successfully forced the creature to appear for confrontation
+
+**Combat Contributions:**
+- Dealt **9 damage** with fireball at critical moment
+- Fire attacks exploited the creature's primary weakness
+- Provided ranged magical support during battle
+- Survived the entire encounter
+
+**Post-Battle:**
+- Found small antler charm (hunter's token) where the Ragged Lord fell
+- Gave the charm to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] with meaningful words: *"Keep it to remember that even the gods can lose their way and still be found."*
+- Will document encounter for Mages Guild/College of Winterhold
+
 ## Future Involvement
+- **Plans with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Will teach her the Fox Guile rune
 - Alchemical preparation sessions with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]
 - Potential mentor role for [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] regarding necromancy
 - Source of knowledge about Daedric entities and their aspects
-- May provide further research on the Skinstealer's origins
-- Could assist in understanding the "sins" the land has inherited
+- Document Ragged Lord encounter for College of Winterhold
+- Research the "sins" the land had inherited
+
+## Combat Role
+- **Summoner**: Can perform rituals to force Daedric manifestations
+- **Fire Mage**: Effective against fire-vulnerable opponents
+- **Support Caster**: Provides ranged magical damage
+- **Ritual Specialist**: Breaks enchantments and forces confrontations
+
+## Significance
+Torik's knowledge and magical abilities were essential to defeating the Ragged Lord. His identification of the threat, discovery of its weakness, breaking of the forest maze, and final summoning ritual all proved critical to success. His gift of the hunter's token to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and philosophical words suggest deep understanding of corruption and redemption.
 
 ## Notes
 - His presence suggests [[Info/Locations/Falderstad\|Falderstad]] has access to educated magical practitioners
@@ -134,3 +171,5 @@ Torik represents the bridge between academic magical knowledge and practical sup
 - May have connections back to College of Winterhold for research
 - His knowledge of Hircine could be valuable for understanding hunter's madness
 - Physical toll of magic suggests he may need recovery time between major rituals
+- Successfully performed complex summoning ritual without death or permanent injury
+- His understanding of Daedric corruption shows philosophical depth

@@ -119,23 +119,56 @@ During retreat:
 - **Alchemical Work**: [[Info/Characters/999 NPC's/Torik\|Torik]], [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]], and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] to prepare fire-based weapons
   - Materials: Fox whiskers and blood for "fox gale"
 
-## Current Status
-- **Intelligence Gathered**: Full identification of threat as Ragged Lord
-- **Weakness Confirmed**: Fire vulnerability provides tactical advantage
-- **Preparations Active**: Community mobilizing fire-based defenses
-- **Casualties**: One dead ([[Info/Characters/999 NPC's/Bjorr\|Bjorr]]), motivating final confrontation
-- **Timeline**: Regrouping for final battle "tomorrow"
+## Quest Status: COMPLETED
 
-## Objectives
+### [[2 -  Sessions/Session 017\|Session 017]] - Final Confrontation and Victory
+
+**The Battle:**
+- [[Info/Characters/999 NPC's/Torik\|Torik]] successfully performed summoning ritual to force manifestation
+- Ragged Lord (Anorak) appeared as 8-9m tall horror of stitched hides and antlers
+- Battle progressed through three distinct phases:
+  - **Phase One**: Seven spectral wolves eliminated by combined party efforts
+  - **Phase Two**: Ragged Lord manifested, grievously wounded [[Info/Characters/999 NPC's/Alma\|Alma]] (12 damage + grievous wound), but her fire-varnished counterattack permanently burned him
+  - **Phase Three**: [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s interception and counterstrikes (13+ and 17 damage) triggered transformation, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] severed right arm (17 damage), [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] delivered killing blow by splitting her own arrow in his kneecap (11 damage), [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] drove silver blade through his heart
+
+**Casualties:**
+- **[[Info/Characters/999 NPC's/Bjorr\|Bjorr]]**: Killed in Session 016 (one fatality total)
+- **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Grievously wounded but survived with medical intervention
+- **[[Info/Characters/999 NPC's/Runa\|Runa]]**: Wounded, contracted rock joint, recovered with treatment
+- **All other hunters survived**
+
+**Aftermath:**
+- Ragged Lord burned to ash, whispering "Hunter..." as he died
+- [[Kyne\|Kyne]]'s peace immediately returned to the forest
+- Oppressive atmosphere lifted completely
+- Totems vanished from trees
+- Natural sounds and wildlife returned
+- Sun broke through clouds for first time in weeks
+
+**Rewards:**
+- **500 gold each** from Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]'s personal funds (2000 gold total)
+- **Permanent free use of Dylin's house** in [[Info/Locations/Falderstad\|Falderstad]]
+- Community celebration and hero status
+- Restored hunting grounds and forest access
+
+**Community Impact:**
+- [[Info/Locations/Falderstad\|Falderstad]] erupted in celebration
+- Aurora returned to the sky
+- New hawk totem raised in gratitude (not fear)
+- Children wearing celebratory masks
+- Hunter's bell tolled in victory
+- Economic benefits from restored hunting grounds
+
+## Completed Objectives
 - [x] Join [[Info/Characters/999 NPC's/Svala\|Svala]]'s organized hunting expedition
 - [x] Locate territorial creature in [[Info/Locations/Cursed_Grove\|Cursed_Grove]]
 - [x] Identify creature's nature and weaknesses
-- [ ] Eliminate supernatural threat to [[Info/Locations/Northern_Forest\|Northern_Forest]]
-- [ ] Execute final confrontation with fire-based tactics
-- [ ] Restore natural order to affected forest areas
-- [ ] Ensure safety of local hunting grounds
-- [ ] Investigate nature and origin of Ragged Lord manifestation
-- [ ] Research "sins of the land" the creature inherited
+- [x] Eliminate supernatural threat to [[Info/Locations/Northern_Forest\|Northern_Forest]]
+- [x] Execute final confrontation with fire-based tactics
+- [x] Restore natural order to affected forest areas
+- [x] Ensure safety of local hunting grounds
+- [x] Confirmed as Daedric aspect of Hircine (Ragged Lord/Anorak)
+- [x] Fire and silver weapons proved devastatingly effective
 
 ## Challenges and Considerations
 
@@ -204,8 +237,39 @@ During retreat:
 - **Forest Edge**: Defensive perimeter with bonfires
 - **Retreat Routes**: Clear paths back to [[Info/Locations/Falderstad\|Falderstad]]
 
+## Quest Completion Summary
+
+**Success Factors:**
+- **Intelligence Gathering**: [[Info/Characters/999 NPC's/Torik\|Torik]]'s identification of weakness and nature
+- **Preparation**: Fire varnishes, night vision woad, strategic planning
+- **Action Economy**: 10 vs 1 combat advantage
+- **Tactical Coordination**: Held actions, positioning, medical support
+- **Fire Effectiveness**: Exploited primary weakness repeatedly
+- **Party Synergy**: Each member contributed meaningfully
+- **NPC Support**: [[Info/Characters/999 NPC's/Torik\|Torik]]'s fireball, [[Info/Characters/999 NPC's/Svala\|Svala]]'s wolf kills, [[Info/Characters/999 NPC's/Alma\|Alma]]'s burning strike
+
+**Key Moments:**
+- [[Info/Characters/999 NPC's/Torik\|Torik]]'s summoning ritual forced manifestation
+- [[Info/Characters/999 NPC's/Alma\|Alma]]'s fire counter-attack despite grievous wound
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s interception saving [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s counterstrikes triggering 50% threshold
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Unrelenting talent preventing escape
+- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s slow arrow reducing mobility
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s arm severing strikes
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s arrow-splitting killing blow
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s final heart strike
+
+**Long-Term Impact:**
+- First confirmed Daedric aspect defeated by party
+- Established [[Info/Locations/Falderstad\|Falderstad]] as home base (free house)
+- Major reputation boost as Daedric threat handlers
+- Restored economic access to hunting grounds
+- Proved party capable of handling god-adjacent threats
+- [[Info/Characters/999 NPC's/Torik\|Torik]] will document for College of Winterhold
+- Community morale significantly improved
+
 ## Significance
-The Hunt Forest Creature quest represents the community's organized response to supernatural threats affecting their environment and livelihood. Success would eliminate a major threat to the [[Info/Locations/Northern_Forest\|Northern_Forest]] and demonstrate the effectiveness of coordinated action against supernatural dangers.
+The Hunt Forest Creature quest represented the community's organized response to supernatural threats affecting their environment and livelihood. **SUCCESSFULLY COMPLETED** - eliminated major Daedric threat to the [[Info/Locations/Northern_Forest\|Northern_Forest]] and demonstrated the effectiveness of coordinated action against supernatural dangers. First confirmed kill of a Daedric Prince's aspect by [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]].
 
 ## Related Threats
 - **[[Info/Locations/Northern_Forest\|Northern_Forest]] Disturbance**: Ragged Lord manifestation part of larger supernatural disruption

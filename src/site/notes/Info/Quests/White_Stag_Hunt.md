@@ -24,14 +24,11 @@ During their journey to [[Info/Locations/Falderstad\|Falderstad]], the party enc
 - Party has arrived in [[Info/Locations/Falderstad\|Falderstad]] and can now make contact
 
 ## Objectives
-- ✅ Contact [[Info/Characters/999 NPC's/Denskar\|Denskar]] at [[Info/Locations/The_Wounded_Boar\|The_Wounded_Boar]] inn
-- ✅ Coordinate with the hunting party ([[Info/Characters/999 NPC's/Svala\|Svala]], [[Info/Characters/999 NPC's/Hoki\|Hoki]], [[Info/Characters/999 NPC's/Brovin\|Brovin]])
-- ✅ Wait for favorable weather conditions
-- ✅ Participate in the white stag hunt
-- ✅ Investigate any magical properties of the white stag
-
-## [[2 -  Sessions/Session 015\|Session 015]] - Quest Completion
-The hunt was successfully organized with local hunters [[Info/Characters/999 NPC's/Svala\|Svala]], [[Info/Characters/999 NPC's/Hoki\|Hoki]], and [[Info/Characters/999 NPC's/Brovin\|Brovin]] the dog. The party tracked the white stag to a [[Info/Locations/Cursed_Grove\|Cursed_Grove]] in the [[Info/Locations/Northern_Forest\|Northern_Forest]] where they found it dying with five deep claw marks from a territorial supernatural creature. The stag died after acknowledging [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s presence, and the hunting party was subsequently chased from the area by the territorial creature. While the traditional hunt was unsuccessful, the quest revealed a significant supernatural threat affecting the region.
+- [ ] Contact [[Info/Characters/999 NPC's/Denskar\|Denskar]] at [[Info/Locations/The_Wounded_Boar\|The_Wounded_Boar]] inn
+- [ ] Coordinate with the hunting party
+- [ ] Wait for favorable weather conditions
+- [ ] Participate in the white stag hunt
+- [ ] Investigate any magical properties of the white stag
 
 ## Notes
 - White stags are often associated with supernatural or divine significance in Nordic culture

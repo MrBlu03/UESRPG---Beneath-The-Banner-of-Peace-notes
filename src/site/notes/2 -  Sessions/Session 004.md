@@ -148,6 +148,7 @@ The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** has extensive knowledge of **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]]**, including their weaknesses and strengths.
 - The **[[Info/Lore/Coiled_Serpent\|coiled serpent]]** and **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbols** are now linked, suggesting a deeper connection between the two.
 - The **black feathers** and **[[Court_of_Crows\|Court of Crows]]** are tied to the **[[Info/Locations/Nocturnal_Realm\|Nocturnal Realm]]**.
+- "The Vestige" is somehow connected to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s (Daria's) backstory.
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s dream may be a premonition of some kind.
 - [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] has knowledge of other realms and magical courts.
 

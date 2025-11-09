@@ -81,17 +81,45 @@ Ingrin represents both the value of reconnaissance and the psychological terror 
 - **Group Cohesion**: Staying with the party after being calmed
 - **Panic Recognition**: The group recognized the danger she was in
 
-## Future Considerations
-- May be traumatized by hearing her voice used as a lure
-- Understands firsthand the Skinstealer's psychological tactics
-- Can provide testimony about voice mimicry ability
-- Her reconnaissance skills remain valuable for future operations
-- May be more cautious about solo exploration after this experience
+### [[2 -  Sessions/Session 017\|Session 017]] - The Final Battle
+
+**Heroic Moment:**
+- **Saved [[Info/Characters/999 NPC's/Runa\|Runa]]'s life** during wolf attack (Phase One)
+- **Decapitated attacking wolf** with her longsword
+- Demonstrated exceptional combat prowess
+- Decisive action prevented second casualty after [[Info/Characters/999 NPC's/Bjorr\|Bjorr]]
+
+**Combat Contribution:**
+- Participated throughout the battle
+- Proved her fighting skills against supernatural threats
+- Survived entire encounter successfully
+
+**Redemption:**
+- Overcame trauma from voice mimicry in Session 016
+- Fought effectively despite previous psychological attack
+- Demonstrated resilience and courage
+
+## Combat Skills
+- **Swordsmanship**: Expert with longsword (decapitation strike)
+- **Quick Reactions**: Saved ally at critical moment
+- **Decisive**: Acts quickly under pressure
+- **Brave**: Overcame previous trauma to fight effectively
+
+## Character Development
+- **From Victim to Hero**: Went from nearly dying (Session 016) to saving life (Session 017)
+- **Psychological Resilience**: Overcame voice mimicry trauma
+- **Combat Proven**: Demonstrated she's more than scout
+- **Reliable**: Can be counted on in crisis despite past fear
+
+## Significance
+Ingrin's character arc from terrorized victim of voice mimicry to life-saving hero demonstrates resilience and growth. Her decisive action to save [[Info/Characters/999 NPC's/Runa\|Runa]] prevented what could have been a second tragic casualty. She transformed from vulnerable target to reliable warrior.
 
 ## Notes
 - Finding the bone clearing beforehand was crucial intelligence
 - The Skinstealer specifically chose to mimic her voice (not random)
-- Her panic response was natural and expected
-- Without [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s intervention, she would likely have shared [[Info/Characters/999 NPC's/Bjorr\|Bjorr]]'s fate
-- The mimicry attack shows the Skinstealer can observe and learn voices
-- Her experience adds to understanding of how the creature hunts
+- Her panic response in Session 016 was natural and expected
+- Without [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s intervention in Session 016, she would likely have shared [[Info/Characters/999 NPC's/Bjorr\|Bjorr]]'s fate
+- The mimicry attack showed the Skinstealer could observe and learn voices
+- Her Session 017 heroism redeems her Session 016 vulnerability
+- Saved [[Info/Characters/999 NPC's/Runa\|Runa]]'s life demonstrates her value to hunting party
+- Successfully overcame psychological trauma to become effective combatant

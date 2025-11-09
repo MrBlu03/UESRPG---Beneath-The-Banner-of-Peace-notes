@@ -57,12 +57,33 @@ Hoki is a young, impulsive hunter from [[Info/Locations/Falderstad\|Falderstad]]
 - Successfully convinced to stay behind for his own safety
 - Showed he can be reasoned with when approached with care
 
-#### After the Hunt
+#### After the Hunt (Session 016)
 - Approached the party when they returned from the hunt
 - Informed that [[Info/Characters/999 NPC's/Bjorr\|Bjorr]] had been killed by the Skinstealer
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] looked very sad and regretful when speaking to him
 - She told him, "There's nothing you could have done"
 - This acknowledgment showed respect for his desire to help while protecting him from danger
+
+### [[2 -  Sessions/Session 017\|Session 017]] - Celebrating the Victory
+**At the Market Steps:**
+- Present when the party returned from defeating the Ragged Lord
+- Clutching a wooden stag carving he had made
+- Eyes wide with joy and relief
+- **Spoke to the party**: *"You did it, didn't you? I felt it. The dogs stopped howling!"*
+- Witnessed the sun's return and the forest's healing
+
+**Interaction with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]:**
+- Approached [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] while she was sketching the aurora-lit celebrations
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] showed **rare warmth and smile** when he approached
+- This contrasted sharply with her usual cold demeanor
+- Demonstrated [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s protective, almost maternal care for the young hunter
+
+## Character Development
+- **Trauma Recovery**: From terrified survivor to joyful celebrant
+- **Artistic Expression**: Carved wooden stag to honor the white stag's sacrifice
+- **Perceptive**: Could sense the forest's healing and supernatural change
+- **Resilient**: Able to celebrate despite the trauma of Session 015 and [[Info/Characters/999 NPC's/Bjorr\|Bjorr]]'s death
+- **Connection to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]**: One of the few people who brings out her softer side
 
 ## Character Traits
 - **Impulsive**: Acts without considering consequences or heeding warnings

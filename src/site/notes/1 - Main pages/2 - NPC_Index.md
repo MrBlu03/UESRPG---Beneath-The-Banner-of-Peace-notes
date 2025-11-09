@@ -65,6 +65,7 @@
 | [[Info/Characters/999 NPC's/Harvold\|Harvold]]                                 | 🟢 | Political Figure    | Riften             | Riften Guard                 | 🟢 | Unknown                                            |
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                     | 🟢 | Political Figure    | Falderstad         | Falderstad Government        | 🟢 | Session 014                                        |
 | [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Ingvar_Snow-shod]]               | 🟢 | Political Figure    | Snow-Shod Estate   | Snow-Shod Family             | 🟢 | Unknown                                            |
+| [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]                                   | 🟢 | Political Figure    | Falderstad         | Clan Valor                   | 🟢 | Session 017                                        |
 | [[Info/Characters/999 NPC's/Lady Elaris\|Lady Elaris]]                         | 🟢 | Political Figure    | Unknown            | Independent                  | 🟢 | Unknown                                            |
 | [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]]                       | 🟢 | Political Figure    | Riften             | Riften Court                 | 🟢 | Session 004                                        |
 | [[Info/Characters/999 NPC's/Rigi\|Rigi]]                                       | 🟢 | Political Figure    | Riften             | Riften Court                 | 🟢 | Unknown                                            |
@@ -95,6 +96,7 @@
 | [[Info/Characters/999 NPC's/Harvold\|Harvold]]                   | Riften           | Riften Guard          | 🟢 | Unknown     | Major      |
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                       | Falderstad       | Falderstad Government | 🟢 | Session 014 | Minor      |
 | [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Ingvar_Snow-shod]] | Snow-Shod Estate | Snow-Shod Family      | 🟢 | Unknown     | Major      |
+| [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]                     | Falderstad       | Clan Valor            | 🟢 | Session 017 | Major      |
 | [[Info/Characters/999 NPC's/Lady Elaris\|Lady Elaris]]           | Unknown          | Independent           | 🟢 | Unknown     | Background |
 | [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]]         | Riften           | Riften Court          | 🟢 | Session 004 | Major      |
 | [[Info/Characters/999 NPC's/Rigi\|Rigi]]                         | Riften           | Riften Court          | 🟢 | Unknown     | Major      |
