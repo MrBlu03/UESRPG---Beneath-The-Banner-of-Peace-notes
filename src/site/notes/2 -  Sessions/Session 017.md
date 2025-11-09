@@ -21,7 +21,7 @@ Trapped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Unrelen
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] spent the morning meticulously checking all her gear, sharpening her sword, ensuring her hammer was ready, and securing her dagger
 - All party members applied fire varnishes to their weapons (each varnish lasts 3 hits, 5 varnishes per person)
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] applied fire varnish to 15 arrows (flame arrows deal +4 fire damage)
-- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] prepared 16 fire arrows and 15 smoke arrows
+- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] prepared 15 fire arrows and 15 smoke arrows
 - All party members confirmed they would use silver weapons as recommended by [[Info/Characters/999 NPC's/Torik\|Torik]]
 
 **Fortifying Meals:**
@@ -53,8 +53,8 @@ Trapped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Unrelen
 
 **Torik's Briefing:**
 - Confirmed through research that the creature is the Ragged Lord, aspect of [[Hircine\|Hircine]]
-- Explained he has found the creature's "mimic" - a Daedric name/DNA endemic to them
-- Plan: Use the mimic at the shrine to summon the Ragged Lord
+- Explained he has found the creature's "Nymic" - a Daedric name/DNA endemic to them
+- Plan: Use the nymic at the shrine to summon the Ragged Lord
 - Warning: The Ragged Lord is a mad hunter who won't face them in open combat
 - Will explain more when they reach the location
 
@@ -148,7 +148,7 @@ Trapped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Unrelen
 **Torik's Final Briefing:**
 - Stopped party before entering through the bones
 - Explained ritual plan:
-  - Will utter the Ragged Lord's mimic
+  - Will utter the Ragged Lord's nymic
   - Will call it forth and make it show itself
   - Creature will not like this
   - Will likely send its beasts to stop the ritual
