@@ -212,7 +212,7 @@ From the tree line emerged a nightmare: **8-9 meters tall**, constructed of stit
 **Party Response:**
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]**: Slow arrow hit (5 damage), reduced his speed significantly
 - **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Critically wounded, bleeding out
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Stabilized [[Info/Characters/999 NPC's/Alma\|Alma]]'s bleeding with survival check on her turn
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Stabilized [[Info/Characters/999 NPC's/Alma\|Alma]]'s bleeding with survival check on her turn, then fired arrow into Ragged Lord's kneecap (embedding it for later)
 - **[[Info/Characters/999 NPC's/Alma\|Alma]]**: After stabilization, drank healing potion, retreated to altar (wounded but stable)
 - **[[Info/Characters/999 NPC's/Svala\|Svala]]**: Killed additional wolf (Wilfred)
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** & **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]**: Held actions defensively
