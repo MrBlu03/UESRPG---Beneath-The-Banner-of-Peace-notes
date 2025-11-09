@@ -11,7 +11,7 @@ The battle progressed through three phases: **Seven wolves** attacked first—sw
 
 Trapped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Unrelenting talent and slowed by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s arrows, the creature fought desperately. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] parried his whip attack, severed his right arm (17 damage), and nearly severed his left. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] delivered the **killing blow**—splitting her own embedded arrow to shatter his kneecap. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] drove her silver blade through his heart as he whispered *"Hunter..."* and burned to ash.
 
-[[Kyne\|Kyne]]'s peace returned to the forest. [[Info/Locations/Falderstad\|Falderstad]] erupted in celebration. Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]] paid **500 gold each** and granted permanent use of Dylin's house. The evening ended with aurora-lit festivities, character bonding, and a mysterious leaf falling at their door.
+[[Kyne\|Kyne]]'s peace returned to the forest. [[Info/Locations/Falderstad\|Falderstad]] erupted in celebration. Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]] paid **500 gold each** and granted permanent use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house. The evening ended with aurora-lit festivities, character bonding, and a mysterious leaf falling at their door.
 
 ## Detailed Recap
 
@@ -276,7 +276,7 @@ The forest **exhaled**.
 
 ### **Loot & Salvage**
 
-The party harvested from the fallen wolves:
+**[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** mechanically skinned and gutted the wolves while processing the adrenaline. The party harvested from the fallen wolves:
 - **8 Wolf Pelts** (one failed to recover)
 - **24 days of wolf rations** (7 rations per party member, distributed)
 - **9 Wolf Hearts** (alchemy ingredients: restore fatigue, cure disease)
@@ -297,7 +297,7 @@ Folk emerged from homes and stalls, following the party through the streets in a
 
 **[[Info/Characters/999 NPC's/Jorrun\|Jorrun]] of [[Clan Valor\|Clan Valor]]** (the Jarl, recovered from rock joint) approached with [[Helga Kieran-Shield\|Helga Kieran-Shield]]:
 - Paid **500 gold each** from his personal funds (bounty exceeded expectations)
-- Granted the party **free use of Dylin's house** whenever they return to [[Info/Locations/Falderstad\|Falderstad]]
+- Granted the party **free use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house** whenever they return to [[Info/Locations/Falderstad\|Falderstad]]
 - Thanked them for bringing [[Info/Characters/999 NPC's/Alma\|Alma]] and [[Info/Characters/999 NPC's/Runa\|Runa]] back alive
 
 **Healer** treated [[Info/Characters/999 NPC's/Alma\|Alma]]'s grievous wound and [[Info/Characters/999 NPC's/Runa\|Runa]]'s wolf bite (rock joint confirmed but treatable).
@@ -314,7 +314,7 @@ Above, the aurora returned—streaks of gold and violet swirling like silk.
 - [[Info/Characters/999 NPC's/Torik\|Torik]] lit incense beneath it as offering of gratitude (not fear)
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** sang an old Khajiit song softly, melancholic but peaceful
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** sat apart sketching the celebrations with the aurora above, showing rare warmth when [[Info/Characters/999 NPC's/Hoki\|Hoki]] approached
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** mechanically skinned/gutted wolves while processing the adrenaline, then sat with [[Info/Characters/999 NPC's/Torik\|Torik]] in quiet companionship
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** sat with [[Info/Characters/999 NPC's/Torik\|Torik]] in quiet companionship
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** stood watch, wounded but vigilant
 
 **[[Info/Characters/999 NPC's/Stryder\|Stryder]]** appeared to congratulate the party, his presence cryptic as always, before departing toward the old tannery.
@@ -349,7 +349,7 @@ As the party tucked into bed at the house, one last cry of a hawk echoed. The ca
 - **[[Info/Characters/999 NPC's/Runa\|Runa]]**: Wounded by wolf (contracted rock joint), narrowly saved by [[Info/Characters/999 NPC's/Ingrin\|Ingrin]], recovered with treatment
 - **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Suffered grievous wound to chest from Ragged Lord's claws (12 damage), drank healing potion, landed attack of opportunity that permanently burned the creature, survived with medical treatment
 - **[[Info/Characters/999 NPC's/Ingrin\|Ingrin]]**: Decapitated wolf attacking [[Info/Characters/999 NPC's/Runa\|Runa]], proved her combat prowess
-- **[[Info/Characters/999 NPC's/Jorrun\|Jorrun]] of [[Clan Valor\|Clan Valor]]**: Jarl of [[Info/Locations/Falderstad\|Falderstad]], recovered from rock joint, paid 500 gold each from personal funds, granted free use of Dylin's house
+- **[[Info/Characters/999 NPC's/Jorrun\|Jorrun]] of [[Clan Valor\|Clan Valor]]**: Jarl of [[Info/Locations/Falderstad\|Falderstad]], recovered from rock joint, paid 500 gold each from personal funds, granted free use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house
 - **[[Helga Kieran-Shield\|Helga Kieran-Shield]]**: Huscarl, thanked party for bringing sister [[Info/Characters/999 NPC's/Svala\|Svala]] back alive
 - **[[Info/Characters/999 NPC's/Hoki\|Hoki]]**: Young boy who carved wooden stag, witnessed sun's return, showed joy at party's success
 - **[[Info/Characters/999 NPC's/Stryder\|Stryder]]**: Appeared to congratulate party, cryptic as always, departed toward old tannery
@@ -405,8 +405,9 @@ As the party tucked into bed at the house, one last cry of a hawk echoed. The ca
   - **Delivered killing blow** - split own arrow in Ragged Lord's kneecap
   - Saved [[Info/Characters/999 NPC's/Alma\|Alma]]'s life with successful survival check
   - Fired devastating 16-damage arrow through wolf's mouth
-  - Mechanically processed hunt aftermath (skinning/gutting wolves)
+  - Mechanically skinned/gutted wolves after battle (processing adrenaline)
   - Received hunter's token charm from [[Info/Characters/999 NPC's/Torik\|Torik]]
+  - Sat with [[Info/Characters/999 NPC's/Torik\|Torik]] in quiet companionship during festival
   - Offered alchemy help for [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s nightmares
   - Walked home with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] discussing instruments and alchemy
   - Nerded out about potion-making
