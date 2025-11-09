@@ -178,13 +178,15 @@ Trapped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Unrelen
 
 ## **The Battle of the Ragged Woods**
 
-As Torik's voice rose in ancient power, speaking words in a language not entirely his own, frost crept up his arms from the brazier. The runes circling the brazier glowed faintly green and white. He spoke: *"Veidt exec v mother Villa Veidt exec no rock fluke no Kane..."*
-
-The brazier burst, throwing ash and fire skyward. The trees groaned in agony. The hides ripped loose from branches, spinning like wings.
-
 ### **Phase One: The Summoned Wolves (7 Wolves)**
 
-Before the Ragged Lord manifested, seven wolves with glowing green eyes materialized—more than the expected three.
+As Torik's voice rose in ancient power, speaking words in a language not entirely his own, frost crept up his arms from the brazier. The runes circling the brazier glowed faintly green and white. He spoke: *"Veidt exec v mother Villa Veidt exec no rock fluke no Kane..."*
+
+Those last words left his mouth: *"I call the last hunter who turned from the chase. I call the one who wears the skin of the slain. I call the Ragged Lord to answer for his madness."*
+
+The brazier screamed—a sound like steel drawn through bone. Far off in the treeline, a howl echoed low and guttural. Then another answered. And another.
+
+Seven wolves with glowing faintly green eyes materialized from the darkness—more than the expected three.
 
 **Combat Summary:**
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]**: One-shot two wolves with devastating sneak attacks (10 damage each with splitting arrows)
@@ -199,6 +201,8 @@ Before the Ragged Lord manifested, seven wolves with glowing green eyes material
 All seven wolves fell within minutes. Their corpses remained for later salvaging.
 
 ### **Phase Two: Anorak, The Ragged Lord Appears**
+
+The trees groaned in agony. The hides around the clearing ripped loose from their branches, spinning like wings. The party knew the true battle was about to begin.
 
 **Boss Title Appeared:** *"ANORAK - THE RAGGED LORD"* (Dark Souls style)
 
