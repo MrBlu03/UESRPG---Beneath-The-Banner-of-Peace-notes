@@ -355,7 +355,7 @@ As the party tucked into bed at the house, one last cry of a hawk echoed. The ca
 
 ## Items Acquired
 - **500 Gold Each** (2000 gold total to party): Personal payment from [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]
-- **Free Use of Dylin's House**: Permanent safe haven in [[Info/Locations/Falderstad\|Falderstad]]
+- **Free Use of Nilan's House**: Permanent safe haven in [[Info/Locations/Falderstad\|Falderstad]]
 - **8 Wolf Pelts**: Salvaged from defeated wolves
 - **24 Days of Wolf Rations**: 7 rations per party member (one extra distributed)
 - **9 Wolf Hearts**: Alchemy ingredients (restore fatigue, cure disease)
