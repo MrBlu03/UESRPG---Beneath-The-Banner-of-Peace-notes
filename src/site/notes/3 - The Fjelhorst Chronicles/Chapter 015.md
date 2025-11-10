@@ -65,4 +65,4 @@ That night, the Fangs reunited in the Soggy Beaver. The tavern was alive with no
 
 When the mugs ran dry, they returned to Nilan’s house. The hearth was warm, the night cold. One by one, they drifted to sleep—Fangs of Fjelhorst, united again beneath a single roof, as the wind outside howled like something calling their names. It was the quiet calm before the next storm, and none of them yet knew how swiftly it would break.
 
-[[Chapter 016\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 016\|Next Chapter →]]
