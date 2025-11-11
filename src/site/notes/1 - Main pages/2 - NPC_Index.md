@@ -61,6 +61,7 @@
 | [[Info/Characters/999 NPC's/Sybille\|Sybille]]                                 | 🟢 | Other               | Unknown            | Independent                  | 🟢 | Unknown                                            |
 | [[Info/Characters/999 NPC's/Tharen_Duleri\|Tharen_Duleri]]                     | 🔴 | Other               | Unknown            | Independent                  | 🔴 | Unknown                                            |
 | [[Info/Characters/999 NPC's/Alderman_Torgir\|Alderman_Torgir]]                 | 🟢 | Political Figure    | Treva's Bend       | Independent                  | 🟢 | Session 002                                        |
+| [[Info/Characters/999 NPC's/Gorm\|Gorm]]                                       | 🟢 | Political Figure    | Falderstad         | Falderstad                   | 🟢 | Session 017                                        |
 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                   | 🟢 | Political Figure    | Riften             | Clan Cold-Moor               | 🟢 | Unknown                                            |
 | [[Info/Characters/999 NPC's/Harvold\|Harvold]]                                 | 🟢 | Political Figure    | Riften             | Riften Guard                 | 🟢 | Unknown                                            |
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                     | 🟢 | Political Figure    | Falderstad         | Falderstad Government        | 🟢 | Session 014                                        |
@@ -92,6 +93,7 @@
 | File                                                                | Location         | Faction               |    | First Seen  | Importance |
 | ------------------------------------------------------------------- | ---------------- | --------------------- | -- | ----------- | ---------- |
 | [[Info/Characters/999 NPC's/Alderman_Torgir\|Alderman_Torgir]]   | Treva's Bend     | Independent           | 🟢 | Session 002 | Minor      |
+| [[Info/Characters/999 NPC's/Gorm\|Gorm]]                         | Falderstad       | Falderstad            | 🟢 | Session 017 | Major      |
 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                     | Riften           | Clan Cold-Moor        | 🟢 | Unknown     | Minor      |
 | [[Info/Characters/999 NPC's/Harvold\|Harvold]]                   | Riften           | Riften Guard          | 🟢 | Unknown     | Major      |
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                       | Falderstad       | Falderstad Government | 🟢 | Session 014 | Minor      |

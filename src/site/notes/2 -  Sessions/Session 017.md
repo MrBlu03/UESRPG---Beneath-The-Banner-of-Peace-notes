@@ -11,7 +11,7 @@ The battle progressed through three phases: **Seven wolves** attacked first—sw
 
 Trapped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Unrelenting talent and slowed by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s arrows, the creature fought desperately. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] parried his whip attack, severed his right arm (17 damage), and nearly severed his left. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] delivered the **killing blow**—splitting her own embedded arrow to shatter his kneecap. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] drove her silver blade through his heart as he whispered *"Hunter..."* and burned to ash.
 
-[[Kyne\|Kyne]]'s peace returned to the forest. [[Info/Locations/Falderstad\|Falderstad]] erupted in celebration. Jarl [[Info/Characters/999 NPC's/Jorrun\|Jorrun]] paid **500 gold each** and granted permanent use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house. The evening ended with aurora-lit festivities, character bonding, and a mysterious leaf falling at their door.
+[[Kyne\|Kyne]]'s peace returned to the forest. [[Info/Locations/Falderstad\|Falderstad]] erupted in celebration. Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]] paid **500 gold each** and granted permanent use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house. The evening ended with aurora-lit festivities, character bonding, and a mysterious leaf falling at their door.
 
 ## Detailed Recap
 
@@ -299,7 +299,7 @@ By the time they saw the city's watchtowers, the sun was setting, amber and red 
 
 Folk emerged from homes and stalls, following the party through the streets in a growing wave. At the market steps stood young [[Info/Characters/999 NPC's/Hoki\|Hoki]] clutching a wooden stag carving, eyes wide: *"You did it, didn't you? I felt it. The dogs stopped howling!"*
 
-**[[Info/Characters/999 NPC's/Jorrun\|Jorrun]] of [[Clan Valor\|Clan Valor]]** (the Jarl, recovered from rock joint) approached with [[Helga Kieran-Shield\|Helga Kieran-Shield]]:
+**Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]] of [[Info/Locations/Falderstad\|Falderstad]]** (recovered from rock joint) approached with [[Helga Cairn-Shield\|Helga Cairn-Shield]], his huscarl:
 - Paid **500 gold each** from his personal funds (bounty exceeded expectations)
 - Granted the party **free use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house** whenever they return to [[Info/Locations/Falderstad\|Falderstad]]
 - Thanked them for bringing [[Info/Characters/999 NPC's/Alma\|Alma]] and [[Info/Characters/999 NPC's/Runa\|Runa]] back alive
@@ -353,13 +353,13 @@ As the party tucked into bed at the house, one last cry of a hawk echoed. The ca
 - **[[Info/Characters/999 NPC's/Runa\|Runa]]**: Wounded by wolf (contracted rock joint), narrowly saved by [[Info/Characters/999 NPC's/Ingrin\|Ingrin]], recovered with treatment
 - **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Suffered grievous wound to chest from Ragged Lord's claws (12 damage), drank healing potion, landed attack of opportunity that permanently burned the creature, survived with medical treatment
 - **[[Info/Characters/999 NPC's/Ingrin\|Ingrin]]**: Decapitated wolf attacking [[Info/Characters/999 NPC's/Runa\|Runa]], proved her combat prowess
-- **[[Info/Characters/999 NPC's/Jorrun\|Jorrun]] of [[Clan Valor\|Clan Valor]]**: Jarl of [[Info/Locations/Falderstad\|Falderstad]], recovered from rock joint, paid 500 gold each from personal funds, granted free use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house
-- **[[Helga Kieran-Shield\|Helga Kieran-Shield]]**: Huscarl, thanked party for bringing sister [[Info/Characters/999 NPC's/Svala\|Svala]] back alive
+- **Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]] of [[Info/Locations/Falderstad\|Falderstad]]**: Recovered from rock joint, paid 500 gold each from personal funds, granted free use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house
+- **[[Helga Cairn-Shield\|Helga Cairn-Shield]]**: Huscarl to Jarl Gorm, thanked party for bringing sister [[Info/Characters/999 NPC's/Svala\|Svala]] back alive
 - **[[Info/Characters/999 NPC's/Hoki\|Hoki]]**: Young boy who carved wooden stag, witnessed sun's return, showed joy at party's success
 - **[[Info/Characters/999 NPC's/Stryder\|Stryder]]**: Appeared to congratulate party, cryptic as always, departed toward old tannery
 
 ## Items Acquired
-- **500 Gold Each** (2000 gold total to party): Personal payment from [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]
+- **500 Gold Each** (2000 gold total to party): Personal payment from Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]]
 - **Free Use of Nilan's House**: Permanent safe haven in [[Info/Locations/Falderstad\|Falderstad]]
 - **8 Wolf Pelts**: Salvaged from defeated wolves
 - **24 Days of Wolf Rations**: 7 rations per party member (one extra distributed)
@@ -466,6 +466,6 @@ As the party tucked into bed at the house, one last cry of a hawk echoed. The ca
 - Community celebration shows widespread relief and gratitude
 - Mysterious leaf at end suggests supernatural observation
 - Party earned significant XP for defeating over-leveled boss
-- [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]'s personal payment (500g each) exceptional generosity
+- Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]]'s personal payment (500g each) exceptional generosity
 - Free house establishes [[Info/Locations/Falderstad\|Falderstad]] as potential home base
-- [[Info/Characters/999 NPC's/Helga\|Helga]]'s gratitude for [[Info/Characters/999 NPC's/Svala\|Svala]]'s safety noted
+- [[Helga Cairn-Shield\|Helga Cairn-Shield]]'s gratitude for [[Info/Characters/999 NPC's/Svala\|Svala]]'s safety noted
