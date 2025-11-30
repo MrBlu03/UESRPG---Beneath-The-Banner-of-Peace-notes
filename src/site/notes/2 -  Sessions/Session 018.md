@@ -96,7 +96,7 @@ A three-day downtime session in [[Info/Locations/Falderstad\|Falderstad]] follow
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** played Solitaire at a table.
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** studied her new spellbook (Jack of All Trades), practicing hand gestures for the spell.
 - When Senya and Sonja took a break, **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** asked to play her lute and performed an instrumental piece.
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** made progress learning the 3rd level spell (requires a full day of study).
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** made progress learning the 3rd level spell (requires 3 days of study).
 
 ---
 

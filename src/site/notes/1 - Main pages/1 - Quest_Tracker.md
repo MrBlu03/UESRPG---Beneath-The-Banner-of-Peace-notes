@@ -97,19 +97,16 @@
 
 ### 💰 Party Treasury
 
-| Source                       | Amount       | Session         |
-| ---------------------------- | ------------ | --------------- |
-| Dunmer looted corpses        | 10 gold      | [[2 -  Sessions/Session 011\|Session 011]] |
-| 50 gold from necromancy tomb | 50 gold      | [[2 -  Sessions/Session 012\|Session 012]] |
-| Gold from selling bear fur   | 100 gold     | [[2 -  Sessions/Session 013\|Session 013]] |
-| Small furr                   | 10 gold      | [[2 -  Sessions/Session 013\|Session 013]] |
-| Tavern room buying           | -15 gold     | [[2 -  Sessions/Session 013\|Session 013]] |
-| Antler selling               | 95 gold      | Session 014     |
-| Fox's Guile (Onasha)         | -30 gold     | [[2 -  Sessions/Session 018\|Session 018]] |
-| Custom Bow for Hoki          | -210 gold    | [[2 -  Sessions/Session 018\|Session 018]] |
-| Vegetables & Garlic (Kirya)  | -17 gold     | [[2 -  Sessions/Session 018\|Session 018]] |
-| Extra Bread (Onasha)         | -1 gold      | [[2 -  Sessions/Session 018\|Session 018]] |
-| **TOTAL COMMUNAL FUNDS**     | **-8 gold**  | (individual purchases) |
+| Source                       | Amount   | Session                |
+| ---------------------------- | -------- | ---------------------- |
+| Dunmer looted corpses        | 10 gold  | [[2 -  Sessions/Session 011\|Session 011]]        |
+| 50 gold from necromancy tomb | 50 gold  | [[2 -  Sessions/Session 012\|Session 012]]        |
+| Gold from selling bear fur   | 100 gold | [[2 -  Sessions/Session 013\|Session 013]]        |
+| Small furr                   | 10 gold  | [[2 -  Sessions/Session 013\|Session 013]]        |
+| Tavern room buying           | -15 gold | [[2 -  Sessions/Session 013\|Session 013]]        |
+| Antler selling               | 95 gold  | [[2 -  Sessions/Session 014\|Session 014]]        |
+| Extra fur for armor          | 16       | [[2 -  Sessions/Session 018\|Session 018]]        |
+| **TOTAL COMMUNAL FUNDS**     | **239**  | (individual purchases) |
 
 ### 💼 Business Ventures
 | Venture                      | Investment Required | Partner               | Status    |
