@@ -118,17 +118,17 @@ Falderstad is a Nordic city in eastern Skyrim, characterized by severe winter we
 
 #### Day 2 (10th Sun's Dusk)
 - Heavy snow fell overnight (-13°C)
-- **[[Gabrielle Bonilla\|Gabrielle Bonilla]]** arrived from the [[Info/Organizations/Mages_Guild\|Mages Guild]] with critical intelligence
+- **[[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]** arrived from the [[Info/Organizations/Mages_Guild\|Mages Guild]] with critical intelligence
 - Revealed the Ritual Orb is a **Harrowstorm Engine Core** from the [[Info/Lore/Grey_Host\|Grey_Host]]
 - Party fur-lined their armor at the blacksmith
 - Interrogated Dunmer prisoners - learned of [[Info/Organizations/House_Hlaalu\|House_Hlaalu]] and [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] connection
 - Obtained the **Dunmer Ledger** as evidence
 
 #### Day 3 (11th Sun's Dusk)
-- **The Nordic Execution** at the [[Info/Locations/Standing_Stones_Execution_Site\|Standing Stones]]
+- **The Nordic Execution** at the [[Standing_Stones_Execution_Site\|Standing Stones]]
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] served as executioner in full Nordic ceremonial garb
 - Five Dunmer smugglers executed
-- [[Info/Characters/999 NPC's/Tarik\|Tarik]] (Speaker for the Dead) conducted the ritual
+- [[Tarik\|Tarik]] (Speaker for the Dead) conducted the ritual
 - [[Info/Characters/999 NPC's/Senya\|Senya]], [[Sonja\|Sonja]], and [[Info/Characters/999 NPC's/Agni\|Agni]] provided ceremonial music
 - Post-execution feast at Jarl's longhouse
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] passed out after drinking contest with Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]]
@@ -147,7 +147,7 @@ Falderstad is a Nordic city in eastern Skyrim, characterized by severe winter we
 - Access to [[Info/Locations/Northern_Forest\|Northern_Forest]] hunting grounds (now restored)
 - Coordinates with College of Winterhold through [[Info/Characters/999 NPC's/Torik\|Torik]]
 - [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]]: Tavern frequented by party and visiting performers
-- [[Info/Locations/Standing_Stones_Execution_Site\|Standing Stones]]: Traditional execution site outside city
+- [[Standing_Stones_Execution_Site\|Standing Stones]]: Traditional execution site outside city
 
 ## Notes
 - Six-day journey from Riften under winter conditions

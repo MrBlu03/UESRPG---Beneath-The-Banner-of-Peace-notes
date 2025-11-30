@@ -15,17 +15,17 @@
 - [x] ~~Investigate parallels between current threats and the Grey Host~~ - **CONFIRMED**: Orb is Harrowstorm Engine Core
 - [ ] Await intelligence from Skald-King Jorunn's Morthal contact (Grey Host expert)
 - [ ] Monitor for signs of "blood tide" rising again
-- [ ] Track Harrowstorm Engine Core transport to [[Info/Locations/Ayr\|Ayr]]
+- [ ] Track Harrowstorm Engine Core transport to [[Info/Locations/Eyevea\|Eyevea]]
 
 ## Key NPCs
 - [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]] (remembers Grey Host threat)
 - [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]
 - Skald-King Jorunn (recognizes Grey Host patterns)
 - Morthal Contact (Grey Host expert, identity unknown)
-- [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]] ([[Info/Organizations/Mages_Guild\|Mages_Guild]] Daedric expert - delivered intelligence)
+- [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] ([[Info/Organizations/Mages_Guild\|Mages_Guild]] Daedric expert - delivered intelligence)
 
 ## Session 018 Update - Harrowstorm Engine Core Confirmed
-[[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]] arrived in [[Info/Locations/Falderstad\|Falderstad]] and revealed:
+[[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] arrived in [[Info/Locations/Falderstad\|Falderstad]] and revealed:
 - The Ritual Orb is a **Harrowstorm Engine Core** from the [[Info/Lore/Grey_Host\|Grey_Host]]
 - The [[Info/Lore/Grey_Host\|Grey_Host]] was a clan of **vampires and werewolves** working together
 - Their plan: Create **undead vampire-werewolf hybrids**
@@ -35,7 +35,7 @@
 - **Current Status**: DORMANT - cannot activate without proper rituals, matrices, and energy source
 - The death/energy around [[Info/Locations/Greenwall\|Greenwall]] briefly awakened it when [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] shot it
 - Now wrapped in multiple layers of **anti-magic wards**
-- Being transported to [[Info/Locations/Ayr\|Ayr]] ([[Info/Organizations/Mages_Guild\|Mages_Guild]] main hall) for permanent safe storage
+- Being transported to [[Info/Locations/Eyevea\|Eyevea]] ([[Info/Organizations/Mages_Guild\|Mages_Guild]] main hall) for permanent safe storage
 
 ## Updated Intelligence (Session 012)
 - Skald-King Jorunn recognizes similar patterns to the ancient Grey Host

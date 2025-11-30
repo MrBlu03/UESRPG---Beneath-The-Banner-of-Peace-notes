@@ -39,7 +39,7 @@ Powerful Daedric artifacts used by the Grey Host in their rituals. These orbs we
 - **Current state**: Dormant - without proper rituals, matrices, and energy source, it cannot activate
 - The death/energy around [[Info/Locations/Greenwall\|Greenwall]] briefly awakened it when [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] shot it
 - Has been wrapped in multiple layers of **anti-magic wards** by the [[Info/Organizations/Mages_Guild\|Mages Guild]]
-- Being transported to [[Info/Locations/Ayr\|Ayr]] (Mages Guild main hall) for permanent safe storage
+- Being transported to [[Info/Locations/Eyevea\|Eyevea]] (Mages Guild main hall) for permanent safe storage
 
 ### Danger Level
 - **Dormant**: Currently poses no immediate threat
@@ -47,16 +47,16 @@ Powerful Daedric artifacts used by the Grey Host in their rituals. These orbs we
 - **Containment**: Under [[Info/Organizations/Mages_Guild\|Mages Guild]] custody with magical protections
 
 ## Key Information Source
-- **[[Gabrielle Bonilla\|Gabrielle Bonilla]]**: [[Info/Organizations/Mages_Guild\|Mages Guild]] expert on Daedric artifacts who provided this intelligence
+- **[[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]**: [[Info/Organizations/Mages_Guild\|Mages Guild]] expert on Daedric artifacts who provided this intelligence
 
 ## Related NPCs
-- **[[Gabrielle Bonilla\|Gabrielle Bonilla]]**: Delivered intelligence about the Harrowstorm Engine Core
-- **Vanis**: [[Info/Organizations/Mages_Guild\|Mages Guild]] member involved in artifact storage
+- **[[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]**: Delivered intelligence about the Harrowstorm Engine Core
+- **Vanus**: [[Info/Organizations/Mages_Guild\|Mages Guild]] member involved in artifact storage
 
 ## Related Locations
 - [[Info/Locations/Markarth\|Markarth]]: Original location of the recovered Harrowstorm Engine Core
 - [[Info/Locations/Greenwall\|Greenwall]]: Where the party discovered the dormant core
-- [[Info/Locations/Ayr\|Ayr]]: Final destination for secure storage
+- [[Info/Locations/Eyevea\|Eyevea]]: Final destination for secure storage
 - [[Windhelm\|Windhelm]]: Transit point for the artifact
 
 ## Related Quests
@@ -64,4 +64,4 @@ Powerful Daedric artifacts used by the Grey Host in their rituals. These orbs we
 - [[Info/Quests/Mages_Guild_Greenwall_Coordination\|Mages_Guild_Greenwall_Coordination]]: Ongoing coordination regarding the artifact
 
 ## Session References
-- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Gabrielle Bonilla\|Gabrielle Bonilla]] revealed the orb's identity as a Harrowstorm Engine Core
+- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] revealed the orb's identity as a Harrowstorm Engine Core

@@ -22,14 +22,14 @@ Garen Hlaalu is a member of [[Info/Organizations/House_Hlaalu\|House Hlaalu]] wh
 
 ## Known Operations
 ### Moon Sugar Smuggling
-- Coordinates transport of moon sugar from [[Info/Locations/Haven\|Haven]] (Valenwood) into Skyrim
+- Coordinates transport of moon sugar from [[Info/Locations/Ebonheart\|Ebonheart]] (Morrowind) into Skyrim
 - Uses hired couriers rather than direct House Hlaalu members
 - Payment structure: 400 gold for transporting goods worth 300 gold
 
 ### Coiled Serpent Connection
 The smugglers working under his operation were contacted by the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]:
 - Paid 2,000 gold in advance to transport a ledger
-- Delivery destination: Kil Great White (the Rift)
+- Delivery destination: [[Info/Locations/Kjallgrad\|Kjallgrad]] (the Rift)
 - Contact identifier: Individual wearing an Ouroboros pendant
 
 ## Intelligence Source

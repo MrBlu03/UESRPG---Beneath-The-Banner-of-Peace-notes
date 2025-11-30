@@ -15,8 +15,8 @@
 ## Description
 Baron Jangleplume is a rotund Daedric crow - an immortal, teleporting crow that can talk. His title "Baron" suggests status among the Daedric crows. He is notably round in shape and can be summoned by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] using bread.
 
-## Nature (as revealed by [[Gabrielle Bonilla\|Gabrielle Bonilla]])
-According to [[Gabrielle Bonilla\|Gabrielle Bonilla]] ([[2 -  Sessions/Session 018\|Session 018]]):
+## Nature (as revealed by [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]])
+According to [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] ([[2 -  Sessions/Session 018\|Session 018]]):
 - **Daedric crows** are immortal creatures
 - They can **teleport**
 - They can **talk** (communicate with mortals)
@@ -26,8 +26,8 @@ According to [[Gabrielle Bonilla\|Gabrielle Bonilla]] ([[2 -  Sessions/Session 0
 ## Key Interactions
 
 ### [[2 -  Sessions/Session 018\|Session 018]] - Summoned in Falderstad
-- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] pulled out bread and summoned Jangleplume when [[Gabrielle Bonilla\|Gabrielle Bonilla]] needed to send a letter
-- [[Gabrielle Bonilla\|Gabrielle Bonilla]] immediately recognized him as a Daedric crow
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] pulled out bread and summoned Jangleplume when [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] needed to send a letter
+- [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] immediately recognized him as a Daedric crow
 - **Gabrielle's past encounter**: Jangleplume once brought her a **fake soup spoon** when she was in the **Clockwork City**
 - [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] suggested feeding the crows more bread to make friends with them
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] bought more bread (1 Gold) to keep summoning the crows
@@ -40,7 +40,7 @@ According to [[Gabrielle Bonilla\|Gabrielle Bonilla]] ([[2 -  Sessions/Session 0
 
 ## Relationships
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Has established a rapport; responds to her bread offerings
-- **[[Gabrielle Bonilla\|Gabrielle Bonilla]]**: Previous encounter in the Clockwork City
+- **[[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]**: Previous encounter in the Clockwork City
 - **[[Info/Organizations/Blackfeather Court\|Blackfeather Court]]**: Part of the Daedric crow hierarchy
 - **[[Info/Lore/Nocturnal\|Nocturnal]]**: Associated with the Daedric Prince
 
@@ -55,4 +55,4 @@ According to [[Gabrielle Bonilla\|Gabrielle Bonilla]] ([[2 -  Sessions/Session 0
 - Useful for sending messages (messenger bird services)
 
 ## Session References
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Summoned by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]; [[Gabrielle Bonilla\|Gabrielle Bonilla]] revealed his true nature as a Daedric crow
+- **[[2 -  Sessions/Session 018\|Session 018]]**: Summoned by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]; [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] revealed his true nature as a Daedric crow

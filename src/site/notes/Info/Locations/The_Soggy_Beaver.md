@@ -48,7 +48,7 @@ A tavern in [[Info/Locations/Falderstad\|Falderstad]] that serves as a gathering
 
 ### [[2 -  Sessions/Session 018\|Session 018]] - Skald Performance Evening (9th of Sun's Dusk)
 - **[[Info/Characters/999 NPC's/Senya\|Senya]]** and **[[Sonja\|Sonja]]** (twin skalds) performed traditional Nordic songs
-- **[[Info/Characters/999 NPC's/Alfie\|Alfie]]** (bartender) served food while **[[Info/Characters/999 NPC's/Elsa\|Elsa]]** ran drinks
+- **[[Alfie\|Alfie]]** (bartender) served food while **[[Info/Characters/999 NPC's/Elsa\|Elsa]]** ran drinks
 - Performance included humorous 16th-century song about a farmer outsmarting the church
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** sat close to the front, attentively watching
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** played Solitaire at a table
@@ -58,7 +58,7 @@ A tavern in [[Info/Locations/Falderstad\|Falderstad]] that serves as a gathering
 
 ## Staff
 - **[[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]**: Proprietor
-- **[[Info/Characters/999 NPC's/Alfie\|Alfie]]**: Bartender
+- **[[Alfie\|Alfie]]**: Bartender
 - **[[Info/Characters/999 NPC's/Elsa\|Elsa]]**: Server
 
 ## Strategic Importance

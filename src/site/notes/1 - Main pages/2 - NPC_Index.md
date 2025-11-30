@@ -27,8 +27,7 @@
 | [[Info/Characters/999 NPC's/Svala\|Svala]]                                     | 🟢 | Hunter              | Falderstad                      | Independent                    | 🟢 | Session 015                                        |
 | [[Info/Characters/999 NPC's/Adda\|Adda]]                                       | 🟢 | Magical Figure      | Riften                          | Cult of Ysmir                  | 🟢 | Session 010                                        |
 | [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]           | 🟢 | Magical Figure      | Riften                          | Mages Guild                    | 🟢 | Session 004                                        |
-| [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]               | 🟢 | Magical Figure      | Greenwall                       | Mages Guild                    | 🟢 | Unknown                                            |
-| [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]]             | 🟢 | Magical Figure      | Travelling (Windhelm/Ayr)       | Mages Guild                    | 🟢 | Session 018                                        |
+| [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]               | 🟢 | Magical Figure      | Falderstad (as of Session 018)  | Mages Guild                    | 🟢 | Session 018                                        |
 | [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]       | 🟢 | Magical Figure      | Riften                          | Riften Court                   | 🟢 | Unknown                                            |
 | [[Info/Characters/999 NPC's/Torik\|Torik]]                                     | 🟢 | Magical Figure      | Falderstad                      | Independent                    | 🟢 | Session 016                                        |
 | [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]                             | 🟢 | Magical Figure      | Greenwall                       | Independent                    | 🟢 | Unknown                                            |
@@ -75,8 +74,6 @@
 | [[Info/Characters/999 NPC's/Lady Elaris\|Lady Elaris]]                         | 🟢 | Political Figure    | Unknown                         | Independent                    | 🟢 | Unknown                                            |
 | [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]]                       | 🟢 | Political Figure    | Riften                          | Riften Court                   | 🟢 | Session 004                                        |
 | [[Info/Characters/999 NPC's/Rigi\|Rigi]]                                       | 🟢 | Political Figure    | Riften                          | Riften Court                   | 🟢 | Unknown                                            |
-| [[Info/Characters/999 NPC's/Valor\|Valor]]                                     | 🟢 | Political Figure    | Falderstad                      | Falderstad Government          | 🟢 | Session 018                                        |
-| [[Info/Characters/999 NPC's/Tarik\|Tarik]]                                     | 🟢 | Religious Figure    | Falderstad                      | Falderstad                     | 🟢 | Session 018                                        |
 | [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]             | 🟢 | Supernatural        | Various                         | Blackfeather Court / Nocturnal | 🟢 | Unknown                                            |
 | [[Info/Characters/999 NPC's/Lagertha\|Lagertha]]                               | 🔴 | Supernatural        | Haunted Lodge                   | Independent                    | 🔴 | Session 009                                        |
 | [[Info/Characters/999 NPC's/M'aiq\|M'aiq]]                                     | 🟢 | Supernatural        | Various                         | Independent                    | 🟢 | Unknown                                            |
@@ -85,7 +82,6 @@
 | [[Info/Characters/999 NPC's/Talking_Fox\|Talking_Fox]]                         | 🟢 | Supernatural        | Various                         | Independent                    | 🟢 | Unknown                                            |
 | [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]     | 🔴 | Supernatural        | Greenwall                       | Clan Volkihar                  | 🔴 | Session 012                                        |
 | [[Info/Characters/999 NPC's/Mysterious_Crow\|Mysterious_Crow]]                 | 🟢 | Supernatural Entity | Unknown                         | Unknown                        | 🟢 | Session 014                                        |
-| [[Info/Characters/999 NPC's/Alfie\|Alfie]]                                     | 🟢 | Tavern Staff        | Falderstad                      | Independent                    | 🟢 | Session 018                                        |
 | [[Info/Characters/999 NPC's/Astrid\|Astrid]]                                   | 🟢 | Tavern Staff        | Riften                          | Independent                    | 🟢 | Session 010                                        |
 | [[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]                                   | 🟢 | Tavern Staff        | The_Soggy_Beaver                | Independent                    | 🟢 | Session 015                                        |
 | [[Info/Characters/999 NPC's/Denskar\|Denskar]]                                 | 🟢 | Tavern Staff        | Falderstad                      | Independent                    | 🟢 | Session 013                                        |
@@ -109,7 +105,6 @@
 | [[Info/Characters/999 NPC's/Lady Elaris\|Lady Elaris]]           | Unknown          | Independent           | 🟢 | Unknown     | Background |
 | [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]]         | Riften           | Riften Court          | 🟢 | Session 004 | Major      |
 | [[Info/Characters/999 NPC's/Rigi\|Rigi]]                         | Riften           | Riften Court          | 🟢 | Unknown     | Major      |
-| [[Info/Characters/999 NPC's/Valor\|Valor]]                       | Falderstad       | Falderstad Government | 🟢 | Session 018 | Background |
 
 { .block-language-dataview}
 
@@ -135,7 +130,6 @@
 ## Tavern Staff and Patrons
 | File                                              | Location         | Faction     |    | First Seen  |
 | ------------------------------------------------- | ---------------- | ----------- | -- | ----------- |
-| [[Info/Characters/999 NPC's/Alfie\|Alfie]]     | Falderstad       | Independent | 🟢 | Session 018 |
 | [[Info/Characters/999 NPC's/Astrid\|Astrid]]   | Riften           | Independent | 🟢 | Session 010 |
 | [[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]   | The_Soggy_Beaver | Independent | 🟢 | Session 015 |
 | [[Info/Characters/999 NPC's/Denskar\|Denskar]] | Falderstad       | Independent | 🟢 | Session 013 |
@@ -154,15 +148,14 @@
 { .block-language-dataview}
 
 ## Magical Figures
-| File                                                                        | Location                  | Faction       |    | First Seen  |
-| --------------------------------------------------------------------------- | ------------------------- | ------------- | -- | ----------- |
-| [[Info/Characters/999 NPC's/Adda\|Adda]]                                 | Riften                    | Cult of Ysmir | 🟢 | Session 010 |
-| [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]     | Riften                    | Mages Guild   | 🟢 | Session 004 |
-| [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]         | Greenwall                 | Mages Guild   | 🟢 | Unknown     |
-| [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]]       | Travelling (Windhelm/Ayr) | Mages Guild   | 🟢 | Session 018 |
-| [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] | Riften                    | Riften Court  | 🟢 | Unknown     |
-| [[Info/Characters/999 NPC's/Torik\|Torik]]                               | Falderstad                | Independent   | 🟢 | Session 016 |
-| [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]                       | Greenwall                 | Independent   | 🟢 | Unknown     |
+| File                                                                        | Location                       | Faction       |    | First Seen  |
+| --------------------------------------------------------------------------- | ------------------------------ | ------------- | -- | ----------- |
+| [[Info/Characters/999 NPC's/Adda\|Adda]]                                 | Riften                         | Cult of Ysmir | 🟢 | Session 010 |
+| [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]     | Riften                         | Mages Guild   | 🟢 | Session 004 |
+| [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]         | Falderstad (as of Session 018) | Mages Guild   | 🟢 | Session 018 |
+| [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] | Riften                         | Riften Court  | 🟢 | Unknown     |
+| [[Info/Characters/999 NPC's/Torik\|Torik]]                               | Falderstad                     | Independent   | 🟢 | Session 016 |
+| [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]                       | Greenwall                      | Independent   | 🟢 | Unknown     |
 
 { .block-language-dataview}
 

@@ -17,7 +17,7 @@ Markarth is a major city in the Reach, western Skyrim, built into the side of a 
 ## Historical Significance
 
 ### The Grey Host Crisis (circa 2E 585-586)
-According to [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]] ([[2 -  Sessions/Session 018\|Session 018]]):
+According to [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] ([[2 -  Sessions/Session 018\|Session 018]]):
 - The [[Info/Lore/Grey_Host\|Grey_Host]] (vampire-werewolf alliance) had significant operations in western Skyrim
 - A **Harrowstorm Engine Core** was taken from Markarth during this period
 - This core was the only one not retrieved after the Grey Host's defeat

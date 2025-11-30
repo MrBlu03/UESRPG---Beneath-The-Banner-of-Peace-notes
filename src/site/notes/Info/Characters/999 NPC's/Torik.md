@@ -9,7 +9,8 @@
 **Race:** Nord  
 **Gender:** Male  
 **Age:** Older, clever man  
-**Occupation:** Mage/Scholar  
+**Occupation:** Mage/Scholar, Lawspeaker, Shop Owner  
+**Shop:** The Thistle Branch  
 **Location:** [[Info/Locations/Falderstad\|Falderstad]]  
 **Faction:** Independent  
 **Education:** College of Winterhold
@@ -147,12 +148,27 @@ Torik represents the bridge between academic magical knowledge and practical sup
 - Gave the charm to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] with meaningful words: *"Keep it to remember that even the gods can lose their way and still be found."*
 - Will document encounter for Mages Guild/College of Winterhold
 
-### [[2 -  Sessions/Session 018\|Session 018]] - Teaching the Fox's Guile Rune
-- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] visited Torik's shop (The Thistle & Petal) to learn the Fox's Guile rune
-- Taught her the rune for **30 Gold**
-- **Visual Description**: Two slanted lines across each cheek from mouth to cheekbone, and a Gable rune (X-shape) painted between the eyebrows
+### [[2 -  Sessions/Session 018\|Session 018]] - The Thistle Branch & The Execution
+
+#### Morning Shopping (10th Sun's Dusk)
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] visited Torik's shop (**The Thistle Branch**) to learn the **Fox's Guile woad**
+- Taught her the woad for **30 Gold**
+- **Visual Description**: Two slanted lines across each cheek from mouth to cheekbone, and a **Gebo rune** (X-shape) painted between the eyebrows
 - **Effect**: Enhances social interactions and deception
 - **Revealed**: Has been teaching [[Info/Characters/999 NPC's/Hoki\|Hoki]] alchemy; Hoki is learning to make potions
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] was NOT present during the woad application
+- Also sold [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] the **Jack of Trades** spellbook (250 gold, allows learning 3 spells)
+
+#### The Execution as Lawspeaker (11th Sun's Dusk)
+Torik served as the **Lawspeaker** during the execution of the Dunmer prisoners at [[Info/Locations/Holmgang_Field\|Holmgang Field]]:
+- **Ritual Preparations**: Created a circle of ash around the fire pit
+- **Role**: Conducted the formal legal ceremony, speaking the ritual words
+- **Opening Words**: *"We gather under the witness of the Divines. Today, the Law claims what is owed. Blood calls for blood. The debt must be paid."*
+- Presented each condemned's crimes and asked for final words
+- Called upon **Shor** and **Kyne** to witness the judgment
+- Signaled [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] (the executioner) with the words: *"By Shor's hand, may he be swift."*
+- **Blood Oath Chant**: Led the assembly in the closing words: *"Today the Law takes blood. Today the debt is paid. Shor witness. Kyne carry them home. The blood oath is sealed."*
+- Participated in the feast at [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] afterward
 
 ## Future Involvement
 - Potential mentor role for [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] regarding necromancy

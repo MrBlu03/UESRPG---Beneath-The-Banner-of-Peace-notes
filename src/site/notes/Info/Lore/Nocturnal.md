@@ -17,7 +17,7 @@ Nocturnal is one of the Daedric Princes, the powerful beings who rule over their
 ## Associated Creatures
 
 ### Daedric Crows ([[2 -  Sessions/Session 018\|Session 018]])
-According to [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]]:
+According to [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]:
 - Nocturnal is associated with **Daedric crows**
 - These crows are immortal, teleporting creatures that can speak
 - They are described as "curious creatures"
@@ -30,7 +30,7 @@ According to [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]]:
 
 ## Related NPCs
 - **[[Baron Jangleplume\|Baron Jangleplume]]**: Daedric crow associated with Nocturnal
-- **[[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]]**: Provided information about Nocturnal's association with the crows
+- **[[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]**: Provided information about Nocturnal's association with the crows
 
 ## Session References
-- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]] identified the Daedric crows as being associated with Nocturnal
+- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] identified the Daedric crows as being associated with Nocturnal

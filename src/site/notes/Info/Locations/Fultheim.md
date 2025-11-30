@@ -23,7 +23,7 @@ According to interrogation of Dunmer prisoners in [[Info/Locations/Falderstad\|F
 - He smelled of **sulfur** (possibly from proximity to Morrowind's volcanic regions)
 - The ledger bearing the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] symbol was given to them
 - The smugglers departed Fultheim the next day
-- They were ultimately captured before completing delivery to [[Info/Locations/Kil_Great_White\|Kil_Great_White]]
+- They were ultimately captured before completing delivery to [[Kil_Great_White\|Kil_Great_White]]
 
 ## Investigative Value
 - **Temple Guard Connection**: The contact's appearance suggests possible Tribunal Temple or Dunmer religious connections

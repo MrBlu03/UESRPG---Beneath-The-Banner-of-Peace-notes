@@ -3,17 +3,17 @@
 ---
 
 
-# Tavern Bartender
+# Bjalfi
 
 ## Basic Information
 **Race:** Nord (Presumed)  
-**Gender:** Unknown  
+**Gender:** Male  
 **Occupation:** Bartender/Proprietor  
 **Location:** [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] tavern in [[Info/Locations/Falderstad\|Falderstad]]  
 **Faction:** Independent
 
 ## Description
-The bartender of [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] tavern in [[Info/Locations/Falderstad\|Falderstad]] who serves both locals and travelers. They maintain awareness of their customers and can provide information about recent visitors and local happenings.
+Bjalfi is the proprietor and bartender of [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] tavern in [[Info/Locations/Falderstad\|Falderstad]]. He serves both locals and travelers, maintaining awareness of his customers and providing information about recent visitors and local happenings.
 
 ## Key Interactions
 
@@ -46,11 +46,19 @@ The bartender of [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] tavern in
 - **Travelers**: Provides services to various visitors
 
 ## Significance
-The Tavern Bartender represents the informal information network that exists in taverns and inns throughout the region. Their observation that [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] was "looking for a guy" provides context for his mysterious activities and demonstrates how tavern staff often possess valuable intelligence about customer activities.
+Bjalfi represents the informal information network that exists in taverns and inns throughout the region. His observation that [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] was "looking for a guy" provides context for his mysterious activities and demonstrates how tavern staff often possess valuable intelligence about customer activities.
+
+### [[2 -  Sessions/Session 018\|Session 018]] - The Execution Feast (11th Sun's Dusk)
+**Hosting the Celebration:**
+- Served food during the feast following the Dunmer execution at [[Info/Locations/Holmgang_Field\|Holmgang Field]]
+- [[Info/Characters/999 NPC's/Elsa\|Elsa]] (barmaid) ran drinks while Bjalfi handled food
+- The tavern served **Boar's Blood Mead** to the celebrants
+- Hosted Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]], the Fangs of Fjelhorst, and other prominent figures
 
 ## Information Value
 - Confirms [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s previous activities in [[Info/Locations/Falderstad\|Falderstad]]
 - Suggests [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] was conducting some form of search or investigation
+- Connected to Imperial Legion history (gave Durov a Legion tag stamped with zero)
 - Provides timeline information about party member activities
 - Represents network of informal intelligence sources
 

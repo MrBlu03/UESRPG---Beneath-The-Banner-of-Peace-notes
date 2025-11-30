@@ -44,15 +44,12 @@
 | [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir_Stormcrown]]         | 🟢 | [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir_Stormcrown]]         | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | 🟢 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Gorm\|Gorm]]                                     | 🟢 | [[Info/Characters/999 NPC's/Gorm\|Gorm]]                                     | Political Figure    | 🟢 |
-| [[Info/Characters/999 NPC's/Tarik\|Tarik]]                                   | 🟢 | [[Info/Characters/999 NPC's/Tarik\|Tarik]]                                   | Religious Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | 🟢 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | Political Figure    | 🟢 |
-| [[Info/Characters/999 NPC's/Valor\|Valor]]                                   | 🟢 | [[Info/Characters/999 NPC's/Valor\|Valor]]                                   | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | 🟢 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | Criminal            | 🟢 |
 | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | ❓  | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | Supernatural        | ❓  |
 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | 🟢 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | Underworld Contact  | 🟢 |
 | [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]         | 🟢 | [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]         | Magical Figure      | 🟢 |
 | [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]             | 🟢 | [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]             | Magical Figure      | 🟢 |
-| [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]]           | 🟢 | [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]]           | Magical Figure      | 🟢 |
 | [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]]             | 🟢 | [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]]             | Antagonist          | 🟢 |
 | [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] | 🟢 | [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] | Criminal            | 🟢 |
 | [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]               | 🟢 | [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]               | Criminal            | 🟢 |

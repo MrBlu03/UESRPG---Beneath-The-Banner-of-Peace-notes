@@ -73,7 +73,7 @@ Gorm represents exceptional local leadership in Skyrim. His personal generosity 
 ### [[2 -  Sessions/Session 018\|Session 018]] - The Nordic Execution
 
 #### Presiding Over the Execution (11th of Sun's Dusk)
-- Led the procession to the [[Info/Locations/Standing_Stones_Execution_Site\|Standing Stones]]
+- Led the procession to the [[Standing_Stones_Execution_Site\|Standing Stones]]
 - Presented the executioner's blade to [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
   - A claymore of **Stalhrim** (ancient ice-like material)
   - Quote: *"Let it be known that this blade is not yours. It belongs to the law. When the law is done, you will return it clean or not at all."*

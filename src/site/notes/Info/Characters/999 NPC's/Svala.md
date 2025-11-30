@@ -170,3 +170,17 @@ Svala represents the experienced local knowledge that bridges normal hunting act
 - Represents bridge between common folk and learned officials
 - Successful leadership under extreme supernatural threat
 - Sister's position as huscarl gives her additional influence and resources
+
+### [[2 -  Sessions/Session 018\|Session 018]] - The Execution Ceremony
+
+**The Procession (11th Sun's Dusk):**
+- Walked alongside her sister [[Info/Characters/999 NPC's/Helga\|Helga]] in the procession to [[Info/Locations/Holmgang_Field\|Holmgang Field]]
+- Positioned in the fourth group of the march (with Helga)
+- **Svala came first**, leading Helga as they walked to the execution site
+- Witnessed the execution of the three Dunmer prisoners
+- Participated in the blood oath chant: *"Today the Law takes blood. Today the debt is paid. Shor witness. Kyne carry them home. The blood oath is sealed."*
+
+**The Feast:**
+- Attended the celebration feast at [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]]
+- Present alongside [[Info/Characters/999 NPC's/Helga\|Helga]] and [[Info/Characters/999 NPC's/Torik\|Torik]] at the party's table
+- Drank **Boar's Blood Mead** with the community

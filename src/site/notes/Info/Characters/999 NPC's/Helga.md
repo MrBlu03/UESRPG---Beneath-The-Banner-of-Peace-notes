@@ -42,14 +42,14 @@ Helga Cairn-Shield serves as the huscarl to Jarl [[Info/Characters/999 NPC's/Gor
 - Arrived at the party's house with a tray of four cups of **warm mead**
 - Quote: *"Today the Lord takes blood. Let this keep you warm for the dead."*
 - Knocked once and entered to summon the party to the longhouse when the horn sounded three times
-- Walked with [[Info/Characters/999 NPC's/Valor\|Valor]] in the execution procession (after the skalds, before The Fangs of Fjelhørst)
+- Walked with [[Valor\|Valor]] in the execution procession (after the skalds, before The Fangs of Fjelhørst)
 
 ## Relationships
 - **Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]]**: Serves as huscarl and deputy when he is incapacitated
 - **[[Info/Characters/999 NPC's/Svala\|Svala]]**: Her sister, hunter who participated in dangerous Ragged Lord hunt
 - **[[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]]**: Grateful for protecting her sister, provided official cooperation
 - **[[Info/Locations/Falderstad\|Falderstad]] Guards**: Works with local security forces in managing city affairs
-- **[[Info/Characters/999 NPC's/Valor\|Valor]]**: Fellow official, walks together in processions
+- **[[Valor\|Valor]]**: Fellow official, walks together in processions
 
 ## Significance
 Helga represents competent local governance in [[Info/Locations/Falderstad\|Falderstad]], stepping up to handle critical situations when leadership is compromised. Her willingness to work with the party demonstrates the city's openness to outside assistance in solving serious threats.

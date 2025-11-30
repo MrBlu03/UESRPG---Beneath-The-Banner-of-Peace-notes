@@ -9,64 +9,63 @@
 **Status:** 🟢 Active | 🔴 Destroyed | ❄️ Frozen | 🟡 Abandoned | ❓ Unknown
 
 ## All Locations
-| File                                                                                 |    | Type           | Region                                  |    | First Visited |
-| ------------------------------------------------------------------------------------ | -- | -------------- | --------------------------------------- | -- | ------------- |
-| [[Info/Locations/Ayr\|Ayr]]                                                       | 🟢 | City           | Unknown (likely High Rock or Summerset) | 🟢 | \-            |
-| [[Info/Locations/Falderstad\|Falderstad]]                                         | 🟢 | City           | Eastern Skyrim                          | 🟢 | Session 013   |
-| [[Info/Locations/Haven\|Haven]]                                                   | 🟢 | City           | Valenwood                               | 🟢 | \-            |
-| [[Info/Locations/Markarth\|Markarth]]                                             | 🟢 | City           | The Reach, Western Skyrim               | 🟢 | \-            |
-| [[Info/Locations/Riften\|Riften]]                                                 | 🟢 | City           | Riften Hold                             | 🟢 | Session 001   |
-| [[Info/Locations/Winterhold\|Winterhold]]                                         | 🟢 | City           | Northern Skyrim                         | 🟢 | Unknown       |
-| [[Info/Locations/Cursed_Grove\|Cursed_Grove]]                                     | ❓  | Cursed Area    | Northern_Forest                         | ❓  | Session 015   |
-| [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]]                             | 🟢 | Infrastructure | Riften Hold                             | 🟢 | Session 003   |
-| [[Info/Locations/Ratway\|Ratway]]                                                 | 🟢 | Infrastructure | Riften Hold                             | 🟢 | Session 012   |
-| [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]                                   | 🟢 | Infrastructure | Riften Hold                             | 🟢 | Session 002   |
-| [[Info/Locations/Shadow Stone\|Shadow Stone]]                                     | 🟢 | Magical        | Riften Hold                             | 🟢 | Unknown       |
-| [[Info/Locations/Shors_Bastion\|Shors_Bastion]]                                   | ❓  | Military       | Northern Skyrim                         | ❓  | Unknown       |
-| [[Info/Locations/Harmugstahl\|Harmugstahl]]                                       | 🟡 | Military Keep  | Riften Hold                             | 🟡 | Session 004   |
-| [[Info/Locations/Abandoned_Cave_South_of_Riften\|Abandoned_Cave_South_of_Riften]] | 🟡 | Natural        | Riften Hold                             | 🟡 | Session 011   |
-| [[Info/Locations/Kahru's Hollow\|Kahru's Hollow]]                                 | 🟢 | Natural        | Riften Hold                             | 🟢 | Unknown       |
-| [[Info/Locations/Arkayfell\|Arkayfell]]                                           | ❓  | Other          | Unknown                                 | ❓  | Unknown       |
-| [[Info/Locations/Nilan's_House\|Nilan's_House]]                                   | 🟡 | Residence      | Falderstad                              | 🟡 | Session 014   |
-| [[Info/Locations/Standing_Stones_Execution_Site\|Standing_Stones_Execution_Site]] | 🟢 | Ritual Site    | Falderstad                              | 🟢 | Session 018   |
-| [[Info/Locations/Abandoned_Guild_House\|Abandoned_Guild_House]]                   | 🟡 | Ruin           | Falderstad                              | 🟡 | Session 015   |
-| [[Info/Locations/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]]                     | 🟡 | Ruin           | Northern_Forest                         | 🟡 | Session 014   |
-| [[Info/Locations/Greenwall\|Greenwall]]                                           | 🔴 | Settlement     | Northern Skyrim                         | 🔴 | Session 006   |
-| [[Info/Locations/Mistwatch\|Mistwatch]]                                           | 🟢 | Settlement     | Unknown                                 | 🟢 | Unknown       |
-| [[Info/Locations/Northpoint\|Northpoint]]                                         | ❓  | Settlement     | Unknown                                 | ❓  | Unknown       |
-| [[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]]                             | 🟢 | Settlement     | Riften Hold                             | 🟢 | Session 002   |
-| [[Info/Locations/Trevas_Bend\|Trevas_Bend]]                                       | 🟢 | Settlement     | Riften Hold                             | 🟢 | Session 001   |
-| [[Info/Locations/Borans_Bullwarks\|Borans_Bullwarks]]                             | 🟢 | Shop           | Riften Hold                             | 🟢 | Session 013   |
-| [[Info/Locations/Ember_Keg\|Ember_Keg]]                                           | 🟢 | Shop           | Riften Hold                             | 🟢 | Session 007   |
-| [[Info/Locations/Scent_of_Serenity\|Scent_of_Serenity]]                           | 🟢 | Shop           | Riften Hold                             | 🟢 | Session 001   |
-| [[Info/Locations/Sweaty_Steel\|Sweaty_Steel]]                                     | 🟢 | Shop           | Riften Hold                             | 🟢 | Session 003   |
-| [[Info/Locations/The_Honed_Edge\|The_Honed_Edge]]                                 | 🟢 | Shop           | Riften Hold                             | 🟢 | Unknown       |
-| [[Info/Locations/The_Ragged_Flagon\|The_Ragged_Flagon]]                           | 🟢 | Shop           | Riften Hold                             | 🟢 | Session 012   |
-| [[Info/Locations/The_Sleeping_Stag\|The_Sleeping_Stag]]                           | 🟢 | Shop           | Riften Hold                             | 🟢 | Unknown       |
-| [[Info/Locations/The_Wounded_Boar\|The_Wounded_Boar]]                             | 🟢 | Shop           | Falderstad                              | 🟢 | Session 013   |
-| [[Info/Locations/Wanderers_Rest\|Wanderers_Rest]]                                 | 🟢 | Shop           | Riften Hold                             | 🟢 | Unknown       |
-| [[Info/Locations/Whispwood_Remedies\|Whispwood_Remedies]]                         | 🟢 | Shop           | Riften Hold                             | 🟢 | Unknown       |
-| [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]]                             | 🟢 | Tavern         | Falderstad                              | 🟢 | Session 015   |
-| [[Info/Locations/Fultheim\|Fultheim]]                                             | 🟢 | Town           | Skyrim                                  | 🟢 | \-            |
-| [[Info/Locations/Kil_Great_White\|Kil_Great_White]]                               | 🟢 | Unknown        | The Rift, Skyrim                        | 🟢 | \-            |
-| [[Info/Locations/Northern_Forest\|Northern_Forest]]                               | 🟢 | Wilderness     | Eastern Skyrim                          | 🟢 | Session 014   |
+| File                                                                                 |    | Type           | Region                       |    | First Visited |
+| ------------------------------------------------------------------------------------ | -- | -------------- | ---------------------------- | -- | ------------- |
+| [[Info/Locations/Ebonheart\|Ebonheart]]                                           | 🟢 | City           | Morrowind                    | 🟢 | \-            |
+| [[Info/Locations/Falderstad\|Falderstad]]                                         | 🟢 | City           | Eastern Skyrim               | 🟢 | Session 013   |
+| [[Info/Locations/Markarth\|Markarth]]                                             | 🟢 | City           | The Reach, Western Skyrim    | 🟢 | \-            |
+| [[Info/Locations/Riften\|Riften]]                                                 | 🟢 | City           | Riften Hold                  | 🟢 | Session 001   |
+| [[Info/Locations/Winterhold\|Winterhold]]                                         | 🟢 | City           | Northern Skyrim              | 🟢 | Unknown       |
+| [[Info/Locations/Cursed_Grove\|Cursed_Grove]]                                     | ❓  | Cursed Area    | Northern_Forest              | ❓  | Session 015   |
+| [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]]                             | 🟢 | Infrastructure | Riften Hold                  | 🟢 | Session 003   |
+| [[Info/Locations/Ratway\|Ratway]]                                                 | 🟢 | Infrastructure | Riften Hold                  | 🟢 | Session 012   |
+| [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]                                   | 🟢 | Infrastructure | Riften Hold                  | 🟢 | Session 002   |
+| [[Info/Locations/Eyevea\|Eyevea]]                                                 | 🟢 | Island         | Summerset (pocket dimension) | 🟢 | \-            |
+| [[Info/Locations/Shadow Stone\|Shadow Stone]]                                     | 🟢 | Magical        | Riften Hold                  | 🟢 | Unknown       |
+| [[Info/Locations/Shors_Bastion\|Shors_Bastion]]                                   | ❓  | Military       | Northern Skyrim              | ❓  | Unknown       |
+| [[Info/Locations/Harmugstahl\|Harmugstahl]]                                       | 🟡 | Military Keep  | Riften Hold                  | 🟡 | Session 004   |
+| [[Info/Locations/Abandoned_Cave_South_of_Riften\|Abandoned_Cave_South_of_Riften]] | 🟡 | Natural        | Riften Hold                  | 🟡 | Session 011   |
+| [[Info/Locations/Kahru's Hollow\|Kahru's Hollow]]                                 | 🟢 | Natural        | Riften Hold                  | 🟢 | Unknown       |
+| [[Info/Locations/Arkayfell\|Arkayfell]]                                           | ❓  | Other          | Unknown                      | ❓  | Unknown       |
+| [[Info/Locations/Nilan's_House\|Nilan's_House]]                                   | 🟡 | Residence      | Falderstad                   | 🟡 | Session 014   |
+| [[Info/Locations/Holmgang_Field\|Holmgang_Field]]                                 | 🟢 | Ritual Site    | Falderstad                   | 🟢 | Session 018   |
+| [[Info/Locations/Abandoned_Guild_House\|Abandoned_Guild_House]]                   | 🟡 | Ruin           | Falderstad                   | 🟡 | Session 015   |
+| [[Info/Locations/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]]                     | 🟡 | Ruin           | Northern_Forest              | 🟡 | Session 014   |
+| [[Info/Locations/Greenwall\|Greenwall]]                                           | 🔴 | Settlement     | Northern Skyrim              | 🔴 | Session 006   |
+| [[Info/Locations/Mistwatch\|Mistwatch]]                                           | 🟢 | Settlement     | Unknown                      | 🟢 | Unknown       |
+| [[Info/Locations/Northpoint\|Northpoint]]                                         | ❓  | Settlement     | Unknown                      | ❓  | Unknown       |
+| [[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]]                             | 🟢 | Settlement     | Riften Hold                  | 🟢 | Session 002   |
+| [[Info/Locations/Trevas_Bend\|Trevas_Bend]]                                       | 🟢 | Settlement     | Riften Hold                  | 🟢 | Session 001   |
+| [[Info/Locations/Borans_Bullwarks\|Borans_Bullwarks]]                             | 🟢 | Shop           | Riften Hold                  | 🟢 | Session 013   |
+| [[Info/Locations/Ember_Keg\|Ember_Keg]]                                           | 🟢 | Shop           | Riften Hold                  | 🟢 | Session 007   |
+| [[Info/Locations/Scent_of_Serenity\|Scent_of_Serenity]]                           | 🟢 | Shop           | Riften Hold                  | 🟢 | Session 001   |
+| [[Info/Locations/Sweaty_Steel\|Sweaty_Steel]]                                     | 🟢 | Shop           | Riften Hold                  | 🟢 | Session 003   |
+| [[Info/Locations/The_Honed_Edge\|The_Honed_Edge]]                                 | 🟢 | Shop           | Riften Hold                  | 🟢 | Unknown       |
+| [[Info/Locations/The_Ragged_Flagon\|The_Ragged_Flagon]]                           | 🟢 | Shop           | Riften Hold                  | 🟢 | Session 012   |
+| [[Info/Locations/The_Sleeping_Stag\|The_Sleeping_Stag]]                           | 🟢 | Shop           | Riften Hold                  | 🟢 | Unknown       |
+| [[Info/Locations/The_Wounded_Boar\|The_Wounded_Boar]]                             | 🟢 | Shop           | Falderstad                   | 🟢 | Session 013   |
+| [[Info/Locations/Wanderers_Rest\|Wanderers_Rest]]                                 | 🟢 | Shop           | Riften Hold                  | 🟢 | Unknown       |
+| [[Info/Locations/Whispwood_Remedies\|Whispwood_Remedies]]                         | 🟢 | Shop           | Riften Hold                  | 🟢 | Unknown       |
+| [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]]                             | 🟢 | Tavern         | Falderstad                   | 🟢 | Session 015   |
+| [[Info/Locations/Fultheim\|Fultheim]]                                             | 🟢 | Town           | Skyrim                       | 🟢 | \-            |
+| [[Info/Locations/Kjallgrad\|Kjallgrad]]                                           | 🟢 | Unknown        | The Rift, Skyrim             | 🟢 | \-            |
+| [[Info/Locations/Northern_Forest\|Northern_Forest]]                               | 🟢 | Wilderness     | Eastern Skyrim               | 🟢 | Session 014   |
 
 { .block-language-dataview}
 
 ## Major Cities and Towns
-| File                                                     | Region                                  |    | First Visited | Establishments                                                                                                                                                                         |
-| -------------------------------------------------------- | --------------------------------------- | -- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Info/Locations/Ayr\|Ayr]]                           | Unknown (likely High Rock or Summerset) | 🟢 | \-            | \-                                                                                                                                                                                     |
-| [[Info/Locations/Falderstad\|Falderstad]]             | Eastern Skyrim                          | 🟢 | Session 013   | <ul><li>The Wounded Boar</li></ul>                                                                                                                                                     |
-| [[Info/Locations/Haven\|Haven]]                       | Valenwood                               | 🟢 | \-            | \-                                                                                                                                                                                     |
-| [[Info/Locations/Markarth\|Markarth]]                 | The Reach, Western Skyrim               | 🟢 | \-            | \-                                                                                                                                                                                     |
-| [[Info/Locations/Riften\|Riften]]                     | Riften Hold                             | 🟢 | Session 001   | <ul><li>Scent of Serenity</li><li>Sweaty Steel</li><li>The Honed Edge</li><li>The Sleeping Stag</li><li>Boran's Bullwarks</li><li>Whispwood Remedies</li><li>Wanderer's Rest</li></ul> |
-| [[Info/Locations/Winterhold\|Winterhold]]             | Northern Skyrim                         | 🟢 | Unknown       | <ul><li>College of Winterhold</li></ul>                                                                                                                                                |
-| [[Info/Locations/Greenwall\|Greenwall]]               | Northern Skyrim                         | 🔴 | Session 006   | <ul><li>Inn</li><li>Keep</li></ul>                                                                                                                                                     |
-| [[Info/Locations/Mistwatch\|Mistwatch]]               | Unknown                                 | 🟢 | Unknown       | <ul></ul>                                                                                                                                                                              |
-| [[Info/Locations/Northpoint\|Northpoint]]             | Unknown                                 | ❓  | Unknown       | <ul></ul>                                                                                                                                                                              |
-| [[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]] | Riften Hold                             | 🟢 | Session 002   | <ul><li>Snow-Shod Estate</li></ul>                                                                                                                                                     |
-| [[Info/Locations/Trevas_Bend\|Trevas_Bend]]           | Riften Hold                             | 🟢 | Session 001   | <ul></ul>                                                                                                                                                                              |
+| File                                                     | Region                    |    | First Visited | Establishments                                                                                                                                                                         |
+| -------------------------------------------------------- | ------------------------- | -- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Info/Locations/Ebonheart\|Ebonheart]]               | Morrowind                 | 🟢 | \-            | \-                                                                                                                                                                                     |
+| [[Info/Locations/Falderstad\|Falderstad]]             | Eastern Skyrim            | 🟢 | Session 013   | <ul><li>The Wounded Boar</li></ul>                                                                                                                                                     |
+| [[Info/Locations/Markarth\|Markarth]]                 | The Reach, Western Skyrim | 🟢 | \-            | \-                                                                                                                                                                                     |
+| [[Info/Locations/Riften\|Riften]]                     | Riften Hold               | 🟢 | Session 001   | <ul><li>Scent of Serenity</li><li>Sweaty Steel</li><li>The Honed Edge</li><li>The Sleeping Stag</li><li>Boran's Bullwarks</li><li>Whispwood Remedies</li><li>Wanderer's Rest</li></ul> |
+| [[Info/Locations/Winterhold\|Winterhold]]             | Northern Skyrim           | 🟢 | Unknown       | <ul><li>College of Winterhold</li></ul>                                                                                                                                                |
+| [[Info/Locations/Greenwall\|Greenwall]]               | Northern Skyrim           | 🔴 | Session 006   | <ul><li>Inn</li><li>Keep</li></ul>                                                                                                                                                     |
+| [[Info/Locations/Mistwatch\|Mistwatch]]               | Unknown                   | 🟢 | Unknown       | <ul></ul>                                                                                                                                                                              |
+| [[Info/Locations/Northpoint\|Northpoint]]             | Unknown                   | ❓  | Unknown       | <ul></ul>                                                                                                                                                                              |
+| [[Info/Locations/Snow-Shod_Estate\|Snow-Shod_Estate]] | Riften Hold               | 🟢 | Session 002   | <ul><li>Snow-Shod Estate</li></ul>                                                                                                                                                     |
+| [[Info/Locations/Trevas_Bend\|Trevas_Bend]]           | Riften Hold               | 🟢 | Session 001   | <ul></ul>                                                                                                                                                                              |
 
 { .block-language-dataview}
 

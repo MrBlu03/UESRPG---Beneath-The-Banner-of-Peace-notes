@@ -33,7 +33,7 @@ Dunmer smugglers interrogated in [[Info/Locations/Falderstad\|Falderstad]] revea
 - The Coiled Serpent **contacted them** (they didn't join voluntarily)
 - Paid **2,000 gold in advance** to transport a ledger
 - The ledger bore the **Coiled Serpent symbol**
-- **Delivery Destination**: Kil Great White (a location in the Rift)
+- **Delivery Destination**: [[Info/Locations/Kjallgrad\|Kjallgrad]] (a location in the Rift)
 - **Contact Identifier**: Individual wearing an **Ouroboros pendant**
 
 ### The Dunmer Ledger
@@ -41,7 +41,7 @@ Contents of the confiscated ledger (mostly in Dunmeri):
 - General business transactions (lumber, cloth)
 - A loan of **5,000 gold** from a Dunmer bank
 - Dealings with **[[Info/Organizations/House_Hlaalu\|House_Hlaalu]]**
-- A single mention of **House Delveri**
+- A single mention of **House Telvanni**
 - One confirmed reference to the **Coiled Serpent**
 
 ### Temple Guard Connection

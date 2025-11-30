@@ -30,7 +30,7 @@ Sonja is one half of a pair of twin skalds, along with her sister [[Info/Charact
 
 #### The Execution Procession (11th of Sun's Dusk)
 - Walked with [[Info/Characters/999 NPC's/Senya\|Senya]] and [[Info/Characters/999 NPC's/Agni\|Agni]] in the procession
-- Performed "The Song of the Wolf" during the march to the [[Info/Locations/Standing_Stones_Execution_Site\|Standing Stones]]
+- Performed "The Song of the Wolf" during the march to the [[Standing_Stones_Execution_Site\|Standing Stones]]
 
 #### Recording Names in the Book of Falderstad
 After the execution, Sonja requested the party's full names for the **Book of Falderstad**:

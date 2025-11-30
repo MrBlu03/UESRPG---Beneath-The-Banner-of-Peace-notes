@@ -7,14 +7,24 @@
 ## Description
 [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] is a Breton mage specializing in Daedric relics and artifacts. She is part of the Mages Guild expedition sent to investigate the Daedric orb at [[Info/Locations/Greenwall\|Greenwall]]. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] recognizes her name as Breton but cannot place where she knows it from.
 
+## Session 018 Appearance
+Gabrielle arrived in [[Info/Locations/Falderstad\|Falderstad]] before the 10th of Sun's Dusk, 2E 600, bringing news about the Harrowstorm Engine Core:
+- **Artifact Update**: The orb has been identified as a **Harrowstorm Engine Core**
+- **Transport**: The artifact departed [[Info/Locations/Falderstad\|Falderstad]] 1-2 days prior, heading to [[Info/Locations/Eyevea\|Eyevea]] via [[Windhelm\|Windhelm]]
+- **Security**: The core has been wrapped in multiple layers of **anti-Daedric wards**
+- **Storage**: [[Vanus\|Vanus]] is handling storage arrangements at [[Info/Locations/Eyevea\|Eyevea]]
+- **Request**: She asked [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to keep an eye out for artifacts or documents tied to the [[Grey Host\|Grey Host]] and to send word to the guild if found
+
 ## Relationships
 - **Mages Guild Member**: Part of the expert team sent by Skald-King Jorunn
 - **Daedric Specialist**: Expert on Daedric relics and artifacts
+- **[[Vanus\|Vanus]]**: Working with him on Harrowstorm Engine Core storage
 - **Possible Connection to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]**: Her name is familiar to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] but the connection is unclear
 
 ## Key Expertise
 - **Daedric Relics**: Primary specialization in understanding and analyzing Daedric artifacts
-- **Artifact Analysis**: If the cursed orb at [[Info/Locations/Greenwall\|Greenwall]] can be made to reveal its secrets, she will be able to do it
+- **Harrowstorm Research**: Involved in studying the Harrowstorm Engine Core
+- **Grey Host Knowledge**: Aware of the connection between the artifact and the Grey Host
 
 ## Current Mission
 - **Destination**: [[Info/Locations/Greenwall\|Greenwall]] to investigate the Daedric orb discovered by the party

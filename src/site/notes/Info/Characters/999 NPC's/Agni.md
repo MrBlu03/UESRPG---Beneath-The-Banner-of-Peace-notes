@@ -20,7 +20,7 @@ Agni is a tall Nord man with a braided beard who accompanied the twin skalds [[I
 ### [[2 -  Sessions/Session 018\|Session 018]] - The Execution Ceremony (11th of Sun's Dusk, 2E 600)
 
 #### The Procession
-- Walked with [[Info/Characters/999 NPC's/Senya\|Senya]] and [[Sonja\|Sonja]] in the procession order (after [[Info/Characters/999 NPC's/Tarik\|Tarik]], before [[Info/Characters/999 NPC's/Helga\|Helga]] and [[Info/Characters/999 NPC's/Valor\|Valor]])
+- Walked with [[Info/Characters/999 NPC's/Senya\|Senya]] and [[Sonja\|Sonja]] in the procession order (after [[Tarik\|Tarik]], before [[Info/Characters/999 NPC's/Helga\|Helga]] and [[Valor\|Valor]])
 - Performed "The Song of the Wolf" with the twin skalds during the march to the standing stones
 
 #### The Execution

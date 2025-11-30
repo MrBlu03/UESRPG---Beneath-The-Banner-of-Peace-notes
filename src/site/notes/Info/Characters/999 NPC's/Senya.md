@@ -31,8 +31,8 @@ Senya is one half of a pair of twin skalds, along with her sister [[Sonja\|Sonja
 - Took a break during which [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] performed her lute
 
 #### The Execution Procession (11th of Sun's Dusk)
-- Walked with [[Sonja\|Sonja]] and [[Info/Characters/999 NPC's/Agni\|Agni]] in the procession (after [[Info/Characters/999 NPC's/Tarik\|Tarik]], before [[Info/Characters/999 NPC's/Helga\|Helga]] and [[Info/Characters/999 NPC's/Valor\|Valor]])
-- Performed "The Song of the Wolf" during the march to the [[Info/Locations/Standing_Stones_Execution_Site\|Standing Stones]]
+- Walked with [[Sonja\|Sonja]] and [[Info/Characters/999 NPC's/Agni\|Agni]] in the procession (after [[Tarik\|Tarik]], before [[Info/Characters/999 NPC's/Helga\|Helga]] and [[Valor\|Valor]])
+- Performed "The Song of the Wolf" during the march to the [[Standing_Stones_Execution_Site\|Standing Stones]]
 
 #### Post-Execution Chant
 After each execution, Senya chanted:
@@ -50,7 +50,7 @@ As the bodies burned:
 - **[[Sonja\|Sonja]]**: Twin sister and fellow skald
 - **[[Info/Characters/999 NPC's/Agni\|Agni]]**: Fellow performer who accompanies them
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]**: Expressed interest in learning from her; agreed to teach music
-- **[[Info/Characters/999 NPC's/Tarik\|Tarik]]**: Works alongside during ceremonial events
+- **[[Tarik\|Tarik]]**: Works alongside during ceremonial events
 
 ## Skills
 - **Tagelharpa**: Traditional Nordic stringed instrument
