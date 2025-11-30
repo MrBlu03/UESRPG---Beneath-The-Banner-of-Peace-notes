@@ -10,7 +10,7 @@
 **Location:** [[Info/Locations/Falderstad\|Falderstad]]  
 **Region:** Eastern Skyrim  
 **Status:** Active  
-**Proprietor:** [[Info/Characters/999 NPC's/Tavern_Bartender\|Tavern_Bartender]]
+**Proprietor:** [[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]
 
 ## Description
 A tavern in [[Info/Locations/Falderstad\|Falderstad]] that serves as a gathering place for locals and travelers. The establishment provides food, drink, and serves as an informal information hub where customers can exchange news and intelligence about local activities.
@@ -27,7 +27,7 @@ A tavern in [[Info/Locations/Falderstad\|Falderstad]] that serves as a gathering
 ### [[2 -  Sessions/Session 015\|Session 015]] - Party Reunion
 - **Customer Service**: Served [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] after their return from [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]
 - **Information Sharing**: Both teams met to compare notes and share discoveries
-- **Intelligence Gathering**: [[Info/Characters/999 NPC's/Tavern_Bartender\|Tavern_Bartender]] provided information about previous customers
+- **Intelligence Gathering**: [[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]] provided information about previous customers
 
 #### Services Provided
 - Food and alcoholic beverages for party members
@@ -46,6 +46,21 @@ A tavern in [[Info/Locations/Falderstad\|Falderstad]] that serves as a gathering
 - **Party Members**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]], [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]], [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]], and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] during reunion
 - **Investigators**: Individuals conducting business or research in the area
 
+### [[2 -  Sessions/Session 018\|Session 018]] - Skald Performance Evening (9th of Sun's Dusk)
+- **[[Info/Characters/999 NPC's/Senya\|Senya]]** and **[[Sonja\|Sonja]]** (twin skalds) performed traditional Nordic songs
+- **[[Info/Characters/999 NPC's/Alfie\|Alfie]]** (bartender) served food while **[[Info/Characters/999 NPC's/Elsa\|Elsa]]** ran drinks
+- Performance included humorous 16th-century song about a farmer outsmarting the church
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** sat close to the front, attentively watching
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** played Solitaire at a table
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** studied her new spellbook (Jack of All Trades)
+- During the skalds' break, [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] performed an instrumental piece on her lute
+- The party used this as an opportunity to meet the skalds before the execution
+
+## Staff
+- **[[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]**: Proprietor
+- **[[Info/Characters/999 NPC's/Alfie\|Alfie]]**: Bartender
+- **[[Info/Characters/999 NPC's/Elsa\|Elsa]]**: Server
+
 ## Strategic Importance
 - **Meeting Location**: Neutral ground for party coordination
 - **Intelligence Source**: Bartender and customers provide local information
@@ -61,7 +76,7 @@ A tavern in [[Info/Locations/Falderstad\|Falderstad]] that serves as a gathering
 ## Relationships
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]**: Customers after hunt, gathered information
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]**: Previous customer remembered by bartender
-- **[[Info/Characters/999 NPC's/Tavern_Bartender\|Tavern_Bartender]]**: Proprietor with good memory for customer details
+- **[[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]**: Proprietor with good memory for customer details
 - **Local Community**: Regular service provider and social center
 
 ## Community Function

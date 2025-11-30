@@ -5,18 +5,40 @@
 
 # Mages Guild Greenwall Coordination
 
-**Status**: Active (Session 012)
-**Objective**: Coordinate with incoming Mages Guild specialists analyzing the Daedric orb
+**Status**: Partially Complete (Session 018)
+**Objective**: Coordinate with [[Info/Organizations/Mages_Guild\|Mages_Guild]] specialists analyzing the Daedric orb
 
 ## Key Tasks
-- [ ] Await [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]'s arrival at [[Info/Locations/Greenwall\|Greenwall]] (31st Frostfall)
-- [ ] Provide intelligence about orb's discovery and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s vision
-- [ ] Coordinate with Mages Guild analysis of Daedric artifact
-- [ ] Prepare for potential Witches Festival timing significance
+- [x] ~~Await [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]]'s arrival~~ - **COMPLETED**: She arrived in [[Info/Locations/Falderstad\|Falderstad]] on 10th Sun's Dusk
+- [x] ~~Receive analysis of Daedric artifact~~ - **COMPLETED**: Identified as Harrowstorm Engine Core
+- [ ] Track artifact transport to [[Info/Locations/Ayr\|Ayr]] for permanent storage
+- [ ] Follow up on [[Info/Lore/Grey_Host\|Grey_Host]] connection and potential threats
 
 ## Key NPCs
-- [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] (Daedric specialist)
+- [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]] (Daedric specialist - delivered intel)
+- **Vanis** ([[Info/Organizations/Mages_Guild\|Mages_Guild]] member who owes Gabrielle a favor)
 - Mages Guild expedition team
 
+## Session 018 Updates
+### Gabrielle Bonilla's Arrival (10th of Sun's Dusk, 2E 600)
+- [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]] arrived in [[Info/Locations/Falderstad\|Falderstad]] searching for "The Fangs of Fjelhørst"
+- She is a thin Breton woman in a **blue and gold cloak**
+- High-ranking [[Info/Organizations/Mages_Guild\|Mages_Guild]] member and lead expert on Daedric artifacts
+
+### Critical Intelligence Delivered
+The Ritual Orb has been identified as a **Harrowstorm Engine Core**:
+- **Origin**: Remnant from the [[Info/Lore/Grey_Host\|Grey_Host]] crisis 14-15 years ago
+- **Grey Host Background**: Clan of vampires and werewolves planning undead hybrids
+- **Current Status**: **DORMANT** - cannot activate without proper rituals, matrices, and energy source
+- **History**: Originally taken from [[Info/Locations/Markarth\|Markarth]]; only core not retrieved until now
+- **The Greenwall Awakening**: Death/energy around [[Info/Locations/Greenwall\|Greenwall]] briefly awakened it when [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] shot it
+- **Current Containment**: Wrapped in multiple layers of **anti-magic wards**
+- **Transport**: Departed [[Info/Locations/Falderstad\|Falderstad]] 1-2 days ago for [[Windhelm\|Windhelm]], then to [[Info/Locations/Ayr\|Ayr]]
+
+### Artifact Security
+- The core is being transported to [[Info/Locations/Ayr\|Ayr]] (main [[Info/Organizations/Mages_Guild\|Mages_Guild]] hall) for permanent safe storage
+- Multiple anti-magic protections in place
+- **Vanis** is involved with the storage arrangements
+
 ## Notes
-*Timing with Witches Festival may be significant for Daedric activities*
+*Major breakthrough - artifact identified and secured. Threat level reduced but Grey Host connections require investigation.*

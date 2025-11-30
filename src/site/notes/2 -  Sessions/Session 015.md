@@ -173,7 +173,7 @@ Both teams met at [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] tavern t
 - **[[Info/Characters/999 NPC's/Hoki\|Hoki]]**: Young impulsive hunter, traumatized by cursed grove experience
 - **[[Info/Characters/999 NPC's/Brovin\|Brovin]]**: Hunting dog who sensed danger and refused to enter cursed area
 - **[[Info/Characters/999 NPC's/Dunmer_Merchants\|Dunmer_Merchants]]**: Caravan smugglers connected to [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] conspiracy, mostly executed
-- **[[Info/Characters/999 NPC's/Tavern_Bartender\|Tavern_Bartender]]**: Proprietor of [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]], provided information about recent visitors
+- **[[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]**: Proprietor of [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]], provided information about recent visitors
 
 ## Items Acquired
 - **Moonsugar**: Illegal contraband recovered from caravan

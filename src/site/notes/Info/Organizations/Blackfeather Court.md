@@ -17,8 +17,24 @@ The Blackfeather Court is a mysterious and secretive organization first mentione
 - May be related to the black feathers found by the party
 
 ## Members
+- **[[Baron Jangleplume\|Baron Jangleplume]]**: A rotund Daedric crow with the title "Baron"
+- The organization's founder ("The Vestige") intentionally keeps the group secret
 - No other specific members have been identified
-- The organization's founder intentionally keeps the group secret
+
+## Nature of the Crows ([[2 -  Sessions/Session 018\|Session 018]])
+According to [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]], the crows associated with the Blackfeather Court are:
+- **Daedric crows** - supernatural creatures from Oblivion
+- **Immortal** - they cannot be permanently killed
+- **Teleporting** - can appear and disappear at will
+- **Intelligent** - capable of speech and communication
+- **Curious** - known for mischievous behavior (e.g., bringing fake items)
+- **Associated with [[Info/Lore/Nocturnal\|Nocturnal]]** - the Daedric Prince of shadows and luck
+
+### Baron Jangleplume's History
+- Has been active for an extended period (met [[Info/Characters/999 NPC's/Gabrielle_Bonilla\|Gabrielle_Bonilla]] in the **Clockwork City**)
+- Once brought her a **fake soup spoon** as a prank
+- Can be summoned by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] using bread
+- Has established a rapport with the party
 
 ## Activities
 - Potentially involved in summoning rituals

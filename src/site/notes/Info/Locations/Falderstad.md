@@ -104,6 +104,41 @@ Falderstad is a Nordic city in eastern Skyrim, characterized by severe winter we
 - **[[Info/Characters/999 NPC's/Hoki\|Hoki]]**: Young hunter, carved wooden stag, connection with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 - **[[Info/Characters/999 NPC's/Stryder\|Stryder]]**: Mysterious criminal coordinator operating from old tannery
 
+### [[2 -  Sessions/Session 018\|Session 018]] - Downtime, Investigation & The Nordic Execution
+
+**Days Covered**: 9th-11th of Sun's Dusk, 2E 600
+
+#### Day 1 (9th Sun's Dusk)
+- Party spent downtime shopping and gathering intelligence
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] learned Fox's Guile rune from [[Info/Characters/999 NPC's/Torik\|Torik]] (30 gold)
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] commissioned custom bow from fletcher (210 gold)
+- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] met [[Info/Characters/999 NPC's/Senya\|Senya]] and [[Sonja\|Sonja]] (twin skalds) in the market
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] recruited [[Info/Characters/999 NPC's/Hoki\|Hoki]] as an informant
+- Evening performance at [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] by the skalds
+
+#### Day 2 (10th Sun's Dusk)
+- Heavy snow fell overnight (-13°C)
+- **[[Gabrielle Bonilla\|Gabrielle Bonilla]]** arrived from the [[Info/Organizations/Mages_Guild\|Mages Guild]] with critical intelligence
+- Revealed the Ritual Orb is a **Harrowstorm Engine Core** from the [[Info/Lore/Grey_Host\|Grey_Host]]
+- Party fur-lined their armor at the blacksmith
+- Interrogated Dunmer prisoners - learned of [[Info/Organizations/House_Hlaalu\|House_Hlaalu]] and [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] connection
+- Obtained the **Dunmer Ledger** as evidence
+
+#### Day 3 (11th Sun's Dusk)
+- **The Nordic Execution** at the [[Info/Locations/Standing_Stones_Execution_Site\|Standing Stones]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] served as executioner in full Nordic ceremonial garb
+- Five Dunmer smugglers executed
+- [[Info/Characters/999 NPC's/Tarik\|Tarik]] (Speaker for the Dead) conducted the ritual
+- [[Info/Characters/999 NPC's/Senya\|Senya]], [[Sonja\|Sonja]], and [[Info/Characters/999 NPC's/Agni\|Agni]] provided ceremonial music
+- Post-execution feast at Jarl's longhouse
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] passed out after drinking contest with Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]]
+- Party names recorded in the **Book of Falderstad**:
+  - Durov of Colovia
+  - **Kirya Ma'Tael** (surname revealed)
+  - Periwyn Lunclaire
+  - Onasha
+- [[Sonja\|Sonja]] gave [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] a carved bone totem as proof of participation in Nordic lore
+
 ## Notable Connections
 - Serves as destination point for journeys from [[Info/Locations/Riften\|Riften]]
 - Connected to hunting activities in surrounding wilderness
@@ -111,6 +146,8 @@ Falderstad is a Nordic city in eastern Skyrim, characterized by severe winter we
 - **Home base** for [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]] (free permanent housing)
 - Access to [[Info/Locations/Northern_Forest\|Northern_Forest]] hunting grounds (now restored)
 - Coordinates with College of Winterhold through [[Info/Characters/999 NPC's/Torik\|Torik]]
+- [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]]: Tavern frequented by party and visiting performers
+- [[Info/Locations/Standing_Stones_Execution_Site\|Standing Stones]]: Traditional execution site outside city
 
 ## Notes
 - Six-day journey from Riften under winter conditions

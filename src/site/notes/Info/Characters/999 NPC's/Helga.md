@@ -31,11 +31,25 @@ Helga Cairn-Shield serves as the huscarl to Jarl [[Info/Characters/999 NPC's/Gor
 - Witnessed the Jarl's exceptional generosity (500 gold each, free house)
 - Sister's safe return was clearly of deep personal importance
 
+### [[2 -  Sessions/Session 018\|Session 018]] - The Nordic Execution
+
+#### Day 2 - Prisoner Access
+- Led the party to the basement cells in the Jarl's longhouse to interrogate the Dunmer prisoners
+- Provided the confiscated **Dunmer Ledger** with [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] markings
+- Allowed party to keep the ledger since it wasn't needed for the trial
+
+#### Day 3 - Execution Morning
+- Arrived at the party's house with a tray of four cups of **warm mead**
+- Quote: *"Today the Lord takes blood. Let this keep you warm for the dead."*
+- Knocked once and entered to summon the party to the longhouse when the horn sounded three times
+- Walked with [[Info/Characters/999 NPC's/Valor\|Valor]] in the execution procession (after the skalds, before The Fangs of Fjelhørst)
+
 ## Relationships
 - **Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]]**: Serves as huscarl and deputy when he is incapacitated
 - **[[Info/Characters/999 NPC's/Svala\|Svala]]**: Her sister, hunter who participated in dangerous Ragged Lord hunt
 - **[[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]]**: Grateful for protecting her sister, provided official cooperation
 - **[[Info/Locations/Falderstad\|Falderstad]] Guards**: Works with local security forces in managing city affairs
+- **[[Info/Characters/999 NPC's/Valor\|Valor]]**: Fellow official, walks together in processions
 
 ## Significance
 Helga represents competent local governance in [[Info/Locations/Falderstad\|Falderstad]], stepping up to handle critical situations when leadership is compromised. Her willingness to work with the party demonstrates the city's openness to outside assistance in solving serious threats.

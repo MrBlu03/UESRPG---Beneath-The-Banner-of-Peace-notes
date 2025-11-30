@@ -147,13 +147,19 @@ Torik represents the bridge between academic magical knowledge and practical sup
 - Gave the charm to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] with meaningful words: *"Keep it to remember that even the gods can lose their way and still be found."*
 - Will document encounter for Mages Guild/College of Winterhold
 
+### [[2 -  Sessions/Session 018\|Session 018]] - Teaching the Fox's Guile Rune
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] visited Torik's shop (The Thistle & Petal) to learn the Fox's Guile rune
+- Taught her the rune for **30 Gold**
+- **Visual Description**: Two slanted lines across each cheek from mouth to cheekbone, and a Gable rune (X-shape) painted between the eyebrows
+- **Effect**: Enhances social interactions and deception
+- **Revealed**: Has been teaching [[Info/Characters/999 NPC's/Hoki\|Hoki]] alchemy; Hoki is learning to make potions
+
 ## Future Involvement
-- **Plans with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Will teach her the Fox Guile rune
-- Alchemical preparation sessions with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]
 - Potential mentor role for [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] regarding necromancy
 - Source of knowledge about Daedric entities and their aspects
 - Document Ragged Lord encounter for College of Winterhold
 - Research the "sins" the land had inherited
+- Continue teaching [[Info/Characters/999 NPC's/Hoki\|Hoki]] alchemy
 
 ## Combat Role
 - **Summoner**: Can perform rituals to force Daedric manifestations

@@ -20,7 +20,6 @@
 | [[Info/Quests/Undead_Werewolf_Threat_Grey_Host_Connection\|Undead_Werewolf_Threat_Grey_Host_Connection]]                 | ⭐  | Main          | Session 007  | TBD                                 | Major      |
 | [[Info/Quests/Sea_of_Ghosts_Ship_Investigation\|Sea_of_Ghosts_Ship_Investigation]]                                       | ⭐  | Main          | Session 011  | TBD                                 | Major      |
 | [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]                                                     | ⭐  | Main          | Session 012  | TBD                                 | Major      |
-| [[Info/Quests/Mages_Guild_Greenwall_Coordination\|Mages_Guild_Greenwall_Coordination]]                                   | ⭐  | Main          | Session 012  | TBD                                 | Major      |
 | [[Info/Quests/Majorn_the_Ancient_Investigation\|Majorn_the_Ancient_Investigation]]                                       | ⭐  | Main          | Session 012  | TBD                                 | Major      |
 | [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]                                                                         | 📋 | Optional      | Session 013  | Unknown                             | Minor      |
 | [[Info/Quests/Consult_Archmagus_Mortgren_about_Blackfeather_Court\|Consult_Archmagus_Mortgren_about_Blackfeather_Court]] | 📋 | Optional      | TBD          | TBD                                 | Background |
@@ -30,7 +29,6 @@
 | [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                                             | 👤 | Personal      | Session 007  | TBD                                 | Major      |
 | [[Info/Quests/Periwyns_Vampire_Hunter_Search\|Periwyns_Vampire_Hunter_Search]]                                           | 👤 | Personal      | Session 007  | TBD                                 | Minor      |
 | [[Info/Quests/Durovs_Lost_Past\|Durovs_Lost_Past]]                                                                       | 👤 | Personal      | Session 010  | TBD                                 | Major      |
-| [[Info/Quests/Onashas_Eirik_Challenge\|Onashas_Eirik_Challenge]]                                                         | 👤 | Personal      | Session 010  | TBD                                 | Minor      |
 | [[Info/Quests/Lute_Acquisition\|Lute_Acquisition]]                                                                       | 👤 | Personal      | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Moonsugar_Business_Venture\|Moonsugar_Business_Venture]]                                                   | 👤 | Personal      | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Woad_Training\|Woad_Training]]                                                                             | 👤 | Personal      | Session 012  | TBD                                 | Minor      |
@@ -41,6 +39,7 @@
 ## Completed Quests
 | File                                                                                |    | Type               | Completed   | Reward                                           |
 | ----------------------------------------------------------------------------------- | -- | ------------------ | ----------- | ------------------------------------------------ |
+| [[Info/Quests/Onashas_Eirik_Challenge\|Onashas_Eirik_Challenge]]                 | 👤 | Personal           | Session 018 | Personal Satisfaction                            |
 | [[Info/Quests/Hunt_Forest_Creature\|Hunt_Forest_Creature]]                       | 📋 | Monster Hunt       | Session 017 | 500 gold each + Free house in Falderstad         |
 | [[Info/Quests/Stryder's_Favor\|Stryder's_Favor]]                                 | 📋 | Criminal Operation | Session 015 | Contraband Goods, Intelligence on Coiled Serpent |
 | [[Info/Quests/Investigate_Frozen_Hunters\|Investigate_Frozen_Hunters]]           | 🔍 | Investigation      | Session 014 | 95 Gold, Intelligence on Vampire Conspiracy      |
@@ -91,6 +90,10 @@
 | 🎭 Camonna Tong Mask               | [[2 -  Sessions/Session 011\|Session 011]]               | Criminal syndicate mask from eliminated Dunmer leader              |
 | 📚 Dunmeri Ledger                  | [[2 -  Sessions/Session 011\|Session 011]]               | Written entirely in Dunmeri, found on Camonna Tong leader          |
 | 📦 Recovered Lockbox               | [[2 -  Sessions/Session 011\|Session 011]]               | Delivered to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]], connection to Sea of Ghosts   |
+| 📚 Dunmer Ledger (Coiled Serpent)  | [[2 -  Sessions/Session 018\|Session 018]]               | House Hlaalu dealings, Coiled Serpent symbol, 5000g loan           |
+| 📚 Jack of All Trades Spellbook    | [[2 -  Sessions/Session 018\|Session 018]]               | 3rd Level spell (9 Magicka), given to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]    |
+| 🦴 Bone Totem (Nordic)             | [[2 -  Sessions/Session 018\|Session 018]]               | Proof of participation in Nordic lore, given to [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] by Sonja |
+| 🦴 Bone Totem (Hunter's)           | [[2 -  Sessions/Session 017\|Session 017]]               | Given to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] by [[Info/Characters/999 NPC's/Torik\|Torik]] after Ragged Lord defeat          |
 
 ### 💰 Party Treasury
 
@@ -102,7 +105,11 @@
 | Small furr                   | 10 gold      | [[2 -  Sessions/Session 013\|Session 013]] |
 | Tavern room buying           | -15 gold     | [[2 -  Sessions/Session 013\|Session 013]] |
 | Antler selling               | 95 gold      | Session 014     |
-| **TOTAL COMMUNAL FUNDS**     | **240 gold** | ****-           |
+| Fox's Guile (Onasha)         | -30 gold     | [[2 -  Sessions/Session 018\|Session 018]] |
+| Custom Bow for Hoki          | -210 gold    | [[2 -  Sessions/Session 018\|Session 018]] |
+| Vegetables & Garlic (Kirya)  | -17 gold     | [[2 -  Sessions/Session 018\|Session 018]] |
+| Extra Bread (Onasha)         | -1 gold      | [[2 -  Sessions/Session 018\|Session 018]] |
+| **TOTAL COMMUNAL FUNDS**     | **-8 gold**  | (individual purchases) |
 
 ### 💼 Business Ventures
 | Venture                      | Investment Required | Partner               | Status    |

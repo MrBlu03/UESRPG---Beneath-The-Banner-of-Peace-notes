@@ -18,6 +18,13 @@
   - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] failed to trip him again on the way to [[Info/Locations/Sweaty_Steel\|Sweaty_Steel]]
   - Failed another trip attempt later when heading back through the city
   - Successfully jumped over [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s leg on the first attempt
+- **[[2 -  Sessions/Session 018\|Session 018]]**: **THE TRIP SUCCEEDS**
+  - Encountered in [[Info/Locations/Falderstad\|Falderstad]] delivering a letter from the **College of Winterhold** about reconstruction
+  - Before he could sprint away, **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] tripped him with her tail**
+  - He stumbled and stopped for the first time
+  - Blamed a stone for his stumble
+  - Then ran off again
+  - **Mission Accomplished**: Onasha finally tripped him!
 
 ## Relationships
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Target of her ongoing personal quest to trip him (multiple failed attempts)
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Finally succeeded in tripping him after multiple attempts across several sessions

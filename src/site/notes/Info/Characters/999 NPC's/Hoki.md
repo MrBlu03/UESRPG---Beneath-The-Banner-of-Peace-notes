@@ -115,12 +115,25 @@ Hoki is a young, impulsive hunter from [[Info/Locations/Falderstad\|Falderstad]]
 ## Significance
 Hoki represents the vulnerability of inexperienced individuals when facing supernatural threats. His traumatic experience during the [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]] demonstrates the psychological impact of encounters with territorial creatures and serves as a cautionary example of what happens when warnings about supernatural dangers are ignored.
 
+### [[2 -  Sessions/Session 018\|Session 018]] - Recruited as Informant
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] visited Hoki at his house
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] asked him to be her "eyes and ears" in [[Info/Locations/Falderstad\|Falderstad]]
+- Part of [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s growing spy network (with Astrid in Riften)
+- **Mission**: Watch for specific threats:
+  - The [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] symbol ([[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] showed him sketches)
+  - Suspicious Dunmer activity
+  - Strange disappearances or gatherings
+  - **Vampire** activity
+  - Unexplained cold weather (similar to Greenwall snowstorm)
+- Agreed enthusiastically to serve as informant
+- **Revealed**: [[Info/Characters/999 NPC's/Torik\|Torik]] has been teaching him alchemy; he is learning to make potions
+- Will receive a **custom bow** ordered by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] from the fletcher (delivery in 3-4 days)
+
 ## Future Considerations
-- May require psychological support and recovery time
+- Serves as party's informant in [[Info/Locations/Falderstad\|Falderstad]]
 - Potential source of information about cursed grove experience
-- Could become more cautious hunter after trauma
-- May develop fear or avoidance of forest hunting
-- Serves as witness to supernatural threat affecting region
+- Learning alchemy under [[Info/Characters/999 NPC's/Torik\|Torik]]'s tutelage
+- Will receive decorated bow as gift from [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
 
 ## Notes
 - His impulsiveness endangered the entire hunting party

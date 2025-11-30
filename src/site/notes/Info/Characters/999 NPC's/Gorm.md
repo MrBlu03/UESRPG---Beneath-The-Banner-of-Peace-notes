@@ -70,12 +70,29 @@ Gorm represents exceptional local leadership in Skyrim. His personal generosity 
 - **Military Resources**: Commands city guard and coordinates with [[Helga Cairn-Shield\|Helga Cairn-Shield]]
 - **Political Power**: Authority over [[Info/Locations/Falderstad\|Falderstad]] governance and resources
 
+### [[2 -  Sessions/Session 018\|Session 018]] - The Nordic Execution
+
+#### Presiding Over the Execution (11th of Sun's Dusk)
+- Led the procession to the [[Info/Locations/Standing_Stones_Execution_Site\|Standing Stones]]
+- Presented the executioner's blade to [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
+  - A claymore of **Stalhrim** (ancient ice-like material)
+  - Quote: *"Let it be known that this blade is not yours. It belongs to the law. When the law is done, you will return it clean or not at all."*
+  - The blade was ancient, from the time of the Jarl's grandmother
+- After the executions, shook [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s hand
+  - Quote: *"You have the hand of a just man. Falderstad will remember your deed."*
+
+#### The Feast
+- Hosted the post-execution feast at the Jarl's longhouse
+- Participated in a **drinking contest** with [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] matched him drink for drink until passing out after 14-15 meads
+
 ## Future Relationship
 - Party has established [[Info/Locations/Falderstad\|Falderstad]] as home base due to free house
 - Exceptional generosity creates strong alliance
 - May call on party for future threats to [[Info/Locations/Falderstad\|Falderstad]]
 - Ongoing relationship secured through tangible rewards and gratitude
 - Party treated as heroes and protectors of the city
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] has been entered into the **Book of Falderstad** as executioner
 
 ## Notes
 - Payment of 500g each is exceptionally generous for the region

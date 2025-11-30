@@ -26,3 +26,29 @@ The symbol has been found at locations connected to vampire activities and myste
 - **[[Info/Locations/Ratway\|Ratway]] Arson**: Coordinated fire set to create chaos and cover theft operations
 - **[[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]] Theft**: Stole poisoned Dunmer body and documentation under cover of the fire
 - **Escalating Operations**: Moving from sabotage to direct theft of evidence, suggesting desperation or advancing timeline
+
+## Recent Activities (Session 018)
+### Connection to House Hlaalu Smugglers
+Dunmer smugglers interrogated in [[Info/Locations/Falderstad\|Falderstad]] revealed:
+- The Coiled Serpent **contacted them** (they didn't join voluntarily)
+- Paid **2,000 gold in advance** to transport a ledger
+- The ledger bore the **Coiled Serpent symbol**
+- **Delivery Destination**: Kil Great White (a location in the Rift)
+- **Contact Identifier**: Individual wearing an **Ouroboros pendant**
+
+### The Dunmer Ledger
+Contents of the confiscated ledger (mostly in Dunmeri):
+- General business transactions (lumber, cloth)
+- A loan of **5,000 gold** from a Dunmer bank
+- Dealings with **[[Info/Organizations/House_Hlaalu\|House_Hlaalu]]**
+- A single mention of **House Delveri**
+- One confirmed reference to the **Coiled Serpent**
+
+### Temple Guard Connection
+- The ledger was delivered to the smugglers in [[Info/Locations/Fultheim\|Fultheim]] by a man resembling a **Temple Guard**
+- He smelled of **sulfur** (possibly from proximity to Morrowind's volcanoes)
+- Met them in the market; they departed the next day
+
+## Related Organizations
+- **[[Info/Organizations/House_Hlaalu\|House_Hlaalu]]**: Great House whose smugglers were transporting Coiled Serpent materials
+- **[[Info/Organizations/Mages_Guild\|Mages_Guild]]**: Investigating Daedric connections

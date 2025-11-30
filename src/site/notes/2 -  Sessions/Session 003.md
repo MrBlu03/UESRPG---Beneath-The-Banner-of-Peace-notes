@@ -56,7 +56,7 @@ The party ventured out to find missing alchemist [[Info/Characters/999 NPC's/Ala
 - Received a dark blue ribbon to show to her son as proof
 - [[Info/Characters/999 NPC's/Alara\|Alara]] mentioned:
   - An old Colovian friend
-  - Shield emblem reminiscent of [[Info/Locations/Faldarstad\|Faldarstad]] in the North
+  - Shield emblem reminiscent of [[Faldarstad\|Faldarstad]] in the North
   - Three Banners War (580-589, started about 20 years ago)
   - [[Info/Organizations/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]] (Lord of Bargains) in a cave
   - Information about Kaalgrontiid, a dragon leader who rebelled against Alduin
@@ -67,7 +67,7 @@ The party ventured out to find missing alchemist [[Info/Characters/999 NPC's/Ala
 - [[Info/Characters/999 NPC's/Hafjorg\|Hafjorg]] had apparently been attacked by a spriggan
 - Received messenger from mortician [[Info/Characters/999 NPC's/Sigrid\|Sigrid]] about [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]'s body
 - Heard town crier in central market announce [[Info/Locations/Greenwall\|Greenwall]]'s mysterious blizzard situation
-  - Travelers going north advised to take the road through [[Info/Locations/Faldarstad\|Faldarstad]]
+  - Travelers going north advised to take the road through [[Faldarstad\|Faldarstad]]
 
 ### Hall of the Dead
 - [[Info/Characters/999 NPC's/Sigrid\|Sigrid]] revealed disturbing findings about [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]'s body:
@@ -145,5 +145,5 @@ The party ventured out to find missing alchemist [[Info/Characters/999 NPC's/Ala
   - [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]: [[Info/Characters/999 NPC's/Alara\|Alara]]'s alchemy shop in [[Info/Locations/Riften\|Riften]]
   - [[Info/Locations/Greenwall\|Greenwall]]: Town now surrounded by magical ice wall
   - [[Info/Locations/Shors_Bastion\|Shor's Bastion]]: Original destination of vampire hunter [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
-  - [[Info/Locations/Faldarstad\|Faldarstad]]: Northern town, alternate route for travelers
+  - [[Faldarstad\|Faldarstad]]: Northern town, alternate route for travelers
   - [[Info/Locations/Shadow Stone\|Shadow Stone]]: Ancient standing stone with special powers
