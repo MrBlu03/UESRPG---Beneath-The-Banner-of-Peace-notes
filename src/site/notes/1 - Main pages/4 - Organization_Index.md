@@ -27,6 +27,7 @@
 ## NPCs by Organization
 | File                                                                            |    | NPC Name                                                                        | Category            |    |
 | ------------------------------------------------------------------------------- | -- | ------------------------------------------------------------------------------- | ------------------- | -- |
+| [[Info/Characters/999 NPC's/Orgnar\|Orgnar]]                                 | 🟢 | [[Info/Characters/999 NPC's/Orgnar\|Orgnar]]                                 | Innkeeper           | 🟢 |
 | [[Info/Characters/999 NPC's/Hjar\|Hjar]]                                     | 🟢 | [[Info/Characters/999 NPC's/Hjar\|Hjar]]                                     | Merchant            | 🟢 |
 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | 🟢 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | Merchant            | 🟢 |
 | [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]           | 🟢 | [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]           | Supernatural        | 🟢 |

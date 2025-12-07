@@ -11,6 +11,7 @@
 ## All Locations
 | File                                                                                 |    | Type           | Region                       |    | First Visited |
 | ------------------------------------------------------------------------------------ | -- | -------------- | ---------------------------- | -- | ------------- |
+| [[Info/Locations/Kjallgrad\|Kjallgrad]]                                           | 🟢 | city           | The Rift, Skyrim             | 🟢 | Session 019   |
 | [[Info/Locations/Ebonheart\|Ebonheart]]                                           | 🟢 | City           | Morrowind                    | 🟢 | \-            |
 | [[Info/Locations/Falderstad\|Falderstad]]                                         | 🟢 | City           | Eastern Skyrim               | 🟢 | Session 013   |
 | [[Info/Locations/Markarth\|Markarth]]                                             | 🟢 | City           | The Reach, Western Skyrim    | 🟢 | \-            |
@@ -20,6 +21,7 @@
 | [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]]                             | 🟢 | Infrastructure | Riften Hold                  | 🟢 | Session 003   |
 | [[Info/Locations/Ratway\|Ratway]]                                                 | 🟢 | Infrastructure | Riften Hold                  | 🟢 | Session 012   |
 | [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]                                   | 🟢 | Infrastructure | Riften Hold                  | 🟢 | Session 002   |
+| [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]                               | 🟢 | Inn            | Kjalgrad                     | 🟢 | Session 019   |
 | [[Info/Locations/Eyevea\|Eyevea]]                                                 | 🟢 | Island         | Summerset (pocket dimension) | 🟢 | \-            |
 | [[Info/Locations/Shadow Stone\|Shadow Stone]]                                     | 🟢 | Magical        | Riften Hold                  | 🟢 | Unknown       |
 | [[Info/Locations/Shors_Bastion\|Shors_Bastion]]                                   | ❓  | Military       | Northern Skyrim              | ❓  | Unknown       |
@@ -48,7 +50,6 @@
 | [[Info/Locations/Whispwood_Remedies\|Whispwood_Remedies]]                         | 🟢 | Shop           | Riften Hold                  | 🟢 | Unknown       |
 | [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]]                             | 🟢 | Tavern         | Falderstad                   | 🟢 | Session 015   |
 | [[Info/Locations/Fultheim\|Fultheim]]                                             | 🟢 | Town           | Skyrim                       | 🟢 | \-            |
-| [[Info/Locations/Kjallgrad\|Kjallgrad]]                                           | 🟢 | Unknown        | The Rift, Skyrim             | 🟢 | \-            |
 | [[Info/Locations/Northern_Forest\|Northern_Forest]]                               | 🟢 | Wilderness     | Eastern Skyrim               | 🟢 | Session 014   |
 
 { .block-language-dataview}

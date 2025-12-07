@@ -73,6 +73,40 @@
   - Fled when chased by territorial creature
   - Went to [[Soggy Beaver\|Soggy Beaver]] tavern with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
   - Met at tavern for party reunion
+- **[[2 -  Sessions/Session 016\|Session 016]]**:
+  - Participated in hunt for the Skinstealer in the Northern Forest
+- **[[2 -  Sessions/Session 017\|Session 017]]**:
+  - Fought against Anorak, the Ragged Lord
+  - Successfully slowed the creature with arrows
+- **[[2 -  Sessions/Session 018\|Session 018]]**:
+  - Witnessed the Nordic execution ritual in [[Info/Locations/Falderstad\|Falderstad]]
+  - Suggested feeding the Daedric crows more bread to make friends
+  - Received a cryptic letter from her best friend (more riddles)
+  - Full name revealed: **Kirya Ma'Tael**
+  - Bonded with skalds [[Info/Characters/999 NPC's/Senya\|Senya]] and [[Sonja\|Sonja]] at the [[Soggy Beaver\|Soggy Beaver]]
+  - Expressed interest in learning their customs and music
+  - Performed an instrumental piece on her lute during their break
+- **[[2 -  Sessions/Session 019\|Session 019]]**:
+  - Prepared breakfast stew for the party on Day 4 of downtime (12th of Sun's Dusk)
+  - Cooked food for everyone when [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] returned from the river
+  - Provided warm drink and stew to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] to help her dry off
+  - Accompanied [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] to the market in [[Info/Locations/Falderstad\|Falderstad]]
+  - Zoned out while [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] spoke with an egg-brother in Jel
+  - Checked on horses at the stables with the party
+  - **Travel to Kjalgrad** (17th-21st of Sun's Dusk):
+    - Served as scout for all five travel days (all checks successful)
+    - Day 1: Went fox hunting with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] (successful)
+    - Day 1: Reapplied the **Fox's Guile woad** to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s back
+    - Day 1: Had heart-to-heart conversation with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] about searching for her missing sister
+    - Day 2: Helped treat [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s frostbite from failed necromancy lesson
+    - Day 3: Gained 1 level of fatigue from cold exposure
+    - Day 3: Went elk hunting with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] (21 rations obtained)
+    - Day 4: Went elk hunting again with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] (24 rations obtained)
+  - Arrived in [[Kjalgrad\|Kjalgrad]] on Day 5
+  - Took double room with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] at [[Frost Gate Hall\|Frost Gate Hall]]
+  - Room featured a glass window (luxury feature)
+  - Witnessed **murder of crows** visiting their window, including [[Baron Jangleplume\|Baron Jangleplume]]
+  - The crows stated they had "business" to discuss with her and [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
 
 ## Skills & Interests
 - Lock picking (including attempts on mysterious lockboxes)

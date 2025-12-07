@@ -55,6 +55,50 @@
   - Attempted bear hunting unsuccessfully but gathered alchemy ingredients
   - Finally succeeded in training Mossback to stand still after five days
   - Witnessed spectacular blue-green aurora that awed the entire party
+- **[[2 -  Sessions/Session 015\|Session 015]]**:
+  - Participated in the White Stag Hunt
+  - Went to [[Soggy Beaver\|Soggy Beaver]] tavern
+- **[[2 -  Sessions/Session 016\|Session 016]]**:
+  - Participated in hunt for the Skinstealer in the Northern Forest
+- **[[2 -  Sessions/Session 017\|Session 017]]**:
+  - Fought against Anorak, the Ragged Lord
+  - Delivered the killing blow by splitting her own embedded arrow to shatter the creature's kneecap
+- **[[2 -  Sessions/Session 018\|Session 018]]**:
+  - Learned the **Fox's Guile** woad from [[Info/Characters/999 NPC's/Torik\|Torik]] (30 gold)
+  - Commissioned a custom bow for [[Info/Characters/999 NPC's/Hoki\|Hoki]] at the fletcher (210 gold, delivery in 3-4 days)
+  - Gave [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] the **Jack of Trades** spellbook she had been carrying
+  - Recruited [[Info/Characters/999 NPC's/Hoki\|Hoki]] as an informant/spy in [[Info/Locations/Falderstad\|Falderstad]]
+  - Summoned [[Baron Jangleplume\|Baron Jangleplume]] with bread when [[Gabrielle Benele\|Gabrielle Benele]] needed to send a letter
+  - Bought more bread (1 gold) to continue summoning crows
+  - Witnessed the Nordic execution ritual
+  - Spent evening with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] bonding over cultural practices
+- **[[2 -  Sessions/Session 019\|Session 019]]**:
+  - Slept underwater in the river and drifted downstream from her original spot
+  - Arrived at the house around 9 AM, burst in and immediately went to the fire to dry off
+  - Hung up clothes to dry and wrapped in blankets while [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] provided warm stew and drink
+  - Read the letter she received from [[Eirik the Quick\|Eirik the Quick]]
+  - Day 5 downtime: Invited [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] on a morning walk
+  - Had philosophical discussion with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] about morality of feeling sympathy for vampires and Dunmer
+  - Visited market with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+  - Reconnected with an **egg-brother** (old acquaintance) at the Argonian caravan
+  - Spoke with egg-brother in **Jel** (native language)
+  - Checked on horses with the party
+  - **Travel to Kjalgrad** (17th-21st of Sun's Dusk):
+    - Day 1: Camp duty (failed check)
+    - Day 1: Went fox hunting with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] (successful)
+    - Day 1: Asked [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] to reapply the **Fox's Guile woad** to her back
+    - Day 1: Had conversation with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] about searching for her missing sister; offered support
+    - Day 2: Camp duty (success)
+    - Day 3: Camp duty (success); proposed elk hunting
+    - Day 3: Went elk hunting with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] (21 rations obtained)
+    - Day 4: Camp duty (success)
+    - Day 4: Went elk hunting again with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] (24 rations obtained)
+    - Day 5: Arrived in [[Kjalgrad\|Kjalgrad]]
+  - At [[Kjalgrad\|Kjalgrad]] gates, told guards "Our business is our own" when questioned
+  - Took double room with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] at [[Frost Gate Hall\|Frost Gate Hall]]
+  - Offered bread to crow on window sill
+  - Witnessed arrival of [[Baron Jangleplume\|Baron Jangleplume]] and **murder of crows**
+  - The crows stated they had "business" to discuss with her and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]
 
 ## Items of Interest
 - **Dragon Language Scroll**: A mysterious scroll containing a summoning ritual; turns to tar when burned

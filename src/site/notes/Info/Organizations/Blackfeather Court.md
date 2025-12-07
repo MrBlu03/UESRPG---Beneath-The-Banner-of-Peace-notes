@@ -58,9 +58,29 @@ Unknown, but multiple sources have urged caution:
 - Their connection to summoning rituals suggests potential danger
 - Their ability to monitor the party (through crows or other means) indicates substantial reach
 
+## Recent Activity
+
+### [[2 -  Sessions/Session 019\|Session 019]] - Delegation in Kjalgrad (21st of Sun's Dusk, 2E 600)
+- A **murder of crows** visited [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s room at the [[Frost Gate Hall\|Frost Gate Hall]] in [[Kjalgrad\|Kjalgrad]]
+- First appeared as a single crow on the glass window sill
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] offered bread
+- [[Baron Jangleplume\|Baron Jangleplume]] arrived (notably rotund)
+- Several more crows descended onto the sill, forming a full delegation
+- The crows stated they had **"business"** to discuss
+- This represents an escalation—a formal group visit rather than individual crow appearances
+- The party had just arrived in [[Kjalgrad\|Kjalgrad]], suggesting the Court was tracking their movements
+- The nature of the "business" remains undisclosed
+
+**Significance:**
+- The Court is actively monitoring the party's location and movements
+- They chose to make contact in a new city, away from [[Info/Locations/Falderstad\|Falderstad]]
+- The formal nature (murder of crows, stated business) suggests an official matter
+- Their timing (immediately upon arrival) indicates urgency or importance
+
 ## Notes
 - The translation of the scroll evoked a sense of dread in [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
 - After the interaction with the fox regarding this organization, the party felt they were being watched
 - Previously referred to as the "Court of Crows" in some contexts
 - The name "Blackfeather Court" combines elements from both names
 - Connection to "The Vestige" may be important for future investigations
+- The Court appears capable of tracking the party across significant distances

@@ -54,6 +54,41 @@
   - Planted additional evidence to justify executing merchants
   - Worked with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to capture caravan and evidence
   - Met with [[Info/Characters/999 NPC's/Stryder\|Stryder]] and Hooded Figure for final coordination
+- **[[2 -  Sessions/Session 016\|Session 016]]**:
+  - Participated in hunt for the Skinstealer in the Northern Forest
+  - Applied his own woad in privacy
+- **[[2 -  Sessions/Session 017\|Session 017]]**:
+  - Fought against Anorak, the Ragged Lord
+  - Intercepted the creature when it teleported to attack [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]], taking 10 damage
+  - Used Unrelenting talent to trap the Ragged Lord
+  - Enabled devastating counterstrikes that triggered the 50% threshold
+- **[[2 -  Sessions/Session 018\|Session 018]]**:
+  - Slept on the couch at [[Nilan's House\|Nilan's House]]
+  - Went to the inn to play cards (Solitaire)
+  - Witnessed the Nordic execution ritual
+  - Served as **executioner** in the full Nordic ritual, earning a place in the Book of [[Info/Locations/Falderstad\|Falderstad]]
+  - Received a **bone totem** proving his participation in Nordic Law
+- **[[2 -  Sessions/Session 019\|Session 019]]**:
+  - **Mysterious Night**: Woke up around 5:30 AM near [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s abandoned warehouse with **no memory of how he got there**
+  - Wandered disoriented through [[Info/Locations/Falderstad\|Falderstad]], getting lost in alleyways
+  - Accidentally retraced his exact route back
+  - Eventually found his way to the northern gate and main street
+  - Made it to the market and stables
+  - Spotted the large Argonian caravan arriving
+  - Lay down next to his sleeping horse and fell back asleep
+  - Around 8 AM: [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] found him and tried to wake him
+  - Kicked back at [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] in his sleep, then when awake
+  - Stubbornly refused to come home despite [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s insistence
+  - Finally woke around 11 AM at the stables
+  - Petted his horse for a while
+  - Strolled back to the house, taking his time
+  - Bumped into the cabbage merchant at the market; they recognized each other and chatted
+  - Arrived home around noon
+  - Completely ignored [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s visible annoyance
+  - Grabbed food without comment
+  - **Travel to Kjalgrad** (17th-21st of Sun's Dusk):
+    - Assisted with travel duties for all five days
+  - Secured single room at [[Frost Gate Hall\|Frost Gate Hall]]
 
 ## Dreams and Visions
 ### The Battlefield Dream ([[2 -  Sessions/Session 010\|Session 010]])

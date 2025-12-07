@@ -106,14 +106,10 @@
 | Tavern room buying           | -15 gold | [[2 -  Sessions/Session 013\|Session 013]]        |
 | Antler selling               | 95 gold  | [[2 -  Sessions/Session 014\|Session 014]]        |
 | Extra fur for armor          | 16       | [[2 -  Sessions/Session 018\|Session 018]]        |
-| **TOTAL COMMUNAL FUNDS**     | **239**  | (individual purchases) |
+| Rooms in kjalgrad            | -40 gold | [[2 -  Sessions/Session 019\|Session 019]]        |
+| **TOTAL COMMUNAL FUNDS**     | **199**  | (individual purchases) |
 
 ### 💼 Business Ventures
 | Venture                      | Investment Required | Partner               | Status    |
 | ---------------------------- | ------------------- | --------------------- | --------- |
 | Moonsugar Trade Partnership  | 500 gold           | [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]   | Pending   |
-
-### 🤝 Outstanding Obligations
-| Obligation                   | Duration    | Owed To                       | Details                    |
-| ---------------------------- | ----------- | ----------------------------- | -------------------------- |
-| Favor/Questions             | 1 month     | [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]]    | Information exchange deal  |
