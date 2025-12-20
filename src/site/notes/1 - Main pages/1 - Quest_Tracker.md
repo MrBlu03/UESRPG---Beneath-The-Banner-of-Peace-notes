@@ -21,9 +21,9 @@
 | [[Info/Quests/Sea_of_Ghosts_Ship_Investigation\|Sea_of_Ghosts_Ship_Investigation]]                                       | ⭐  | Main          | Session 011  | TBD                                 | Major      |
 | [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]                                                     | ⭐  | Main          | Session 012  | TBD                                 | Major      |
 | [[Info/Quests/Majorn_the_Ancient_Investigation\|Majorn_the_Ancient_Investigation]]                                       | ⭐  | Main          | Session 012  | TBD                                 | Major      |
+| [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Investigate_Cult_of_Clavicus_Vile_Cave]]                           | ⭐  | Main          | Session 020  | Favor from The Vestige              | Major      |
 | [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]                                                                         | 📋 | Optional      | Session 013  | Unknown                             | Minor      |
 | [[Info/Quests/Consult_Archmagus_Mortgren_about_Blackfeather_Court\|Consult_Archmagus_Mortgren_about_Blackfeather_Court]] | 📋 | Optional      | TBD          | TBD                                 | Background |
-| [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Investigate_Cult_of_Clavicus_Vile_Cave]]                           | 📋 | Optional      | TBD          | TBD                                 | Background |
 | [[Info/Quests/Look_for_the_Talking_Fox\|Look_for_the_Talking_Fox]]                                                       | 📋 | Optional      | TBD          | TBD                                 | Background |
 | [[Info/Quests/Study_Shadow_Stone_Powers\|Study_Shadow_Stone_Powers]]                                                     | 📋 | Optional      | TBD          | TBD                                 | Background |
 | [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                                             | 👤 | Personal      | Session 007  | TBD                                 | Major      |
@@ -94,6 +94,10 @@
 | 📚 Jack of All Trades Spellbook    | [[2 -  Sessions/Session 018\|Session 018]]               | 3rd Level spell (9 Magicka), given to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]    |
 | 🦴 Bone Totem (Nordic)             | [[2 -  Sessions/Session 018\|Session 018]]               | Proof of participation in Nordic lore, given to [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] by Sonja |
 | 🦴 Bone Totem (Hunter's)           | [[2 -  Sessions/Session 017\|Session 017]]               | Given to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] by [[Info/Characters/999 NPC's/Torik\|Torik]] after Ragged Lord defeat          |
+| 🔮 Daedric Speaking Stone          | [[2 -  Sessions/Session 020\|Session 020]]               | Etched with Daedric runes, confiscated from [[Info/Characters/999 NPC's/Varren\|Varren]] by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] |
+| 💰 Brimstone Gold Coin             | [[2 -  Sessions/Session 020\|Session 020]]               | Sample of Oblivion-origin currency, obtained by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]         |
+| 📜 Sketch of Sadrith               | [[2 -  Sessions/Session 020\|Session 020]]               | Bounty target sketch from [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] (actually [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]) |
+| 📜 Sketch of Varren                | [[2 -  Sessions/Session 020\|Session 020]]               | Detailed drawing provided by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]                       |
 
 ### 💰 Party Treasury
 
@@ -106,10 +110,15 @@
 | Tavern room buying           | -15 gold | [[2 -  Sessions/Session 013\|Session 013]]        |
 | Antler selling               | 95 gold  | [[2 -  Sessions/Session 014\|Session 014]]        |
 | Extra fur for armor          | 16       | [[2 -  Sessions/Session 018\|Session 018]]        |
-| Rooms in kjalgrad            | -40 gold | [[2 -  Sessions/Session 019\|Session 019]]        |
-| **TOTAL COMMUNAL FUNDS**     | **199**  | (individual purchases) |
+| Selling pelts                | 44 gold  | [[2 -  Sessions/Session 020\|Session 020]]        |
+| **TOTAL COMMUNAL FUNDS**     | **283**  | (individual purchases) |
 
 ### 💼 Business Ventures
 | Venture                      | Investment Required | Partner               | Status    |
 | ---------------------------- | ------------------- | --------------------- | --------- |
 | Moonsugar Trade Partnership  | 500 gold           | [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]   | Pending   |
+
+### 🤝 Outstanding Obligations
+| Obligation                   | Duration    | Owed To                       | Details                    |
+| ---------------------------- | ----------- | ----------------------------- | -------------------------- |
+| Favor/Questions             | 1 month     | [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]]    | Information exchange deal  |

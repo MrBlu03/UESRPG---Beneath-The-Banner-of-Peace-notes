@@ -91,6 +91,32 @@ Alma represents the ordinary hunters of [[Info/Locations/Falderstad\|Falderstad]
 - Retreated to altar area but remained conscious
 - Survived with medical intervention
 
+### [[2 -  Sessions/Session 020\|Session 020]] - Intelligence Source in Kjalgrad
+
+**Encounter:**
+- Party encountered her on the streets of [[Kjalgrad\|Kjalgrad]]
+- Her wounds from the Ragged Lord battle were healing well
+
+**Intel Provided:**
+
+*On "Sadrith" ([[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] in disguise):*
+- Very pushy investigator
+- Asks merchants where their gold comes from and where it goes
+- Been in the city for approximately 2 weeks
+- Asked her if she had dealt in "gold that smells weird"
+- Wears leather armor similar to guards but with **Fighters Guild** symbol
+
+*On Kjalgrad's Political Situation:*
+- The [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] bankrolls the guards, not the Jarl
+- The guild controls prices, tolls, and passages
+- The Jarl doesn't do much - mostly ceremonial
+- [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] (Steward) does most of the actual governing
+- **"The steward is probably in the guild's pocket"**
+
+*On Khajiit Caravans:*
+- City doesn't have enough independent money to attract them
+- Caravans wouldn't find it worthwhile under guild-controlled tolls
+
 **Final Phase Contribution:**
 - Recovered enough to participate in final assault
 - Fired two shots dealing **6 damage** total

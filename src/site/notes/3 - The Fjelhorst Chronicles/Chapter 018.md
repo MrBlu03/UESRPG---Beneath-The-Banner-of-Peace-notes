@@ -76,4 +76,4 @@ Durov, drunk from a contest with Jarl Gorm (lost by only a few mugs), wandered o
 Thus ended the three days of snowfall—quiet, heavy, and full of reckonings—marking the close of the Fangs’ time in Faldarstad, and the slow turning of their road toward whatever waited next.
 
 
-[[Chapter 019\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 019\|Next Chapter →]]

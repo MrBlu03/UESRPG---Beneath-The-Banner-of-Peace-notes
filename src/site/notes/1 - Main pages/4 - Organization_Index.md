@@ -17,7 +17,8 @@
 | [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]                   | 🟢 | Criminal  | 🟢 | Session 006 |
 | [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]               | ❓  | Cult      | ❓  | Unknown     |
 | [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]]                         | 🔴 | Cult      | 🔴 | Unknown     |
-| [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] | 🟢 | Guild     | 🟢 | Unknown     |
+| [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] | ❓  | Guild     | ❓  | Unknown     |
+| [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]     | 🟢 | Guild     | 🟢 | Session 020 |
 | [[Info/Organizations/Companions\|Companions]]                               | 🤝 | Military  | 🤝 | Session 005 |
 | [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]]                         | 🤝 | Religious | 🤝 | Session 009 |
 | [[Info/Organizations/Knights_of_Arkay\|Knights_of_Arkay]]                   | 🟢 | Religious | 🟢 | Unknown     |
@@ -30,6 +31,7 @@
 | [[Info/Characters/999 NPC's/Orgnar\|Orgnar]]                                 | 🟢 | [[Info/Characters/999 NPC's/Orgnar\|Orgnar]]                                 | Innkeeper           | 🟢 |
 | [[Info/Characters/999 NPC's/Hjar\|Hjar]]                                     | 🟢 | [[Info/Characters/999 NPC's/Hjar\|Hjar]]                                     | Merchant            | 🟢 |
 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | 🟢 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | Merchant            | 🟢 |
+| [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]                       | 🟢 | [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]                       | Legendary           | 🟢 |
 | [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]           | 🟢 | [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]           | Supernatural        | 🟢 |
 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                 | 🟢 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                 | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]                                 | 🟢 | [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]                                 | Political Figure    | 🟢 |
@@ -46,6 +48,8 @@
 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | 🟢 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Gorm\|Gorm]]                                     | 🟢 | [[Info/Characters/999 NPC's/Gorm\|Gorm]]                                     | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | 🟢 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | Political Figure    | 🟢 |
+| [[Info/Characters/999 NPC's/Varren\|Varren]]                                 | ❓  | [[Info/Characters/999 NPC's/Varren\|Varren]]                                 | Criminal            | ❓  |
+| [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]                       | 🟢 | [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]                       | Political           | 🟢 |
 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | 🟢 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | Criminal            | 🟢 |
 | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | ❓  | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | Supernatural        | ❓  |
 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | 🟢 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | Underworld Contact  | 🟢 |

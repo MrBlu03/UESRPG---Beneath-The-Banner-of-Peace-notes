@@ -49,6 +49,23 @@ Contents of the confiscated ledger (mostly in Dunmeri):
 - He smelled of **sulfur** (possibly from proximity to Morrowind's volcanoes)
 - Met them in the market; they departed the next day
 
+## Recent Activities (Session 020)
+### Guild of the Silverroad Infiltration
+Investigation in [[Kjalgrad\|Kjalgrad]] revealed:
+- Someone **high-ranking** in the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] wears an **Ouroboros necklace**
+- This confirms [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] infiltration at the leadership level
+- The guild effectively controls [[Kjalgrad\|Kjalgrad]] (bankrolls guards, controls prices)
+- May be connected to **Cult of Clavicus Vile** operations
+- [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] discovered this connection during his investigation
+
+### Connection to Brimstone Gold
+- The [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] is distributing gold from Oblivion
+- Gold is warm to the touch and smells of brimstone
+- May indicate cooperation between [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] and Daedric cults
+- "The Grand Architect" mentioned as authority figure
+
 ## Related Organizations
 - **[[Info/Organizations/House_Hlaalu\|House_Hlaalu]]**: Great House whose smugglers were transporting Coiled Serpent materials
 - **[[Info/Organizations/Mages_Guild\|Mages_Guild]]**: Investigating Daedric connections
+- **[[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]**: Infiltrated by Coiled Serpent at leadership level
+- **Cult of Clavicus Vile**: Possibly allied or overlapping organization

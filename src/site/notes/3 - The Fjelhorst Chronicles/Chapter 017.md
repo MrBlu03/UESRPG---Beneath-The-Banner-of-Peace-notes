@@ -177,4 +177,4 @@ The dread of the Ragged Woods had lifted.
 
 And for the first time since their arrival in the Rift, the Fangs of Fjelhorst slept in peace.
 
-[[Chapter 018\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 018\|Next Chapter →]]

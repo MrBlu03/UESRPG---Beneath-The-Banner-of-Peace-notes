@@ -14,10 +14,13 @@
 - [ ] Fulfill favor obligation to [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] (1 month)
 - [x] ~~Await [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]'s analysis of Daedric orb~~ - **COMPLETED**: Orb identified as Harrowstorm Engine Core
 - [ ] Track down remaining cult operatives with black leathers and Daedric runes
-- [ ] Investigate **[[Info/Locations/Kjallgrad\|Kjallgrad]]** in the Rift (Coiled Serpent delivery destination)
-- [ ] Find the contact wearing an **Ouroboros pendant**
+- [x] ~~Investigate **[[Kjalgrad\|Kjalgrad]]** in the Rift~~ - **IN PROGRESS**: Party arrived, major discoveries made
+- [x] ~~Find the contact wearing an **Ouroboros pendant**~~ - **IDENTIFIED**: High-ranking member of [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
 - [ ] Investigate [[Info/Organizations/House_Hlaalu\|House_Hlaalu]] connection and [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]
 - [ ] Analyze the **Dunmer Ledger** for further leads
+- [ ] Identify and confront the Ouroboros wearer in [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
+- [ ] Investigate "The Grand Architect"
+- [ ] Analyze the **Daedric Speaking Stone** confiscated from [[Info/Characters/999 NPC's/Varren\|Varren]]
 
 ## Key NPCs
 - [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]] (rogue Volkihar vampire)
@@ -57,5 +60,36 @@ Interrogation of Dunmer prisoners in [[Info/Locations/Falderstad\|Falderstad]] r
 - The core is **dormant** but could theoretically be reactivated
 - Now secured by [[Info/Organizations/Mages_Guild\|Mages_Guild]] and en route to [[Info/Locations/Eyevea\|Eyevea]]
 
+## Session 020 Updates
+### Guild of the Silverroad Connection
+[[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] (operating as "Sadrith Indoril") revealed:
+- A **Cult of Clavicus Vile** is operating in [[Kjalgrad\|Kjalgrad]]
+- The [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] is distributing **brimstone gold** from Oblivion
+- Someone **high-ranking** in the guild wears an **Ouroboros necklace**
+- This confirms [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] infiltration of the guild
+
+### New Evidence
+- **Daedric Speaking Stone**: Confiscated from [[Info/Characters/999 NPC's/Varren\|Varren]]; etched with Daedric runes
+- **[[Info/Characters/999 NPC's/Varren\|Varren]]**: Turned double agent; worked for [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
+- **"The Grand Architect"**: Authority figure mentioned by [[Info/Characters/999 NPC's/Varren\|Varren]]; matches reconstructed letter
+- **Brimstone Gold Sample**: Obtained by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] from merchant
+
+### Alliance Formed
+- [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] (founder of [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]) now allied with party
+- Will inform party by crow when [[Info/Characters/999 NPC's/Varren\|Varren]] is ready to resume cover
+- Received the reconstructed letter about "The Architect"
+
+### Key Revelation
+The [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] appears connected to multiple operations:
+- Vampire activity ([[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]])
+- [[Info/Organizations/House_Hlaalu\|House_Hlaalu]] smuggling
+- [[Info/Lore/Grey_Host\|Grey_Host]] artifacts (Harrowstorm Engine Core)
+- **Cult of Clavicus Vile** (brimstone gold)
+- [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] (political/economic control)
+
+"The Grand Architect" may be the unifying figure behind all these operations.
+
 ## Notes
 *Major escalation discovered - cult coordinating with House Hlaalu smuggling network and possibly connected to Grey Host remnants*
+
+*Session 020: Direct connection established between Coiled Serpent and Guild of the Silverroad. "The Grand Architect" identified as potential mastermind.*

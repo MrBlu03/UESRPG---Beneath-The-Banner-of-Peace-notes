@@ -17,9 +17,19 @@ The Blackfeather Court is a mysterious and secretive organization first mentione
 - May be related to the black feathers found by the party
 
 ## Members
+- **[[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]**: Founder and leader, also known as "The Crowfather"
 - **[[Baron Jangleplume\|Baron Jangleplume]]**: A rotund Daedric crow with the title "Baron"
-- The organization's founder ("The Vestige") intentionally keeps the group secret
-- No other specific members have been identified
+- **Murder of Crows**: Daedric crows that serve as messengers and agents
+
+## The Vestige Revealed ([[2 -  Sessions/Session 020\|Session 020]])
+The Vestige was finally encountered in [[Kjalgrad\|Kjalgrad]]:
+- **Alias Used**: Sadrith Indoril (Dunmer identity)
+- **Appearance**: Wore Fighters Guild symbol on leather armor
+- **History**: Hero of the Planemeld; infiltrated Coldharbour; defeated Molag Bal
+- **Current Activity**: Investigating Cult of Clavicus Vile
+- **Abilities**: Can summon crows, teleport, exceptional combat skills
+- **Alliance**: Made deal with [[Fangs of Fjelhorst\|Fangs of Fjelhorst]] for mutual assistance
+- **Recognition**: Called [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] "little flower" (reason unknown)
 
 ## Nature of the Crows ([[2 -  Sessions/Session 018\|Session 018]])
 According to [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]], the crows associated with the Blackfeather Court are:
@@ -58,29 +68,18 @@ Unknown, but multiple sources have urged caution:
 - Their connection to summoning rituals suggests potential danger
 - Their ability to monitor the party (through crows or other means) indicates substantial reach
 
-## Recent Activity
-
-### [[2 -  Sessions/Session 019\|Session 019]] - Delegation in Kjalgrad (21st of Sun's Dusk, 2E 600)
-- A **murder of crows** visited [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s room at the [[Frost Gate Hall\|Frost Gate Hall]] in [[Kjalgrad\|Kjalgrad]]
-- First appeared as a single crow on the glass window sill
-- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] offered bread
-- [[Baron Jangleplume\|Baron Jangleplume]] arrived (notably rotund)
-- Several more crows descended onto the sill, forming a full delegation
-- The crows stated they had **"business"** to discuss
-- This represents an escalation—a formal group visit rather than individual crow appearances
-- The party had just arrived in [[Kjalgrad\|Kjalgrad]], suggesting the Court was tracking their movements
-- The nature of the "business" remains undisclosed
-
-**Significance:**
-- The Court is actively monitoring the party's location and movements
-- They chose to make contact in a new city, away from [[Info/Locations/Falderstad\|Falderstad]]
-- The formal nature (murder of crows, stated business) suggests an official matter
-- Their timing (immediately upon arrival) indicates urgency or importance
-
 ## Notes
 - The translation of the scroll evoked a sense of dread in [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
 - After the interaction with the fox regarding this organization, the party felt they were being watched
 - Previously referred to as the "Court of Crows" in some contexts
 - The name "Blackfeather Court" combines elements from both names
-- Connection to "The Vestige" may be important for future investigations
-- The Court appears capable of tracking the party across significant distances
+- **[[2 -  Sessions/Session 020\|Session 020]]**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] revealed as founder; alliance formed with party
+- The Vestige's recognition of [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] ("little flower") suggests prior knowledge
+- The Vestige reacted aggressively to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] initially - may sense something about her
+
+## Session References
+- **[[2 -  Sessions/Session 004\|Session 004]]**: First mentioned; connection to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s backstory
+- **[[2 -  Sessions/Session 007\|Session 007]]**: Blackfeather Court investigation started
+- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Baron Jangleplume\|Baron Jangleplume]]'s nature revealed by [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]
+- **[[2 -  Sessions/Session 019\|Session 019]]**: Crows made contact at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]
+- **[[2 -  Sessions/Session 020\|Session 020]]**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] encountered and revealed his identity

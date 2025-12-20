@@ -89,5 +89,11 @@ Pricing not specified but likely premium given the quality of furnishings and am
 - The inn's name "Frost Gate Hall" likely references its proximity to the western gate
 - The [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] chose this location for their formal contact, suggesting they knew exactly where the party would stay
 
+### [[2 -  Sessions/Session 020\|Session 020]] - Extended Stay
+- [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] agreed to pay for **one week of lodging** for the party
+- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] negotiated this as part of their alliance
+- Party now has a secure base for continued investigation in [[Kjalgrad\|Kjalgrad]]
+
 ## Session References
 - **[[2 -  Sessions/Session 019\|Session 019]]**: Party arrived and stayed here; visited by the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]
+- **[[2 -  Sessions/Session 020\|Session 020]]**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] covering one week's lodging as part of alliance
