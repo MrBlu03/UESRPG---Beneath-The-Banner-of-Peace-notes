@@ -239,7 +239,7 @@ The party was summoned to the **Clan Morvan Longhouse** by the Jarl's steward, *
 - The projection ended
 - Varren turned around and saw the party
 - When questioned, he claimed to be from **House Tharn**—one of the wealthiest and most powerful families in all of Tamriel
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** cast **Paralyze** on him to prevent escape
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** shot him with a **Paralyze** arrow on him to prevent escape
 
 ---
 
@@ -252,7 +252,7 @@ The party was summoned to the **Clan Morvan Longhouse** by the Jarl's steward, *
 - A **dagger** was embedded in the back of its head
 
 **The Vestige Returns:**
-- Standing in the alleyway behind them was **The Vestige**
+- Standing in the tunnel behind them was **The Vestige**
 - He stated that Varren had lied about being House Tharn
 
 **Interrogation:**
@@ -276,7 +276,7 @@ The party was summoned to the **Clan Morvan Longhouse** by the Jarl's steward, *
 - *Escalation*:
   - After a few weeks, he was told to meet someone in the sewers
   - Someone "higher up"
-  - He communicates with them via the **Daedric speaking stone**
+  - He communicates with them via the **speaking stone**
 
 - *The Employer*:
   - He works for the **Guild of the Silverroad**
@@ -285,7 +285,7 @@ The party was summoned to the **Clan Morvan Longhouse** by the Jarl's steward, *
   - They mentioned someone called **"The Grand Architect"**
   - Said "he would be pleased" with the work
 
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** confiscated the **Daedric speaking stone**
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** confiscated the **speaking stone**
 
 **Turning Varren:**
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** convinced Varren to act as a **double agent**
@@ -369,9 +369,9 @@ The party was summoned to the **Clan Morvan Longhouse** by the Jarl's steward, *
 ### Periwyn
 - Asserted her family name (**Lunclaire**) when challenged by [[Darius Karo\|Darius Karo]]
 - Showed restraint by not attacking the disrespectful steward
-- The Vestige addressed her as *"little flower"*—suggesting a prior connection or recognition
+- The Vestige addressed her as *"little flower"*
 - Took the lead in threatening and turning Varren into a double agent
-- Confiscated the Daedric speaking stone—a potentially crucial piece of evidence
+- Confiscated the speaking stone—a potentially crucial piece of evidence
 - Empathized with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s distrust of Dunmer, drawing parallels to her own views on vampires
 
 ### Onasha

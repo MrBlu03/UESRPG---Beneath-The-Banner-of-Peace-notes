@@ -12,8 +12,8 @@
 ## Active Quests
 | File                                                                                                                        |    | Type          | Started      | Reward                              | Importance |
 | --------------------------------------------------------------------------------------------------------------------------- | -- | ------------- | ------------ | ----------------------------------- | ---------- |
-| [[Info/Quests/Burnt_Paper_Reconstruction\|Burnt_Paper_Reconstruction]]                                                   | 🔍 | Investigation | Session 002  | TBD                                 | Minor      |
 | [[Info/Quests/Coiled_Serpent_Mystery\|Coiled_Serpent_Mystery]]                                                           | 🔍 | Investigation | Session 002  | TBD                                 | Major      |
+| [[Info/Quests/Burnt_Paper_Reconstruction\|Burnt_Paper_Reconstruction]]                                                   | 🔍 | Investigation | Session 002  | TBD                                 | Minor      |
 | [[Info/Quests/Poisoned_Dunmer_Case\|Poisoned_Dunmer_Case]]                                                               | 🔍 | Investigation | Session 002  | TBD                                 | Major      |
 | [[Info/Quests/Dark_Brotherhood_Contract\|Dark_Brotherhood_Contract]]                                                     | ⭐  | Main          | Session 006  | TBD                                 | Major      |
 | [[Info/Quests/Blackfeather_Court_Investigation\|Blackfeather_Court_Investigation]]                                       | ⭐  | Main          | Session 007  | TBD                                 | Major      |

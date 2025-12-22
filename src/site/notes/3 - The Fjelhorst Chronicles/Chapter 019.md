@@ -49,4 +49,4 @@ An ill omen, some would say.
 
 The Fangs slept beneath stone and glass that night, having left the quiet of forests behind. Ahead lay Kjallgrad—the City of Coin—where bargains mattered more than oaths, and weight was measured not in honor, but in gold.
 
-[[Chapter 020\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 020\|Next Chapter →]]
