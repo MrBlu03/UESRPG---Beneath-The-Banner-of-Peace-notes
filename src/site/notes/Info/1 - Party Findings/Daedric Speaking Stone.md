@@ -8,7 +8,7 @@
 ## Basic Information
 **Type:** Communication Device  
 **Origin:** Oblivion (Daedric)  
-**Obtained:** [[2 -  Sessions/Session 020\|Session 020]]  
+**Obtained:** [[2 -  Sessions/Session 021\|Session 021]]  
 **Obtained By:** [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]  
 **Current Holder:** [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 
@@ -22,7 +22,7 @@ A speaking stone that differs from normal Tamrielic communication devices. Unlik
 - Projects an image of the recipient
 
 ## How It Was Obtained
-Confiscated from [[Info/Characters/999 NPC's/Varren\|Varren]] in the [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] during [[2 -  Sessions/Session 020\|Session 020]]:
+Confiscated from [[Info/Characters/999 NPC's/Varren\|Varren]] in the [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] during [[2 -  Sessions/Session 021\|Session 021]] after he retrieved it for us:
 1. [[Info/Characters/999 NPC's/Varren\|Varren]] used it to report to his superior at a dead-end in the sewers
 2. The party observed the communication
 3. After [[Info/Characters/999 NPC's/Varren\|Varren]] was captured and interrogated, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] took the stone
@@ -71,5 +71,14 @@ This device is crucial evidence connecting:
 - The Daedric runes could provide clues about which Daedric Prince is involved
 - Should be handled carefully to avoid unintended activation
 
+## The Vestige's Analysis ([[2 -  Sessions/Session 021\|Session 021]])
+After retrieving the stone from the sewers, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] brought it to [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] for examination. His findings:
+- The connection is weak, but **not due to degradation**
+- The stone is functioning properly
+- The weakness is because it **links to a different realm**
+- Almost certainly connects to **Oblivion** itself
+- This confirms direct communication between [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] agents and Daedric entities
+
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: Confiscated from [[Info/Characters/999 NPC's/Varren\|Varren]] in the [[Kjalgrad\|Kjalgrad]] sewers
+- **[[2 -  Sessions/Session 021\|Session 021]]**: Retrieved from the sewers; analyzed by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]; confirmed to link to Oblivion

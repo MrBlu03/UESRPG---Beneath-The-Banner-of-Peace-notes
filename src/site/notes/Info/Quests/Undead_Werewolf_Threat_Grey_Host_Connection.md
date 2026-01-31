@@ -43,5 +43,41 @@
 - Current threats smell of "the same rot on the wind"
 - Messenger sent to Morthal to contact old ally who fought the Grey Host
 
+## Related Quest: Majorn the Ancient
+
+### Overview
+**Status:** Active (Session 012)  
+**Objective:** Track and prepare for confrontation with the rogue Volkihar vampire
+
+### Key Tasks
+- [ ] Research Majorn the Ancient's historical activities and known associates
+- [ ] Prepare specialized weapons and tactics (steel alone insufficient)
+- [ ] Monitor for vampire activities and missing persons
+- [ ] Coordinate with Archmagus Mortgren for strategic planning
+- [ ] Investigate connection between Majorn and Grey Host remnants
+- [ ] Determine if Majorn is connected to Coiled Serpent conspiracy
+
+### Intelligence on Majorn
+- **Identity:** Rogue Volkihar vampire, former member of Harkon's court
+- **History:** Survived supposed death 20 years ago during Planemeld
+- **Motivation:** Grew tired of Clan Volkihar's isolationism
+- **Activities:** Building loyalty and creating vampire progeny in secret
+- **Connections:** Opportunistic relationship with Daedric Princes
+- **Reputation:** Name carries weight in dangerous circles
+- **Progeny:** Thrysnr the Unsullied (deceased) - one of his creations
+
+### Coordinating NPCs
+- **Archmagus Mortgren:** Expert advisor, warns requires "patience, knowledge, and precision" to defeat
+- **Queen Freidr:** Coordinating royal response to vampire threat
+
+### Potential Connection to Grey Host
+- Both involve undead manipulation and vampire activities
+- Majorn's opportunistic Daedric connections could link to conspiracy
+- Timeline: Majorn's supposed death during Planemeld (20 years ago) vs Grey Host crisis (14-15 years ago)
+- May be working with or parallel to Coiled Serpent operations
+- His progeny creation mirrors Grey Host's hybrid experimentation goals
+
 ## Notes
 *MAJOR BREAKTHROUGH: The Ritual Orb confirmed as Grey Host artifact. While dormant and secured, the connection between the Coiled Serpent, House Hlaalu, and Grey Host remnants requires further investigation.*
+
+*Majorn the Ancient represents an active vampire threat that may be connected to the broader conspiracy. His Daedric connections and progeny creation suggest possible links to Grey Host remnant operations.*

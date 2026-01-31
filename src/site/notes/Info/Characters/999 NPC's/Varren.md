@@ -108,12 +108,15 @@ Varren is an Imperial man in his mid-50s who was distributing **brimstone gold**
 ## Significance
 Varren is a low-level operative in a much larger conspiracy. His role was to distribute Daedric gold throughout the economy of [[Kjalgrad\|Kjalgrad]], likely as part of a broader scheme by the **Cult of Clavicus Vile**. His capture and turning provides the party with an inside source on the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]'s activities.
 
-## Current Status
+## Current Status ([[2 -  Sessions/Session 021\|Session 021]])
+- **Severely traumatized** - far worse than expected
 - Physically injured from interrogation
-- Psychologically traumatized
-- With [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] for recovery
-- Will resume his cover role when ready
-- Now a double agent for the party
+- **Psychologically broken** - not mentally stable
+- **Cannot function as double agent** - handlers would immediately notice something wrong
+- With [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] and [[Info/Characters/999 NPC's/Adda\|Adda]] in the **Crows' Wood** for recovery
+- Double agent plan **failed**
+- Can still speak but mental state is too compromised
+- Being cared for by [[Info/Characters/999 NPC's/Adda\|Adda]]
 
 ## Notes
 - The brimstone gold suggests a direct connection to **Oblivion**
@@ -121,5 +124,31 @@ Varren is a low-level operative in a much larger conspiracy. His role was to dis
 - His role distributing gold may be part of a broader economic manipulation scheme
 - The Daedric speaking stone could provide additional intelligence if analyzed
 
+## Session 021 Updates
+
+### Return to the Sewers
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** asked [[Info/Characters/999 NPC's/Varren\|Varren]] to guide her back to retrieve the **Daedric speaking stone**
+- [[Info/Characters/999 NPC's/Varren\|Varren]] accompanied her into the [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]]
+- They discovered **multiple cultist corpses** and a **summoning circle**
+- [[Info/Characters/999 NPC's/Varren\|Varren]] picked up the stone and handed it to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+
+### Information Provided
+While in the **Crows' Wood** with [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]:
+- Confirmed he didn't know who he was speaking to through the stone
+- His role was simple: report purchases and gold distribution
+- Told to go to sewers periodically to report
+- Knows very little about the stone's properties
+- As a **low-level operative**, he has no knowledge of guild finances
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s men** typically handle money matters
+- Doesn't know of secret passageways—only the front door to guild
+- Just a "lackey" without access to sensitive operations
+
+### The Crows' Wood
+- Party entered through a passage opened by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]
+- Found [[Info/Characters/999 NPC's/Varren\|Varren]] sitting at a table inside
+- [[Info/Characters/999 NPC's/Adda\|Adda]] was seen going to speak with him as party left
+- She is caring for him during his recovery
+
 ## Session References
-- **[[2 -  Sessions/Session 020\|Session 020]]**: First appearance; surveilled, captured, interrogated, and turned
+- **[[2 -  Sessions/Session 020\|Session 020]]**: First appearance; surveilled, captured, interrogated
+- **[[2 -  Sessions/Session 021\|Session 021]]**: Guided [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to retrieve stone; provided intelligence; confirmed too traumatized to act as double agent

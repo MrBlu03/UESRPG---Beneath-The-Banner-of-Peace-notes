@@ -61,8 +61,41 @@ Shaman of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] currently in c
 - Made reference to "feathers" when the party departed, possibly connected to the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] mystery
 - Demonstrates awareness of supernatural connections beyond what she explicitly states
 
+## Session 021 Update - Possible Connection to The Vestige
+
+### Appearance in the Crows' Wood
+During [[2 -  Sessions/Session 021\|Session 021]], someone named **Adda** was seen in **The Crows' Wood** (The Vestige's refuge):
+- The party entered the Crows' Wood through a passage opened by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]
+- Found [[Info/Characters/999 NPC's/Varren\|Varren]] sitting at a table inside
+- As they were leaving, **Adda** was seen approaching [[Info/Characters/999 NPC's/Varren\|Varren]]
+- She appeared to be caring for him during his recovery from trauma
+
+### Possible Identity Questions
+**Is this the same Adda?**
+- The Cult of Ysmir Adda made cryptic comments about **"feathers"** in [[2 -  Sessions/Session 010\|Session 010]]
+- This may have referenced the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]
+- [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] is the founder of the Blackfeather Court
+- Adda has demonstrated spiritual/magical abilities and knowledge
+- She could be working with both the Cult of Ysmir and The Vestige
+- Or this could be a different person with the same name
+
+**Supporting Evidence for Same Person:**
+- Both have healing/caretaking abilities
+- Both associated with supernatural/magical matters
+- The "feathers" comment now seems prophetic
+- Shamans often work with multiple groups
+- Her cryptic knowledge suggests deeper connections
+
+**Evidence for Different Person:**
+- Location discrepancy (Riften vs. Crows' Wood)
+- Different factional affiliations
+- No direct confirmation
+
+**Note:** This requires clarification. For now, this may represent two separate individuals or Adda may be working with both organizations.
+
 ## Notes
 - Understands the nature of spirits and how to deal with them
 - Her cryptic comments often prove significant later
 - Serves as a bridge between the mundane and supernatural worlds
-- May have deeper knowledge about ongoing mysteries than she reveals 
+- May have deeper knowledge about ongoing mysteries than she reveals
+- **Possible connection to [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] and [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] (requires confirmation)** 

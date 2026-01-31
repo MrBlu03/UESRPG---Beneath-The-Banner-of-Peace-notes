@@ -96,5 +96,42 @@ Darius Karo represents the corruption in [[Kjalgrad\|Kjalgrad]]'s leadership. Wh
 - Unknown if they will report back to him or maintain their alliance with [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]
 - His connection to the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] makes him potentially complicit in the Cult of Clavicus Vile activities
 
+### [[2 -  Sessions/Session 021\|Session 021]] - The Forged Evidence
+
+**Party's Deception:**
+- The party returned to report on their "investigation"
+- Claimed they found **no one** at the abandoned guild house
+- Presented a **forged letter** (created by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]):
+  - Partially burned for authenticity
+  - Mentioned a **Dunmer caravan** carrying a **ledger**
+  - Referenced **brimstone gold from Oblivion**
+  - Implicated the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
+
+**Darius Karo's Response:**
+- Stated he was **"very well acquainted with the guild"**
+- Seemed unconcerned about the letter's contents
+- Dismissed it as "not his concern"
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** suggested bringing it to **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]** for investigation
+- Darius agreed this made more sense
+
+**Payment:**
+- Party convinced him they'd agreed on **800 gold each**
+- He paid **3,200 gold total** without much resistance
+- Directed them to deliver the letter to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] (Trade Advocate)
+
+**Guard Rotation:**
+- As party left, guards had **completely changed** from minutes earlier
+- New guards **nodded to [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** who nodded back
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] explained guards rotate frequently for security
+
+**Analysis:**
+- His easy acceptance of their story suggests either:
+  - Incompetence (unlikely given his position)
+  - Knowledge of the conspiracy and desire to pass problem to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
+  - Testing the party's intentions
+- Quick payment without verification is suspicious
+- His connection to [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] now more obvious
+
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: First appearance; hired party to capture "Sadrith"
+- **[[2 -  Sessions/Session 021\|Session 021]]**: Party delivered forged evidence; paid 3,200 gold; directed party to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]

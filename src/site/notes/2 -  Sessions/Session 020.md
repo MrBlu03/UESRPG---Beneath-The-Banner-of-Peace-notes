@@ -285,7 +285,7 @@ The party was summoned to the **Clan Morvan Longhouse** by the Jarl's steward, *
   - They mentioned someone called **"The Grand Architect"**
   - Said "he would be pleased" with the work
 
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** confiscated the **speaking stone**
+
 
 **Turning Varren:**
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** convinced Varren to act as a **double agent**

@@ -43,11 +43,13 @@
 | [[Info/Characters/999 NPC's/Hillevi\|Hillevi]]                               | 🟢 | [[Info/Characters/999 NPC's/Hillevi\|Hillevi]]                               | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Olen\|Olen]]                                     | 🔴 | [[Info/Characters/999 NPC's/Olen\|Olen]]                                     | Military            | 🔴 |
 | [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod_Wraithbane]]           | 🟢 | [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod_Wraithbane]]           | Military            | 🟢 |
-| [[Info/Characters/999 NPC's/Adda\|Adda]]                                     | 🟢 | [[Info/Characters/999 NPC's/Adda\|Adda]]                                     | Magical Figure      | 🟢 |
 | [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir_Stormcrown]]         | 🟢 | [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir_Stormcrown]]         | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | 🟢 | [[Info/Characters/999 NPC's/Víðir\|Víðir]]                                   | Military            | 🟢 |
+| [[Info/Characters/999 NPC's/Adda\|Adda]]                                     | 🟢 | [[Info/Characters/999 NPC's/Adda\|Adda]]                                     | Magical Figure      | 🟢 |
 | [[Info/Characters/999 NPC's/Gorm\|Gorm]]                                     | 🟢 | [[Info/Characters/999 NPC's/Gorm\|Gorm]]                                     | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | 🟢 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | Political Figure    | 🟢 |
+| [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]                 | 🟢 | [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]                 | Political           | 🟢 |
+| [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]                         | 🟢 | [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]                         | Political           | 🟢 |
 | [[Info/Characters/999 NPC's/Varren\|Varren]]                                 | ❓  | [[Info/Characters/999 NPC's/Varren\|Varren]]                                 | Criminal            | ❓  |
 | [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]                       | 🟢 | [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]                       | Political           | 🟢 |
 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | 🟢 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | Criminal            | 🟢 |

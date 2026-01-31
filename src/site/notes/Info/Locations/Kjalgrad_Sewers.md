@@ -93,5 +93,45 @@ The sewers serve as a secure location for cult communications:
 - The Daedric creature's presence suggests ongoing cult activity
 - [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] knew the sewers well enough to arrive quickly
 
+### [[2 -  Sessions/Session 021\|Session 021]] - Retrieving the Speaking Stone
+
+**Return to the Sewers:**
+1. **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** asked **[[Info/Characters/999 NPC's/Varren\|Varren]]** to guide her back to retrieve the stone
+2. **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** pointed out a nearby sewer entrance
+3. Party descended into the tunnels
+
+**Disturbing Discovery:**
+4. Encountered **multiple cultist corpses** throughout the sewers
+5. Found **ritual markings** on the floor—a **summoning circle** designed to summon Daedra
+6. **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** and [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] had previously dealt with these cultists
+7. Evidence of active Cult of Clavicus Vile operations
+
+**The Speaking Stone:**
+8. Reached the location where [[Info/Characters/999 NPC's/Varren\|Varren]] had been confronted
+9. The **Daedric speaking stone** was still there
+10. [[Info/Characters/999 NPC's/Varren\|Varren]] picked it up and handed it to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+11. She examined it—felt like a normal speaking stone but connection felt weak
+
+**Return to Guild House:**
+12. Party brought stone to [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] for analysis
+13. [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] confirmed it **links to a different realm** (Oblivion)
+14. Weakness is not degradation but due to inter-realm connection
+
+## Cult Activity
+
+### Summoning Circle ([[2 -  Sessions/Session 021\|Session 021]])
+- **Ritual markings** found on the sewer floor
+- Designed to **summon Daedra** from Oblivion
+- Multiple cultist corpses nearby
+- Previously dealt with by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]
+- Proves **active Daedric ritual activity** beneath [[Kjalgrad\|Kjalgrad]]
+
+### Implications
+- Cult has safe locations for summoning rituals underground
+- Multiple cultists were operating in coordinated effort
+- The sewers may contain additional ritual sites
+- Connection to [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] suggests guild funding/protecting cult activity
+
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: Party infiltrated sewers, captured [[Info/Characters/999 NPC's/Varren\|Varren]], encountered Daedric creature
+- **[[2 -  Sessions/Session 021\|Session 021]]**: Party returned to retrieve speaking stone; discovered cultist corpses and summoning circle

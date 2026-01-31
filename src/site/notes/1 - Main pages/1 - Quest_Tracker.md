@@ -10,48 +10,40 @@
 **Status:** 🟢 Active | ✅ Completed | ❌ Failed | ⏸️ On Hold
 
 ## Active Quests
-| File                                                                                                                        |    | Type          | Started      | Reward                              | Importance |
-| --------------------------------------------------------------------------------------------------------------------------- | -- | ------------- | ------------ | ----------------------------------- | ---------- |
-| [[Info/Quests/Coiled_Serpent_Mystery\|Coiled_Serpent_Mystery]]                                                           | 🔍 | Investigation | Session 002  | TBD                                 | Major      |
-| [[Info/Quests/Burnt_Paper_Reconstruction\|Burnt_Paper_Reconstruction]]                                                   | 🔍 | Investigation | Session 002  | TBD                                 | Minor      |
-| [[Info/Quests/Poisoned_Dunmer_Case\|Poisoned_Dunmer_Case]]                                                               | 🔍 | Investigation | Session 002  | TBD                                 | Major      |
-| [[Info/Quests/Dark_Brotherhood_Contract\|Dark_Brotherhood_Contract]]                                                     | ⭐  | Main          | Session 006  | TBD                                 | Major      |
-| [[Info/Quests/Blackfeather_Court_Investigation\|Blackfeather_Court_Investigation]]                                       | ⭐  | Main          | Session 007  | TBD                                 | Major      |
-| [[Info/Quests/Undead_Werewolf_Threat_Grey_Host_Connection\|Undead_Werewolf_Threat_Grey_Host_Connection]]                 | ⭐  | Main          | Session 007  | TBD                                 | Major      |
-| [[Info/Quests/Sea_of_Ghosts_Ship_Investigation\|Sea_of_Ghosts_Ship_Investigation]]                                       | ⭐  | Main          | Session 011  | TBD                                 | Major      |
-| [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]                                                     | ⭐  | Main          | Session 012  | TBD                                 | Major      |
-| [[Info/Quests/Majorn_the_Ancient_Investigation\|Majorn_the_Ancient_Investigation]]                                       | ⭐  | Main          | Session 012  | TBD                                 | Major      |
-| [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Investigate_Cult_of_Clavicus_Vile_Cave]]                           | ⭐  | Main          | Session 020  | Favor from The Vestige              | Major      |
-| [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]                                                                         | 📋 | Optional      | Session 013  | Unknown                             | Minor      |
-| [[Info/Quests/Consult_Archmagus_Mortgren_about_Blackfeather_Court\|Consult_Archmagus_Mortgren_about_Blackfeather_Court]] | 📋 | Optional      | TBD          | TBD                                 | Background |
-| [[Info/Quests/Look_for_the_Talking_Fox\|Look_for_the_Talking_Fox]]                                                       | 📋 | Optional      | TBD          | TBD                                 | Background |
-| [[Info/Quests/Study_Shadow_Stone_Powers\|Study_Shadow_Stone_Powers]]                                                     | 📋 | Optional      | TBD          | TBD                                 | Background |
-| [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                                             | 👤 | Personal      | Session 007  | TBD                                 | Major      |
-| [[Info/Quests/Periwyns_Vampire_Hunter_Search\|Periwyns_Vampire_Hunter_Search]]                                           | 👤 | Personal      | Session 007  | TBD                                 | Minor      |
-| [[Info/Quests/Durovs_Lost_Past\|Durovs_Lost_Past]]                                                                       | 👤 | Personal      | Session 010  | TBD                                 | Major      |
-| [[Info/Quests/Lute_Acquisition\|Lute_Acquisition]]                                                                       | 👤 | Personal      | Session 012  | TBD                                 | Minor      |
-| [[Info/Quests/Moonsugar_Business_Venture\|Moonsugar_Business_Venture]]                                                   | 👤 | Personal      | Session 012  | TBD                                 | Minor      |
-| [[Info/Quests/Woad_Training\|Woad_Training]]                                                                             | 👤 | Personal      | Session 012  | TBD                                 | Minor      |
-| [[Info/Quests/Necromantic_Training\|Necromantic_Training]]                                                               | 👤 | Personal      | Session 012a | Necromantic knowledge and abilities | Major      |
+| File                                                                                                        |    | Type     | Started      | Reward                              | Importance |
+| ----------------------------------------------------------------------------------------------------------- | -- | -------- | ------------ | ----------------------------------- | ---------- |
+| [[Info/Quests/Dark_Brotherhood_Contract\|Dark_Brotherhood_Contract]]                                     | ⭐  | Main     | Session 006  | TBD                                 | Major      |
+| [[Info/Quests/Blackfeather_Court_Investigation\|Blackfeather_Court_Investigation]]                       | ⭐  | Main     | Session 007  | TBD                                 | Major      |
+| [[Info/Quests/Undead_Werewolf_Threat_Grey_Host_Connection\|Undead_Werewolf_Threat_Grey_Host_Connection]] | ⭐  | Main     | Session 007  | TBD                                 | Major      |
+| [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]                                     | ⭐  | Main     | Session 012  | TBD                                 | Major      |
+| [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Investigate_Cult_of_Clavicus_Vile_Cave]]           | ⭐  | Main     | Session 020  | Favor from The Vestige              | Major      |
+| [[Info/Quests/Infiltrate_Guild_of_Silverroad\|Infiltrate_Guild_of_Silverroad]]                           | ⭐  | Main     | Session 021  | TBD                                 | Major      |
+| [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]                                                         | 📋 | Optional | Session 013  | Unknown                             | Minor      |
+| [[Info/Quests/Study_Shadow_Stone_Powers\|Study_Shadow_Stone_Powers]]                                     | 📋 | Optional | TBD          | TBD                                 | Background |
+| [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                             | 👤 | Personal | Session 007  | TBD                                 | Major      |
+| [[Info/Quests/Periwyns_Vampire_Hunter_Search\|Periwyns_Vampire_Hunter_Search]]                           | 👤 | Personal | Session 007  | TBD                                 | Minor      |
+| [[Info/Quests/Durovs_Lost_Past\|Durovs_Lost_Past]]                                                       | 👤 | Personal | Session 010  | TBD                                 | Major      |
+| [[Info/Quests/Lute_Acquisition\|Lute_Acquisition]]                                                       | 👤 | Personal | Session 012  | TBD                                 | Minor      |
+| [[Info/Quests/Moonsugar_Business_Venture\|Moonsugar_Business_Venture]]                                   | 👤 | Personal | Session 012  | TBD                                 | Minor      |
+| [[Info/Quests/Woad_Training\|Woad_Training]]                                                             | 👤 | Personal | Session 012  | TBD                                 | Minor      |
+| [[Info/Quests/Necromantic_Training\|Necromantic_Training]]                                               | 👤 | Personal | Session 012a | Necromantic knowledge and abilities | Major      |
 
 { .block-language-dataview}
 
 ## Completed Quests
-| File                                                                                |    | Type               | Completed   | Reward                                           |
-| ----------------------------------------------------------------------------------- | -- | ------------------ | ----------- | ------------------------------------------------ |
-| [[Info/Quests/Onashas_Eirik_Challenge\|Onashas_Eirik_Challenge]]                 | 👤 | Personal           | Session 018 | Personal Satisfaction                            |
-| [[Info/Quests/Hunt_Forest_Creature\|Hunt_Forest_Creature]]                       | 📋 | Monster Hunt       | Session 017 | 500 gold each + Free house in Falderstad         |
-| [[Info/Quests/Stryder's_Favor\|Stryder's_Favor]]                                 | 📋 | Criminal Operation | Session 015 | Contraband Goods, Intelligence on Coiled Serpent |
-| [[Info/Quests/Investigate_Frozen_Hunters\|Investigate_Frozen_Hunters]]           | 🔍 | Investigation      | Session 014 | 95 Gold, Intelligence on Vampire Conspiracy      |
-| [[Info/Quests/Ratway_Fire_Investigation\|Ratway_Fire_Investigation]]             | 🔍 | Investigation      | Session 012 | 200 gold each (400 more promised)                |
-| [[Info/Quests/Camonna_Tong_Dock_Investigation\|Camonna_Tong_Dock_Investigation]] | ⭐  | Main               | Session 011 | 280 gold each                                    |
-| [[Info/Quests/Haunted_Lodge_Contract\|Haunted_Lodge_Contract]]                   | ⭐  | Main               | Session 009 | 400 gold each                                    |
-| [[Info/Quests/Return_to_Riften\|Return_to_Riften]]                               | ⭐  | Main               | Session 007 | 250 gold each                                    |
-| [[Info/Quests/Dispel_the_Darkness\|Dispel_the_Darkness]]                         | ⭐  | Main               | Session 006 | Sunlight restored to Greenwall                   |
-| [[Info/Quests/Fangs_of_Fjelhorst_Formation\|Fangs_of_Fjelhorst_Formation]]       | ⭐  | Main               | Session 004 | Official Royal Status                            |
-| [[Info/Quests/Harmugstahl_Investigation\|Harmugstahl_Investigation]]             | ⭐  | Main               | Session 004 | 400 gold each                                    |
-| [[Info/Quests/Find_Missing_Alchemist\|Find_Missing_Alchemist]]                   | ⭐  | Main               | Session 003 | 50 gold each                                     |
-| [[Info/Quests/Trevas_Bend_Aid\|Trevas_Bend_Aid]]                                 | ⭐  | Main               | Session 002 | 250 gold total                                   |
+| File                                                                          |    | Type               | Completed   | Reward                                           |
+| ----------------------------------------------------------------------------- | -- | ------------------ | ----------- | ------------------------------------------------ |
+| [[Info/Quests/Onashas_Eirik_Challenge\|Onashas_Eirik_Challenge]]           | 👤 | Personal           | Session 018 | Personal Satisfaction                            |
+| [[Info/Quests/Hunt_Forest_Creature\|Hunt_Forest_Creature]]                 | 📋 | Monster Hunt       | Session 017 | 500 gold each + Free house in Falderstad         |
+| [[Info/Quests/Stryder's_Favor\|Stryder's_Favor]]                           | 📋 | Criminal Operation | Session 015 | Contraband Goods, Intelligence on Coiled Serpent |
+| [[Info/Quests/Investigate_Frozen_Hunters\|Investigate_Frozen_Hunters]]     | 🔍 | Investigation      | Session 014 | 95 Gold, Intelligence on Vampire Conspiracy      |
+| [[Info/Quests/Haunted_Lodge_Contract\|Haunted_Lodge_Contract]]             | ⭐  | Main               | Session 009 | 400 gold each                                    |
+| [[Info/Quests/Return_to_Riften\|Return_to_Riften]]                         | ⭐  | Main               | Session 007 | 250 gold each                                    |
+| [[Info/Quests/Dispel_the_Darkness\|Dispel_the_Darkness]]                   | ⭐  | Main               | Session 006 | Sunlight restored to Greenwall                   |
+| [[Info/Quests/Fangs_of_Fjelhorst_Formation\|Fangs_of_Fjelhorst_Formation]] | ⭐  | Main               | Session 004 | Official Royal Status                            |
+| [[Info/Quests/Harmugstahl_Investigation\|Harmugstahl_Investigation]]       | ⭐  | Main               | Session 004 | 400 gold each                                    |
+| [[Info/Quests/Find_Missing_Alchemist\|Find_Missing_Alchemist]]             | ⭐  | Main               | Session 003 | 50 gold each                                     |
+| [[Info/Quests/Trevas_Bend_Aid\|Trevas_Bend_Aid]]                           | ⭐  | Main               | Session 002 | 250 gold total                                   |
 
 { .block-language-dataview}
 

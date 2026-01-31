@@ -109,7 +109,55 @@ In [[Kjalgrad\|Kjalgrad]], he appeared disguised as a Dunmer named **Sadrith Ind
 - Commands respect and fear; [[Info/Characters/999 NPC's/Varren\|Varren]] was terrified after being alone with him
 - The [[Info/Characters/999 NPC's/Talking_Fox\|Talking_Fox]] previously mentioned the Blackfeather Court's founder wishes to remain secret
 
+## Session 021 Updates
+
+### Meeting at the Guild House
+The party returned to the abandoned [[Blackfoot Merchants Guild House\|Blackfoot Merchants Guild House]]:
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** walked straight in, showing familiarity
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** followed
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** hesitated in the doorframe
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** asked about her sister's whereabouts—The Vestige provided information
+
+### Varren's Condition
+- [[Info/Characters/999 NPC's/Varren\|Varren]] is doing **far worse than expected**
+- The interrogation left him **severely traumatized**
+- While he can still speak, he's **not mentally stable** enough to act as a double agent
+- His handlers would immediately notice something wrong
+- The Vestige opened the **Crows' Wood** to allow party to speak with [[Info/Characters/999 NPC's/Varren\|Varren]]
+- **[[Info/Characters/999 NPC's/Adda\|Adda]]** was caring for [[Info/Characters/999 NPC's/Varren\|Varren]] inside
+
+### Intelligence Provided
+The Vestige shared information about [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]:
+- Revealed where **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]** could be found
+- Confirmed [[Info/Characters/999 NPC's/Varren\|Varren]] was just a low-level operative
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s men** typically handle guild finances and sensitive operations
+- No known secret passageways to the guild—only the front door
+
+### Daedric Speaking Stone Analysis
+After [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] retrieved the stone from the sewers:
+- The Vestige examined it carefully
+- **Key Finding**: The connection is weak not because it's degraded
+- The stone is functioning properly
+- Weakness is because it **links to a different realm**
+- Almost certainly **Oblivion itself**
+- This confirms direct communication between guild agents and Daedric entities
+
+### The Crows' Wood
+- The Vestige opened a passage behind him
+- Inside was a table where [[Info/Characters/999 NPC's/Varren\|Varren]] sat
+- Party entered to question [[Info/Characters/999 NPC's/Varren\|Varren]]
+- [[Info/Characters/999 NPC's/Adda\|Adda]] approached [[Info/Characters/999 NPC's/Varren\|Varren]] as they were leaving
+- The space appears to be his personal refuge/headquarters
+
+### Relationship with Durov
+Revealed that:
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** was previously sent to **hunt The Vestige**
+- Employed by **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]**, Trade Advocate for the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
+- During the hunt, they became acquainted rather than enemies
+- The Vestige and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] worked together to deal with **cultists in the sewers**
+
 ## Session References
 - **[[2 -  Sessions/Session 004\|Session 004]]**: First mentioned as founder of the Blackfeather Court
 - **[[2 -  Sessions/Session 007\|Session 007]]**: Referenced in Blackfeather Court investigation
 - **[[2 -  Sessions/Session 020\|Session 020]]**: First direct encounter; revealed as Sadrith Indoril
+- **[[2 -  Sessions/Session 021\|Session 021]]**: Analyzed speaking stone; revealed guild intelligence; caring for [[Info/Characters/999 NPC's/Varren\|Varren]] with [[Info/Characters/999 NPC's/Adda\|Adda]]

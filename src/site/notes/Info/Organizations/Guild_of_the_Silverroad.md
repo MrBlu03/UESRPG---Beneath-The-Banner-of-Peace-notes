@@ -66,13 +66,23 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]] ([[2 -  Sessions/Session 0
 
 ## Known Members/Connections
 
-### Confirmed
-- **[[Info/Characters/999 NPC's/Varren\|Varren]]**: Agent distributing brimstone gold (now double agent)
+### Leadership
+- **[[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]**: **Guildmaster** of the Guild of the Silverroad (revealed [[2 -  Sessions/Session 021\|Session 021]])
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]**: **Trade Advocate** reporting directly to Jorvik Hanison (revealed [[2 -  Sessions/Session 021\|Session 021]])
+  - Previously sent [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] to hunt [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]
+  - Handles financial matters and has access to sensitive operations
+  - Party directed to deliver forged letter to him
+
+### Confirmed Members
+- **[[Info/Characters/999 NPC's/Varren\|Varren]]**: Agent distributing brimstone gold (compromised, mentally broken)
 - **Unknown High-Ranking Member**: Wears Ouroboros/[[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] necklace
 
-### Suspected
-- **[[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]**: Jarl's Steward, likely in their pocket
+### Suspected/Connected
+- **[[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]**: Jarl's Steward, likely in their pocket; directing party to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
 - **"The Grand Architect"**: Authority figure directing operations
+
+### Infiltrators
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]**: Applied for position within the guild ([[2 -  Sessions/Session 021\|Session 021]]), working undercover
 
 ## Investigation Status
 
@@ -80,7 +90,15 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]] ([[2 -  Sessions/Session 0
 - Investigating the guild's connection to **Cult of Clavicus Vile**
 - Tracking brimstone gold distribution
 - Made alliance with [[Fangs of Fjelhorst\|Fangs of Fjelhorst]] to gather intelligence
-- [[Info/Characters/999 NPC's/Varren\|Varren]] turned as double agent
+- [[Info/Characters/999 NPC's/Varren\|Varren]] captured but too traumatized to function as double agent
+- **Daedric speaking stone** confirmed to link to Oblivion
+
+### Party's Infiltration ([[2 -  Sessions/Session 021\|Session 021]])
+- Created **forged letter** implicating Dunmer conspiracy
+- Delivered fabricated story to [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]], received 3,200 gold payment
+- Directed to bring letter to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] has applied for position within the guild
+- Plan to use both approaches to infiltrate guild operations
 
 ### Key Questions
 1. What is the purpose of flooding [[Kjalgrad\|Kjalgrad]] with Daedric gold?
@@ -119,4 +137,5 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]] ([[2 -  Sessions/Session 0
 - May be part of the same conspiracy as the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] operations in [[Info/Locations/Riften\|Riften]]
 
 ## Session References
-- **[[2 -  Sessions/Session 020\|Session 020]]**: First detailed information; [[Info/Characters/999 NPC's/Varren\|Varren]] captured and turned
+- **[[2 -  Sessions/Session 020\|Session 020]]**: First detailed information; [[Info/Characters/999 NPC's/Varren\|Varren]] captured
+- **[[2 -  Sessions/Session 021\|Session 021]]**: Leadership revealed; [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]] and [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] identified; party begins infiltration

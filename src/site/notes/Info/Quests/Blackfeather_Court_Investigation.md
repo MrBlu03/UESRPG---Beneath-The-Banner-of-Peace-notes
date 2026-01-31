@@ -10,12 +10,15 @@
 
 ## Key Tasks
 - [x] ~~Research what or who the "Blackfeather Court" might be~~ - **COMPLETED**: Met [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]], founder
-- [ ] Determine the meaning and purpose of the dragon language summoning scroll
+- [x] ~~Look for the Talking Fox again~~ - **NO LONGER NEEDED**: Alliance formed with The Vestige directly
+- [ ] Determine the meaning and purpose of the dragon language summoning scroll (Onasha possesses)
 - [ ] Identify the components mentioned in the ritual
 - [ ] Consult [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] about his knowledge of the group
-- [ ] Ask [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]] about magical black feathers
+- [ ] Consult [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]] about magical black feathers and the Court
 - [ ] Understand why [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] called [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] "little flower"
 - [ ] Investigate [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]'s interest in [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
+- [ ] Learn more about the Crows' Wood and how it functions
+- [ ] Understand the relationship between The Vestige and Adda (if same person as Cult of Ysmir shaman)
 
 ## Key NPCs
 - [[Info/Characters/999 NPC's/Talking_Fox\|Talking_Fox]]
