@@ -64,8 +64,39 @@ Investigation in [[Kjalgrad\|Kjalgrad]] revealed:
 - May indicate cooperation between [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] and Daedric cults
 - "The Grand Architect" mentioned as authority figure
 
+## Recent Activities (Session 022)
+### CONFIRMED: Valen Marr is Coiled Serpent
+**BREAKTHROUGH DISCOVERY**: During a Guild of the Silverroad trade event:
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] spotted [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] wearing an Ouroboros pendant**
+- Valen is the **Trade Advocate** of the Guild of the Silverroad—second only to the Guildmaster
+- This confirms the Coiled Serpent has infiltrated the Guild at the **highest operational level**
+- Valen approached Periwyn about partnership—possibly a recruitment attempt
+- Warned that "big changes are coming" with the High King unwell
+
+### The Jarl's Involvement
+Evidence discovered in the Jarl's private quarters:
+- **[[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]]**: Daedric artifact found in Jarl's lockbox
+- **Bloody Fur Cloak**: Blood-stained cloak with soot smell
+- **Magical Speech**: Jarl delivered speech with supernatural effects
+- This suggests the Coiled Serpent (or affiliated Daedric cults) has infiltrated **city government itself**
+
+### Connection to Royal Politics
+Valen Marr's warning about the High King suggests:
+- The conspiracy reaches to the **highest levels of Skyrim's government**
+- They have intelligence about (or involvement in) the royal succession
+- "Big changes" may indicate a planned coup or assassination
+
+## Confirmed Members
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]**: Trade Advocate of the Guild of the Silverroad—**CONFIRMED Ouroboros wearer**
+
+## Suspected Members/Allies
+- **Unknown High-Ranking Member of Guild of the Silverroad**: Now identified as Valen Marr
+- **The Jarl of Kjalgrad**: Possesses Daedric artifacts; may be compromised
+- **"The Grand Architect"**: Authority figure directing operations
+
 ## Related Organizations
 - **[[Info/Organizations/House_Hlaalu\|House_Hlaalu]]**: Great House whose smugglers were transporting Coiled Serpent materials
 - **[[Info/Organizations/Mages_Guild\|Mages_Guild]]**: Investigating Daedric connections
-- **[[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]**: Infiltrated by Coiled Serpent at leadership level
+- **[[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]**: Infiltrated by Coiled Serpent at leadership level (Valen Marr confirmed)
 - **Cult of Clavicus Vile**: Possibly allied or overlapping organization
+- **Camonna Tong**: Active in Kjalgrad; may be enemies of the Coiled Serpent (targeting their operations)

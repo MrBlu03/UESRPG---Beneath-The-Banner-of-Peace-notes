@@ -75,7 +75,7 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]] ([[2 -  Sessions/Session 0
 
 ### Confirmed Members
 - **[[Info/Characters/999 NPC's/Varren\|Varren]]**: Agent distributing brimstone gold (compromised, mentally broken)
-- **Unknown High-Ranking Member**: Wears Ouroboros/[[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] necklace
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]**: Confirmed Coiled Serpent member - wears Ouroboros necklace (identified [[2 -  Sessions/Session 022\|Session 022]])
 
 ### Suspected/Connected
 - **[[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]**: Jarl's Steward, likely in their pocket; directing party to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
@@ -99,6 +99,23 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]] ([[2 -  Sessions/Session 0
 - Directed to bring letter to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] has applied for position within the guild
 - Plan to use both approaches to infiltrate guild operations
+
+### The Trade Event ([[2 -  Sessions/Session 022\|Session 022]])
+The Guild hosted a major trade event at the **Jarl's Hall**:
+- **[[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]** gave opening speech praising guild's role in Kjalgrad's prosperity
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] attended as "Lady Lunclaire" and made legitimate trade connections
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] spotted **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] wearing the Ouroboros pendant**—confirming Coiled Serpent infiltration
+- Event cut short by **Camonna Tong murders** of guild guards
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** successfully maintained cover as Valen's guard during the event
+- Valen evacuated the city due to Camonna Tong threat
+
+### Major Discovery: Valen Marr is Coiled Serpent
+[[2 -  Sessions/Session 022\|Session 022]] confirmed:
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] wears an Ouroboros necklace** openly (though somewhat concealed)
+- He is the high-ranking Coiled Serpent member within the guild
+- Approached Periwyn about partnership—possibly recruitment attempt
+- Warned about "big changes coming" with the High King unwell
+- The conspiracy reaches the highest levels of guild leadership
 
 ### Key Questions
 1. What is the purpose of flooding [[Kjalgrad\|Kjalgrad]] with Daedric gold?

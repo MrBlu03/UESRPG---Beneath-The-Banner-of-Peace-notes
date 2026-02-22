@@ -18,12 +18,15 @@
 - [x] ~~Analyze speaking stone~~ - **COMPLETED**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] confirmed it links to Oblivion
 - [x] ~~Identify [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] leadership~~ - **COMPLETED**: [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]] and [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] identified
 - [~] ~~Wait for [[Info/Characters/999 NPC's/Varren\|Varren]] to recover~~ - **FAILED**: Too traumatized to function as double agent
-- [ ] Deliver forged letter to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] and begin infiltration
+- [x] ~~Infiltrate Guild event and observe [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]~~ - **COMPLETED**: Attended event; confirmed Valen wears Ouroboros pendant
+- [ ] Deliver forged letter to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] and begin deeper infiltration
 - [ ] Trace the brimstone gold to its source
 - [ ] Identify "The Grand Architect"
 - [ ] Find the entity [[Info/Characters/999 NPC's/Varren\|Varren]] communicated with via speaking stone
 - [ ] Investigate cultist bodies and summoning circle in sewers
 - [ ] Locate any physical cult locations (caves, hideouts)
+- [ ] **NEW**: Analyze [[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]] found in Jarl's quarters
+- [ ] **NEW**: Investigate connection between Jarl and Cult of Clavicus Vile
 
 ## Evidence Collected
 
@@ -111,3 +114,66 @@
 *"The Grand Architect" appears across multiple conspiracy threads - may be the mastermind behind all related operations.*
 
 *Session 021: Discovery of summoning circles confirms active Daedric rituals. Guild leadership now identified. Infiltration in progress.*
+
+## Session 022 Updates - MAJOR BREAKTHROUGHS
+
+### The Guild Trade Event Infiltration
+The party successfully infiltrated a major trade event hosted by the Guild of the Silverroad at the Jarl's Hall:
+
+**Periwyn and Onasha (Guest Approach):**
+- Attended as "Lady Lunclaire" and bodyguard
+- Made legitimate trade connections with [[Renald Vero\|Renald Vero]] (silk) and [[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]] (lumber)
+- **CRITICAL DISCOVERY**: **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] spotted [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] wearing an Ouroboros pendant**
+- This confirms Valen is a **confirmed member of the Coiled Serpent**
+- Valen approached Periwyn about partnership and warned of political changes with the High King unwell
+
+**Durov (Guard Infiltration):**
+- Successfully maintained cover as Valen's guard
+- Mediated disputes between merchants
+- Learned from [[Info/Characters/999 NPC's/Huldir\|Huldir]] that Camonna Tong had murdered guild guards
+- Helped evacuate Valen when the threat was confirmed
+
+**Kirya (Sewer Infiltration):**
+- Navigated sewers to infiltrate Jarl's Hall
+- Entered through wine cellar
+- Discovered **[[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]]** in Jarl's private quarters
+- Stone etched with Daedric runes and radiates heat
+- Also found bloody fur cloak with blood trail
+
+### New Evidence
+
+**The Dark Runic Stone**
+- Found in locked box in Jarl's private bedroom
+- Etched with Daedric runes
+- Radiates heat
+- Direct link between the Jarl and Daedric forces
+- May be connected to the magical effects during the Jarl's speech
+
+**The Jarl's Speech**
+- Delivered speech with apparent magical properties
+- Attendees felt warmth and pressure changes
+- Party was protected by spell absorption tinctures
+- Something seemed "off" about the Jarl—shadows were wrong
+- Suggests the Jarl is corrupted, possessed, or actively using Daedric magic
+
+**Valen Marr Confirmed as Coiled Serpent**
+- Ouroboros pendant clearly visible (though somewhat concealed)
+- Active cult member, not merely a corrupt merchant
+- Likely knows identity of "The Grand Architect"
+- Evacuated city due to Camonna Tong threat—may not return
+
+### Implications
+The investigation has revealed the conspiracy reaches the highest levels:
+- **Guild of the Silverroad**: Infiltrated at Trade Advocate level (Valen)
+- **City Government**: The Jarl himself possesses Daedric artifacts
+- **Regional Politics**: Valen's warning about the High King suggests conspiracy extends to royal level
+- **Camonna Tong**: Now active in Kjalgrad, possibly targeting the conspiracy
+
+### Next Steps
+- Analyze the [[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]] with expert help
+- Determine if the Jarl is willing participant or victim
+- Learn Valen's rank within Coiled Serpent before he leaves
+- Investigate connection between stone, Jarl's speech, and cult activities
+- Consider if the Camonna Tong could be an enemy of the cult (potential ally?)
+
+*Session 022: **BREAKTHROUGH** - Valen Marr confirmed Coiled Serpent; Jarl possesses Daedric artifact; conspiracy reaches highest levels of city government.*

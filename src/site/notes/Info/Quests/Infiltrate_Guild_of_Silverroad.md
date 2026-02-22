@@ -54,18 +54,21 @@ After discovering the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the
 ## Key Targets
 
 ### Primary Targets
-1. **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]** - Trade Advocate
+1. **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]** - Trade Advocate - **CONFIRMED COILED SERPENT**
+   - **Spotted wearing Ouroboros pendant** at trade event ([[2 -  Sessions/Session 022\|Session 022]])
+   - Active Coiled Serpent member, not merely corrupt
    - First contact point for the forged letter
    - Handles guild finances and sensitive operations
    - Previously hired [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] - may recognize him
    - Direct line to [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]
    - Likely knows about brimstone gold operation
+   - Warned about High King being unwell
 
 2. **[[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]** - Guildmaster
    - Ultimate authority in the guild
    - Final target for intelligence gathering
    - May be "The Grand Architect" or answer to them
-   - Possibly the Ouroboros necklace wearer
+   - Connection to Coiled Serpent now confirmed through Valen
    - Most dangerous target
 
 ### Secondary Targets
@@ -208,3 +211,4 @@ After discovering the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the
 
 ## Session References
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Quest initiated; forged letter created and delivered to [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]; directed to meet [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
+- **[[2 -  Sessions/Session 022\|Session 022]]**: **BREAKTHROUGH** - Infiltrated trade event; Valen Marr confirmed as Coiled Serpent member (Ouroboros pendant spotted); Periwyn made legitimate trade connections; Durov maintained guard cover; Valen evacuated city due to Camonna Tong

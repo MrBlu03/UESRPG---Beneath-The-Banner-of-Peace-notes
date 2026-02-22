@@ -136,5 +136,27 @@ Jorvik Hanison is the **key target** for understanding the conspiracy:
 - Could be the final boss of the [[Kjalgrad\|Kjalgrad]] conspiracy arc
 - Or could be a puppet for "The Grand Architect"
 
+## Session 022 Updates
+
+### The Trade Event
+Jorvik hosted a major trade event at the **Jarl's Hall** in [[2 -  Sessions/Session 022\|Session 022]]:
+- Delivered the opening speech about trade, trust, and prosperity
+- Praised the Guild of the Silverroad for keeping Kjalgrad strong
+- Raised a toast to shared futures and cooperation
+- Personally invited **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** (by name as "Lady Lunclaire") to the event
+
+### Party's Attendance
+**[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** and **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** attended the event as guests:
+- Periwyn used the opportunity to make trade connections
+- Met with **[[Renald Vero\|Renald Vero]]** (silk) and **[[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]** (lumber)
+- Successfully networked under the Lunclaire family name
+- **Valen Marr** was present and interacting with guests
+
+### Ongoing Concerns
+- The event was cut short when **two guards were murdered by Camonna Tong**
+- Jorvik's whereabouts during/after the event are unknown
+- With Valen confirmed as Coiled Serpent, Jorvik's own involvement becomes even more suspect
+
 ## Session References
 - **[[2 -  Sessions/Session 021\|Session 021]]**: First mentioned as Guildmaster; [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] identified as his Trade Advocate
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Hosted trade event at Jarl's Hall; Periwyn made trade connections at his event

@@ -18,6 +18,7 @@
 | [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]                                     | ⭐  | Main     | Session 012  | TBD                                 | Major      |
 | [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Investigate_Cult_of_Clavicus_Vile_Cave]]           | ⭐  | Main     | Session 020  | Favor from The Vestige              | Major      |
 | [[Info/Quests/Infiltrate_Guild_of_Silverroad\|Infiltrate_Guild_of_Silverroad]]                           | ⭐  | Main     | Session 021  | TBD                                 | Major      |
+| [[Info/Quests/Investigate_Jarls_Dark_Stone\|Investigate_Jarls_Dark_Stone]]                               | ⭐  | Main     | Session 022  | TBD                                 | Major      |
 | [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]                                                         | 📋 | Optional | Session 013  | Unknown                             | Minor      |
 | [[Info/Quests/Study_Shadow_Stone_Powers\|Study_Shadow_Stone_Powers]]                                     | 📋 | Optional | TBD          | TBD                                 | Background |
 | [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                             | 👤 | Personal | Session 007  | TBD                                 | Major      |

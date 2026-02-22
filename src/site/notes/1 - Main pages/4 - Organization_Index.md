@@ -48,6 +48,8 @@
 | [[Info/Characters/999 NPC's/Adda\|Adda]]                                     | 🟢 | [[Info/Characters/999 NPC's/Adda\|Adda]]                                     | Magical Figure      | 🟢 |
 | [[Info/Characters/999 NPC's/Gorm\|Gorm]]                                     | 🟢 | [[Info/Characters/999 NPC's/Gorm\|Gorm]]                                     | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | 🟢 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | Political Figure    | 🟢 |
+| [[Info/Characters/999 NPC's/Brom\|Brom]]                                     | 🟢 | [[Info/Characters/999 NPC's/Brom\|Brom]]                                     | Guard               | 🟢 |
+| [[Info/Characters/999 NPC's/Huldir\|Huldir]]                                 | 🟢 | [[Info/Characters/999 NPC's/Huldir\|Huldir]]                                 | Guard               | 🟢 |
 | [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]                 | 🟢 | [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]                 | Political           | 🟢 |
 | [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]                         | 🟢 | [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]                         | Political           | 🟢 |
 | [[Info/Characters/999 NPC's/Varren\|Varren]]                                 | ❓  | [[Info/Characters/999 NPC's/Varren\|Varren]]                                 | Criminal            | ❓  |
@@ -55,6 +57,8 @@
 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | 🟢 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | Criminal            | 🟢 |
 | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | ❓  | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | Supernatural        | ❓  |
 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | 🟢 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | Underworld Contact  | 🟢 |
+| [[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]                             | 🟢 | [[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]                             | Merchant            | 🟢 |
+| [[Info/Characters/999 NPC's/Renald_Vero\|Renald_Vero]]                       | 🟢 | [[Info/Characters/999 NPC's/Renald_Vero\|Renald_Vero]]                       | Merchant            | 🟢 |
 | [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]         | 🟢 | [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]         | Magical Figure      | 🟢 |
 | [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]             | 🟢 | [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]             | Magical Figure      | 🟢 |
 | [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]]             | 🟢 | [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]]             | Antagonist          | 🟢 |

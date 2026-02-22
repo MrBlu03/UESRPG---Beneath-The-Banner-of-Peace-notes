@@ -15,10 +15,11 @@
 - [x] ~~Await [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]'s analysis of Daedric orb~~ - **COMPLETED**: Orb identified as Harrowstorm Engine Core
 - [ ] Track down remaining cult operatives with black leathers and Daedric runes
 - [x] ~~Investigate **[[Kjalgrad\|Kjalgrad]]** in the Rift~~ - **IN PROGRESS**: Party arrived, major discoveries made
-- [x] ~~Find the contact wearing an **Ouroboros pendant**~~ - **IDENTIFIED**: High-ranking member of [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
+- [x] ~~Find the contact wearing an **Ouroboros pendant**~~ - **IDENTIFIED**: [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]], Trade Advocate of [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
+- [x] ~~Identify and confront the Ouroboros wearer in [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]~~ - **CONFIRMED**: Valen Marr spotted wearing pendant at trade event
 - [ ] Investigate [[Info/Organizations/House_Hlaalu\|House_Hlaalu]] connection and [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]
 - [ ] Analyze the **Dunmer Ledger** for further leads
-- [ ] Identify and confront the Ouroboros wearer in [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
+- [ ] Learn Valen Marr's role and rank within Coiled Serpent
 - [ ] Investigate "The Grand Architect"
 - [x] ~~Analyze the **Daedric Speaking Stone**~~ - **COMPLETED**: Links to Oblivion itself
 
@@ -216,7 +217,41 @@ The [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] appears connected to multiple o
 - No visible source—possibly magical or supernatural
 - Could be related to [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] surveillance or psychological attack
 
+## Session 022 Updates - MAJOR BREAKTHROUGH
+
+### Valen Marr Confirmed as Coiled Serpent Member
+**CRITICAL DISCOVERY**: **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] spotted [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] wearing an Ouroboros pendant** during the Guild of the Silverroad trade event.
+
+**Details:**
+- Pendant was visible around Valen's neck during his conversation with Periwyn
+- Onasha signaled Periwyn subtly; Valen noticed but dismissed it as adjusting armor
+- Periwyn passed a logic test and understood the warning
+- This confirms the Coiled Serpent has infiltrated the Guild of the Silverroad at the **Trade Advocate** level
+
+### Valen Marr's Behavior
+During the event, Valen:
+- Approached Periwyn directly to discuss "partnership"
+- Mentioned the Lunclaire business is "greatly missed"
+- Warned that "big changes are coming" because the High King is unwell
+- Probed about Periwyn's political alignment
+- Offered access to trade networks from "trading hall up to Windhelm"
+
+### Implications
+- Valen is not merely a corrupt guild officer but an **active Coiled Serpent member**
+- He likely knows the identity of "The Grand Architect"
+- His partnership offer to Periwyn may have been a **recruitment attempt**
+- The conspiracy reaches to the second-highest level of the Guild of the Silverroad
+- The warning about the High King suggests the Coiled Serpent has intelligence about (or involvement in) the royal succession
+
+### Evacuation Due to Camonna Tong
+- Valen evacuated [[Kjalgrad\|Kjalgrad]] after Camonna Tong murdered two guild guards
+- He is leaving the city (possibly today or tomorrow)
+- The party plans to meet with him on Monday if possible
+- This may be the last chance to gather intelligence from him directly
+
 ## Notes
 *Major escalation discovered - cult coordinating with House Hlaalu smuggling network and possibly connected to Grey Host remnants*
 
 *Session 020: Direct connection established between Coiled Serpent and Guild of the Silverroad. "The Grand Architect" identified as potential mastermind.*
+
+*Session 022: **BREAKTHROUGH** - Valen Marr confirmed as Coiled Serpent member wearing Ouroboros pendant. Infiltration successful at highest level yet.*

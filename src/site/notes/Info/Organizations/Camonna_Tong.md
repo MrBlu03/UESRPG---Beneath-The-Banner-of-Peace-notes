@@ -33,6 +33,13 @@ The Camonna Tong is a criminal syndicate originating from Morrowind that operate
 - Seized merchant ship containing the sought-after lockbox
 - Entire local operation eliminated by [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]]
 
+**[[2 -  Sessions/Session 022\|Session 022]]**:
+- **ACTIVE IN [[Kjalgrad\|Kjalgrad]]**: Murdered two guards outside the Jarl's Hall
+- The guards were working for the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
+- Targeted during a major trade event hosted by the Guild
+- Forced [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] to evacuate the city
+- Threat level now **HIGH** - active assassinations in the region
+
 ## Related Items and Evidence
 - **Camonna Tong Masks**: Bone/plate masks used for identification
 - **Dunmeri Ledger**: Criminal records written in Dunmeri language

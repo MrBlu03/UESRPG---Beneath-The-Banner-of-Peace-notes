@@ -68,6 +68,55 @@ The longhouse represents a façade of traditional Nordic rule:
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] was visibly angered by [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]'s disrespect
 - Eventually accepted the job
 
+### [[2 -  Sessions/Session 022\|Session 022]] - Guild Trade Event
+
+**The Event:**
+- [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] hosted a major trade event in the Great Hall
+- [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]] gave opening speech about prosperity and cooperation
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] attended as "Lady Lunclaire" with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] as bodyguard
+- Many merchants attended: [[Renald Vero\|Renald Vero]], [[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]], and others
+- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] worked undercover as [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s guard
+
+**Major Discovery - Coiled Serpent Connection:**
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] spotted [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] wearing an **Ouroboros pendant**
+- Confirmed Coiled Serpent infiltration of the Guild of the Silverroad
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] passed logic test to understand Onasha's warning signal
+- Valen approached Periwyn about partnership and warned of political changes
+
+**The Jarl's Speech:**
+- The Jarl appeared on the balcony to deliver a speech
+- Something seemed "off" about him—shadows were weird and shifty
+- Speech had magical properties: attendees felt warmth and pressure changes
+- Party was protected by spell absorption tinctures
+
+**The Murders:**
+- Event cut short when two guild guards were found murdered outside
+- **Camonna Tong** presence confirmed in [[Kjalgrad\|Kjalgrad]]
+- All guests ushered out by guards
+- [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] evacuated the city due to the threat
+
+### [[2 -  Sessions/Session 022\|Session 022]] - Kirya's Infiltration
+
+**The Sewer Route:**
+- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] infiltrated through [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] near the bridge
+- Navigated to the old sewers section
+- Found corpse with key pointing the way
+- Entered through wine cellar beneath the longhouse
+
+**The Jarl's Private Quarters:**
+- Successfully picked lock to Jarl's bedroom
+- **Discoveries:**
+  - **Blood trail** from closet to window
+  - **Bloody fur cloak** in closet, smelled of soot and wet dirty fur
+  - **Lockbox** containing **dark runic stone** with Daedric runes that radiated heat
+- Stone was wrapped and taken for further analysis
+
+**The Wine Cellar:**
+- Massive cellar with multiple rooms
+- Barrels of expensive wine stored here
+- Kirya "sampled" several varieties, becoming slightly tipsy
+- Stole bottles of fruity and spicy wine on exit
+
 ## Strategic Notes
 - The longhouse is where bounties and official business are handled
 - Approaching the Jarl directly is likely ineffective

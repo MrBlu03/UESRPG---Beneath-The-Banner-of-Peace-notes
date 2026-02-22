@@ -132,6 +132,45 @@ The sewers serve as a secure location for cult communications:
 - The sewers may contain additional ritual sites
 - Connection to [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] suggests guild funding/protecting cult activity
 
+### [[2 -  Sessions/Session 022\|Session 022]] - Kirya's Infiltration Route
+
+**Entry Point:**
+1. **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** entered sewers near the bridge to Jarl's Hall
+2. Lucky observation roll revealed a **corpse with arm pinned to wall**
+3. Dagger pointed toward sign reading **"old sewers"**
+4. Corpse had **pouch with rusted key**
+
+**Navigation:**
+5. Marked paths with mud to avoid getting lost
+6. Initially went wrong way into **ancient architecture** (resembling Riften's old sewers)
+7. Backtracked to fork in the road
+8. Picked locked gate (barely succeeded)
+9. Found sign confirming "old sewers" direction
+10. After 15-20 minutes, reached door to **wine cellar beneath Jarl's Hall**
+
+**The Wine Cellar:**
+11. Picked lock to enter massive wine cellar (20x20m rooms)
+12. Multiple rooms with barrels of wine
+13. Found stairwell leading up to main building
+14. Exited through same route after completing mission
+15. Sampled wine on exit (became slightly tipsy)
+
+### Route Security
+- **Minimal Guard Presence**: Kirya encountered no guards in the sewers
+- **Ancient Sections**: Some areas predating current sewer system
+- **Direct Access**: Leads directly to Jarl's Hall wine cellar
+- **Escape Route**: Viable infiltration/exfiltration path for future missions
+
+## Strategic Value Update
+
+### Infiltration Route ([[2 -  Sessions/Session 022\|Session 022]])
+- **Verified Access**: Confirmed route from sewers to Jarl's Hall
+- **Wine Cellar Entry**: Leads directly to building's lower levels
+- **Stair Access**: Connects cellar to upper floors (including private quarters)
+- **Minimal Security**: No guards encountered in this section
+- **Reuse Potential**: Route can be used for future infiltration missions
+
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: Party infiltrated sewers, captured [[Info/Characters/999 NPC's/Varren\|Varren]], encountered Daedric creature
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Party returned to retrieve speaking stone; discovered cultist corpses and summoning circle
+- **[[2 -  Sessions/Session 022\|Session 022]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] used sewers to infiltrate Jarl's Hall; discovered route to wine cellar and private quarters
