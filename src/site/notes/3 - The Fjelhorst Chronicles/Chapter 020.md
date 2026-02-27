@@ -83,4 +83,4 @@ Above Kjallgrad, crows watched from the eaves.
 
 And somewhere in the dark, bargains were being weighed.
 
-[[Chapter 021\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 020a - A Matter of Inevitability\|Next Chapter →]]
