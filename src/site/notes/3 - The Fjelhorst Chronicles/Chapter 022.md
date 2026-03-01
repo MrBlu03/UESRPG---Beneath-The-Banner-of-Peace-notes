@@ -96,3 +96,5 @@ They retired with the understanding that the gathering had revealed more than it
 
 The city returned to its usual rhythm by nightfall.  
 But Kjallgrad felt different to them, as cities often do once their seams have been seen.
+
+[[Chapter 023\|Next Chapter →]]

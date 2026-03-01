@@ -79,5 +79,5 @@ The figurine remained where he had placed it among his belongings — small, del
 
 Such objects endured not because they mattered greatly, but because they did not change.
 
-[[Chapter 021\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 021\|Next Chapter →]]
 
