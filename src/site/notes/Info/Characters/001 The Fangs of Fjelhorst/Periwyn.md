@@ -23,7 +23,7 @@
   - Received a vision of undead werewolves after touching the crimson orb
   - Attempted and failed a necromancy ritual on a bird
   - Experienced [[vivid nightmares\|vivid nightmares]] showing her twin brother and mentor dying while blaming her
-  - Began experiencing recurring nightmares featuring Malacath, Daedric Prince of Vengeance
+  - Began experiencing recurring nightmares featuring [[Info/Lore/Malacath\|Malacath]], Daedric Prince of Vengeance
   - Identified the tortured man at Greenwall as [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
   - Suffered emotional trauma leading to withdrawal from the group and loss of appetite
   - Often woke clutching her silver dagger with the moonstone and matching pendant
@@ -99,7 +99,7 @@
   - Met at [[Soggy Beaver\|Soggy Beaver]] tavern for party reunion
 
 ## Current Concerns
-- Being targeted by Malacath, who appears to be encouraging her vengeful tendencies
+- Being targeted by [[Info/Lore/Malacath\|Malacath]], who appears to be encouraging her vengeful tendencies
 - Recurring nightmares featuring the Daedric Prince on a throne of skulls
 - Strained relationship with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] after the failed necromancy attempt
 - Withdrawal and depression following events at Greenwall

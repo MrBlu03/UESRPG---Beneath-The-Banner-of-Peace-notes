@@ -6,25 +6,25 @@
 
 **7th of Frostfall, 2E 600**
 
-The party awoke to the steady drum of rain hall's wooden roof. Kirya rose first, eating fruit and fish. Onasha followed, picking apart a bowl of fruit salad. Durov came next, carving into a hunk of meat and retreating to the corner. Periwyn stirred last, paging through a destruction tome before taking her breakfast.
+The party awoke to the steady drum of rain hall's wooden roof. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] rose first, eating fruit and fish. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] followed, picking apart a bowl of fruit salad. [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] came next, carving into a hunk of meat and retreating to the corner. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] stirred last, paging through a destruction tome before taking her breakfast.
 
-The hall’s doors opened to a hooded figure, dripping rainwater. Torvald Black-Foot stepped forward and called them to the main table. He spoke of Dunmer harassing his workers, demanding a shipment, and breaking into his warehouse. One of the raiders had been caught and thrown into jail. He wanted answers.
+The hall's doors opened to a hooded figure, dripping rainwater. [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]] stepped forward and called them to the main table. He spoke of Dunmer harassing his workers, demanding a shipment, and breaking into his warehouse. One of the raiders had been caught and thrown into jail. He wanted answers.
 
-On their way to the docks, they stopped by Sweaty Steel. Eirik the Quick darted past, and Onasha’s attempt to trip him failed again. Kirya left with a sharper blade.
+On their way to the docks, they stopped by [[Info/Locations/Sweaty_Steel\|Sweaty Steel]]. [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]] darted past, and Onasha's attempt to trip him failed again. Kirya left with a sharper blade.
 
-By midmorning the rain thinned. The docks were quieter than usual, gulls circling above. Workers said the Dunmer claimed the shipment belonged to their House but never named which. One wore a bone mask—Camonna Tong. Periwyn sketched it. They also overheard mention of “Yorgrim drops.” Guards confirmed the raiders fled north after the break-in.
+By midmorning the rain thinned. The docks were quieter than usual, gulls circling above. Workers said the Dunmer claimed the shipment belonged to their House but never named which. One wore a bone mask—[[Info/Organizations/Camonna_Tong\|Camonna Tong]]. Periwyn sketched it. They also overheard mention of "Yorgrim drops." Guards confirmed the raiders fled north after the break-in.
 
-Kirya spotted an Argonian with markings like Onasha’s. Questioned, he muttered of the Dread Father. Onasha cut the questioning short, saying no more. He admitted the Dunmer sought a lockbox. Later, Onasha revealed she had recognized him, but kept it quiet for the others’ safety. Periwyn trusted her word.
+Kirya spotted an Argonian with markings like Onasha's. Questioned, he muttered of the Dread Father. Onasha cut the questioning short, saying no more. He admitted the Dunmer sought a lockbox. Later, Onasha revealed she had recognized him, but kept it quiet for the others' safety. Periwyn trusted her word.
 
-At the jail, Captain Harvold promised free drinks at the Amber Keg if they made the prisoner talk. The Dunmer’s eyes darted to Onasha, fear in each glance. He cracked as she leaned closer. He confessed to being Camonna Tong, named his leader Tharen Duleri, and said they had hidden in a grotto south of Riften. Onasha entered the cell after, called him a fool, and broke his nose.
+At the jail, Captain [[Info/Characters/999 NPC's/Harvold\|Harvold]] promised free drinks at the Amber Keg if they made the prisoner talk. The Dunmer's eyes darted to Onasha, fear in each glance. He cracked as she leaned closer. He confessed to being Camonna Tong, named his leader [[Info/Characters/999 NPC's/Tharen_Duleri\|Tharen Duleri]], and said they had hidden in a grotto south of [[Info/Locations/Riften\|Riften]]. Onasha entered the cell after, called him a fool, and broke his nose.
 
 They set out south. Onasha failed again to trip Eirik along the way. The grotto was recently abandoned, campfire still warm. A mast rose in the distance.
 
-At the ship, reeds and dusk concealed them. Dunmer in netch leather patrolled. One by one, they were lured, struck, and silenced. The masked one proved harder. When Periwyn’s pebble struck him, he vanished into thin air.
+At the ship, reeds and dusk concealed them. Dunmer in netch leather patrolled. One by one, they were lured, struck, and silenced. The masked one proved harder. When Periwyn's pebble struck him, he vanished into thin air.
 
-The ship’s upper deck was strewn with bodies. From below came muffled screams. In the crew quarters, captives were bound—some already dead. Behind them stood the masked Dunmer.
+The ship's upper deck was strewn with bodies. From below came muffled screams. In the crew quarters, captives were bound—some already dead. Behind them stood the masked Dunmer.
 
-Onasha’s paralysis bomb failed. Durov charged but stumbled. Periwyn rushed forward, only to be met by a word of fire. Flames filled the chamber. Durov and Periwyn leapt into the water, burning.
+Onasha's paralysis bomb failed. Durov charged but stumbled. Periwyn rushed forward, only to be met by a word of fire. Flames filled the chamber. Durov and Periwyn leapt into the water, burning.
 
 The fight ended in ruin. The Dunmer lay dead, his journal in hand. Kirya retrieved the lockbox, its lock unbroken. Durov smashed through the hull to sink the vessel before the fire could consume it whole.
 

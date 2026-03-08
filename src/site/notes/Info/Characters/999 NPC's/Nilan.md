@@ -50,7 +50,7 @@ Nilan was a seasoned hunter from [[Info/Locations/Falderstad\|Falderstad]] who b
 - **[[Info/Characters/999 NPC's/Helga\|Helga]]**: Huscarl who provided information about his supposed survival
 
 ## Significance
-Nilan's death represents the true scope of the vampire conspiracy affecting [[Info/Locations/Falderstad\|Falderstad]]. His transformation and murder demonstrate the callous use of local residents as tools by vampire agents working for [[Majorn\|Majorn]]'s organization.
+Nilan's death represents the true scope of the vampire conspiracy affecting [[Info/Locations/Falderstad\|Falderstad]]. His transformation and murder demonstrate the callous use of local residents as tools by vampire agents working for [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s organization.
 
 ## Final Disposition
 - Body retrieved by the party from his basement

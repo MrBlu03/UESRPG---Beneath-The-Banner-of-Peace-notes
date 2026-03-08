@@ -6,7 +6,7 @@
 # Session 006 - 2025-04-26
 
 ## Summary
-The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler's tunnel while the [[Info/Organizations/Companions\|Companions]] provided a distraction with trebuchet fire. Inside the town, they discovered abandoned buildings, evidence of vampire attacks, and a disturbing Black Sacrament ritual site that summoned a member of the [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]] After striking a deal with the assassin to eliminate the source of the magical darkness, they explored the keep, finding a horrific ritual altar to [[Molag Bal\|Molag Bal]] with a mysterious crimson orb. The magical darkness lifted as the assassin completed his contract, and they rescued a barely alive man who had been tortured and suspended above the altar.
+The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler's tunnel while the [[Info/Organizations/Companions\|Companions]] provided a distraction with trebuchet fire. Inside the town, they discovered abandoned buildings, evidence of vampire attacks, and a disturbing Black Sacrament ritual site that summoned a member of the [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]]. After striking a deal with the assassin to eliminate the source of the magical darkness, they explored the keep, finding a horrific ritual altar to Molag Bal with a mysterious crimson orb. The magical darkness lifted as the assassin completed his contract, and they rescued a barely alive man who had been tortured and suspended above the altar.
 
 ---
 
@@ -24,13 +24,13 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] learned from [[Info/Characters/999 NPC's/Hillevi\|Hillevi]] about the [[Info/Organizations/Companions\|Companions]]:
   - She had been with them for 6 years
   - They typically operate in The Rift region
-  - Their members are either descendants or recruits following [[Ysgramor\|Ysgramor]]'s traditions
+  - Their members are either descendants or recruits following Ysgramor's traditions
   - Their homeland is now a frozen wasteland
   - She joined seeking glory, entrance to Sovngarde, and to help people
   - The Companions operate from a large mead hall
 
 ### The Infiltration Plan
-- [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod_Wraithbane]] summoned the party to the war tent and outlined the plan:
+- [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod Wraithbane]] summoned the party to the war tent and outlined the plan:
   - The party would enter [[Info/Locations/Greenwall\|Greenwall]] through a hidden tunnel
   - The [[Info/Organizations/Companions\|Companions]] would launch flaming projectiles as a distraction
   - Once inside, they should head for the keep where the darkness likely originated
@@ -56,7 +56,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 - The tunnel ended at a false wall (wooden panel) that [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] broke through with his axe
 - This led to the basement of the local inn, accessible via a bookshelf door
 
-### Inside Greenwall
+### Inside [[Info/Locations/Greenwall\|Greenwall]]
 - The inn was filled with dead bodies showing claw marks
 - As they explored, trebuchet fire hit nearby buildings
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] tasted mead in the inn and noted it had a berry flavor
@@ -88,7 +88,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
     - Small items were knocked over, but larger furniture remained in place
   - Basement: Contained a ritual site - the Black Sacrament
 
-### The Dark Brotherhood
+### The [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]]
 - The basement contained:
   - A circle of candles connected by dried blood
   - Human remains in the center
@@ -96,7 +96,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
   - A dull ebony dagger with strange runes
     - Similar to ones seen at statues in the Velothi mountains north on the road between Eastmarch and the region bordering Morrowind
   - A book titled "A Kiss, Sweet Mother"
-- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] recognized this as the Black Sacrament ritual to summon the [[Info/Organizations/Dark_Brotherhood\|Dark_Brotherhood]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] recognized this as the Black Sacrament ritual to summon the [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]]
   - Explained that the ritual requires the remains of the intended victim
   - She freezes in panic and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] rushes in to calm her back down
 - As they returned upstairs, they encountered a figure shrouded in darkness
@@ -121,7 +121,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 ### The Keep
 - Inside the keep, they found a horrific scene:
   - Blood and body parts arranged in a spiral pattern
-  - An altar to [[Molag Bal\|Molag Bal]] with blood flowing from the statue's mouth
+  - An altar to Molag Bal with blood flowing from the statue's mouth
   - A crimson orb floating on a pedestal
   - Behind the altar, a man was hanging with limbs impaled on rusted spears
 - The victim was barely alive:
@@ -129,7 +129,7 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
   - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] gave him a potion that unexpectedly paralyzed him
   - They decided to leave him to recover while they explored further
 - The crimson orb:
-  - Appeared to be from [[Molag Bal\|Molag Bal]]'s realm
+  - Appeared to be from Molag Bal's realm
   - Resisted movement attempts by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
   - Deflected [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s silver arrow, emitting white-red lightning
 - The [[Info/Organizations/Companions\|Companions]] arrived, reporting the orb emitted no detectable magic
@@ -137,14 +137,14 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] attempted to access ice-blocked doors
 - Upon learning [[Info/Characters/999 NPC's/Beitild\|Beitild]] and [[Info/Characters/999 NPC's/Olen\|Olen]] had died, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] cracked the ice wall in a rage
 - The vampire's head dropped from the ceiling, confirming the assassination was complete
-- The Dark Brotherhood assassin performed impressive parkour moves before departing
-- The Dark Brotherhood assassin promised to collect payment later, saying "Your story seems interesting, we will meet again"
+- The [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]] assassin performed impressive parkour moves before departing
+- The [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]] assassin promised to collect payment later, saying "Your story seems interesting, we will meet again"
 
 ---
 
 ## NPCs Met
 - **[[Info/Characters/999 NPC's/Hillevi\|Hillevi]]**: [[Info/Organizations/Companions\|Companions]] member who provided information about the organization
-- **Dark Brotherhood Assassin**: Mysterious Dunmer figure summoned by the Black Sacrament who agreed to eliminate the source of darkness
+- **[[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]] Assassin**: Mysterious Dunmer figure summoned by the Black Sacrament who agreed to eliminate the source of darkness
 
 ---
 
@@ -163,18 +163,18 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 ## Quests
 
 ### New
-- **Dark Brotherhood Contract**: Payment will eventually be due to the assassin #main-quest
+- **[[Info/Quests/Dark_Brotherhood_Contract\|Dark Brotherhood Contract]]**: Payment will eventually be due to the assassin #main-quest
   - [ ] Determine what payment will be required
   - [ ] Prepare for the assassin's return
 
 ### In Progress
-- **Infiltrate Greenwall**: Disrupt the eclipse and confront the vampire threat #main-quest
+- **[[Info/Quests/Dispel_the_Darkness\|Infiltrate Greenwall]]**: Disrupt the eclipse and confront the vampire threat #main-quest
   - [x] Use the smuggler's tunnel to enter the town
   - [x] Assist in rebuilding trebuchets for a diversion
   - [ ] Identify the tortured victim in the keep
   - [ ] Investigate the crimson orb's purpose
 
-- **Vampire Hunter Search (Periwyn)**: Locate [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], stranded in Greenwall #personal-quest
+- **[[Info/Quests/Periwyns_Vampire_Hunter_Search\|Vampire Hunter Search]] ([[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]])**: Locate [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], stranded in [[Info/Locations/Greenwall\|Greenwall]] #personal-quest
   - [ ] Determine if the tortured man is [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
   - [ ] Learn about his vampire hunting techniques
 
@@ -183,22 +183,22 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
   - [ ] Determine the bone hawk's connection to the vampires
 
 ### Completed
-- **Dispel the Darkness**: The magical darkness over Greenwall has been lifted #main-quest
+- **[[Info/Quests/Dispel_the_Darkness\|Dispel the Darkness]]**: The magical darkness over [[Info/Locations/Greenwall\|Greenwall]] has been lifted #main-quest
   - [x] Eliminate the source of the magical darkness
 
 ---
 
 ## Player Notes
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** revealed knowledge of necromancy, which could be an interesting development for her character
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** was willing to sign a Dark Brotherhood contract with his own blood, showing his commitment
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** was willing to sign a [[Info/Quests/Dark_Brotherhood_Contract\|Dark Brotherhood contract]] with his own blood, showing his commitment
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** recognized the Black Sacrament, suggesting possible knowledge of darker arts or cults
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** demonstrated lock-picking skills at the inn, though not consistently successful
 
 ---
 
 ## Reflection
-- The [[Dark Brotherhood\|Dark Brotherhood]]'s appearance adds a new faction to our growing list of interested parties
-- The ritual altar to [[Molag Bal\|Molag Bal]] suggests the vampires may be conducting ceremonies to increase their power
+- The [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]]'s appearance adds a new faction to our growing list of interested parties
+- The ritual altar to Molag Bal suggests the vampires may be conducting ceremonies to increase their power
 - The quick lifting of darkness after the assassin's hunt confirms the vampires had a magical source maintaining the eclipse
 - [[Info/Organizations/Companions\|Companions]] suffered additional losses ([[Info/Characters/999 NPC's/Beitild\|Beitild]] and [[Info/Characters/999 NPC's/Olen\|Olen]]) during the attack
 
@@ -206,11 +206,11 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 
 ## Next Steps
 1. Identify and help the tortured victim, determining if he is [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
-2. Investigate the crimson orb and its connection to [[Molag Bal\|Molag Bal]]
+2. Investigate the crimson orb and its connection to Molag Bal
 3. Search the keep thoroughly for any survivors or additional information
-4. Consider the implications of the Dark Brotherhood contract and future payment
+4. Consider the implications of the [[Info/Quests/Dark_Brotherhood_Contract\|Dark Brotherhood contract]] and future payment
 5. Experiment with the bone hawk remains using necromancy
-6. Report findings to [[Vigrod Wraithbane\|Vigrod Wraithbane]] and discuss next actions
+6. Report findings to [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod Wraithbane]] and discuss next actions
 
 ---
 
@@ -219,4 +219,4 @@ The party infiltrated [[Info/Locations/Greenwall\|Greenwall]] through a smuggler
 - The "nobles" listed in the ledger are likely key vampires or cultists
 - The [[Info/Organizations/Companions\|Companions]]' successful trebuchet attack provided crucial support
 - The Black Sacrament ritual being performed in [[Info/Locations/Greenwall\|Greenwall]] suggests someone was desperate enough to call upon assassins
-- The smuggler's tunnel beneath Greenwall was apparently used for trafficking skooma and slaves
+- The smuggler's tunnel beneath [[Info/Locations/Greenwall\|Greenwall]] was apparently used for trafficking skooma and slaves

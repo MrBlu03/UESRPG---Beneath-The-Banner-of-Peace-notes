@@ -94,9 +94,44 @@ Valen Marr's warning about the High King suggests:
 - **The Jarl of Kjalgrad**: Possesses Daedric artifacts; may be compromised
 - **"The Grand Architect"**: Authority figure directing operations
 
-## Related Organizations
+## Recent Activities (Session 023)
+
+### The Coming Correction
+Letter fragments found in [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s lockbox at the [[Info/Locations/Guild_of_the_Silverroad_Guildhouse\|Guild_of_the_Silverroad_Guildhouse]] reference **"the Coming Correction."** This is a new phrase not previously encountered:
+- Implies a major planned event — punitive, restorative, or political in nature
+- Timeframe unknown
+- Combined with active Riften bribes (last two weeks) and Jarl supervision, suggests a large-scale operation approaching
+
+### The Jarl Confirmed Under Control
+A **slightly burnt letter** in Valen's locked cabinet reads:
+> *"Jarl remains cooperative though his condition requires continued supervision."*
+
+This confirms the Coiled Serpent (through the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]) is directly managing [[Kjalgrad\|Kjalgrad]]'s nominal ruler. The Jarl is not merely a figurehead — he is actively supervised, likely due to his "condition" (possibly magical control, illness, or psychological conditioning from the [[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]]).
+
+### Riften Political Corruption
+Bribe payments to **Riften officials** within the last two weeks confirm the Coiled Serpent's influence is actively expanding beyond Kjalgrad into Riften.
+
+### Bruma Pendant-Wearer
+[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] mentioned knowing **one other pendant-wearer in Bruma** as part of his cover story. If genuine, this identifies at least one more confirmed Coiled Serpent operative in **Bruma**, Cyrodiil.
+
+### Ouroboros Pendant — Public Cover Story
+Valen explained the pendant to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] as a Planemeld survivor's keepsake representing the three alliances (Ebonheart Pact, Aldmeri Dominion — griffon, Daggerfall Covenant — lion) from the White Gold Tower siege. This is his prepared cover for wearing the symbol openly.
+
+### Warehouse Operations
+[[Info/1 - Party Findings/Coin_Molds\|Coin_Molds]] matching brimstone gold found at [[Info/Locations/Kjalgrad_Warehouse_District\|Warehouse 7]], alongside black candles and ritual animal parts (bone, sinew, pig hearts). A warehouse worker confirmed the smell matches Daedric anchors from the Planemeld. The coin mold/ritual materials suggest active Daedric manufacturing or ceremonial processes.
+
+## Confirmed Members (updated)
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]**: Trade Advocate of the Guild of the Silverroad — **CONFIRMED Ouroboros wearer**
+- **Unknown Bruma contact**: Wears Ouroboros pendant; known to Valen Marr
+
+## Suspected Members/Allies (updated)
+- **The Jarl of Kjalgrad**: Under confirmed Guild supervision; possesses Daedric artifacts
+- **"The Grand Architect"**: Authority figure directing operations
+- **Riften officials**: Receiving bribes — complicit in Coiled Serpent political expansion
+
+## Related Organizations (updated)
 - **[[Info/Organizations/House_Hlaalu\|House_Hlaalu]]**: Great House whose smugglers were transporting Coiled Serpent materials
 - **[[Info/Organizations/Mages_Guild\|Mages_Guild]]**: Investigating Daedric connections
 - **[[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]**: Infiltrated by Coiled Serpent at leadership level (Valen Marr confirmed)
-- **Cult of Clavicus Vile**: Possibly allied or overlapping organization
-- **Camonna Tong**: Active in Kjalgrad; may be enemies of the Coiled Serpent (targeting their operations)
+- **Cult of Clavicus Vile**: Possibly allied or overlapping organization (brimstone gold, coin molds)
+- **[[Info/Organizations/Camonna_Tong\|Camonna_Tong]]**: Active in Kjalgrad; enemies of the Guild; Onasha misdirected them at Valen

@@ -249,9 +249,56 @@ During the event, Valen:
 - The party plans to meet with him on Monday if possible
 - This may be the last chance to gather intelligence from him directly
 
+## Session 023 Updates — Major Intelligence Haul
+
+### Office Intelligence from Valen Marr
+The party searched [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s office at the [[Info/Locations/Guild_of_the_Silverroad_Guildhouse\|Guild_of_the_Silverroad_Guildhouse]] during his absence. See [[Info/1 - Party Findings/Valen_Office_Intelligence\|Valen_Office_Intelligence]] for full details.
+
+**Key findings:**
+- **Cabinet letter (burnt)**: *"Jarl remains cooperative though his condition requires continued supervision"* — Jarl of Kjalgrad is under Guild/Coiled Serpent management
+- **Lockbox**: Silver Road contracts; **bribe payments to Riften officials** (last 2 weeks); letter fragments referencing **"the Coming Correction"**
+- **Wall map**: Two red circles in [[Info/Locations/Kjalgrad_Warehouse_District\|Kjalgrad_Warehouse_District]] (Warehouses 4 & 7) + **northeast marker outside Kjalgrad**
+- **Ledger**: Night warehouse transfer (Warehouse 4 → 7), "special consignment — temple allocation" (no temple in Kjalgrad), coin distribution entries
+
+### The Coming Correction
+**NEW DISCOVERY**: Letter fragments reference **"the Coming Correction"** — a major planned event of unknown nature, scope, and timeline.
+
+### Riften Political Expansion
+Active bribe payments to Riften officials within the last two weeks confirms the Coiled Serpent is **actively expanding political control to Riften right now**.
+
+### Ouroboros Pendant — Cover Story
+Valen explained the pendant publicly as a Planemeld survivor's keepsake (three alliance symbols). He mentioned knowing one other pendant-wearer in **Bruma** — potentially a real Coiled Serpent operative.
+
+### Warehouse Operations
+[[Info/1 - Party Findings/Coin_Molds\|Coin_Molds]] matching brimstone gold found at [[Info/Locations/Kjalgrad_Warehouse_District\|Warehouse 7]] alongside black candles and ritual animal parts. A worker confirmed the smell matches Daedric anchors from the Planemeld. Active Daedric manufacturing and/or ritual activity ongoing.
+
+### Citizen Disappearances
+Citizens speaking out against Guild tariffs (now at 45%) are disappearing. **[[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]]** confirmed arrests with no dungeon records — the Coiled Serpent/Guild is removing people outside official channels.
+
+### Onasha's Misdirection
+[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] previously told the Camonna Tong that **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]** had the Blackfoot lockbox — misdirecting them at a Guild target. This creates potential to pit the two organizations against each other (frenzy bomb plan being considered).
+
+## Key Tasks (Updated)
+- [x] ~~Investigate [[Kjalgrad\|Kjalgrad]] in the Rift~~ — **IN PROGRESS**: Major discoveries made
+- [x] ~~Find the contact wearing an Ouroboros pendant~~ — **IDENTIFIED**: [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
+- [x] ~~Identify and confront the Ouroboros wearer~~ — **CONFIRMED**: Valen Marr
+- [x] ~~Analyze the Daedric Speaking Stone~~ — **COMPLETED**: Links to Oblivion
+- [ ] Identify what **"the Coming Correction"** is — timeline, target, nature
+- [ ] Investigate the **northeast marker** outside Kjalgrad
+- [ ] Investigate the **Bruma pendant-wearer** Valen mentioned
+- [ ] Follow up on **Riften bribes** — which officials, what they've done
+- [ ] Investigate [[Info/Organizations/House_Hlaalu\|House_Hlaalu]] connection and [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]
+- [ ] Analyze the **Dunmer Ledger** for further leads
+- [ ] Learn Valen Marr's full rank within Coiled Serpent
+- [ ] Investigate "The Grand Architect"
+- [ ] Monitor for [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]] vampire activities
+- [ ] Track down remaining cult operatives with black leathers and Daedric runes
+
 ## Notes
-*Major escalation discovered - cult coordinating with House Hlaalu smuggling network and possibly connected to Grey Host remnants*
+*Major escalation discovered — cult coordinating with House Hlaalu smuggling network and possibly connected to Grey Host remnants*
 
 *Session 020: Direct connection established between Coiled Serpent and Guild of the Silverroad. "The Grand Architect" identified as potential mastermind.*
 
-*Session 022: **BREAKTHROUGH** - Valen Marr confirmed as Coiled Serpent member wearing Ouroboros pendant. Infiltration successful at highest level yet.*
+*Session 022: **BREAKTHROUGH** — Valen Marr confirmed as Coiled Serpent member wearing Ouroboros pendant. Infiltration successful at highest level yet.*
+
+*Session 023: **MAJOR INTELLIGENCE HAUL** — Jarl confirmed under Guild supervision; Riften officials bribed; "Coming Correction" planned; coin molds and ritual materials at Warehouse 7; northeast marker identified.*

@@ -44,7 +44,7 @@ In [[Kjalgrad\|Kjalgrad]], he appeared disguised as a Dunmer named **Sadrith Ind
 ### [[2 -  Sessions/Session 020\|Session 020]] - Revelation in Kjalgrad
 **Initial Encounter:**
 - The party was hired by [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] to capture or kill "Sadrith"
-- Found him at the abandoned [[Blackfoot Merchants Guild House\|Blackfoot Merchants Guild House]] in [[Kjalgrad\|Kjalgrad]]
+- Found him at the abandoned [[Info/Locations/Blackfoot_Guild_House_Kjalgrad\|Blackfoot Guild House]] in [[Kjalgrad\|Kjalgrad]]
 - He was standing over a table with notes, investigating Daedric activity
 
 **The Reveal:**
@@ -112,7 +112,7 @@ In [[Kjalgrad\|Kjalgrad]], he appeared disguised as a Dunmer named **Sadrith Ind
 ## Session 021 Updates
 
 ### Meeting at the Guild House
-The party returned to the abandoned [[Blackfoot Merchants Guild House\|Blackfoot Merchants Guild House]]:
+The party returned to the abandoned [[Info/Locations/Blackfoot_Guild_House_Kjalgrad\|Blackfoot Guild House]]:
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** walked straight in, showing familiarity
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** followed
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** hesitated in the doorframe

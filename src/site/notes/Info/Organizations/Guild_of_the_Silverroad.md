@@ -153,6 +153,45 @@ The Guild hosted a major trade event at the **Jarl's Hall**:
 - Connection between this guild and [[Info/Organizations/House_Hlaalu\|House_Hlaalu]] smugglers is possible
 - May be part of the same conspiracy as the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] operations in [[Info/Locations/Riften\|Riften]]
 
+### Session 023 — Tariffs, Disappearances, and Deep Operations
+
+#### Tariff Escalation and Social Control
+- **Tariffs raised to 45%** — an extreme rate causing hardship for merchants and citizens
+- Citizens speaking out against the tariffs are **disappearing** — **[[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]]** confirmed arrests were made but no one appeared in the dungeon records
+- City guards on the Guild's payroll are reportedly asking questions at warehouses — described as "less than reputable people" by merchants
+- A **clothing merchant with a mustache** vanished from his market stall after speaking publicly against the Guild
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** de-escalated a crowd of protesting citizens with a prepared speech, promising to investigate
+
+#### The Warehouse Operation
+At [[Info/Locations/Kjalgrad_Warehouse_District\|Warehouse 7]], the party found sealed crates containing:
+- **[[Info/1 - Party Findings/Coin_Molds\|Coin_Molds]]** — matching the shape of brimstone gold coins
+- Gemstones, chalk, **black candles**, and ritual animal parts (bone, sinew, pig hearts — listed only as "animal parts" on any manifest)
+- A warehouse worker recognized the brimstone gold smell as matching **Daedric anchors from the Planemeld**
+- The guild ledger records a **night transfer** from Warehouse 4 to Warehouse 7, and a **"special consignment — temple allocation"** (no temple exists in Kjalgrad)
+
+#### Intelligence from Valen's Office
+The party gathered critical intelligence from [[Info/Locations/Guild_of_the_Silverroad_Guildhouse\|Valen Marr's office]]:
+- **Wall map**: Two red circles marking the warehouse district sites, plus a **mark northeast of Kjalgrad** outside the city walls
+- **Ledger**: Night warehouse transfers, temple allocation, and coin distribution to market
+- **Cabinet letter (burnt)**: *"Jarl remains cooperative though his condition requires continued supervision"*
+- **Lockbox**: Bribe payments to **Riften officials** (last two weeks); letter fragments referencing **"the Coming Correction"**
+
+#### The Partnership Offer
+[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] offered [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] an 8% guild rate (vs. standard 15%) and three trade routes in exchange for carrying Guild cargo and reporting on rival merchants. He framed the Guild as a political voice for merchants with royal court connections.
+
+#### Bribery Beyond Kjalgrad
+Active bribe payments to Riften officials within the past two weeks confirms the Guild is **expanding political corruption to Riften** right now.
+
+### Key Questions (Updated)
+1. What is "the Coming Correction"?
+2. What is the **northeast marker** on Valen's map?
+3. What is the "temple allocation" — and where is this temple?
+4. What happened to the citizens who disappeared?
+5. Which Riften officials have been bribed and what have they done in exchange?
+6. Who is the **Bruma pendant-wearer** Valen mentioned?
+
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: First detailed information; [[Info/Characters/999 NPC's/Varren\|Varren]] captured
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Leadership revealed; [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]] and [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] identified; party begins infiltration
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Trade event; Valen confirmed as Coiled Serpent; Camonna Tong murders; Valen evacuated
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Tariff escalation; citizen disappearances; Warehouse 7 investigation; partnership offer; office intelligence gathered; Riften bribes; "Coming Correction" discovered

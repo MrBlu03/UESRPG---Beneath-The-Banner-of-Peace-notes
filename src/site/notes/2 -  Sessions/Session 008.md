@@ -5,7 +5,7 @@
 # Session 008 - 2025-06-21
 
 ## Summary
-The party accepted a contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] of Clan Cold-Moor to investigate a haunted hunting lodge east of [[Info/Locations/Riften\|Riften]]. After gathering information from the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] and local bards, they discovered the lodge was built on ancient ground where a massacre occurred. At the lodge, they encountered the spirit of [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] and the undead [[Info/Characters/Sven\|Sven]]. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] retrieved the mask and returned to [[Info/Locations/Riften\|Riften]] for supplies while the others prepared a funeral pyre for the spirits. The party discovered the remains of [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] in the well, including her head and a necklace, and found a locked box that [[Info/Characters/Sven\|Sven]] requested be burned.
+The party accepted a contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] of Clan Cold-Moor to investigate a haunted hunting lodge east of [[Info/Locations/Riften\|Riften]]. After gathering information from the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] and local bards, they discovered the lodge was built on ancient ground where a massacre occurred. At the lodge, they encountered the spirit of [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] and the undead Sven. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] retrieved the mask and returned to [[Info/Locations/Riften\|Riften]] for supplies while the others prepared a funeral pyre for the spirits. The party discovered the remains of [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] in the well, including her head and a necklace, and found a locked box that Sven requested be burned.
 
 ---
 
@@ -28,18 +28,18 @@ The party accepted a contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] 
 - Payment: 200 gold, one bottle of Cold-Moor Reserve, items from root cellar (excluding cursed items)
 - Contact: [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] of Clan Cold-Moor at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]
 
-### Journey to The Sleeping Stag
+### Journey to [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]
 - Pleasant morning, slightly chilly but not cold
 - Saw fishermen heading to work and people with carts
 - Felt watched since the contract piece was burned by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
 
-### Arrival at The Sleeping Stag
+### Arrival at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]
 - Located on a quieter side of town
 - Massive elk head above the hearth
 - Bards chatting on the right of the entrance
 - Well-dressed man ([[Info/Characters/999 NPC's/Hadvar\|Hadvar]]) in corner with boots on chair, wine half gone, plate of lamb and veggies
 
-### Meeting with Hadvar
+### Meeting with [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]
 - [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] explained the haunted house situation
   - Strange occurrences started two nights ago
   - Heard ghostly voices whispering his name from rafters
@@ -56,23 +56,23 @@ The party accepted a contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] 
 - **[[Info/Characters/999 NPC's/Sonya\|Sonya]]** (second bard):
   - The well at the lodge never dries up, even during frost
 
-### Additional Information from Eydis
+### Additional Information from [[Info/Characters/999 NPC's/Eydis\|Eydis]]
 - [[Info/Characters/999 NPC's/Eydis\|Eydis]] mentioned there used to be a whole village in the lodge area
 - Asked [[Info/Characters/999 NPC's/Sonya\|Sonya]] to tell the story of Clan Coldmoor
 - Story mentioned the First Empire (at least 4,000 years old)
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] noted the massacre was definitely not vampires (too early in history)
 - No further information about Clan Coldmoor; everything else struck from history
 
-### Visit to the Cult of Ysmir
+### Visit to the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
 - **Time:** Around 8:30-9:00 AM
-- [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir]] still in [[Info/Locations/Greenwall\|Greenwall]]
+- [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] still in [[Info/Locations/Greenwall\|Greenwall]]
 - Few cult members training outside, others inside
 - Directed to shaman [[Info/Characters/999 NPC's/Adda\|Adda]], currently in charge
 - **[[Info/Characters/999 NPC's/Adda\|Adda]]'s insights:**
   - Lodge lies on disturbed ground; no blessing of the gods has ever taken hold there
   - Dealing with creatures bound by pain and rage
   - Should try to understand them
-  - Presence unlike anything else in [[Info/Locations/Skyrim\|Skyrim]]
+  - Presence unlike anything else in Skyrim
   - Spirits might be reasoned with, though swords might still be useful
   - Recognized [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] as the merchant's daughter
   - Told [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] her sister will come to her eventually
@@ -117,16 +117,16 @@ The party accepted a contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] 
 
 ### Sven's Arrival
 - **Armor clang:** Heard outside
-- [[Info/Characters/Sven\|Sven]] banged on door, trying to break in
+- Sven banged on door, trying to break in
 - Door kicked in, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] barely dodged
-- **[[Info/Characters/Sven\|Sven]]'s appearance:** Pale body clad in rusted, mangled armor with glowing blue eyes like cold ice, decayed
+- **Sven's appearance:** Pale body clad in rusted, mangled armor with glowing blue eyes like cold ice, decayed
 - **Time limit:** Until dawn to put them to rest, or they're in trouble
-- [[Info/Characters/Sven\|Sven]] said he prayed to be put to rest to whoever was listening, but whatever answered left him in current state
+- Sven said he prayed to be put to rest to whoever was listening, but whatever answered left him in current state
 
 ### The Mask Discovery
-- [[Info/Characters/Sven\|Sven]] led them to master bedroom, pointed to wardrobe furthest from door
+- Sven led them to master bedroom, pointed to wardrobe furthest from door
 - Wardrobe had drag marks as if something behind it
-- After everyone failed to move it, [[Info/Characters/Sven\|Sven]] moved it away
+- After everyone failed to move it, Sven moved it away
 - **Locked chest:** Behind wardrobe containing a mask
 - [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] unlocked it
 - **Contents:** Pouch of unidentified coins and strange metal mask
@@ -134,28 +134,28 @@ The party accepted a contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] 
 - [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] ran off back to [[Info/Locations/Riften\|Riften]] with:
   - Map [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] drew
   - Sketch of the mask
-  - List of items for Arkay's rite: Salt, Iron shard
+  - List of items for [[Info/Lore/Arkay\|Arkay]]'s rite: Salt, Iron shard
 
 ### Cellar Investigation
 - **Smell:** So bad both [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] threw up
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] somehow fine
 - **Skeleton:** With key and parchment written in Nordic
-- [[Info/Characters/Sven\|Sven]] said it was excerpt from his journal, skeleton belonged to person who got closest to helping
-- Entry explained the ritual [[Info/Characters/Sven\|Sven]] did
+- Sven said it was excerpt from his journal, skeleton belonged to person who got closest to helping
+- Entry explained the ritual Sven did
 
 ### Funeral Pyre Preparation
 - Went back outside and gathered wood for funeral pyre
 - Assembled the pyre
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] went to collect [[Info/Characters/999 NPC's/Lagertha\|Lagertha]]'s body from well
 - Unfortunately the head wasn't there
-- [[Info/Characters/Sven\|Sven]] said it might have fallen into the well
+- Sven said it might have fallen into the well
 
 ### Well Investigation
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] went into well with rope tied around waist
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] held the rope tight
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] dropped 12 meters down into big cavern, extremely dark
-- **Found:** The head, the necklace [[Info/Characters/Sven\|Sven]] gave her, and a tiny lock box
-- [[Info/Characters/Sven\|Sven]] asked them to burn it
+- **Found:** The head, the necklace Sven gave her, and a tiny lock box
+- Sven asked them to burn it
 - Everything set up, waiting for [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] to return
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] went to meditate
 
@@ -167,10 +167,10 @@ The party accepted a contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] 
 - **[[Info/Characters/999 NPC's/Senya\|Senya]]:** Bard at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]] who dismissed the haunting as [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] being drunk and scared
 - **[[Info/Characters/999 NPC's/Sonya\|Sonya]]:** Bard who mentioned the lodge's well never dries up and told the story of Clan Coldmoor
 - **[[Info/Characters/999 NPC's/Eydis\|Eydis]]:** Bartender at [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]] who mentioned the old village in the lodge area
-- **[[Info/Characters/999 NPC's/Adda\|Adda]]:** Shaman of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] currently in charge while [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir]] is away, provided insights about the lodge's disturbed ground
+- **[[Info/Characters/999 NPC's/Adda\|Adda]]:** Shaman of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] currently in charge while [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] is away, provided insights about the lodge's disturbed ground
 - **[[Info/Characters/999 NPC's/Olgierd\|Olgierd]]:** Farmer near the lodge who described the strange phenomena and mentioned hearing weeping from the well
 - **[[Info/Characters/999 NPC's/Lagertha\|Lagertha]]:** Ancient spirit haunting the lodge, appears as a pale figure in the window
-- **[[Info/Characters/Sven\|Sven]]:** Undead figure in rusted armor with glowing blue eyes, corrupted by a mysterious mask, seeking to be put to rest
+- **Sven:** Undead figure in rusted armor with glowing blue eyes, corrupted by a mysterious mask, seeking to be put to rest
 
 ---
 
@@ -181,29 +181,29 @@ The party accepted a contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] 
 - **Strange Metal Mask:** Found in locked chest behind wardrobe, sketched by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] for court mage examination
 - **Pouch of Unidentified Coins:** Found with the mask
 - **Lagetha's Head:** Retrieved from the well by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
-- **Lagetha's Necklace:** Found in the well, given to her by [[Info/Characters/Sven\|Sven]]
-- **Tiny Lock Box:** Found in the well, requested to be burned by [[Info/Characters/Sven\|Sven]]
-- **Nordic Parchment:** Excerpt from [[Info/Characters/Sven\|Sven]]'s journal explaining his ritual
+- **Lagetha's Necklace:** Found in the well, given to her by Sven
+- **Tiny Lock Box:** Found in the well, requested to be burned by Sven
+- **Nordic Parchment:** Excerpt from Sven's journal explaining his ritual
 
 ---
 
 ## Quests
 
 ### New
-- **Haunted Lodge Contract:** Clear the haunting at [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]'s hunting lodge for 200 gold reward #contract-quest
+- **[[Info/Quests/Haunted_Lodge_Contract\|Haunted Lodge Contract]]:** Clear the haunting at [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]'s hunting lodge for 200 gold reward #contract-quest
   - [x] Accept contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]
   - [x] Gather information about the lodge
   - [x] Travel to the lodge location
-  - [x] Discover the spirits of [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] and [[Info/Characters/Sven\|Sven]]
+  - [x] Discover the spirits of [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] and Sven
   - [x] Find the mysterious mask
-  - [ ] Complete Arkay's rite to put spirits to rest
+  - [ ] Complete [[Info/Lore/Arkay\|Arkay]]'s rite to put spirits to rest
   - [ ] Return to [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] for payment
 
 ### In Progress
-- **Undead Werewolf Threat:** Investigate the connection between the crimson orb and undead werewolves #main-quest
-- **Dark Brotherhood Contract:** Payment will eventually be due to the assassin #main-quest
-- **Blackfeather Investigation:** Research the mysterious organization mentioned by the talking fox #secondary-quest
-- **Malacath's Interest in Periwyn:** Discover why the Daedric Prince is targeting Periwyn through dreams #personal-quest
+- **[[Info/Quests/Undead_Werewolf_Threat_Grey_Host_Connection\|Undead Werewolf Threat]]:** Investigate the connection between the crimson orb and undead werewolves #main-quest
+- **[[Info/Quests/Dark_Brotherhood_Contract\|Dark Brotherhood Contract]]:** Payment will eventually be due to the assassin #main-quest
+- **[[Info/Quests/Blackfeather_Court_Investigation\|Blackfeather Investigation]]:** Research the mysterious organization mentioned by the talking fox #secondary-quest
+- **[[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacath's Interest in Periwyn]]:** Discover why the Daedric Prince is targeting [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] through dreams #personal-quest
 
 ### Completed
 - None this session
@@ -221,8 +221,8 @@ The party accepted a contract from [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] 
 
 ## Next Steps
 
-- Wait for [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] to return with supplies for Arkay's rite
-- Complete the funeral pyre ritual to put [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] and [[Info/Characters/Sven\|Sven]] to rest
+- Wait for [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] to return with supplies for [[Info/Lore/Arkay\|Arkay]]'s rite
+- Complete the funeral pyre ritual to put [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] and Sven to rest
 - Investigate the mysterious mask with the court mage
 - Return to [[Info/Characters/999 NPC's/Hadvar\|Hadvar]] for payment
-- Continue investigating the Blackfeather Court and Malacath's interest in [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] 
+- Continue investigating the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] and [[Info/Lore/Malacath\|Malacath]]'s interest in [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]

@@ -5,18 +5,18 @@
 # Session 014 - Investigation of the Frozen Hunters
 
 ## Summary
-The party investigates rumors of frozen hunters in [[Info/Locations/Falderstad\|Falderstad]], discovering a vampire survivor from the [[Info/Locations/Greenwall\|Greenwall]] incident who has been conducting necromantic experiments. They uncover a connection between the frozen hunters, vampire thralls, and a larger conspiracy involving [[Majorn\|Majorn]] and his cohorts. The investigation leads to the discovery of a territorial creature in the northern forests and reveals more about the ongoing vampire threat to the region.
+The party investigates rumors of frozen hunters in [[Info/Locations/Falderstad\|Falderstad]], discovering a vampire survivor from the [[Info/Locations/Greenwall\|Greenwall]] incident who has been conducting necromantic experiments. They uncover a connection between the frozen hunters, vampire thralls, and a larger conspiracy involving [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn the Ancient]] and his cohorts. The investigation leads to the discovery of a territorial creature in the northern forests and reveals more about the ongoing vampire threat to the region.
 
 ## Detailed Recap
 
 ### Morning Activities
-The party woke and attended to their morning routines. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] checked her weapons and spent time bonding with her horse [[Ashen\|Ashen]]. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] similarly tended to their horses [[Mossback\|Mossback]] and [[Sunsnow\|Sunsnow]] respectively. [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] was notably absent from the common areas during the morning.
+The party woke and attended to their morning routines. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] checked her weapons and spent time bonding with her horse Ashen. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] similarly tended to their horses Mossback and Sunsnow respectively. [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] was notably absent from the common areas during the morning.
 
 ### Investigation Begins
 [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] sold her antlers to local merchants for 95 gold, adding to the party's communal funds. The group then began investigating rumors of frozen hunters that had been circulating in [[Info/Locations/Falderstad\|Falderstad]].
 
 ### Gathering Information
-- Met with a [[Info/Characters/999 NPC's/Grieving_Brother\|Grieving_Brother]] whose sibling had been among the frozen hunters
+- Met with a [[Info/Characters/999 NPC's/Grieving_Brother\|Grieving Brother]] whose sibling had been among the frozen hunters
 - The brother directed them to speak with the Jarl for more official information
 - At the Jarl's hall, guards initially barred entry until the party stated their business
 
@@ -27,7 +27,7 @@ The party woke and attended to their morning routines. [[Info/Characters/001 The
 - [[Info/Characters/999 NPC's/Helga\|Helga]] described [[Info/Characters/999 NPC's/Nilan\|Nilan]] as a scruffy man with short hair and a two-braided brown beard
 
 ### Investigation of Nilan's House
-The party proceeded to investigate [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s residence at [[Info/Locations/Nilan's_House\|Nilan's_House]]:
+The party proceeded to investigate [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s residence at [[Info/Locations/Nilan's_House\|Nilan's House]]:
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] sensed death near the back of the house using her necromantic abilities
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] scouted the perimeter, finding no disturbances but noting spoiled food through windows
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] detected no destruction magic in the area
@@ -60,25 +60,25 @@ In a shallow clearing, the party found two men frozen mid-motion:
 - Footprint trail with claw marks every few meters that eventually disappeared
 
 ### The Ruined Hunting Lodge
-Following necromantic emanations deeper into the woods, the party discovered the [[Info/Locations/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]]:
+Following necromantic emanations deeper into the woods, the party discovered the [[Info/Locations/Ruined_Hunting_Lodge\|Ruined Hunting Lodge]]:
 - A run-down, abandoned hunting lodge
 - Strong odors of dust, rot, and blood
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] sensed powerful necromantic presence inside
 
 #### Encounter with the Vampire Survivor
-Inside the lodge, the party found a [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]] who, surprisingly, did not attack. Through conversation, they learned:
+Inside the lodge, the party found a [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire Survivor]] who, surprisingly, did not attack. Through conversation, they learned:
 - The vampire was involved in the [[Info/Locations/Greenwall\|Greenwall]] incident to sow chaos and terror
-- Works for [[Majorn\|Majorn]]'s cohort as part of larger conspiracy
+- Works for [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn the Ancient]]'s cohort as part of larger conspiracy
 - Greenwall was a "field test" for blocking out the sun
-- Claims their magic comes from [[Molag_Bal\|Molag_Bal]], though they don't serve him directly
+- Claims their magic comes from Molag_Bal, though they don't serve him directly
 - Is the only survivor from [[Info/Locations/Greenwall\|Greenwall]]
 - Has been injured by a territorial creature in the woods
 - The dead thrall ([[Info/Characters/999 NPC's/Nilan\|Nilan]]) was used to gather blood for sustenance
-- Works in alliance with the poisoned [[Dunmer\|Dunmer]] from earlier sessions as field agents
+- Works in alliance with the poisoned [[Info/Characters/999 NPC's/Dunmer_Merchants\|Dunmer Merchants]] from earlier sessions as field agents
 - Their goal is to spread fear, making populations compliant for life under a blocked sun
 
 #### Significant Revelations
-- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] finally shared details of her vision from [[2 -  Sessions/Session 009\|Session 009]] and her hesitation about killing vampires
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] finally shared details of her vision from Session 009 and her hesitation about killing vampires
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] conversed with the crows that had been following the party
 - The mysterious crow revealed its name cannot be spoken in mortal tongues
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] inquired about the scroll she received, learning she would understand its purpose "in time"
@@ -86,7 +86,7 @@ Inside the lodge, the party found a [[Info/Characters/999 NPC's/Vampire_Survivor
 ### Return Journey
 - Heard a strange, sorrowful wolf howl during their return
 - Spotted glowing blue eyes watching from high in the trees
-- Retrieved hunting trophies from [[Info/Locations/Nilan's_House\|Nilan's_House]]
+- Retrieved hunting trophies from [[Info/Locations/Nilan's_House\|Nilan's House]]
 - Properly disposed of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s body in a funeral pyre
 
 ### Reporting Back
@@ -98,24 +98,24 @@ Around 4 PM, the party returned to report their findings to **[[Info/Characters/
 ## NPCs Met
 - **[[Info/Characters/999 NPC's/Helga\|Helga]]**: Huscarl serving in place of the ailing Jarl, provided information about the frozen hunter incident
 - **[[Info/Characters/999 NPC's/Nilan\|Nilan]]**: Deceased hunter found as vampire thrall in hidden basement, victim of vampire experimentation
-- **[[Info/Characters/999 NPC's/Grieving_Brother\|Grieving_Brother]]**: Brother of one of the frozen hunters, directed party to official sources
-- **[[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]]**: Survivor from [[Info/Locations/Greenwall\|Greenwall]] incident, revealed extensive information about vampire conspiracy
-- **[[Info/Characters/999 NPC's/Mysterious_Crow\|Mysterious_Crow]]**: Supernatural entity following the party, claims its name cannot be spoken in mortal tongues
+- **[[Info/Characters/999 NPC's/Grieving_Brother\|Grieving Brother]]**: Brother of one of the frozen hunters, directed party to official sources
+- **[[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire Survivor]]**: Survivor from [[Info/Locations/Greenwall\|Greenwall]] incident, revealed extensive information about vampire conspiracy
+- **[[Info/Characters/999 NPC's/Mysterious_Crow\|Mysterious Crow]]**: Supernatural entity following the party, claims its name cannot be spoken in mortal tongues
 
 ## Items Acquired
 - **95 Gold**: From sale of antlers (added to communal funds)
 - **Hunting Trophies**: Retrieved from Nilan's house
 - **Alchemy Vials**: Two unique vials found in basement, one containing black liquid
-- **Information**: Extensive intelligence about vampire conspiracy and [[Majorn\|Majorn]]'s operations
+- **Information**: Extensive intelligence about vampire conspiracy and [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn the Ancient]]'s operations
 
 ## Quests
 ### New
-- **[[Info/Quests/Investigate_Frozen_Hunters\|Investigate_Frozen_Hunters]]**: Investigation into the mysterious deaths of hunters near [[Info/Locations/Falderstad\|Falderstad]]
+- **[[Info/Quests/Investigate_Frozen_Hunters\|Investigate Frozen Hunters]]**: Investigation into the mysterious deaths of hunters near [[Info/Locations/Falderstad\|Falderstad]]
 ### In Progress
 - Larger vampire conspiracy continues to unfold
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s necromantic training progresses
 ### Completed
-- **[[Info/Quests/Investigate_Frozen_Hunters\|Investigate_Frozen_Hunters]]**: Successfully uncovered the truth behind the frozen hunters and the vampire involvement
+- **[[Info/Quests/Investigate_Frozen_Hunters\|Investigate Frozen Hunters]]**: Successfully uncovered the truth behind the frozen hunters and the vampire involvement
 
 ## Player Notes
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] continues to grapple with moral complexities regarding vampires and necromancy
@@ -129,4 +129,4 @@ Around 4 PM, the party returned to report their findings to **[[Info/Characters/
 - Investigate the territorial creature causing problems in the northern forests
 - Continue monitoring vampire conspiracy developments
 - Follow up on [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s mysterious scroll and crow connections
-- Address the larger threat posed by [[Majorn\|Majorn]]'s organization
+- Address the larger threat posed by [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn the Ancient]]'s organization

@@ -13,13 +13,13 @@ The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall
 ## Detailed Recap  
 
 ### Preparation in [[Info/Locations/Riften\|Riften]]  
-- The party woke early at Wanderer's Rest.  
+- The party woke early at [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]].  
   - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** was first to rise, followed by **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** and **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**, who fetched breakfast.  
   - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** sketched the view from her balcony until summoned by the group.  
-- **Eirik** delivered a message: The party (referred to as "The Fangs") was expected at the stables by **[[Info/Characters/999 NPC's/Hjar\|Hjar]]** within an hour.  
-- The group visited **Scent of Serenity** to restock:  
+- **[[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]** delivered a message: The party (referred to as "The Fangs") was expected at the stables by **[[Info/Characters/999 NPC's/Hjar\|Hjar]]** within an hour.  
+- The group visited **[[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]** to restock:  
   - Firebombs were unavailable, but [[Info/Characters/999 NPC's/Alara\|Alara]] offered supplies to craft them (declined).  
-- At the stables, they met **[[Info/Characters/999 NPC's/Bjorin\|Bjorin]]**, **[[Info/Characters/999 NPC's/Hjar\|Hjar]]**, and two new [[Info/Organizations/Companions\|companions]]: **Reyloth** and **Gronkar**.  
+- At the stables, they met **[[Info/Characters/999 NPC's/Bjorin\|Bjorin]]**, **[[Info/Characters/999 NPC's/Hjar\|Hjar]]**, and two new [[Info/Organizations/Companions\|Companions]]: **Reyloth** and **Gronkar**.  
   - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** assisted with packing, while **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** sketched in her journal.  
 - **[[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]]** arrived and outlined travel logistics:  
   - Pace: 5 km/hour, 40 km/day, 8 hours of walking daily.  
@@ -27,17 +27,17 @@ The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall
     - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** and **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]**: Guard duty.  
     - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]**: Campsite preparation.  
     - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]**: Healing.  
-  - **Bejtield** (scout) joined the caravan.  
+  - **[[Info/Characters/999 NPC's/Beitild\|Beitild]]** (scout) joined the caravan.  
 
 ### Journey to [[Info/Locations/Greenwall\|Greenwall]] (6 Days)  
 **Day 1:**  
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** foraged ingredients en route.  
-- **Bejtield** questioned **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** about her travels as a Khajiit.  
+- **[[Info/Characters/999 NPC's/Beitild\|Beitild]]** questioned **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** about her travels as a Khajiit.  
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** had a nightmare about her parents as bloodfiends.  
 
 **Day 2:**  
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** conversed with NPCs; revealed his helmet-wearing was due to paranoia about headshots.  
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** asked **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** about her missing ear (lost in a vampire attack at the Knights of Arkay monastery).  
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** asked **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** about her missing ear (lost in a vampire attack at the [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]] monastery).  
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** dreamed of her decaying brother repeating, *"You have to survive."*  
 
 **Day 3:**  
@@ -48,7 +48,7 @@ The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall
 **Day 4:**  
 - Undead **bone hawks** were spotted watching the caravan.  
   - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** shot one down; **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** sketched it for study.  
-  - **Bejtield** explained their use in necromancy rituals.  
+  - **[[Info/Characters/999 NPC's/Beitild\|Beitild]]** explained their use in necromancy rituals.  
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** kept the bone hawk remains.  
 
 **Day 5:**  
@@ -57,9 +57,9 @@ The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall
 - That night, **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** noticed a crow staring at **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]**.  
 
 **Day 6:**  
-- Unnatural darkness fell at 2:30 PM, mimicking the eclipse during the **[[Night of Crimson Tears\|Night of Crimson Tears]]** (linked to **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s** past trauma).  
+- Unnatural darkness fell at 2:30 PM, mimicking the eclipse during the **Night of Crimson Tears** (linked to **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s** past trauma).  
 - Arrived at the **[[Info/Organizations/Companions\|Companions]] war camp**, now a bloody ruin.  
-  - **[[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrot Wraithbane]]** (leader) reported:  
+  - **[[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod Wraithbane]]** (leader) reported:  
     - 100 soldiers reduced to 5 survivors after a vampire ambush.  
     - The ice wall was unmeltable; possible smuggler tunnels existed.  
   - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** unleashed lightning on vampire corpses in a rage.  
@@ -71,10 +71,10 @@ The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall
 ---
 
 ## NPCs Met  
-- **Eirik**: Messenger who summoned the party.  
-- **[[Info/Characters/999 NPC's/Hjar\|Hjar]]**, **[[Info/Characters/999 NPC's/Bjorin\|Bjorin]]**, **Reyloth**, **Gronkar**: Travel [[Info/Organizations/Companions\|companions]].  
-- **Bejtield**: Scout with knowledge of necromantic creatures.  
-- **[[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrot Wraithbane]]**: Leader of the decimated [[Info/Organizations/Companions\|Companions]] regiment.  
+- **[[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]**: Messenger who summoned the party.  
+- **[[Info/Characters/999 NPC's/Hjar\|Hjar]]**, **[[Info/Characters/999 NPC's/Bjorin\|Bjorin]]**, **Reyloth**, **Gronkar**: Travel [[Info/Organizations/Companions\|Companions]].  
+- **[[Info/Characters/999 NPC's/Beitild\|Beitild]]**: Scout with knowledge of necromantic creatures.  
+- **[[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod Wraithbane]]**: Leader of the decimated [[Info/Organizations/Companions\|Companions]] regiment.  
 
 ---
 
@@ -87,14 +87,14 @@ The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall
 ## Quests  
 
 ### New  
-- **[[Infiltrate Greenwall\|Infiltrate Greenwall]]**: Disrupt the eclipse and confront the vampire threat.  
+- **[[Info/Quests/Infiltrate_Guild_of_Silverroad\|Infiltrate Greenwall]]**: Disrupt the eclipse and confront the vampire threat.  
   - **Subtask**: Use the smuggler's tunnel to enter the town.  
   - **Subtask**: Assist in rebuilding trebuchets for a diversion.  
 
 ### In Progress  
-- **Vampire Hunter Search ([[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]])**: Locate [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], stranded in [[Info/Locations/Greenwall\|Greenwall]] (from [[2 -  Sessions/Session 003\|Session 3]]).  
-- **[[Info/Locations/Greenwall\|Greenwall]] Investigation**: Unravel the magical blizzard and vampire activity (from [[2 -  Sessions/Session 003\|Session 3]]).  
-- **Coiled Serpent/Clan Volkihar Symbols**: Investigate the connection between the two (from [[2 -  Sessions/Session 004\|Session 4]]).  
+- **[[Info/Quests/Periwyns_Vampire_Hunter_Search\|Vampire Hunter Search]] ([[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]])**: Locate [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], stranded in [[Info/Locations/Greenwall\|Greenwall]] (from Session 3).  
+- **[[Info/Locations/Greenwall\|Greenwall]] Investigation**: Unravel the magical blizzard and vampire activity (from Session 3).  
+- **[[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent]]/[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] Symbols**: Investigate the connection between the two (from Session 4).  
 
 ---
 
@@ -107,7 +107,7 @@ The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall
 
 ## Reflection  
 - The journey emphasized growing dread, with undead signs and hanged corpses foreshadowing [[Info/Locations/Greenwall\|Greenwall]]'s fate.  
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] 's** reactions confirm the eclipse's ties to [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]] and her personal vendetta.  
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s** reactions confirm the eclipse's ties to [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] and her personal vendetta.  
 - The party must balance stealth (tunnel infiltration) and force (trebuchets) to succeed.  
 
 ---
@@ -121,6 +121,6 @@ The party embarked on a six-day journey to [[Info/Locations/Greenwall\|Greenwall
 ---
 
 ## Relevant Context from Past Sessions  
-- **[[2 -  Sessions/Session 003\|Session 3]]**: [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]] linked to [[Info/Locations/Greenwall\|Greenwall]] 's blizzard; [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]] trapped there.  
-- **[[2 -  Sessions/Session 004\|Session 4]]**: **Coiled serpent** and [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]] symbols found in the frozen keep, suggesting a conspiracy.  
-- **[[Night of Crimson Tears\|Night of Crimson Tears]]**: The eclipse mirrors the attack that killed **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s** family.
+- **Session 3**: [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] linked to [[Info/Locations/Greenwall\|Greenwall]]'s blizzard; [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]] trapped there.  
+- **Session 4**: **[[Info/Lore/Coiled_Serpent\|Coiled Serpent]]** and [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbols found in the frozen keep, suggesting a conspiracy.  
+- **Night of Crimson Tears**: The eclipse mirrors the attack that killed **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s** family.

@@ -20,7 +20,7 @@ Gorm is the Jarl of [[Info/Locations/Falderstad\|Falderstad]], a Nord leader who
 ### [[2 -  Sessions/Session 017\|Session 017]] - Post-Hunt Celebration
 **Meeting the Heroes:**
 - Personally approached the party at the market after the Ragged Lord's defeat
-- Accompanied by his huscarl [[Helga Cairn-Shield\|Helga Cairn-Shield]]
+- Accompanied by his huscarl [[Info/Characters/999 NPC's/Helga\|Helga Cairn-Shield]]
 - Had recently recovered from rock joint illness
 
 **Exceptional Rewards:**
@@ -49,7 +49,7 @@ Gorm is the Jarl of [[Info/Locations/Falderstad\|Falderstad]], a Nord leader who
 - **Property**: Controls distribution of housing (granted [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house)
 
 ## Relationships
-- **[[Helga Cairn-Shield\|Helga Cairn-Shield]]**: His huscarl and deputy
+- **[[Info/Characters/999 NPC's/Helga\|Helga Cairn-Shield]]**: His huscarl and deputy
 - **[[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]]**: Grateful benefactor, provided exceptional rewards
 - **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Citizen and hunter he was concerned for
 - **[[Info/Characters/999 NPC's/Runa\|Runa]]**: Fellow rock joint sufferer, citizen he was concerned for
@@ -67,7 +67,7 @@ Gorm represents exceptional local leadership in Skyrim. His personal generosity 
 ## Resources and Authority
 - **Personal Wealth**: Capable of distributing 2000 gold from personal funds
 - **Property Rights**: Can grant permanent use of residential buildings
-- **Military Resources**: Commands city guard and coordinates with [[Helga Cairn-Shield\|Helga Cairn-Shield]]
+- **Military Resources**: Commands city guard and coordinates with [[Info/Characters/999 NPC's/Helga\|Helga Cairn-Shield]]
 - **Political Power**: Authority over [[Info/Locations/Falderstad\|Falderstad]] governance and resources
 
 ### [[2 -  Sessions/Session 018\|Session 018]] - The Nordic Execution

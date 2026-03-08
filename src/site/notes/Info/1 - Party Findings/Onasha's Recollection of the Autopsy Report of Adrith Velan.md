@@ -4,9 +4,9 @@
 
 # Autopsy Report of Adrith Velan
 
-**Deceased**: Adrith Velan (Dunmer, Male)
-**Examiner**: Sigrid, Head Priestess of the Hall of the Dead in Riften
-**Transcribed from Memory**: Onasha
+**Deceased**: [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]] (Dunmer, Male)
+**Examiner**: [[Info/Characters/999 NPC's/Sigrid\|Sigrid]], Head Priestess of the Hall of the Dead in [[Info/Locations/Riften\|Riften]]
+**Transcribed from Memory**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
 
 ---
 
@@ -14,9 +14,9 @@
 
 - Prior to death, all visible wounds had been healed; scars had fully formed along the body.
 	
-- Additional trauma observed: bruising and gashes consistent with **dragging across stone or earth**. These injuries were confirmed by witnesses to have been inflicted by Durov while moving the deceased to the examiner.
+	- Additional trauma observed: bruising and gashes consistent with **dragging across stone or earth**. These injuries were confirmed by witnesses to have been inflicted by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] while moving the deceased to the examiner.
 	
-- The face was **caved in after death**, blunt force trauma consistent with deliberate post mortem damage. (Attributed to Onasha, who struck the corpse to ensure Adrith had perished.)
+	- The face was **caved in after death**, blunt force trauma consistent with deliberate post mortem damage. (Attributed to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]], who struck the corpse to ensure Adrith had perished.)
 	
 - The body was discovered at the base of a tree. Drag marks behind the heels indicate **placement post mortem** rather than collapse at the scene.
 
@@ -30,7 +30,7 @@
 	
 - The concentration of **Nightshade Extract** was particularly strong. This poison carries such potency that its scent is **unmistakable, even when masked.**
 
-**Expert Consultation (Ralvard, Poison Specialist)**
+**Expert Consultation ([[Info/Characters/999 NPC's/Ralvard\|Ralvard]], Poison Specialist)**
 Ralvard separated the remaining toxins into their base components:
 
 - **High Concentration**: Concentrated Nightshade Extract

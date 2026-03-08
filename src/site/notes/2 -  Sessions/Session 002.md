@@ -11,12 +11,12 @@ The party investigated tensions in [[Info/Locations/Trevas_Bend\|Treva's Bend]],
 ## Detailed Recap
 
 ### Snowshot Dam Investigation
-- Arrived at [[Snowshot_Dam\|Snowshot Dam]] territory
+- Arrived at [[Info/Locations/Snow-Shod_Dam\|Snowshot Dam]] territory
   - Initially blocked by two guards
   - Gained entry by invoking [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]]'s name
 - Camp Investigation
   - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] examined the still-burning campsite
-  - Found shoes with a mysterious [[Info/Lore/Coiled_Serpent\|coiled serpent]] logo note (no text)
+  - Found shoes with a mysterious [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] logo note (no text)
   - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] discovered burnt paper scraps potentially recoverable by magic
   - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] scouted the perimeter
     - Tracked heavy object carried northward
@@ -75,7 +75,7 @@ The party investigated tensions in [[Info/Locations/Trevas_Bend\|Treva's Bend]],
     - 200 gold from the [[Info/Characters/999 NPC's/Queen_Freidr\|Queen]]
   - Details:
     - Investigated quarrel in fishermen area
-    - Explored [[Snowshot_Estate\|Snowshot Estate]] issues
+    - Explored [[Info/Locations/Snow-Shod_Estate\|Snowshot Estate]] issues
     - [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Snowshots]]' irrigation tunnels suspected of causing water level problems
     - Noted Eldar's interaction with a strange man
     - Fishermen trade disrupted
@@ -83,12 +83,12 @@ The party investigated tensions in [[Info/Locations/Trevas_Bend\|Treva's Bend]],
 ### Active Quests
 - Investigation of [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]'s murder
 - Recovery of burnt paper scraps
-- Follow-up on [[Info/Lore/Coiled_Serpent\|coiled serpent]] logo
+- Follow-up on [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] logo
 
 ## Mysteries to Investigate
-- Origin of the [[Info/Lore/Coiled_Serpent\|coiled serpent logo]]
+- Origin of the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] logo
 - Details of [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]'s activities
-- Connection between [[Snowshot_Estate\|Snowshot Estate]] and fishermen's troubles
+- Connection between [[Info/Locations/Snow-Shod_Estate\|Snowshot Estate]] and fishermen's troubles
 - Potential magical reconstruction of burnt paper scraps
 
 ## Party Observations
@@ -104,9 +104,9 @@ The party investigated tensions in [[Info/Locations/Trevas_Bend\|Treva's Bend]],
 - Potential larger conspiracy suggested by evidence
 
 ## Next Steps
-- Investigate [[Info/Lore/Coiled_Serpent\|coiled serpent logo]] origins
+- Investigate [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] logo origins
 - Contact [[Info/Locations/Winterhold\|Winterhold]] mages about paper reconstruction
-- Explore [[Snowshot_Estate\|Snowshot Estate]] and fishermen conflict
+- Explore [[Info/Locations/Snow-Shod_Estate\|Snowshot Estate]] and fishermen conflict
 - Follow up on Eldar's suspicious interactions
 
 ## Additional Context

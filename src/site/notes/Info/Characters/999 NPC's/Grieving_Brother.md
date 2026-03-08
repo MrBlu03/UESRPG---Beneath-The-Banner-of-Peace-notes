@@ -46,6 +46,6 @@ The Grieving Brother represents the human cost of the vampire conspiracy and sup
 
 ## Notes
 - His brother's death was ultimately connected to the vampire survivor's field testing
-- Represents the collateral damage of [[Majorn\|Majorn]]'s organization's activities
+- Represents the collateral damage of [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s organization's activities
 - His grief and lack of information show how supernatural threats affect ordinary citizens
 - May have additional information about his brother's hunting activities if questioned further

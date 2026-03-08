@@ -7,7 +7,7 @@
 > **DUROV HAS A PORTENT LUCKY ROLL (69) TO BE USED WHENEVER**
 
 ## Summary
-The party wakes before dawn to join [[Info/Characters/999 NPC's/Svala\|Svala]]'s organized hunt for the supernatural creature terrorizing the [[Info/Locations/Northern_Forest\|Northern_Forest]]. Meeting at the market, they learn the creature is called the Skinstealer and has been active for 3-4 weeks. [[Info/Characters/999 NPC's/Torik\|Torik]], a clever mage, identifies the Othala rune as meaning "heritage" or "inheritance," suggesting the creature is claiming the land. The hunting party - including [[Info/Characters/999 NPC's/Svala\|Svala]], [[Info/Characters/999 NPC's/Torik\|Torik]], [[Info/Characters/999 NPC's/Bjorr\|Bjorr]], [[Info/Characters/999 NPC's/Ingrin\|Ingrin]], [[Info/Characters/999 NPC's/Alma\|Alma]], and [[Info/Characters/999 NPC's/Runa\|Runa]] - ventures deep into the cursed forest to find a grotesque clearing where bones and human skins are arranged in ritual patterns. [[Info/Characters/999 NPC's/Torik\|Torik]] identifies this as a shrine to the Ragged Lord, an aspect of Hircine associated with mockery and hunter's madness. On the return journey, the Skinstealer traps them in a supernatural maze where [[Info/Characters/999 NPC's/Bjorr\|Bjorr]] is killed. [[Info/Characters/999 NPC's/Torik\|Torik]] uses fire salts to break the enchantment, revealing the creature fears Kyne's flame. The Skinstealer attacks [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] at the forest edge, but [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] shields her, taking the blow. The party returns to plan a final confrontation with fire-based tactics. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] make a pact to help each other with their respective revenge quests - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] reveals she must save a young girl from House Dres slavery.
+The party wakes before dawn to join [[Info/Characters/999 NPC's/Svala\|Svala]]'s organized hunt for the supernatural creature terrorizing the [[Info/Locations/Northern_Forest\|Northern Forest]]. Meeting at the market, they learn the creature is called the Skinstealer and has been active for 3-4 weeks. [[Info/Characters/999 NPC's/Torik\|Torik]], a clever mage, identifies the Othala rune as meaning "heritage" or "inheritance," suggesting the creature is claiming the land. The hunting party - including [[Info/Characters/999 NPC's/Svala\|Svala]], [[Info/Characters/999 NPC's/Torik\|Torik]], [[Info/Characters/999 NPC's/Bjorr\|Bjorr]], [[Info/Characters/999 NPC's/Ingrin\|Ingrin]], [[Info/Characters/999 NPC's/Alma\|Alma]], and [[Info/Characters/999 NPC's/Runa\|Runa]] - ventures deep into the cursed forest to find a grotesque clearing where bones and human skins are arranged in ritual patterns. [[Info/Characters/999 NPC's/Torik\|Torik]] identifies this as a shrine to the Ragged Lord, an aspect of Hircine associated with mockery and hunter's madness. On the return journey, the [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]] traps them in a supernatural maze where [[Info/Characters/999 NPC's/Bjorr\|Bjorr]] is killed. [[Info/Characters/999 NPC's/Torik\|Torik]] uses fire salts to break the enchantment, revealing the creature fears Kyne's flame. The Skinstealer attacks [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] at the forest edge, but [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] shields her, taking the blow. The party returns to plan a final confrontation with fire-based tactics. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] make a pact to help each other with their respective revenge quests - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] reveals she must save a young girl from [[Info/Organizations/House_Hlaalu\|House]] Dres slavery.
 
 ## Detailed Recap
 
@@ -27,7 +27,7 @@ The market streets were nearly empty in the early hours. [[Info/Characters/999 N
 
 #### The Hunting Party Assembly
 Six hunters gathered with [[Info/Characters/999 NPC's/Svala\|Svala]]:
-- **[[Info/Characters/999 NPC's/Torik\|Torik]]**: Clever older mage who studied at Winterhold
+- **[[Info/Characters/999 NPC's/Torik\|Torik]]**: Clever older mage who studied at [[Info/Locations/Winterhold\|Winterhold]]
 - **[[Info/Characters/999 NPC's/Bjorr\|Bjorr]]**: Woodsman
 - **[[Info/Characters/999 NPC's/Ingrin\|Ingrin]]**: Huntress who had previously found the clearing with bones
 - **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Huntress
@@ -50,7 +50,7 @@ Six hunters gathered with [[Info/Characters/999 NPC's/Svala\|Svala]]:
 **[[Info/Characters/999 NPC's/Torik\|Torik]]'s Identification:**
 - The rune is called "Othala"
 - Meaning: Heritage, inheritance, bloodline, burden
-- **Theory**: The Skinstealer is claiming the land as its own inheritance
+- **Theory**: The [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]] is claiming the land as its own inheritance
 - **Alternative Theory**: The creature is trying to reclaim the land from humans because it believes it owns it
 - **Timeline**: The Skinstealer has been active for 3-4 weeks
 - The rune suggests the creature has inherited this land and its sins
@@ -104,7 +104,7 @@ A half-frozen stream appeared with disturbing features:
 ##### Periwyn's Necromantic Awareness
 [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] felt an overwhelming sense of death through her necromancy abilities:
 - [[Info/Characters/999 NPC's/Torik\|Torik]] noticed her reaction
-- Revealed he studied at Winterhold and knows necromancy has its uses
+- Revealed he studied at [[Info/Locations/Winterhold\|Winterhold]] and knows necromancy has its uses
 - They agreed to keep this knowledge between themselves
 
 ### The Clearing (11:00 AM - Noon)
@@ -266,7 +266,7 @@ At the blacksmith:
 ## NPCs Met
 
 - **[[Info/Characters/999 NPC's/Svala\|Svala]]**: Organized and led the hunting expedition, coordinated with guards and family for battle preparations, demonstrated leadership in crisis
-- **[[Info/Characters/999 NPC's/Torik\|Torik]]**: Clever mage educated at Winterhold, identified the Ragged Lord shrine, performed fire salt ritual to break the Skinstealer's maze enchantment, recognized and accepted [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s necromancy, offered alchemy supplies for preparations
+- **[[Info/Characters/999 NPC's/Torik\|Torik]]**: Clever mage educated at [[Info/Locations/Winterhold\|Winterhold]], identified the Ragged Lord shrine, performed fire salt ritual to break the Skinstealer's maze enchantment, recognized and accepted [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s necromancy, offered alchemy supplies for preparations
 - **[[Info/Characters/999 NPC's/Bjorr\|Bjorr]]**: Woodsman who joined the hunt, killed by the Skinstealer during the retreat (throat cut, suspended in trees)
 - **[[Info/Characters/999 NPC's/Ingrin\|Ingrin]]**: Huntress who previously found the bone clearing, nearly separated from group when the Skinstealer mimicked her voice
 - **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Huntress who participated in the hunt
@@ -287,7 +287,7 @@ At the blacksmith:
 - None formally started
 
 ### In Progress
-- **[[Info/Quests/Hunt_Forest_Creature\|Hunt_Forest_Creature]]**: Major progress - identified as Ragged Lord/Skinstealer, discovered weakness to fire, planned final confrontation with fire-based tactics
+- **[[Info/Quests/Hunt_Forest_Creature\|Hunt Forest Creature]]**: Major progress - identified as Ragged Lord/Skinstealer, discovered weakness to fire, planned final confrontation with fire-based tactics
 - **Onasha's Revenge Quest**: Targeting House Dres to rescue young girl
 - **Periwyn's Vampire Hunt**: Alliance formed with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] for mutual assistance
 
@@ -361,7 +361,7 @@ At the blacksmith:
 
 ### Longer Term
 - Understand connection between Ragged Lord manifestation and regional supernatural threats
-- Investigate if the Skinstealer is connected to [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] conspiracy
+- Investigate if the Skinstealer is connected to [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent]] conspiracy
 - Determine if other Hircine aspects are manifesting in the region
 - Research the land's "sins" that the Skinstealer has inherited
 
@@ -388,51 +388,51 @@ Rally at market
 
 - .
 
-    - Svala
+    - Svala
 
-    - Bjorr
+    - Bjorr
 
-        - Woodsman
+        - Woodsman
 
-    - Ingrin
+    - Ingrin
 
-        - Huntress
+        - Huntress
 
-        - Found the clearing with bones
+        - Found the clearing with bones
 
-    - Torik
+    - Torik
 
-        - Clever man
+        - Clever man
 
-            - Show rune to him
+            - Show rune to him
 
-                - Othala
+                - Othala
 
-                    - Means heritage or inheritance
+                    - Means heritage or inheritance
 
-                        - He rubs my arm
+                        - He rubs my arm
 
-                        - Inherit it through our deeds
+                        - Inherit it through our deeds
 
-                            - Inhertis land and its deeds
+                            - Inhertis land and its deeds
 
-                                - Related to its kin
+                                - Related to its kin
 
-                                - Is a curse
+                                - Is a curse
 
-                        - 3 weeks since first appearance
+                        - 3 weeks since first appearance
 
-    - Alma
+    - Alma
 
-        - Huntress
+        - Huntress
 
-    - Runa
+    - Runa
 
-        - Hunter
+        - Hunter
 
-            - MY BOYY
+            - MY BOYY
 
-            - The goat of selling meat in the market
+            - The goat of selling meat in the market
 
   
 
@@ -442,39 +442,39 @@ Hunt for the skinstealer
 
 - Torik
 
-    - Confirmed our thoughts about one of the theories
+    - Confirmed our thoughts about one of the theories
 
 - Half frozen streem
 
-    - Surface gleaming red
+    - Surface gleaming red
 
-        - It's rust
+        - It's rust
 
-            - 100's of iron nails driven in the trees around the bank
+            - 100's of iron nails driven in the trees around the bank
 
-            - 1 of the totems is half turnt to ash
+            - 1 of the totems is half turnt to ash
 
-            - red sap
+            - red sap
 
-                - Blood consitency, is not blood
+                - Blood consitency, is not blood
 
-                - Warm
+                - Warm
 
-                    - Skin stealers blood
+                    - Skin stealers blood
 
 - Runa succeeded observe check
 
-    - Cleanses face
+    - Cleanses face
 
-        - Does NOT die
+        - Does NOT die
 
 - Clearing found around 11am-12pm
 
-    - Bones fused by permafrost
+    - Bones fused by permafrost
 
-        - All kinds of bones
+        - All kinds of bones
 
-    - First time seeing human skin
+    - First time seeing human skin
 
 I AM FUCKING HIM, ROLLED A 69 WHEN CALLING IT
 
@@ -482,13 +482,13 @@ I AM FUCKING HIM, ROLLED A 69 WHEN CALLING IT
 
 - Torik succeeded lore
 
-    - Recognises the paterns from old text in winterhold
+    - Recognises the paterns from old text in winterhold
 
-        - Marking of the ragged lord
+        - Marking of the ragged lord
 
-            - Aspect of harkane
+            - Aspect of harkane
 
-                - Associated with mockerey and hunters madness
+                - Associated with mockerey and hunters madness
 
 - All stitched together hides, almost a moziac
 
@@ -496,69 +496,69 @@ Back to forest
 
 - Alma
 
-    - Don't wanna sit around for too long
+    - Don't wanna sit around for too long
 
-        - Retarded suggestion
+        - Retarded suggestion
 
 - Torik
 
-    - Appears to be a shrine to itself
+    - Appears to be a shrine to itself
 
-    - Gets hurt by fire easily
+    - Gets hurt by fire easily
 
-        - Has firesalts with him
+        - Has firesalts with him
 
-    - Is a ragged lord
+    - Is a ragged lord
 
 - Ingrin
 
-    - Do you hear that?
+    - Do you hear that?
 
-        - Hear her voice coming from the trees ahead, over here
+        - Hear her voice coming from the trees ahead, over here
 
-        - Runs away
+        - Runs away
 
-            - Catch her and calm her down
+            - Catch her and calm her down
 
 - Bjorr
 
-    - Got lost
+    - Got lost
 
-        - Dead with throat slit
+        - Dead with throat slit
 
-        - Suspended above us
+        - Suspended above us
 
 Infinite forest
 
 - Torik
 
-    - Asks to get in circle
+    - Asks to get in circle
 
-        - Grabs staff and places it down
+        - Grabs staff and places it down
 
-        - Kneels in snow
+        - Kneels in snow
 
-        - Grabs bunch of firesalts and brasier
+        - Grabs bunch of firesalts and brasier
 
-            - Forest screams in howl
+            - Forest screams in howl
 
-        - Coughs up blood
+        - Coughs up blood
 
-            - Is alright
+            - Is alright
 
-        - Skinstaler fears the flame
+        - Skinstaler fears the flame
 
-            - Knows it can be hurt with it
+            - Knows it can be hurt with it
 
 Edge of forest
 
 - Perywin wants to investigate the skinstealere 2-3 meters away from her
 
-    - Gets attacked
+    - Gets attacked
 
-    - Durov jumps in between back turnt to the creature so it slashed his shield
+    - Durov jumps in between back turnt to the creature so it slashed his shield
 
-    - Get flung 2m away
+    - Get flung 2m away
 
 Back in city
 

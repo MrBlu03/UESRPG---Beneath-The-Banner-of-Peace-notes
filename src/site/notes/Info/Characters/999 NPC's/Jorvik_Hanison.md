@@ -148,15 +148,36 @@ Jorvik hosted a major trade event at the **Jarl's Hall** in [[2 -  Sessions/Sess
 ### Party's Attendance
 **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** and **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** attended the event as guests:
 - Periwyn used the opportunity to make trade connections
-- Met with **[[Renald Vero\|Renald Vero]]** (silk) and **[[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]** (lumber)
+- Met with **[[Info/Characters/999 NPC's/Renald_Vero\|Renald Vero]]** (silk) and **[[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]** (lumber)
 - Successfully networked under the Lunclaire family name
-- **Valen Marr** was present and interacting with guests
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen Marr]]** was present and interacting with guests
 
 ### Ongoing Concerns
 - The event was cut short when **two guards were murdered by Camonna Tong**
 - Jorvik's whereabouts during/after the event are unknown
 - With Valen confirmed as Coiled Serpent, Jorvik's own involvement becomes even more suspect
 
+## Session 023 Updates
+
+### Tariffs and Disappearances
+By Session 023, the Guild under Jorvik's leadership has:
+- Raised **tariffs to 45%** — a punishing rate affecting all merchants in [[Kjalgrad\|Kjalgrad]]
+- Citizens who speak out are **disappearing** with no dungeon records ([[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]] confirmed this)
+- City guards confirmed to be on the Guild's payroll are reportedly "less than reputable people" questioning merchants at warehouses
+
+### Active Political Corruption
+Intelligence gathered from [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s office ([[2 -  Sessions/Session 023\|Session 023]]) reveals:
+- The Guild has been making **bribe payments to Riften officials** within the last two weeks
+- A **"Coming Correction"** is referenced in letter fragments — a planned event of unknown nature and scope
+- The Jarl is described as "cooperative" but requiring "continued supervision" — implying the Guild controls the nominal ruler of the city
+
+### The Guild's Reach
+Under Jorvik's leadership, the Guild has moved beyond [[Kjalgrad\|Kjalgrad]]:
+- Active bribery of Riften officials confirms expansion of political influence
+- Three trade routes proposed to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] by [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] — Kjalgrad→Morrowind, Rift routes, Rift→Falkreath→Bruma/Cyrodiil — suggest pan-regional ambition
+- The reference to "Coming Correction" implies something coordinated at a larger scale than city politics
+
 ## Session References
 - **[[2 -  Sessions/Session 021\|Session 021]]**: First mentioned as Guildmaster; [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] identified as his Trade Advocate
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Hosted trade event at Jarl's Hall; Periwyn made trade connections at his event
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Guild's tariff increases and disappearances confirmed; intelligence from Valen's office reveals bribery, "Coming Correction," and Jarl supervision

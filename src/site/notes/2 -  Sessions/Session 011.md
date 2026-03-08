@@ -7,7 +7,7 @@
 
 ## Summary
 
-The party awakens at the Hall of Ysmir on a rainy morning when [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]] arrives with an urgent job. Dunmer criminals have been harassing Argonian dock workers and broke into a warehouse, seeking a mysterious lockbox. The party investigates the docks, interrogates a captured Dunmer linked to the Camonna Tong criminal syndicate, and tracks the criminals to their hideout. They discover the criminals have seized a merchant ship containing the sought-after lockbox. After eliminating the Dunmer operatives in a violent confrontation, the party recovers the lockbox and delivers it to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]], learning it may be connected to suspicious ship movements in the Sea of Ghosts.
+The party awakens at the Hall of Ysmir on a rainy morning when [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]] arrives with an urgent job. Dunmer criminals have been harassing Argonian dock workers and broke into a warehouse, seeking a mysterious lockbox. The party investigates the docks, interrogates a captured Dunmer linked to the [[Info/Organizations/Camonna_Tong\|Camonna Tong]] criminal syndicate, and tracks the criminals to their hideout. They discover the criminals have seized a merchant ship containing the sought-after lockbox. After eliminating the Dunmer operatives in a violent confrontation, the party recovers the lockbox and delivers it to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]], learning it may be connected to suspicious ship movements in the Sea of Ghosts.
 
 ## Detailed Recap
 
@@ -22,7 +22,7 @@ The party wakes on the morning of the 7th of Frostfall to pouring rain outside. 
 
 ### The Job Offer
 
-A hooded figure enters the hall, dripping wet from the rain. [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]] reveals himself and approaches [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]], ushering the party to the main table for a job proposal:
+A hooded figure enters the hall, dripping wet from the rain. [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]] reveals himself and approaches [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]], ushering the party to the main table for a job proposal:
 
 - **Payment**: 250 gold each (negotiated up to 280 by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]])
 - **Problem**: Dunmer criminals harassing Argonian workers at the docks, asking about shipments
@@ -32,7 +32,7 @@ A hooded figure enters the hall, dripping wet from the rain. [[Info/Characters/9
 
 ### Equipment and Preparation
 
-The party stops at the [[Info/Locations/Sweaty_Steel\|Sweaty_Steel]] for equipment. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] again attempts to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]] as he speeds by but fails spectacularly as he jumps over her and continues running. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] purchases a short sword at the shop.
+The party stops at the [[Info/Locations/Sweaty_Steel\|Sweaty Steel]] for equipment. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] again attempts to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]] as he speeds by but fails spectacularly as he jumps over her and continues running. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] purchases a short sword at the shop.
 
 ### Investigation at the Docks
 
@@ -63,7 +63,7 @@ Inside the warehouse, some crates were moved or broken into, but nothing was sto
 
 ### Interrogation at Riften Jail
 
-The party descends into the dungeons where [[Info/Characters/999 NPC's/Harvold\|Harvold]], the guard captain, offers free drinks at the [[Info/Locations/Ember_Keg\|Ember_Keg]] if they can make the prisoner talk. 
+The party descends into the dungeons where [[Info/Characters/999 NPC's/Harvold\|Harvold]], the guard captain, offers free drinks at the [[Info/Locations/Ember_Keg\|Ember Keg]] if they can make the prisoner talk. 
 
 The captured Dunmer's reaction to the party is telling:
 - Spits at [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
@@ -72,18 +72,18 @@ The captured Dunmer's reaction to the party is telling:
 
 **Information Extracted:**
 - They sought a lockbox "taken in a storm"
-- The prisoner is with the Camonna Tong criminal syndicate
-- His boss is Tharen Duleri
-- Their base: cave in woods south of [[Info/Locations/Riften\|Riften]], small clearing (likely abandoned by now)
+  - The prisoner is with the [[Info/Organizations/Camonna_Tong\|Camonna Tong]] criminal syndicate
+  - His boss is [[Info/Characters/999 NPC's/Tharen_Duleri\|Tharen Duleri]]
+  - Their base: cave in woods south of [[Info/Locations/Riften\|Riften]], small clearing (likely abandoned by now)
 - The location serves as meeting point for return to Morrowind
 
-After the interrogation, [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] enters the cell, calls the prisoner "a fool," and knocks him unconscious with a punch that breaks his nose. She later explains to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] that her tribe (the Blacktongue) has a reputation for Dark Brotherhood recruitment, explaining the Dunmer's fear.
+After the interrogation, [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] enters the cell, calls the prisoner "a fool," and knocks him unconscious with a punch that breaks his nose. She later explains to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] that her tribe (the Blacktongue) has a reputation for [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]] recruitment, explaining the Dunmer's fear.
 
 ### Tracking the Criminals
 
 The party heads south through the city. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] fails another attempt to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]. After 2-3 hours of walking in the early afternoon, they reach the suspected hideout:
 
-**At the Cave:**
+**At the [[Info/Locations/Abandoned_Cave_South_of_Riften\|Cave]]:**
 - Located at the foot of mountains south of [[Info/Locations/Riften\|Riften]]
 - Obviously recently abandoned with extinguished campfire (only hours old)
 - Food scraps and gear impressions visible
@@ -136,7 +136,7 @@ The party employs stealth tactics to eliminate the guards:
 
 ### Mission Completion
 
-Returning to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]'s office, the party reports their findings and delivers the lockbox. [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]] expresses concern about the implications:
+Returning to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]]'s office, the party reports their findings and delivers the lockbox. [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]] expresses concern about the implications:
 
 - Ships spotted in the Sea of Ghosts bearing house colors
 - Lockbox may have been recovered from one of these vessels
@@ -145,7 +145,7 @@ Returning to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]
 
 ## NPCs Met
 
-- **[[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]**: Merchant who hired the party to investigate Dunmer criminals at the docks
+- **[[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]]**: Merchant who hired the party to investigate Dunmer criminals at the docks
 - **[[Info/Characters/999 NPC's/Harvold\|Harvold]]**: Guard captain at [[Info/Locations/Riften\|Riften]] jail, offered drinks for successful interrogation
 - **[[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]**: Briefly encountered, dodged [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s trip attempts twice
 - **Tharen Duleri**: Camonna Tong leader mentioned by captured Dunmer (not met directly)
@@ -155,7 +155,7 @@ Returning to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]
 
 ## Items Acquired
 
-- **Short Sword**: Purchased by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] at [[Info/Locations/Sweaty_Steel\|Sweaty_Steel]]
+- **Short Sword**: Purchased by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] at [[Info/Locations/Sweaty_Steel\|Sweaty Steel]]
 - **Netch Leather Armor**: Morrowind armor taken by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
 - **Camonna Tong Mask**: Bone/plate criminal syndicate mask
 - **Dunmeri Ledger**: Written entirely in Dunmeri, contents unknown
@@ -167,21 +167,21 @@ Returning to [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]
 ## Quests
 
 ### New
-- **Camonna Tong Investigation**: [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]] will research the lockbox and Sea of Ghosts ship sightings
+- **[[Info/Organizations/Camonna_Tong\|Camonna Tong]] Investigation**: [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]] will research the lockbox and Sea of Ghosts ship sightings
 
 ### In Progress  
-- **Trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s personal challenge continues after two more failed attempts
+- **[[Info/Quests/Onashas_Eirik_Challenge\|Trip Eirik the Quick]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s personal challenge continues after two more failed attempts
 
 ### Completed
 - **Dunmer Dock Investigation**: Successfully eliminated criminal threat and recovered stolen lockbox
 
 ## Player Notes
 
-The session revealed deeper criminal networks operating between Morrowind and Skyrim. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s tribal connections to the Blacktongue and their Dark Brotherhood reputation proved useful for intimidation. The systematic approach to eliminating guards showcased effective teamwork. The mysterious lockbox and its connection to Sea of Ghosts ship movements suggests larger political or criminal implications.
+The session revealed deeper criminal networks operating between Morrowind and Skyrim. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s tribal connections to the Blacktongue and their [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]] reputation proved useful for intimidation. The systematic approach to eliminating guards showcased effective teamwork. The mysterious lockbox and its connection to Sea of Ghosts ship movements suggests larger political or criminal implications.
 
 ## Next Steps
 
-- Await [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]'s investigation results regarding the lockbox and ship sightings
+- Await [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald Black-Foot]]'s investigation results regarding the lockbox and ship sightings
 - Consider translating the Dunmeri ledger for additional intelligence
 - Continue monitoring for Camonna Tong activity in the region
 - Complete [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s ongoing quest to trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]

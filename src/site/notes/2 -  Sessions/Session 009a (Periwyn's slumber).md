@@ -333,7 +333,7 @@
 - **[[Info/Lore/Malacath\|Malacath]]'s Interest:** The figure warns about Malacath's involvement and fractured mask
 - **Story Agency:** Emphasis on [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] writing her own story rather than following fate/prophecy
 - **[[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s Age:** Hints that he is much older than he appears, possibly ancient
-- **[[Info/Locations/Darnow_Hollow\|Darnow Hollow]]:** Location of an old contract, appears to be connected to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s past
+- **Darnow Hollow:** Location of an old contract, appears to be connected to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s past
 - **[[Info/Locations/Northpoint\|North Point]]:** [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s former home, mentioned in flashbacks
 - **[[Info/Locations/Arkayfell\|Arkayfell]]:** Location where [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] killed [[Info/Characters/999 NPC's/Gareth\|Gareth]], appears in the dream
 

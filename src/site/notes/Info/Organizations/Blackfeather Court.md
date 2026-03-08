@@ -77,9 +77,23 @@ Unknown, but multiple sources have urged caution:
 - The Vestige's recognition of [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] ("little flower") suggests prior knowledge
 - The Vestige reacted aggressively to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] initially - may sense something about her
 
+## Session 022 — Sewer Guidance
+During [[2 -  Sessions/Session 022\|Session 022]], a crow guided **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** and the party out of the [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] after [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] completed her infiltration mission at the Jarl's Hall. The crow's guidance confirmed the Blackfeather Court is actively monitoring the party's movements in [[Kjalgrad\|Kjalgrad]].
+
+## Session 023 — Note Delivered to Kirya
+A crow appeared at the window of [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]:
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** traded an apple for a note delivered by the crow
+- The note read: *"Apple note from Master. Thank you."*
+- "Master" refers to [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] ("The Crowfather")
+- Full details: [[Info/1 - Party Findings/Blackfeather_Court_Note\|Blackfeather_Court_Note]]
+
+This delivery confirms The Vestige is tracking the party's location and maintaining communication through his crows.
+
 ## Session References
 - **[[2 -  Sessions/Session 004\|Session 004]]**: First mentioned; connection to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s backstory
 - **[[2 -  Sessions/Session 007\|Session 007]]**: Blackfeather Court investigation started
 - **[[2 -  Sessions/Session 018\|Session 018]]**: [[Baron Jangleplume\|Baron Jangleplume]]'s nature revealed by [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]
 - **[[2 -  Sessions/Session 019\|Session 019]]**: Crows made contact at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]
 - **[[2 -  Sessions/Session 020\|Session 020]]**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] encountered and revealed his identity
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Crow guided party out of [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] after Kirya's infiltration
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Crow delivered note to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]; *"Apple note from Master. Thank you."*

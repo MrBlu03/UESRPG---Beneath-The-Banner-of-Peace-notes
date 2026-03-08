@@ -104,7 +104,7 @@ Found in the same room:
 ### Camonna Tong Murders
 - Two guards murdered outside during the event
 - Could be connected to the Jarl's activities
-- The Camonna Tong may be targeting those connected to the conspiracy
+- The [[Info/Organizations/Camonna_Tong\|Camonna Tong]] may be targeting those connected to the conspiracy
 
 ## Investigation Priorities
 1. **Document**: Record detailed description and location

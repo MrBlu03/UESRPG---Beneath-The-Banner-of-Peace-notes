@@ -132,6 +132,25 @@ Darius Karo represents the corruption in [[Kjalgrad\|Kjalgrad]]'s leadership. Wh
 - Quick payment without verification is suspicious
 - His connection to [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] now more obvious
 
+## Session 023 Updates
+
+### The Jarl "Supervised"
+The [[Info/1 - Party Findings/Valen_Office_Intelligence\|burnt letter found in Valen Marr's locked cabinet]] ([[2 -  Sessions/Session 023\|Session 023]]) reads:
+
+> *"Jarl remains cooperative though his condition requires continued supervision."*
+
+This has significant implications for Darius Karo:
+- If the **Jarl** (his nominal superior) is being supervised by the Guild, Darius's power as de facto ruler of the city is itself subject to Guild approval
+- Alternatively, Darius Karo may be **the one providing this supervision** — acting as the Guild's man on the ground monitoring the Jarl's compliance
+- Either way, the Guild now demonstrably controls both the Jarl and (through the Jarl) the steward
+
+### Tariffs and Disappearances
+Under the arrangement Darius Karo oversees:
+- **Tariffs raised to 45%** — citizens speaking out are disappearing with no dungeon records
+- **[[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]]** confirmed arrests were made but no one appeared in the dungeon
+- Darius's complicity or helplessness in this situation reflects the Guild's total grip on city governance
+
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: First appearance; hired party to capture "Sadrith"
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Party delivered forged evidence; paid 3,200 gold; directed party to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Burnt letter from Valen's office confirms Jarl "remains cooperative, condition requires continued supervision" — implicates Darius's role in the control structure

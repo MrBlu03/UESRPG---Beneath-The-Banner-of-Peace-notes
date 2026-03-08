@@ -209,6 +209,51 @@ After discovering the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the
 
 *[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] is likely much more perceptive than [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]. The next meeting will be the real test of the forgery.*
 
+## Session 023 — The Meeting and Office Search
+
+### The Partnership Meeting
+**[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** met **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]** at the [[Info/Locations/Guild_of_the_Silverroad_Guildhouse\|Guild_of_the_Silverroad_Guildhouse]]:
+- Valen offered an **8% guild rate** (vs. standard 15%) and three trade routes
+- In exchange: carry Guild cargo, report on rival merchants
+- Framed the Guild as a "political voice" for merchants
+
+### The Pendant Question
+Periwyn directly asked about the **Ouroboros pendant**:
+- Valen gave a cover story: a Planemeld survivor's keepsake representing the three alliances
+- Claims to know **one other pendant-wearer in Bruma**
+- Periwyn narrowly passed a Deceive check when Valen noticed she hadn't touched her wine
+
+### The Guard Interruption and Office Search
+A guard whispered to Valen mid-meeting (likely about the warehouse investigation). When Valen stepped out, the party examined his office:
+- **[[Info/1 - Party Findings/Valen_Office_Intelligence\|Valen_Office_Intelligence]]**: Map (warehouse district circles + northeast marker), ledger (night transfers, "temple allocation," coin distribution), cabinet letter (Jarl supervised), lockbox (Riften bribes, "Coming Correction")
+
+### Intelligence Status — Updated
+| Target | Status |
+|---|---|
+| Valen Marr's role and rank in Coiled Serpent | Partially known — Trade Advocate / active member |
+| Who controls the Jarl | CONFIRMED: Guild supervises him |
+| Riften political connection | CONFIRMED: Active bribes (last 2 weeks) |
+| "The Coming Correction" | DISCOVERED: Major event planned — scope/timeline unknown |
+| Northeast marker outside Kjalgrad | DISCOVERED: Unknown site — needs investigation |
+| "The Grand Architect" | Unknown |
+| Bruma pendant contact | Valen mentioned one other wearer in Bruma |
+
+## Key Tasks (Updated)
+- [x] ~~Create convincing forged evidence~~ — **COMPLETED**
+- [x] ~~Deceive [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]~~ — **COMPLETED**
+- [x] ~~Meet [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] with forged letter~~ — **COMPLETED** (Session 022 trade event)
+- [x] ~~Confirm Valen Marr is Coiled Serpent~~ — **CONFIRMED** (Ouroboros pendant, Session 022)
+- [x] ~~Search Valen's office~~ — **COMPLETED** (Session 023)
+- [ ] **Investigate the northeast marker** on Valen's map
+- [ ] **Identify "the Coming Correction"** — timeline and target
+- [ ] **Follow up on Riften bribes** — which officials, what they've done
+- [ ] **Investigate Warehouse 7 crates** — what happened after Durov's payment
+- [ ] Investigate "The Grand Architect"
+- [ ] Determine [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]'s direct involvement
+- [ ] Identify the Bruma pendant-wearer Valen mentioned
+- [ ] Extract without compromising cover (when investigation complete)
+
 ## Session References
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Quest initiated; forged letter created and delivered to [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]; directed to meet [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
 - **[[2 -  Sessions/Session 022\|Session 022]]**: **BREAKTHROUGH** - Infiltrated trade event; Valen Marr confirmed as Coiled Serpent member (Ouroboros pendant spotted); Periwyn made legitimate trade connections; Durov maintained guard cover; Valen evacuated city due to Camonna Tong
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Periwyn met Valen at guildhouse; partnership offer; pendant cover story; office searched; major intelligence gathered ([[Info/1 - Party Findings/Valen_Office_Intelligence\|Valen_Office_Intelligence]])

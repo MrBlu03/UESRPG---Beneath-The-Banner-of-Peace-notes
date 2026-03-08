@@ -41,7 +41,7 @@ Rumors circulated in [[Info/Locations/Falderstad\|Falderstad]] about hunters who
 ### Vampire Conspiracy Revealed
 - Frozen hunters were victims of sun-blocking magic field test
 - [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]] from [[Info/Locations/Greenwall\|Greenwall]] incident responsible
-- Part of larger conspiracy involving [[Majorn\|Majorn]]'s organization
+- Part of larger conspiracy involving [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s organization
 - Alliance with [[Poisoned_Dunmer\|Poisoned_Dunmer]] and other supernatural agents
 
 ### Territorial Creature
@@ -76,14 +76,14 @@ Rumors circulated in [[Info/Locations/Falderstad\|Falderstad]] about hunters who
 The investigation successfully uncovered the truth behind the frozen hunters incident, revealing it as part of a field test for supernatural weapons. The party's non-hostile approach to the vampire allowed them to gather crucial intelligence about the broader conspiracy threatening the region.
 
 ## Long-term Implications
-- Confirmed connection between local incidents and [[Majorn\|Majorn]]'s conspiracy
+- Confirmed connection between local incidents and [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s conspiracy
 - Identified field testing operations in progress
 - Revealed alliance network among supernatural agents
 - Established territorial creature as potential factor in regional supernatural conflicts
 
 ## Related Quests
 - **[[Info/Locations/Greenwall\|Greenwall]] Investigation**: Connected through vampire survivor
-- **[[Majorn\|Majorn]] Conspiracy**: Part of larger supernatural threat
+- **[[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]] Conspiracy**: Part of larger supernatural threat
 - **Vampire Conspiracy**: Broader investigation into undead activities
 - **[[Molag_Bal\|Molag_Bal]] Misdirection**: Understanding of false narrative strategy
 

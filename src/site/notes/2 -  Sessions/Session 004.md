@@ -5,7 +5,7 @@
 # Session 004 - 2025-03-02
 
 ## Summary
-The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] to investigate a military keep called Harmugstahl that had gone silent three days ago. Upon arrival, they discovered the keep was eerily frozen, with soldiers and objects frozen solid. The party encountered mysterious voices, a frostbitten hand in the well, and a trail of black feathers similar to the one [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] found earlier. They also uncovered a logbook from the frozen general, which revealed the last entry: "It is inside now." The party found a cracked mirror in the dungeon, which reflected a mysterious Khajiit figure. They also discovered two symbols etched into the ground: the [[Info/Lore/Coiled_Serpent\|coiled serpent]] and a variation of the [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbol. After reporting their findings to the queen, they received their reward and were invited to become the "Fangs of Fjelhorst."
+The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] to investigate a military keep called [[Info/Locations/Harmugstahl\|Harmugstahl]] that had gone silent three days ago. Upon arrival, they discovered the keep was eerily frozen, with soldiers and objects frozen solid. The party encountered mysterious voices, a frostbitten hand in the well, and a trail of black feathers similar to the one [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] found earlier. They also uncovered a logbook from the frozen general, which revealed the last entry: "It is inside now." The party found a cracked mirror in the dungeon, which reflected a mysterious Khajiit figure. They also discovered two symbols etched into the ground: the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] and a variation of the [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbol. After reporting their findings to the queen, they received their reward and were invited to become the "Fangs of Fjelhorst."
 
 ---
 
@@ -24,22 +24,22 @@ The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr
 - Before heading to the queen, the party visited **[[Info/Locations/The_Honed_Edge\|The Honed Edge]]** blacksmith to acquire more silver weapons.
   - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** and **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** each bought 50 silver arrows for 100 gold.
   - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** shared knowledge about **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]]**, the purest form of vampires, who are weak to sunlight and fire, resistant to non-magical damage, and undead.
-  - The blacksmith revealed that the ancestors of **[[Info/Locations/The_Honed_Edge\|The Honed Edge]]** lost [[Info/Locations/Greenwall\|Greenwall Castle]] to vampires 2,000 years ago.
+  - The blacksmith revealed that the ancestors of **[[Info/Locations/The_Honed_Edge\|The Honed Edge]]** lost [[Info/Locations/Greenwall\|Greenwall]] Castle to vampires 2,000 years ago.
 - Learned that [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]] would be leaving for Fjelhorst.
 
 ### Meeting with the Queen
-- [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] explained the situation at Harmugstahl:
+- [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] explained the situation at [[Info/Locations/Harmugstahl\|Harmugstahl]]:
   - Military keep that's gone silent
   - Three days with no word
   - Scouts sent to investigate haven't returned
   - Unnaturally cold weather the day before the incident
 
-### Journey to Harmugstahl
+### Journey to [[Info/Locations/Harmugstahl\|Harmugstahl]]
 - The party embarked on a 5-hour walk to the keep.
-  - They were followed by mysterious crows, which were later revealed to be **[[Court_of_Crows\|Court of Crows]]** messengers from the **[[Info/Locations/Nocturnal_Realm\|Nocturnal Realm]]**.
+  - They were followed by mysterious crows, which were later revealed to be **[[Info/Organizations/Blackfeather Court\|Court of Crows]]** messengers from the **[[Info/Lore/Nocturnal\|Nocturnal Realm]]**.
   - The crows spoke and acted as lookouts for the royal court.
 
-### Investigation of Harmugstahl
+### Investigation of [[Info/Locations/Harmugstahl\|Harmugstahl]]
 - Upon arrival, the party found the keep unnaturally cold and silent.
   - Construction seemed old but completely abandoned.
   - No footprints apart from their own.
@@ -57,7 +57,7 @@ The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr
   - Torches were lit but gave off dim light and nearly no heat.
   - The party heard mysterious voices.
     - "Gareth's little stray, still chasing ghosts?" (directed at [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]], who threw a knife in response).
-  - Torches flickered as a voice said: "All that faith, all that fire, and still you are afraid, you reek of Arkay's prayers."
+  - Torches flickered as a voice said: "All that faith, all that fire, and still you are afraid, you reek of [[Info/Lore/Arkay\|Arkay]]'s prayers."
   - A presence was felt in the room.
   - Through the window of the overseer's quarters, they glimpsed a reflection of a mysterious female shadowy Khajiit standing in the snow, which disappeared when they blinked.
   - A force rattled the shutters closed.
@@ -71,7 +71,7 @@ The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr
   - All torches were suddenly extinguished.
   - In front of [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]], [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] saw symbols appear as if drawn by an invisible hand.
   - Two symbols were etched into the ground:
-    - The [[Info/Lore/Coiled_Serpent\|coiled serpent]] symbol.
+    - The [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] symbol.
     - A variation of the [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbol, suggesting a splinter faction.
   - A second gust of wind came from outside, turning the torches back on and leaving silence.
   - The presence had left.
@@ -89,13 +89,13 @@ The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr
   - The captain was revealed to be [[Info/Characters/999 NPC's/Rigi\|Rigi]]'s brother.
 - The party gave the dust samples to [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] for investigation.
   - When the "Court" was mentioned, his eyes widened in recognition.
-  - Explained the [[Court_of_Crows\|Court of Crows]] from [[Info/Locations/Nocturnal_Realm\|Everglow]]:
-    - From [[Info/Locations/Nocturnal_Realm\|Nocturnal's realm]].
+  - Explained the [[Info/Organizations/Blackfeather Court\|Court of Crows]] from [[Info/Lore/Nocturnal\|Everglow]]:
+    - From [[Info/Lore/Nocturnal\|Nocturnal]]'s realm.
     - Friendly to mortals.
-    - A pocket realm was captured and unanchored from [[Info/Locations/Nocturnal_Realm\|Everglow]].
-    - [[Court_of_Crows\|Court of Crows]] now resides there.
+    - A pocket realm was captured and unanchored from [[Info/Lore/Nocturnal\|Everglow]].
+    - [[Info/Organizations/Blackfeather Court\|Court of Crows]] now resides there.
     - Their allegiance is to the people of Tamriel.
-    - Established by a Dunmer known as "The Vestige" (connected to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s backstory).
+    - Established by a Dunmer known as "[[Info/Characters/999 NPC's/The_Vestige\|The Vestige]]" (connected to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s backstory).
   - Mentioned [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]] as a correspondent who could provide more information.
 - The party had drinks with [[Info/Characters/999 NPC's/Rigi\|Rigi]] at the Amber Keg tavern, where they met [[Info/Characters/999 NPC's/Grelka\|Grelka]].
 - That night, [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] had a dream of a large metal object like an insanely huge flail falling in the middle of a market square, destroying everything.
@@ -103,10 +103,10 @@ The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr
 ---
 
 ## NPCs Met
-- **[[Info/Characters/999 NPC's/Rigi\|Rigi]]:** Housecarl to the Queen of [[Info/Locations/Riften\|Riften]], lost a brother who was a captain at Harmugstahl.
+- **[[Info/Characters/999 NPC's/Rigi\|Rigi]]:** Housecarl to the Queen of [[Info/Locations/Riften\|Riften]], lost a brother who was a captain at [[Info/Locations/Harmugstahl\|Harmugstahl]].
 - **[[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] of [[Info/Locations/Riften\|Riften]]:** Tasked the party with investigating the military keep.
-- **[[Court_of_Crows\|Court of Crows]]:** Mysterious crows that followed the party, revealed to be messengers from the [[Info/Locations/Nocturnal_Realm\|Nocturnal Realm]].
-- **[[Info/Characters/Khajiit_Figure\|Khajiit Figure]]:** A mysterious female shadowy Khajiit figure who appeared multiple times:
+- **[[Info/Organizations/Blackfeather Court\|Court of Crows]]:** Mysterious crows that followed the party, revealed to be messengers from the [[Info/Lore/Nocturnal\|Nocturnal Realm]].
+- **Khajiit Figure:** A mysterious female shadowy Khajiit figure who appeared multiple times:
   - First spotted in a mirror in the barracks
   - Seen standing in the snow outside the overseer/captain's quarters
   - Appeared in the dungeon during the supernatural encounter (only visible to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] when the lights were out)
@@ -119,46 +119,46 @@ The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr
 ## Items Acquired
 - **Silver Arrows:** 50 purchased by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and 50 by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] for 100 gold.
 - **Logbook/Journal:** Found on the frozen general, with the last entry: "They're inside now."
-- **Cracked Mirror:** Found in the dungeon, reflecting a mysterious [[Info/Characters/Khajiit_Figure\|Khajiit figure]].
+- **Cracked Mirror:** Found in the dungeon, reflecting a mysterious Khajiit figure.
 - **Black Feathers:** Similar to the one [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] found earlier, found in the dungeon.
 - **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] Symbol:** A variation suggesting a splinter faction.
-- **400 Gold Each:** Reward for investigating Harmugstahl.
+- **400 Gold Each:** Reward for investigating [[Info/Locations/Harmugstahl\|Harmugstahl]].
 
 ---
 
 ## Quests
 
 ### Completed
-- **Harmugstahl Investigation:** Investigated the mysterious freezing of the military keep and the disappearance of the scouts.
+- **[[Info/Quests/Harmugstahl_Investigation\|Harmugstahl Investigation]]:** Investigated the mysterious freezing of the military keep and the disappearance of the scouts.
   - **Reward:** 400 gold per person.
 
 ### New
-- **Fangs of Fjelhorst:** Invitation to become Queen Freithr's special hunters.
+- **[[Info/Quests/Fangs_of_Fjelhorst_Formation\|Fangs of Fjelhorst]]:** Invitation to become Queen Freithr's special hunters.
 
 ### In Progress
-- **[[Info/Locations/Greenwall\|Greenwall Investigation]]:** Mysterious magical blizzard surrounding [[Info/Locations/Greenwall\|Greenwall]], possibly linked to vampire activity (from Session 3).
+- **[[Info/Locations/Greenwall\|Greenwall]] Investigation:** Mysterious magical blizzard surrounding [[Info/Locations/Greenwall\|Greenwall]], possibly linked to vampire activity (from Session 3).
 - **Poisoned Dunmer Follow-up:** Investigate the complex poison used on [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]] (from Session 3).
-- **Vampire Hunter Search ([[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s personal quest):** Track down [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], now known to be stranded in [[Info/Locations/Greenwall\|Greenwall]] (from Session 3).
-- **[[Info/Lore/Coiled_Serpent\|Coiled Serpent Investigation]]:** Origin of the logo found at [[Snowshot_Dam\|Snowshot Dam]] (from Session 2).
+- **[[Info/Quests/Periwyns_Vampire_Hunter_Search\|Vampire Hunter Search]] ([[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s personal quest):** Track down [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], now known to be stranded in [[Info/Locations/Greenwall\|Greenwall]] (from Session 3).
+- **[[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent Investigation]]:** Origin of the logo found at [[Info/Locations/Snow-Shod_Dam\|Snowshot Dam]] (from Session 2).
 - **Burnt Paper Reconstruction:** Potential magical restoration of evidence (from Session 2).
 
 ---
 
 ## Player Notes
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** has extensive knowledge of **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]]**, including their weaknesses and strengths.
-- The **[[Info/Lore/Coiled_Serpent\|coiled serpent]]** and **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbols** are now linked, suggesting a deeper connection between the two.
-- The **black feathers** and **[[Court_of_Crows\|Court of Crows]]** are tied to the **[[Info/Locations/Nocturnal_Realm\|Nocturnal Realm]]**.
-- "The Vestige" is somehow connected to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s (Daria's) backstory.
+- The **[[Info/Lore/Coiled_Serpent\|Coiled Serpent]]** and **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbols** are now linked, suggesting a deeper connection between the two.
+- The **black feathers** and **[[Info/Organizations/Blackfeather Court\|Court of Crows]]** are tied to the **[[Info/Lore/Nocturnal\|Nocturnal Realm]]**.
+- "[[Info/Characters/999 NPC's/The_Vestige\|The Vestige]]" is somehow connected to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s (Daria's) backstory.
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s dream may be a premonition of some kind.
 - [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] has knowledge of other realms and magical courts.
 
 ---
 
 ## Reflection
-- The party successfully investigated Harmugstahl, uncovering clues about the mysterious freezing and the involvement of **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]]**.
-- The discovery of the **[[Info/Lore/Coiled_Serpent\|coiled serpent]]** and **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbols** suggests a convergence of multiple questlines.
-- The cryptic message from the [[Info/Characters/Khajiit_Figure\|Khajiit figure]] in the mirror hints at a larger plot involving the party.
-- The connection between the Court of Crows and "The Vestige" may be important for [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s personal story.
+- The party successfully investigated [[Info/Locations/Harmugstahl\|Harmugstahl]], uncovering clues about the mysterious freezing and the involvement of **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]]**.
+- The discovery of the **[[Info/Lore/Coiled_Serpent\|Coiled Serpent]]** and **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbols** suggests a convergence of multiple questlines.
+- The cryptic message from the Khajiit figure in the mirror hints at a larger plot involving the party.
+- The connection between the Court of Crows and "[[Info/Characters/999 NPC's/The_Vestige\|The Vestige]]" may be important for [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s personal story.
 - Being offered a position as the "Fangs of Fjelhorst" indicates the Queen's growing trust in the party.
 
 ---
@@ -166,16 +166,16 @@ The party was summoned by [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr
 ## Next Steps
 - Consider the Queen's offer to become the "Fangs of Fjelhorst."
 - Share **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s** knowledge of **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]]** with the party.
-- Investigate the connection between the **[[Info/Lore/Coiled_Serpent\|coiled serpent]]** and **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbols**.
+- Investigate the connection between the **[[Info/Lore/Coiled_Serpent\|Coiled Serpent]]** and **[[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] symbols**.
 - Follow up on the **[[Info/Locations/Greenwall\|Greenwall]]** situation.
 - Consult with **[[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]** about the Court of Crows before he leaves for Fjelhorst.
-- Investigate the **[[Info/Locations/Nocturnal_Realm\|Nocturnal Realm]]** and the **[[Court_of_Crows\|Court of Crows]]** for potential ties to the black feathers.
+- Investigate the **[[Info/Lore/Nocturnal\|Nocturnal Realm]]** and the **[[Info/Organizations/Blackfeather Court\|Court of Crows]]** for potential ties to the black feathers.
 - Explore the meaning of [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s dream.
 
 ---
 
 ## Relevant Context from Session 3
-- **[[Info/Locations/Greenwall\|Greenwall Investigation]]:** A magical blizzard surrounds [[Info/Locations/Greenwall\|Greenwall]], potentially linked to vampire activity. Reports of creatures passing through the ice and abducting people.
+- **[[Info/Locations/Greenwall\|Greenwall]] Investigation:** A magical blizzard surrounds [[Info/Locations/Greenwall\|Greenwall]], potentially linked to vampire activity. Reports of creatures passing through the ice and abducting people.
 - **Poisoned Dunmer Follow-up:** [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]'s body was poisoned with a complex mixture, including vampire dust and shadow ichor, suggesting the involvement of a powerful perpetrator.
-- **Vampire Hunter Search:** [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], a vampire hunter, is stranded in [[Info/Locations/Greenwall\|Greenwall]], connecting [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s personal quest to the larger vampire threat.
-- **[[Info/Lore/Coiled_Serpent\|Coiled Serpent Investigation]]:** The coiled serpent logo found at [[Snowshot_Dam\|Snowshot Dam]] may be linked to the symbols found in Harmugstahl.
+- **[[Info/Quests/Periwyns_Vampire_Hunter_Search\|Vampire Hunter Search]]:** [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], a vampire hunter, is stranded in [[Info/Locations/Greenwall\|Greenwall]], connecting [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s personal quest to the larger vampire threat.
+- **[[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent Investigation]]:** The coiled serpent logo found at [[Info/Locations/Snow-Shod_Dam\|Snowshot Dam]] may be linked to the symbols found in [[Info/Locations/Harmugstahl\|Harmugstahl]].

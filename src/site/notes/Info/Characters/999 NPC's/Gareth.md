@@ -8,7 +8,7 @@
 - **Name:** Gareth
 - **Status:** Deceased (appears as spirit/vision)
 - **Former Role:** [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s mentor and trainer
-- **Former Affiliation:** Knights of Arkay
+- **Former Affiliation:** [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]
 - **Location:** [[Info/Locations/Northpoint\|Northpoint]] (formerly), appears in [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] 's dreams
 
 ## Description
@@ -18,7 +18,7 @@
 - **Spirit Form:** Flickers like an image on warped glass
 
 ## Background
-- **Mentorship:** Trained [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] in combat and the ways of the Knights of Arkay
+- **Mentorship:** Trained [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] in combat and the ways of the [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]
 - **Teaching Style:** Emphasized mercy alongside vengeance, balance in justice
 - **Death:** Killed by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] at [[Info/Locations/Arkayfell\|Arkayfell]] after being turned into a vampire
 - **Last Words:** Begged [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to kill him, taught her about mercy
@@ -33,7 +33,7 @@
 
 ## Relationships
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]:** Former student and protégé, now offers spiritual guidance
-- **Knights of Arkay:** Former member and trainer
+- **[[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]:** Former member and trainer
 - **[[Info/Locations/Northpoint\|Northpoint]]:** Former home and training location
 
 ## Current Status

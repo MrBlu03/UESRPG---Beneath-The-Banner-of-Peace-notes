@@ -49,7 +49,7 @@
   - Discovered arrow with note from [[Info/Characters/999 NPC's/Stryder\|Stryder]] calling in favor
   - Showed letter to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and prepared for mission
   - Participated in [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s Favor: intercepted [[Dunmer\|Dunmer]] caravan
-  - Claimed authority from [[Queen Freidr\|Queen Freidr]] to inspect caravan
+  - Claimed authority from [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]] to inspect caravan
   - Separated guard for interrogation, discovered moonsugar and forged documents
   - Planted additional evidence to justify executing merchants
   - Worked with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to capture caravan and evidence

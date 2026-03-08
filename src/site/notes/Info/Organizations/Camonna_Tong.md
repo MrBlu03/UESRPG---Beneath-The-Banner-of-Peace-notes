@@ -40,6 +40,10 @@ The Camonna Tong is a criminal syndicate originating from Morrowind that operate
 - Forced [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] to evacuate the city
 - Threat level now **HIGH** - active assassinations in the region
 
+**[[2 -  Sessions/Session 023\|Session 023]]**:
+- **Onasha's Misdirection**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] had previously misdirected the Camonna Tong by telling them that **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]** had the **Blackfoot lockbox** they were seeking — pointing them at a Guild of the Silverroad target rather than the party
+- The party is considering using **frenzy bombs** to pit the Camonna Tong against the Guild, exploiting the existing tension between the two organizations
+
 ## Related Items and Evidence
 - **Camonna Tong Masks**: Bone/plate masks used for identification
 - **Dunmeri Ledger**: Criminal records written in Dunmeri language

@@ -26,9 +26,9 @@ The party awakens at the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] hal
 
 [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] presents the wrapped dragon priest mask to [[Info/Characters/999 NPC's/Adda\|Adda]] for examination. [[Info/Characters/999 NPC's/Adda\|Adda]] declares it "just a trophy now" since its master is gone and its magic has faded, encouraging [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] to keep it.
 
-[[Info/Characters/999 NPC's/Adda\|Adda]] explains the runes painted on [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] 's face during her recovery, calling them "[[0 - House Rules/Homebrew/Woad\|Woad]]" - an ancient form of magic. When [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] asks if they can cover markings, [[Info/Characters/999 NPC's/Adda\|Adda]] explains they're primarily for facial use.
+[[Info/Characters/999 NPC's/Adda\|Adda]] explains the runes painted on [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] 's face during her recovery, calling them "Woad" - an ancient form of magic. When [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] asks if they can cover markings, [[Info/Characters/999 NPC's/Adda\|Adda]] explains they're primarily for facial use.
 
-[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] informs [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] that [[Sven\|Sven]] and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] are dead and the land is returning to normal. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] simply asks if they got paid. [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] throws her share of gold, but she misses it while reequipping her gear.
+[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] informs [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] that Sven and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] are dead and the land is returning to normal. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] simply asks if they got paid. [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] throws her share of gold, but she misses it while reequipping her gear.
 
 ### Planning the Lake Trip
 
@@ -50,7 +50,7 @@ The group meets at the gate near the docks. [[Info/Characters/999 NPC's/Bjorin\|
 
 **Stop at Treva's Bend:**
 
-They travel past [[Info/Locations/Trevas_Bend\|Treva's Bend]], stopping to collect the 50 gold per person still owed by the alderman. [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] attempts to claim 60 per person, but Alderman Torgir correctly remembers the actual amount and pays 50 gold each.
+They travel past [[Info/Locations/Trevas_Bend\|Treva's Bend]], stopping to collect the 50 gold per person still owed by the alderman. [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] attempts to claim 60 per person, but [[Info/Characters/999 NPC's/Alderman_Torgir\|Alderman Torgir]] correctly remembers the actual amount and pays 50 gold each.
 
 During the walk, [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] learns that John is a stray [[Info/Characters/999 NPC's/Alara\|Alara]] adopted three years ago.
 
@@ -89,7 +89,7 @@ A foggy, chill morning sees [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn
 
 **Hunting and Encounters:**
 
-[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/999 NPC's/Astrid\|Astrid]] check traps, finding a caught rabbit. A mysterious [[Khajiit\|Khajiit]] named [[Info/Characters/999 NPC's/M'aiq\|M'aiq]] appears suddenly at their camp, rambling about not liking taxes and claiming he's tired, then departs as mysteriously as he arrived without elaborating further.
+[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/999 NPC's/Astrid\|Astrid]] check traps, finding a caught rabbit. A mysterious Khajiit named [[Info/Characters/999 NPC's/M'aiq\|M'aiq]] appears suddenly at their camp, rambling about not liking taxes and claiming he's tired, then departs as mysteriously as he arrived without elaborating further.
 
 The hunting party expands to include [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] for a bear hunt, successfully bringing down the animal with help from [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to drag it back.
 
@@ -107,14 +107,14 @@ The next morning, everyone packs up. [[Info/Characters/001 The Fangs of Fjelhors
 
 ## NPCs Met
 
-- **[[Info/Characters/999 NPC's/Adda\|Adda]]**: Examined the dragon priest mask, explained [[0 - House Rules/Homebrew/Woad\|Woad]] magic, made cryptic "feathers" comment
+- **[[Info/Characters/999 NPC's/Adda\|Adda]]**: Examined the dragon priest mask, explained Woad magic, made cryptic "feathers" comment
 - **[[Info/Characters/999 NPC's/Alara\|Alara]]**: Joined camping trip with her husky John, discussed spriggan friendship and tribal connections
 - **John**: [[Info/Characters/999 NPC's/Alara\|Alara]]'s small husky companion, adopted stray
 - **[[Info/Characters/999 NPC's/Bjorin\|Bjorin]]**: Provided camping location and expertise, protective of [[Info/Characters/999 NPC's/Astrid\|Astrid]]
 - **[[Info/Characters/999 NPC's/Astrid\|Astrid]]**: Demonstrated hunting skills, shared war backstory and inn visitor records
 - **[[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]**: Brief encounter, dodged [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s trip attempt
-- **Alderman Torgir**: [[Info/Locations/Trevas_Bend\|Treva's Bend]] leader who paid owed quest rewards
-- **M'aiq**: Mysterious Khajiit who appeared at camp, spoke cryptically, then vanished
+- **[[Info/Characters/999 NPC's/Alderman_Torgir\|Alderman Torgir]]**: [[Info/Locations/Trevas_Bend\|Treva's Bend]] leader who paid owed quest rewards
+- **M'aiq**: Mysterious [[Info/Characters/999 NPC's/M'aiq\|Khajiit]] who appeared at camp, spoke cryptically, then vanished
 
 ## Items Acquired
 
@@ -126,15 +126,15 @@ The next morning, everyone packs up. [[Info/Characters/001 The Fangs of Fjelhors
 ## Quests
 
 ### New
-- **Trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s personal challenge after failed attempt
+- **[[Info/Quests/Onashas_Eirik_Challenge\|Trip Eirik the Quick]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s personal challenge after failed attempt
 
 ### In Progress
-- **Court of Crows Investigation**: New elements from [[Info/Characters/999 NPC's/Adda\|Adda]]'s "feathers" comment and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s "Crow Father" vision
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Lost Past**: Dreams provide clues about military background and forgotten identity
+- **[[Info/Quests/Blackfeather_Court_Investigation\|Blackfeather Court Investigation]]**: New elements from [[Info/Characters/999 NPC's/Adda\|Adda]]'s "feathers" comment and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s "Crow Father" vision
+- **[[Info/Quests/Durovs_Lost_Past\|Durov's Lost Past]]**: Dreams provide clues about military background and forgotten identity
 
 ### Completed
-- **Lodge Haunting**: Final payment collected, [[Sven\|Sven]] and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] laid to rest
-- **Debt Collection**: Successfully retrieved owed payment from [[Info/Locations/Trevas_Bend\|Treva's Bend]]
+- **[[Info/Quests/Haunted_Lodge_Contract\|Haunted Lodge Contract]]**: Final payment collected, Sven and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] laid to rest
+- **[[Info/Quests/Trevas_Bend_Aid\|Debt Collection]]**: Successfully retrieved owed payment from [[Info/Locations/Trevas_Bend\|Treva's Bend]]
 
 ## Player Notes
 

@@ -187,5 +187,33 @@ Warm to the touch like the stone - may share a common source in Oblivion.
 
 *The combination of the stone, the bloody cloak, the Jarl's magical speech, and the conspiracy's control of the city paints a dire picture. The party is dealing with forces far beyond simple corruption.*
 
+## Session 023 — The Burnt Letter Confirms Jarl Under Control
+
+### New Evidence: Supervised Condition
+[[Info/1 - Party Findings/Valen_Office_Intelligence\|Intelligence gathered from Valen Marr's locked cabinet]] ([[2 -  Sessions/Session 023\|Session 023]]) contains a **slightly burnt letter** reading:
+
+> *"Jarl remains cooperative though his condition requires continued supervision."*
+
+This is the most direct external confirmation yet that the Jarl is being managed:
+- **"Cooperative"**: Implies the Jarl is going along with the conspiracy, whether willingly or under compulsion
+- **"Condition"**: Aligns with the [[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]] (Daedric artifact in his lockbox), the [[Info/1 - Party Findings/Bloody Fur Cloak\|Bloody Fur Cloak]] with a blood trail, and the supernatural effects of his speech
+- **"Continued supervision"**: An ongoing arrangement — someone is actively monitoring and managing the Jarl's state
+
+### Implications for the Stone
+The burnt letter changes the investigation priorities:
+- The stone is likely a **control mechanism** — keeping the Jarl in his "condition"
+- Or a **monitoring device** — allowing the Guild/Coiled Serpent to verify his state
+- The Jarl's cooperation suggests either: he made a deal (pact?), he is being blackmailed, or he is magically/psychologically controlled
+
+## Investigation Tasks (Updated)
+- [x] ~~Secure the stone~~ — **COMPLETED**: Taken by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]
+- [x] ~~Confirm the Jarl is connected to Daedric forces~~ — **CONFIRMED**: Burnt letter + stone + cloak
+- [ ] **Analyze the Daedric runes** — expert translation still needed
+- [ ] **Determine the stone's function** — control device? monitoring tool? ritual component?
+- [ ] **Identify who wrote the letter** — who is supervising the Jarl and reporting to whom?
+- [ ] **Link to "the Coming Correction"** — is the Jarl's compliance connected to the planned event?
+- [ ] **Investigate the northeast marker** on Valen's map — possible stone/ritual connection
+
 ## Session References
-- **[[2 -  Sessions/Session 022\|Session 022]]**: Discovered by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]; taken by party; immediate plans made for analysis
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Discovered by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] in the Jarl's lockbox; taken by party for analysis
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Burnt letter from Valen's office confirms Jarl "remains cooperative, condition requires continued supervision"; direct connection to stone now established

@@ -38,7 +38,7 @@ A group of [[Dunmer\|Dunmer]] merchants operating a caravan that served as a fro
 ## Key Events in [[2 -  Sessions/Session 015\|Session 015]]
 
 ### The Inspection
-- Stopped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] claiming authority from [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]]
+- Stopped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] claiming authority from [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]]
 - Initially cooperative, allowing inspection of goods
 - Presented forged documents when challenged
 - Two guards showed nervous behavior, suggesting awareness of illegal cargo

@@ -91,7 +91,7 @@ The longhouse represents a façade of traditional Nordic rule:
 
 **The Murders:**
 - Event cut short when two guild guards were found murdered outside
-- **Camonna Tong** presence confirmed in [[Kjalgrad\|Kjalgrad]]
+- **[[Info/Organizations/Camonna_Tong\|Camonna Tong]]** presence confirmed in [[Kjalgrad\|Kjalgrad]]
 - All guests ushered out by guards
 - [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] evacuated the city due to the threat
 
@@ -117,31 +117,26 @@ The longhouse represents a façade of traditional Nordic rule:
 - Kirya "sampled" several varieties, becoming slightly tipsy
 - Stole bottles of fruity and spicy wine on exit
 
+### [[2 -  Sessions/Session 023\|Session 023]] — The Jarl Under Supervision
+
+**The Burnt Letter:**
+Intelligence gathered from [[Info/Locations/Guild_of_the_Silverroad_Guildhouse\|Valen Marr's locked cabinet]] ([[2 -  Sessions/Session 023\|Session 023]]) contains a **slightly burnt letter** reading:
+
+> *"Jarl remains cooperative though his condition requires continued supervision."*
+
+This confirms:
+- The Jarl of [[Kjalgrad\|Kjalgrad]] is being **actively managed** by the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] or [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]]
+- His "condition" connects to earlier evidence: the [[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]] in his lockbox, the [[Info/1 - Party Findings/Bloody Fur Cloak\|Bloody Fur Cloak]] with a blood trail, and the magical effects of his speech at the trade event
+- The longhouse as the Jarl's residence is effectively a supervised facility, not an independent seat of government
+
 ## Strategic Notes
 - The longhouse is where bounties and official business are handled
-- Approaching the Jarl directly is likely ineffective
-- [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] is the real decision-maker
+- Approaching the Jarl directly is likely ineffective — and possibly dangerous given his "condition"
+- [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] is the real decision-maker, but is himself likely answerable to Guild interests
 - Guild interests likely influence all decisions made here
-
-## Staff/Inhabitants
-- **The Jarl**: Ceremonial ruler, rarely present at meetings
-- **[[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]**: Imperial Steward, de facto ruler
-- **Guards**: Escort visitors, funded by [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
-
-## Related Locations
-- **[[Kjalgrad\|Kjalgrad]]**: The city the longhouse governs
-- **[[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]**: Where the party lodges
-- **Grand Market**: Crossed to reach the longhouse
-
-## Related Organizations
-- **[[Clan Morvan\|Clan Morvan]]**: Traditional rulers, now figureheads
-- **[[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]**: True power behind the throne
-
-## Notes
-- The ostentatious decoration may be funded by guild money
-- The empty chair during meetings suggests the Jarl avoids governance
-- [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]'s position beside the throne shows his assumed authority
-- The party now has a pending bounty from here (complicated by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] alliance)
 
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: Party summoned here and given bounty on "Sadrith"
+- **[[2 -  Sessions/Session 021\|Session 021]]**: Party returned with forged letter; received payment from [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Guild trade event held in Great Hall; Jarl gave magical speech; Kirya infiltrated Jarl's quarters
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Burnt letter from Valen's office confirms Jarl "remains cooperative, condition requires continued supervision"

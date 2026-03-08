@@ -94,6 +94,19 @@ Pricing not specified but likely premium given the quality of furnishings and am
 - [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] negotiated this as part of their alliance
 - Party now has a secure base for continued investigation in [[Kjalgrad\|Kjalgrad]]
 
+### [[2 -  Sessions/Session 022\|Session 022]] — Party Returns After Trade Event
+- The party returned to the Frost Gate Hall after the Guild trade event at the Jarl's Hall
+- Discussed findings and planned next steps
+
+### [[2 -  Sessions/Session 023\|Session 023]] — Blackfeather Court Crow Contact
+A [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] crow appeared at the inn window:
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** offered the crow an apple
+- The crow delivered a note: *"Apple note from Master. Thank you."*
+- "Master" = [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] ("The Crowfather")
+- Full details: [[Info/1 - Party Findings/Blackfeather_Court_Note\|Blackfeather_Court_Note]]
+
 ## Session References
 - **[[2 -  Sessions/Session 019\|Session 019]]**: Party arrived and stayed here; visited by the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]
 - **[[2 -  Sessions/Session 020\|Session 020]]**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] covering one week's lodging as part of alliance
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Party returned here after Guild trade event
+- **[[2 -  Sessions/Session 023\|Session 023]]**: [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] crow delivered note to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] here; *"Apple note from Master. Thank you."*

@@ -110,7 +110,43 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]]:
 - Party has complicated standing: accepted bounty but allied with target
 - One week of free lodging to investigate further
 
+### [[2 -  Sessions/Session 022\|Session 022]] — The Trade Event
+- [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] hosted a major trade event at the [[Info/Locations/Clan_Morvan_Longhouse\|Clan_Morvan_Longhouse]]
+- The Jarl appeared on the balcony; his speech had magical effects (warmth and pressure wave); party was protected by spell absorption tinctures
+- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] spotted [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] wearing the Ouroboros pendant — confirmed Coiled Serpent infiltration
+- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] infiltrated the Jarl's private quarters via the [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] and found the [[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]] and [[Info/1 - Party Findings/Bloody Fur Cloak\|Bloody Fur Cloak]]
+- Two guards were murdered by **Camonna Tong** outside the hall; Valen evacuated the city
+
+### [[2 -  Sessions/Session 023\|Session 023]] — Tariffs, Disappearances, and Warehouse Investigation
+- **Tariffs raised to 45%** by the Guild — citizens speaking out are disappearing with no dungeon records
+- A clothing merchant with a mustache vanished from his stall after speaking out
+- City guards confirmed on Guild payroll; "less than reputable people" are asking questions at warehouses
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** de-escalated a crowd with a prepared speech, promising to investigate
+- **[[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]]** confirmed arrests with no dungeon records — people have simply vanished
+- Party investigated **[[Info/Locations/Kjalgrad_Warehouse_District\|Warehouse 7]]**: found coin molds (matching brimstone gold), gemstones, chalk, black candles, ritual animal parts
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** paid 500 gold to hold suspicious crates; supervisor never returned
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** met [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] at the [[Info/Locations/Guild_of_the_Silverroad_Guildhouse\|Guild_of_the_Silverroad_Guildhouse]]: offered 8% guild rate and three trade routes in exchange for carrying Guild cargo and reporting rivals
+- Party searched Valen's office during his absence; found wall map (warehouse district circles + **northeast marker outside city**), ledger, cabinet letter confirming Jarl supervision, and lockbox with Riften bribes and "Coming Correction" fragments
+- A **[[Info/1 - Party Findings/Blackfeather_Court_Note\|Blackfeather Court crow]]** delivered a note to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]
+
+## New Locations (Session 023)
+- **[[Info/Locations/Kjalgrad_Warehouse_District\|Kjalgrad_Warehouse_District]]**: Warehouses 4 and 7; site of coin mold discovery
+- **[[Info/Locations/Guild_of_the_Silverroad_Guildhouse\|Guild_of_the_Silverroad_Guildhouse]]**: Valen's office; major intelligence gathered
+- **Northeast marker**: Unknown location outside city walls — marked on Valen's map
+
+## Related Organizations (updated)
+- **[[Clan Morvan\|Clan Morvan]]**: Nominal rulers
+- **[[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]**: True power; Daedric connections; 45% tariffs; disappearances
+- **[[Info/Lore/Coiled_Serpent\|Coiled_Serpent]]**: Infiltrated guild leadership; "Coming Correction" planned
+- **Cult of Clavicus Vile**: Operating through the guild (brimstone gold, coin molds)
+- **[[Camonna Tong\|Camonna Tong]]**: Active and targeting Guild assets; Onasha misdirected them at Valen
+- **[[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]]**: Formerly operated here
+- **[[Info/Organizations/Blackfeather Court\|Blackfeather Court]]**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] operating in the city; crow contact at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]
+
 ## Session References
 - **[[2 -  Sessions/Session 018\|Session 018]]**: Named as [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] delivery destination
 - **[[2 -  Sessions/Session 019\|Session 019]]**: Party arrived; [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] contact
 - **[[2 -  Sessions/Session 020\|Session 020]]**: Major investigation session; [[Vestige\|Vestige]] alliance formed
+- **[[2 -  Sessions/Session 021\|Session 021]]**: Guild leadership identified; infiltration plan executed
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Trade event; Valen confirmed Coiled Serpent; Kirya infiltrated Jarl's Hall
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Tariffs/disappearances; Warehouse 7 investigation; Valen meeting; office intelligence

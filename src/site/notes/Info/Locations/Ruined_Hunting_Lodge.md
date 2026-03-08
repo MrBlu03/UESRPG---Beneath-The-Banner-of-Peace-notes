@@ -13,7 +13,7 @@
 **Current Occupant:** [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]]
 
 ## Description
-A run-down hunting lodge deep in the northern forests outside [[Info/Locations/Falderstad\|Falderstad]], now serving as a refuge for the [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]] from the [[Info/Locations/Greenwall\|Greenwall]] incident. The lodge has become a center for necromantic experimentation and vampire operations as part of [[Majorn\|Majorn]]'s conspiracy.
+A run-down hunting lodge deep in the northern forests outside [[Info/Locations/Falderstad\|Falderstad]], now serving as a refuge for the [[Info/Characters/999 NPC's/Vampire_Survivor\|Vampire_Survivor]] from the [[Info/Locations/Greenwall\|Greenwall]] incident. The lodge has become a center for necromantic experimentation and vampire operations as part of [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s conspiracy.
 
 ## Condition and Atmosphere
 - **Structural State:** Run-down and deteriorating
@@ -43,7 +43,7 @@ A run-down hunting lodge deep in the northern forests outside [[Info/Locations/F
 - Currently injured by territorial creature in the forests
 - Using lodge as base of operations for vampire conspiracy activities
 - Conducting necromantic experiments related to sun-blocking magic
-- Working as field agent for [[Majorn\|Majorn]]'s organization
+- Working as field agent for [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s organization
 
 ## Operations and Activities
 - **Field Testing:** Sun-blocking magical techniques

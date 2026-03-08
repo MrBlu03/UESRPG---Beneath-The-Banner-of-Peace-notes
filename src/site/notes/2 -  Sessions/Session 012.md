@@ -37,14 +37,14 @@ At 9 AM, two Riften guards arrive requesting the party's immediate presence in t
 At Mistveil Keep, [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]] and [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]] deliver crucial intelligence:
 
 **News from Windhelm:**
-- Skald-King Jorunn recognizes similar threats to the ancient Grey Host
-- A messenger has been sent to Morthal to contact an old ally who fought the Grey Host
-- The Mages Guild is sending experts to [[Info/Locations/Greenwall\|Greenwall]], including [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] (a name [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] recognizes as Breton but can't place), who specializes in Daedric relics
+- Skald-King Jorunn recognizes similar threats to the ancient [[Info/Lore/Grey_Host\|Grey Host]]
+  - A messenger has been sent to Morthal to contact an old ally who fought the [[Info/Lore/Grey_Host\|Grey Host]]
+  - The [[Info/Organizations/Mages_Guild\|Mages Guild]] is sending experts to [[Info/Locations/Greenwall\|Greenwall]], including [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] (a name [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] recognizes as Breton but can't place), who specializes in Daedric relics
 - The guild members left 12 days ago and will arrive on the 31st of Frostfall, just before Witches Festival
 
 **Mortgren's Vampire Analysis:**
 - The severed head belongs to **[[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]**
-- [[Info/Organizations/Clan_Volkihar\|Clan_Volkihar]] blood but not turned by Harkon or his court
+  - [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]] blood but not turned by Harkon or his court
 - Actually turned by **[[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]**, believed killed 20 years ago during the Planemeld
 - [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]] was a former member of Harkon's court who grew tired of their isolationism
 - Mortgren warns that Majorn's name carries weight in certain circles and should not be spoken carelessly
@@ -52,7 +52,7 @@ At Mistveil Keep, [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]] and [
 ### The Ratway Investigation
 
 **Mission Briefing:**
-[[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]] assigns the party to investigate fires in the [[Info/Locations/Ratway\|Ratway]] that occurred two nights prior. Rumors blame her guards, but she suspects the serpent cult's involvement. The party must find the truth to restore trust between the crown and Riften's underground population.
+[[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]] assigns the party to investigate fires in the [[Info/Locations/Ratway\|Ratway]] that occurred two nights prior. Rumors blame her guards, but she suspects the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] cult's involvement. The party must find the truth to restore trust between the crown and Riften's underground population.
 
 ### Preparation and Market Intelligence
 
@@ -86,7 +86,7 @@ In exchange for a future favor (one month obligation), the Dunmer provides cruci
 - Fire starters wore black leathers with runes (possibly Daedric)
 - Fire began near the catacombs, close to Hall of the Dead entrance
 - Oil burned too quickly for normal torches - deliberate accelerant used
-- **[[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] mark** found on one of the burned archways
+- **[[Info/Lore/Coiled_Serpent\|Coiled Serpent]] mark** found on one of the burned archways
 
 ### [[Info/Locations/Hall_of_the_Dead\|Hall_of_the_Dead]] Investigation
 
@@ -97,7 +97,7 @@ Following [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s theo
 
 ### Debrief with Queen Freidr
 
-The party returns to report their findings. The evidence points to a coordinated operation by the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult to steal the Dunmer body and its documentation under cover of the deliberately set fire.
+The party returns to report their findings. The evidence points to a coordinated operation by the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] cult to steal the Dunmer body and its documentation under cover of the deliberately set fire.
 
 ## NPCs Met
 
@@ -121,17 +121,17 @@ The party returns to report their findings. The evidence points to a coordinated
 ## Quests
 
 ### New
-- **[[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] Cult Tracking**: Investigate the broader conspiracy involving [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]], the stolen Dunmer body, and serpent cult activities
-- **Woad Training**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] to learn woad techniques from [[Info/Characters/999 NPC's/Adda\|Adda]]
-- **Lute Acquisition**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] seeking to obtain a lute
+- **[[Info/Lore/Coiled_Serpent\|Coiled Serpent]] Cult Tracking**: Investigate the broader conspiracy involving [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]], the stolen Dunmer body, and serpent cult activities
+- **[[Info/Quests/Woad_Training\|Woad Training]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] to learn woad techniques from [[Info/Characters/999 NPC's/Adda\|Adda]]
+- **[[Info/Quests/Lute_Acquisition\|Lute Acquisition]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] seeking to obtain a lute
 
 ### In Progress
-- **Trip [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s ongoing personal challenge continues
-- **Moonsugar Business Venture**: [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s partnership deal with [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]] pending 500 gold investment
+- **[[Info/Quests/Onashas_Eirik_Challenge\|Trip Eirik the Quick]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s ongoing personal challenge continues
+- **[[Info/Quests/Moonsugar_Business_Venture\|Moonsugar Business Venture]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s partnership deal with [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]] pending 500 gold investment
 - **Favor Obligation**: One month commitment to [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] for information
 
 ### Completed
-- **[[Info/Locations/Ratway\|Ratway]] Fire Investigation**: Successfully uncovered evidence of [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult involvement and theft of Dunmer body
+- **[[Info/Locations/Ratway\|Ratway]] Fire Investigation**: Successfully uncovered evidence of [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] cult involvement and theft of Dunmer body
 
 ## Evidence Analysis by periwyn
 
@@ -147,14 +147,14 @@ The party returns to report their findings. The evidence points to a coordinated
 
 ## Player Notes
 
-The session revealed significant escalation in the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult's activities, now directly connected to the vampire threat through [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s deductive reasoning about the Dunmer body theft proved accurate. The party's diplomatic approach to the Ratway investigation was effective, building relationships with information brokers while uncovering the conspiracy. The connection between the various threats (serpent cult, vampire activities, Daedric involvement) is becoming clearer.
+The session revealed significant escalation in the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] cult's activities, now directly connected to the vampire threat through [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s deductive reasoning about the Dunmer body theft proved accurate. The party's diplomatic approach to the Ratway investigation was effective, building relationships with information brokers while uncovering the conspiracy. The connection between the various threats (serpent cult, vampire activities, Daedric involvement) is becoming clearer.
 
 ## Next Steps
 
-- Await arrival of [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] and Mages Guild at [[Info/Locations/Greenwall\|Greenwall]] (31st of Frostfall)
+- Await arrival of [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] and [[Info/Organizations/Mages_Guild\|Mages Guild]] at [[Info/Locations/Greenwall\|Greenwall]] (31st of Frostfall)
 - Monitor for further [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]-related vampire activities
 - Fulfill favor obligation to [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] when called upon
 - Complete [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s woad training with [[Info/Characters/999 NPC's/Adda\|Adda]]
-- Continue investigating [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] cult activities across the [[Info/Locations/Riften\|Rift]]
+- Continue investigating [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] cult activities across the [[Info/Locations/Riften\|Rift]]
 - Consider investing in moonsugar business partnership with [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]
 - Payment: 200 gold per person received, additional 400 gold promised for future payment

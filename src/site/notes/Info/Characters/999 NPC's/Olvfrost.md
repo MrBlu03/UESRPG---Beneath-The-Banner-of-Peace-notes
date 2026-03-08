@@ -42,7 +42,7 @@ Olvfrost is a burly Nord lumber baron who operates near **Fort Morven Scott** in
 ### The Lumber Deal
 After learning Periwyn was starting fresh:
 - Offered her a **signed trade agreement**
-- Cited "mutual acquaintance" ([[Jorvik Hanison\|Jorvik Hanison]]) as reason for trust
+- Cited "mutual acquaintance" ([[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik Hanison]]) as reason for trust
 - Document guarantees **profitable trade of lumber** from Fort Morven Scott area **all the way to Whiterun**
 - Gave her the signed paper immediately
 - Stumbled off to make the same offer to others
@@ -59,13 +59,13 @@ Olvfrost represents:
 The document Olvfrost gave Periwyn:
 - Establishes a **profitable lumber trade route**
 - From Fort Morven Scott area to Whiterun
-- Based on "mutual acquaintance" with Guildmaster Jorvik Hanison
+- Based on "mutual acquaintance" with Guildmaster [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik Hanison]]
 - Gives Periwyn tangible evidence of legitimate business dealings
 - Could be used to secure loans, partnerships, or other agreements
 
 ## Relationships
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]**: New business contact - gave her a signed lumber trade agreement
-- **[[Jorvik Hanison\|Jorvik Hanison]]**: Mutual acquaintance - Olvfrost uses this connection to establish trust
+- **[[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik Hanison]]**: Mutual acquaintance - Olvfrost uses this connection to establish trust
 - **[[Renald Vero\|Renald Vero]]**: Fellow merchant at the same event
 
 ## Strategic Value

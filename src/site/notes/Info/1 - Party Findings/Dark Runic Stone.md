@@ -21,7 +21,7 @@ A **dark stone** approximately the size of a large egg or small fist, etched wit
 **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** discovered the stone during her infiltration of the Jarl's Hall in [[2 -  Sessions/Session 022\|Session 022]].
 
 ### Location
-- **Room**: The Jarl's private bedroom in the Clan Morvan Longhouse
+- **Room**: The Jarl's private bedroom in the [[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]]
 - **Container**: Inside a **lockbox** on an end table
 - **Security**: The room was locked and required lockpicking to access
 

@@ -64,7 +64,7 @@ Critical evidence discovered:
 - Property likely to remain abandoned given supernatural contamination
 
 ## Significance
-[[Info/Characters/999 NPC's/Nilan\|Nilan]]'s House represents a critical breakthrough in understanding the vampire conspiracy affecting [[Info/Locations/Falderstad\|Falderstad]]. The discovery of the basement operation revealed the true scope of supernatural infiltration in the community and provided evidence linking local incidents to [[Majorn\|Majorn]]'s broader conspiracy.
+[[Info/Characters/999 NPC's/Nilan\|Nilan]]'s House represents a critical breakthrough in understanding the vampire conspiracy affecting [[Info/Locations/Falderstad\|Falderstad]]. The discovery of the basement operation revealed the true scope of supernatural infiltration in the community and provided evidence linking local incidents to [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s broader conspiracy.
 
 ## Security Notes
 - House was unlocked during investigation

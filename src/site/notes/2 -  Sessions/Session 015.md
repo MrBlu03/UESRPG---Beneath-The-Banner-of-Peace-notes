@@ -6,7 +6,7 @@
 
 
 ## Summary
-[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] returns after his mysterious absence and reveals his encounter with a massive creature in the woods. The party splits into two groups: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] pursue the [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]] with local hunters, leading them into a cursed grove where they discover the wounded stag and face a territorial supernatural creature. Meanwhile, [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] fulfill [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s favor by intercepting a [[Dunmer\|Dunmer]] caravan involved in [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] smuggling operations. The session reveals deeper connections to the conspiracy threatening the region.
+[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] returns after his mysterious absence and reveals his encounter with a massive creature in the woods. The party splits into two groups: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] pursue the [[Info/Quests/White_Stag_Hunt\|White Stag Hunt]] with local hunters, leading them into a cursed grove where they discover the wounded stag and face a territorial supernatural creature. Meanwhile, [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] fulfill [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s favor by intercepting a [[Info/Characters/999 NPC's/Dunmer_Merchants\|Dunmer]] caravan involved in [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent]] smuggling operations. The session reveals deeper connections to the conspiracy threatening the region.
 
 ## Detailed Recap
 
@@ -16,11 +16,11 @@
 [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] appeared after being absent the previous day. When [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] questioned his whereabouts, he attempted to avoid the conversation but eventually revealed:
 - Had encountered a massive creature in the woods
 - Attempted to draw the creature but produced a very poor sketch that even [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] couldn't decipher
-- Learned about a [[Dunmer\|Dunmer]] merchant caravan passing through the area
+- Learned about a Dunmer merchant caravan passing through the area
 - Found a rune near the creature's location (later identified by [[Info/Characters/999 NPC's/Svala\|Svala]] as Nordic but unreadable)
 
 #### Personal Conflicts
-[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] pointed out that [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] had left her emotional letter in [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s basement. This led to a confrontation where:
+[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] pointed out that [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] had left her emotional letter in [[Info/Locations/Nilan's_House\|Nilan's]] basement. This led to a confrontation where:
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] expressed concern that [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s guilt and regret might impair her performance
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] firmly stated her issues were not their concern
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] ran off for several hours to be alone
@@ -37,7 +37,7 @@ The note from [[Info/Characters/999 NPC's/Stryder\|Stryder]] called in the favor
 
 #### Party Split
 The group divided into two teams for concurrent missions:
-- **Team 1**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] prepared for the [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]
+- **Team 1**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] prepared for the [[Info/Quests/White_Stag_Hunt\|White Stag Hunt]]
 - **Team 2**: [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] went to fulfill [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s favor
 
 ---
@@ -94,14 +94,14 @@ After the stag's death:
 ### Resolution
 - [[Info/Characters/999 NPC's/Svala\|Svala]] promised to have something ready for [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] by dawn
 - She planned to gather people to hunt the monster in the woods
-- The pair headed to [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] tavern for information and food
+- The pair headed to [[Info/Locations/The_Soggy_Beaver\|The Soggy Beaver]] tavern for information and food
 
 ---
 
 ## Stryder's Favor
 
 ### The Meeting Location
-[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] arrived at the abandoned guild house (former tannery):
+[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] arrived at the [[Info/Locations/Abandoned_Guild_House\|Abandoned Guild House]] (former tannery):
 - Building had a collapsed roof due to snow
 - Mostly empty structure
 - Narrow staircase led to the basement
@@ -109,24 +109,24 @@ After the stag's death:
 ### The Basement Meeting
 The basement was damp with shale rock construction and smelled horrible. At the far end:
 - **[[Info/Characters/999 NPC's/Stryder\|Stryder]]** stood over a table with a map of the Rift
-- **[[Info/Characters/999 NPC's/Hooded_Figure\|Hooded_Figure]]**: Masked individual present during negotiations
+- **[[Info/Characters/999 NPC's/Hooded_Figure\|Hooded Figure]]**: Masked individual present during negotiations
 
 #### The Assignment
 [[Info/Characters/999 NPC's/Stryder\|Stryder]] presented a silver coin with a triple ouroboros eating a crown (dragon, eagle, and lion) and explained:
-- [[Dunmer\|Dunmer]] traders were coming through, cutting off road guards
+- [[Info/Characters/999 NPC's/Dunmer_Merchants\|Dunmer]] traders were coming through, cutting off road guards
 - Their task: inspect the caravan for suspicious or useful items
-- Intelligence: 6 guards, lightly armed, one Nord driver, rest [[Dunmer\|Dunmer]]
+- Intelligence: 6 guards, lightly armed, one Nord driver, rest Dunmer
 - [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s men would provide backup from the trees
 - After completion, they would meet back at the same location
 
 ### The Caravan Interception
 South of the city along the river, they found:
 - Well-maintained caravan with two wagons
-- 6 [[Dunmer\|Dunmer]] guards (3 on each side) plus 1 Nord driver
+- 6 Dunmer guards (3 on each side) plus 1 Nord driver
 - 2 guards dressed in darker red, appearing nervous
 
 #### The Inspection
-[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] claimed authority to check for illegal goods on behalf of [[Info/Characters/999 NPC's/Queen_Freidr\|Queen_Freidr]]:
+[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] claimed authority to check for illegal goods on behalf of [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]]:
 
 **First Wagon**: Cloth, mead, fish - nothing suspicious
 **Second Wagon**: Spices, herbs - appeared legitimate on surface
@@ -144,7 +144,7 @@ South of the city along the river, they found:
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] tackled him, disarmed him, and broke his neck when he yelled in an unknown language
 - The cooperative guard produced illegal goods and a ledger
 - Ledger revealed multiple shipments, with entries stating "payment, serpent mark confirmed"
-- [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] emblem appeared on the last page
+- [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent]] emblem appeared on the last page
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] planted additional evidence to justify executing all merchants
 
 ### Return and Sentencing
@@ -155,29 +155,29 @@ At the city gates:
 
 ### Final Meeting with Stryder
 Returning with both carts and goods:
-- **[[Info/Characters/999 NPC's/Stryder\|Stryder]]** and **[[Info/Characters/999 NPC's/Hooded_Figure\|Hooded_Figure]]** were present
-- [[Info/Characters/999 NPC's/Hooded_Figure\|Hooded_Figure]] told [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] he was "no one of consequence" (voice similar to figure from her dreams)
-- [[Info/Characters/999 NPC's/Stryder\|Stryder]] and [[Info/Characters/999 NPC's/Helga\|Helga]] had an understanding about goods with certain marks (House Hlaalu and ouroboros symbols)
-- [[Info/Characters/999 NPC's/Hooded_Figure\|Hooded_Figure]] claimed connections in high courts
+- **[[Info/Characters/999 NPC's/Stryder\|Stryder]]** and **[[Info/Characters/999 NPC's/Hooded_Figure\|Hooded Figure]]** were present
+- [[Info/Characters/999 NPC's/Hooded_Figure\|Hooded Figure]] told [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] he was "no one of consequence" (voice similar to figure from her dreams)
+- [[Info/Characters/999 NPC's/Stryder\|Stryder]] and [[Info/Characters/999 NPC's/Helga\|Helga]] had an understanding about goods with certain marks ([[Info/Organizations/House_Hlaalu\|House Hlaalu]] and ouroboros symbols)
+- [[Info/Characters/999 NPC's/Hooded_Figure\|Hooded Figure]] claimed connections in high courts
 
 ---
 
 ## Evening Reunion at The Soggy Beaver
 
-Both teams met at [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] tavern to compare notes and share their discoveries. The bartender mentioned meeting [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] a couple days ago when he was "looking for a guy."
+Both teams met at [[Info/Locations/The_Soggy_Beaver\|The Soggy Beaver]] tavern to compare notes and share their discoveries. The bartender mentioned meeting [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] a couple days ago when he was "looking for a guy."
 
 ## NPCs Met
 - **[[Info/Characters/999 NPC's/Stryder\|Stryder]]**: Collected on [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s debt, coordinated caravan interception with connections to smuggling networks
-- **[[Info/Characters/999 NPC's/Hooded_Figure\|Hooded_Figure]]**: Mysterious individual with court connections, possibly connected to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dreams
+- **[[Info/Characters/999 NPC's/Hooded_Figure\|Hooded Figure]]**: Mysterious individual with court connections, possibly connected to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dreams
 - **[[Info/Characters/999 NPC's/Svala\|Svala]]**: Experienced hunter, knowledgeable about local lore and runes, organizing monster hunting party
 - **[[Info/Characters/999 NPC's/Hoki\|Hoki]]**: Young impulsive hunter, traumatized by cursed grove experience
 - **[[Info/Characters/999 NPC's/Brovin\|Brovin]]**: Hunting dog who sensed danger and refused to enter cursed area
-- **[[Info/Characters/999 NPC's/Dunmer_Merchants\|Dunmer_Merchants]]**: Caravan smugglers connected to [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] conspiracy, mostly executed
-- **[[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]**: Proprietor of [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]], provided information about recent visitors
+- **[[Info/Characters/999 NPC's/Dunmer_Merchants\|Dunmer Merchants]]**: Caravan smugglers connected to [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent]] conspiracy, mostly executed
+- **[[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]**: Proprietor of [[Info/Locations/The_Soggy_Beaver\|The Soggy Beaver]], provided information about recent visitors
 
 ## Items Acquired
 - **Moonsugar**: Illegal contraband recovered from caravan
-- **Smuggling Ledger**: Documents revealing [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] operations and payment records
+- **Smuggling Ledger**: Documents revealing [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent]] operations and payment records
 - **Silver Coin**: Triple ouroboros symbol (dragon, eagle, lion eating crown)
 - **Forged Documents**: Evidence of merchant fraud and conspiracy
 - **Red Gem**: Found with silks in first cart
@@ -185,13 +185,13 @@ Both teams met at [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] tavern t
 
 ## Quests
 ### New
-- **[[Info/Quests/Hunt_Forest_Creature\|Hunt_Forest_Creature]]**: [[Info/Characters/999 NPC's/Svala\|Svala]] organizing expedition to hunt the territorial creature in the cursed grove
+- **[[Info/Quests/Hunt_Forest_Creature\|Hunt Forest Creature]]**: [[Info/Characters/999 NPC's/Svala\|Svala]] organizing expedition to hunt the territorial creature in the cursed grove
 ### In Progress
-- Investigation into [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] conspiracy deepens with caravan evidence
+- Investigation into [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent]] conspiracy deepens with caravan evidence
 - Territorial creature threat continues in northern forests
 ### Completed
-- **[[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]**: Located and witnessed death of the white stag, though hunt ended in tragedy
-- **[[Info/Quests/Stryder's_Favor\|Stryder's_Favor]]**: Successfully intercepted caravan and gathered intelligence on smuggling operations
+- **[[Info/Quests/White_Stag_Hunt\|White Stag Hunt]]**: Located and witnessed death of the white stag, though hunt ended in tragedy
+- **[[Stryders_Favor\|Stryder's Favor]]**: Successfully intercepted caravan and gathered intelligence on smuggling operations
 
 ## Player Notes
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] continues to struggle with emotional burden and isolation from party members
@@ -199,12 +199,12 @@ Both teams met at [[Info/Locations/The_Soggy_Beaver\|The_Soggy_Beaver]] tavern t
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] demonstrates growing leadership and concern for party dynamics
 - [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s observational skills prove crucial in both investigations
 - Party's ability to split and handle concurrent missions shows tactical maturity
-- [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] conspiracy shows sophisticated smuggling and corruption networks
+- [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent]] conspiracy shows sophisticated smuggling and corruption networks
 
 ## Next Steps
-- Decide fate of captured [[Dunmer\|Dunmer]] merchants in dungeons
+- Decide fate of captured [[Info/Characters/999 NPC's/Dunmer_Merchants\|Dunmer]] merchants in dungeons
 - Join [[Info/Characters/999 NPC's/Svala\|Svala]]'s expedition to hunt the forest creature
 - Investigate the Nordic rune and its connection to the massive creature [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] encountered
-- Follow up on [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] conspiracy leads from recovered ledger
+- Follow up on [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent]] conspiracy leads from recovered ledger
 - Address ongoing tensions between [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and other party members
-- Explore connections between [[Info/Characters/999 NPC's/Hooded_Figure\|Hooded_Figure]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dream encounters
+- Explore connections between [[Info/Characters/999 NPC's/Hooded_Figure\|Hooded Figure]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s dream encounters

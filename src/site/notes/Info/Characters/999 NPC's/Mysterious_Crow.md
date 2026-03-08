@@ -51,8 +51,28 @@ The Mysterious Crow represents growing supernatural interest in the party's acti
 - Possibly connected to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s growing supernatural abilities
 - Could be advance scout for larger supernatural intervention
 
+## Key Events (continued)
+
+### [[2 -  Sessions/Session 020\|Session 020]] - The Vestige Revealed
+[[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] was identified as the founder of the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] ("The Crowfather"). The crows serve as his messengers and agents; they guided the party out of [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] after the [[Info/Characters/999 NPC's/Varren\|Varren]] confrontation.
+
+### [[2 -  Sessions/Session 023\|Session 023]] - Note Delivered to Kirya
+A crow appeared at the window of [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]] in [[Kjalgrad\|Kjalgrad]]:
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** offered the crow an apple
+- The crow delivered a note in exchange
+- The note read: *"Apple note from Master. Thank you."*
+- "Master" refers to [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] ("The Crowfather")
+- The note is a receipt/acknowledgment — characteristic Blackfeather Court whimsy
+- See [[Info/1 - Party Findings/Blackfeather_Court_Note\|Blackfeather_Court_Note]] for full analysis
+
 ## Notes
-- Has been following the party for some time before formal communication
-- Demonstrates patience and purposeful observation
+- The crow that visited [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] in Session 023 confirmed the Blackfeather Court has located the party at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]
+- [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] is monitoring the party's activities and maintaining contact through his crows
+- The crow came to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] specifically in Session 023 — she appears to be the current point of contact
+- Has been following the party for some time; connection to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] was established earliest
 - Knowledge of the scroll's significance suggests foresight or divine connection
-- May become more important as [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s supernatural connections develop
+
+## Session References
+- **[[2 -  Sessions/Session 014\|Session 014]]**: Communicated with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]; revealed true name cannot be spoken in mortal tongues
+- **[[2 -  Sessions/Session 020\|Session 020]]**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] revealed as founder; crows guided party out of sewers
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Crow delivered note to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]; exchanged for an apple

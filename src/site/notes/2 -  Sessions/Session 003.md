@@ -37,7 +37,7 @@ The party ventured out to find missing alchemist [[Info/Characters/999 NPC's/Ala
 - Visited a windmill surrounded by fields
 - Learned [[Info/Characters/999 NPC's/Alara\|Alara]] bought meat from a farmer a few days ago
 - Information about Fjelhorst mountain having ruins from an old war
-- Gathered information from Eydis (hunter) about [[Info/Characters/999 NPC's/Alara\|Alara]]'s last known location
+- Gathered information from [[Info/Characters/999 NPC's/Eydis\|Eydis]] (hunter) about [[Info/Characters/999 NPC's/Alara\|Alara]]'s last known location
 - Learned about potential dangers: sabercats, wolves, ruins with undead, and rare frost trolls
 - [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] tracked a trail finding:
   - Torn herb basket near a tree with spriggan claw marks
@@ -56,9 +56,9 @@ The party ventured out to find missing alchemist [[Info/Characters/999 NPC's/Ala
 - Received a dark blue ribbon to show to her son as proof
 - [[Info/Characters/999 NPC's/Alara\|Alara]] mentioned:
   - An old Colovian friend
-  - Shield emblem reminiscent of [[Faldarstad\|Faldarstad]] in the North
+  - Shield emblem reminiscent of [[Info/Locations/Falderstad\|Faldarstad]] in the North
   - Three Banners War (580-589, started about 20 years ago)
-  - [[Info/Organizations/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]] (Lord of Bargains) in a cave
+  - [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Cult of Clavicus Vile]] (Lord of Bargains) in a cave
   - Information about Kaalgrontiid, a dragon leader who rebelled against Alduin
 
 ### Return to [[Info/Locations/Riften\|Riften]]
@@ -67,7 +67,7 @@ The party ventured out to find missing alchemist [[Info/Characters/999 NPC's/Ala
 - [[Info/Characters/999 NPC's/Hafjorg\|Hafjorg]] had apparently been attacked by a spriggan
 - Received messenger from mortician [[Info/Characters/999 NPC's/Sigrid\|Sigrid]] about [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]'s body
 - Heard town crier in central market announce [[Info/Locations/Greenwall\|Greenwall]]'s mysterious blizzard situation
-  - Travelers going north advised to take the road through [[Faldarstad\|Faldarstad]]
+  - Travelers going north advised to take the road through [[Info/Locations/Falderstad\|Faldarstad]]
 
 ### Hall of the Dead
 - [[Info/Characters/999 NPC's/Sigrid\|Sigrid]] revealed disturbing findings about [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]'s body:
@@ -103,12 +103,12 @@ The party ventured out to find missing alchemist [[Info/Characters/999 NPC's/Ala
 ## Quests
 
 ### New
-- **[[Info/Quests/ [[Greenwall_Investigation\|Info/Quests/ [[Greenwall_Investigation]] |Greenwall Investigation]]:** Mysterious magical blizzard surrounding [[Info/Locations/Greenwall\|Greenwall]], possibly vampire-related
+- **[[Info/Quests/Mages_Guild_Greenwall_Coordination\|Greenwall Investigation]]:** Mysterious magical blizzard surrounding [[Info/Locations/Greenwall\|Greenwall]], possibly vampire-related
 - **[[Info/Quests/Poisoned_Dunmer_Followup\|Poisoned Dunmer Follow-up]]:** Investigate the complex poison used on [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]
 
 ### In Progress
-- **[[Vampire_Hunter_Search\|Vampire Hunter Search]] ([[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s personal quest):** Track down [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], now known to be stranded in [[Info/Locations/Greenwall\|Greenwall]]
-- **[[Info/Quests/Coiled_Serpent_Investigation\|Coiled Serpent Investigation]]:** Origin of logo found at [[Snowshot_Dam\|Snowshot Dam]] (from Session 2)
+- **[[Info/Quests/Periwyns_Vampire_Hunter_Search\|Vampire Hunter Search]] ([[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s personal quest):** Track down [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]], now known to be stranded in [[Info/Locations/Greenwall\|Greenwall]]
+- **[[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent Investigation]]:** Origin of logo found at [[Info/Locations/Snow-Shod_Dam\|Snowshot Dam]] (from Session 2)
 - **[[Info/Quests/Burnt_Paper_Reconstruction\|Burnt Paper Reconstruction]]:** Potential magical restoration of evidence (from Session 2)
 
 ### Completed
@@ -132,18 +132,18 @@ The party ventured out to find missing alchemist [[Info/Characters/999 NPC's/Ala
 - Consider investigating the [[Info/Locations/Greenwall\|Greenwall]] situation to find [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
 - Follow up on the complex poison used on [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]]
 - Potentially consult with [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] or [[Info/Locations/Winterhold\|Winterhold]] mages about the magical elements
-- Investigate the [[Info/Organizations/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]] in the cave mentioned by [[Info/Characters/999 NPC's/Alara\|Alara]]
+- Investigate the [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Cult of Clavicus Vile]] in the cave mentioned by [[Info/Characters/999 NPC's/Alara\|Alara]]
 - Learn more about the [[Info/Locations/Shadow Stone\|Shadow Stone]] and its powers
 
 ## Additional Context
 - Previous investigations from Sessions 1-2:
-  - [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]] (Dunmer) was found poisoned near [[Snowshot_Dam\|Snowshot Dam]]
-  - Mysterious [[Info/Lore/Coiled_Serpent\|coiled serpent]] logo found at his campsite
+  - [[Info/Characters/999 NPC's/Adrith_Velan\|Adrith Velan]] (Dunmer) was found poisoned near [[Info/Locations/Snow-Shod_Dam\|Snowshot Dam]]
+  - Mysterious [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] logo found at his campsite
   - Burnt paper scraps that might be recoverable with magic
-  - Local tensions between [[Snowshot_Estate\|Snowshod Estate]] farmers and [[Info/Locations/Trevas_Bend\|Treva's Bend]] fishermen
+  - Local tensions between [[Info/Locations/Snow-Shod_Estate\|Snowshod Estate]] farmers and [[Info/Locations/Trevas_Bend\|Treva's Bend]] fishermen
 - Relevant locations:
   - [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]: [[Info/Characters/999 NPC's/Alara\|Alara]]'s alchemy shop in [[Info/Locations/Riften\|Riften]]
   - [[Info/Locations/Greenwall\|Greenwall]]: Town now surrounded by magical ice wall
   - [[Info/Locations/Shors_Bastion\|Shor's Bastion]]: Original destination of vampire hunter [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
-  - [[Faldarstad\|Faldarstad]]: Northern town, alternate route for travelers
+  - [[Info/Locations/Falderstad\|Faldarstad]]: Northern town, alternate route for travelers
   - [[Info/Locations/Shadow Stone\|Shadow Stone]]: Ancient standing stone with special powers

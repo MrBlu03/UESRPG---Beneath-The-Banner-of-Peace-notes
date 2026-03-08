@@ -5,13 +5,13 @@
 # Session 017
 
 ## Summary
-The party departed [[Info/Locations/Falderstad\|Falderstad]] at dawn to hunt **Anorak, the Ragged Lord**, a Daedric aspect of [[Hircine\|Hircine]]. After discovering corrupted totems bearing their own faces, they reached a transformed shrine where [[Info/Characters/999 NPC's/Torik\|Torik]] performed the summoning ritual.
+The party departed [[Info/Locations/Falderstad\|Falderstad]] at dawn to hunt **Anorak, the Ragged Lord**, a Daedric aspect of Hircine. After discovering corrupted totems bearing their own faces, they reached a transformed shrine where [[Info/Characters/999 NPC's/Torik\|Torik]] performed the summoning ritual.
 
 The battle progressed through three phases: **Seven wolves** attacked first—swiftly eliminated by coordinated party efforts. Then the **Ragged Lord manifested**: an 8-9 meter tall horror of stitched hides and antlers. He grievously wounded [[Info/Characters/999 NPC's/Alma\|Alma]] but her fire-varnished counterattack permanently burned him. When he teleported to attack [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]], [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] intercepted, taking 10 damage but enabling devastating counterstrikes that triggered the 50% threshold—the hides burned away, revealing skeletal horror beneath.
 
 Trapped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Unrelenting talent and slowed by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s arrows, the creature fought desperately. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] parried his whip attack, severed his right arm (17 damage), and nearly severed his left. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] delivered the **killing blow**—splitting her own embedded arrow to shatter his kneecap. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] drove her silver blade through his heart as he whispered *"Hunter..."* and burned to ash.
 
-[[Kyne\|Kyne]]'s peace returned to the forest. [[Info/Locations/Falderstad\|Falderstad]] erupted in celebration. Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]] paid **500 gold each** and granted permanent use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house. The evening ended with aurora-lit festivities, character bonding, and a mysterious leaf falling at their door.
+[[Kyne\|Kyne]]'s peace returned to the forest. [[Info/Locations/Falderstad\|Falderstad]] erupted in celebration. Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]] paid **500 gold each** and granted permanent use of [[Info/Locations/Nilan's_House\|Nilan's house]]. The evening ended with aurora-lit festivities, character bonding, and a mysterious leaf falling at their door.
 
 ## Detailed Recap
 
@@ -52,7 +52,7 @@ Trapped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Unrelen
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] applied his own woad in privacy
 
 **Torik's Briefing:**
-- Confirmed through research that the creature is the Ragged Lord, aspect of [[Hircine\|Hircine]]
+- Confirmed through research that the creature is the Ragged Lord, aspect of Hircine
 - Explained he has found the creature's "Nymic" - a Daedric name/DNA endemic to them
 - Plan: Use the nymic at the shrine to summon the Ragged Lord
 - Warning: The Ragged Lord is a mad hunter who won't face them in open combat
@@ -111,7 +111,7 @@ Trapped by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s Unrelen
 - Fear beginning to set in among the group
 
 **Psychological Effects:**
-- [[Info/Characters/999 NPC's/Runa\|Runa]] muttering prayers to [[Kyne\|Kyne]]
+- [[Info/Characters/999 NPC's/Runa\|Runa]] muttering prayers to Kyne
 - [[Info/Characters/999 NPC's/Ingrin\|Ingrin]] showing heavy breathing and scared reactions (reminded of Session 016 panic)
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] walked in lockstep with [[Info/Characters/999 NPC's/Ingrin\|Ingrin]] to calm her down
 - [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]: "Not about what's to come. One step at a time."
@@ -299,9 +299,9 @@ By the time they saw the city's watchtowers, the sun was setting, amber and red 
 
 Folk emerged from homes and stalls, following the party through the streets in a growing wave. At the market steps stood young [[Info/Characters/999 NPC's/Hoki\|Hoki]] clutching a wooden stag carving, eyes wide: *"You did it, didn't you? I felt it. The dogs stopped howling!"*
 
-**Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]] of [[Info/Locations/Falderstad\|Falderstad]]** (recovered from rock joint) approached with [[Helga Cairn-Shield\|Helga Cairn-Shield]], his huscarl:
+**Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]] of [[Info/Locations/Falderstad\|Falderstad]]** (recovered from rock joint) approached with [[Info/Characters/999 NPC's/Helga\|Helga]] Cairn-Shield, his huscarl:
 - Paid **500 gold each** from his personal funds (bounty exceeded expectations)
-- Granted the party **free use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house** whenever they return to [[Info/Locations/Falderstad\|Falderstad]]
+- Granted the party **free use of [[Info/Locations/Nilan's_House\|Nilan's house]]** whenever they return to [[Info/Locations/Falderstad\|Falderstad]]
 - Thanked them for bringing [[Info/Characters/999 NPC's/Alma\|Alma]] and [[Info/Characters/999 NPC's/Runa\|Runa]] back alive
 
 **Healer** treated [[Info/Characters/999 NPC's/Alma\|Alma]]'s grievous wound and [[Info/Characters/999 NPC's/Runa\|Runa]]'s wolf bite (rock joint confirmed but treatable).
@@ -353,8 +353,8 @@ As the party tucked into bed at the house, one last cry of a hawk echoed. The ca
 - **[[Info/Characters/999 NPC's/Runa\|Runa]]**: Wounded by wolf (contracted rock joint), narrowly saved by [[Info/Characters/999 NPC's/Ingrin\|Ingrin]], recovered with treatment
 - **[[Info/Characters/999 NPC's/Alma\|Alma]]**: Suffered grievous wound to chest from Ragged Lord's claws (12 damage), drank healing potion, landed attack of opportunity that permanently burned the creature, survived with medical treatment
 - **[[Info/Characters/999 NPC's/Ingrin\|Ingrin]]**: Decapitated wolf attacking [[Info/Characters/999 NPC's/Runa\|Runa]], proved her combat prowess
-- **Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]] of [[Info/Locations/Falderstad\|Falderstad]]**: Recovered from rock joint, paid 500 gold each from personal funds, granted free use of [[Info/Characters/999 NPC's/Nilan\|Nilan]]'s house
-- **[[Helga Cairn-Shield\|Helga Cairn-Shield]]**: Huscarl to Jarl Gorm, thanked party for bringing sister [[Info/Characters/999 NPC's/Svala\|Svala]] back alive
+- **Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]] of [[Info/Locations/Falderstad\|Falderstad]]**: Recovered from rock joint, paid 500 gold each from personal funds, granted free use of [[Info/Locations/Nilan's_House\|Nilan's house]]
+- **Helga Cairn-Shield**: Huscarl to Jarl Gorm, thanked party for bringing sister [[Info/Characters/999 NPC's/Svala\|Svala]] back alive
 - **[[Info/Characters/999 NPC's/Hoki\|Hoki]]**: Young boy who carved wooden stag, witnessed sun's return, showed joy at party's success
 - **[[Info/Characters/999 NPC's/Stryder\|Stryder]]**: Appeared to congratulate party, cryptic as always, departed toward old tannery
 
@@ -372,11 +372,11 @@ As the party tucked into bed at the house, one last cry of a hawk echoed. The ca
 ## Quests
 
 ### Completed
-- **[[Info/Quests/Hunt_Forest_Creature\|Hunt_Forest_Creature]]**: SUCCESSFULLY COMPLETED
+- **[[Info/Quests/Hunt_Forest_Creature\|Hunt Forest Creature]]**: SUCCESSFULLY COMPLETED
   - Ragged Lord (Anorak) slain through combined party effort
   - All party members survived
   - Two hunters wounded but recovered ([[Info/Characters/999 NPC's/Alma\|Alma]], [[Info/Characters/999 NPC's/Runa\|Runa]])
-  - Forest purified, [[Kyne\|Kyne]]'s peace restored
+  - Forest purified, Kyne's peace restored
   - Major XP reward earned (defeated opponent far above party level)
 
 ## Player Notes
@@ -456,11 +456,11 @@ As the party tucked into bed at the house, one last cry of a hawk echoed. The ca
 
 ## Notes
 - **First Daedric Prince aspect defeated by party**
-- Anorak was aspect of [[Hircine\|Hircine]], Daedric Prince of the Hunt
+- Anorak was aspect of Hircine, Daedric Prince of the Hunt
 - Creature's final word "Hunter..." suggests acknowledgment/respect
 - Hunter's token may have belonged to Anorak before corruption
-- [[Info/Characters/999 NPC's/Torik\|Torik]] will document encounter for Mages Guild/College of Winterhold
-- Forest transformation reversed—[[Kyne\|Kyne]]'s domain restored
+- [[Info/Characters/999 NPC's/Torik\|Torik]] will document encounter for [[Info/Organizations/Mages_Guild\|Mages Guild]]/College of [[Info/Locations/Winterhold\|Winterhold]]
+- Forest transformation reversed—Kyne's domain restored
 - Totems vanished upon death, suggesting magical nature
 - Oppressive atmosphere completely lifted from region
 - Community celebration shows widespread relief and gratitude
@@ -468,4 +468,4 @@ As the party tucked into bed at the house, one last cry of a hawk echoed. The ca
 - Party earned significant XP for defeating over-leveled boss
 - Jarl [[Info/Characters/999 NPC's/Gorm\|Gorm]]'s personal payment (500g each) exceptional generosity
 - Free house establishes [[Info/Locations/Falderstad\|Falderstad]] as potential home base
-- [[Helga Cairn-Shield\|Helga Cairn-Shield]]'s gratitude for [[Info/Characters/999 NPC's/Svala\|Svala]]'s safety noted
+- Helga Cairn-Shield's gratitude for [[Info/Characters/999 NPC's/Svala\|Svala]]'s safety noted

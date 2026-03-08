@@ -33,6 +33,7 @@
 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | 🟢 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | Merchant            | 🟢 |
 | [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]                       | 🟢 | [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]                       | Legendary           | 🟢 |
 | [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]           | 🟢 | [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]           | Supernatural        | 🟢 |
+| [[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]] | 🟢 | [[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]] | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                 | 🟢 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                 | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]                                 | 🟢 | [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]                                 | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | 🟢 | [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | Supernatural        | 🟢 |
@@ -73,6 +74,7 @@
 | [[Info/Characters/999 NPC's/Brann\|Brann]]                                   | 🟢 | [[Info/Characters/999 NPC's/Brann\|Brann]]                                   | Other               | 🟢 |
 | [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Ingvar_Snow-shod]]             | 🟢 | [[Info/Characters/999 NPC's/Ingvar_Snow-shod\|Ingvar_Snow-shod]]             | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Mysterious_Crow\|Mysterious_Crow]]               | 🟢 | [[Info/Characters/999 NPC's/Mysterious_Crow\|Mysterious_Crow]]               | Supernatural Entity | 🟢 |
+| [[Info/Characters/999 NPC's/Warehouse_Contact\|Warehouse_Contact]]           | 🟢 | [[Info/Characters/999 NPC's/Warehouse_Contact\|Warehouse_Contact]]           | Informant           | 🟢 |
 | [[Info/Characters/999 NPC's/Hooded_Figure\|Hooded_Figure]]                   | 🟢 | [[Info/Characters/999 NPC's/Hooded_Figure\|Hooded_Figure]]                   | Mysterious Contact  | 🟢 |
 
 { .block-language-dataview}

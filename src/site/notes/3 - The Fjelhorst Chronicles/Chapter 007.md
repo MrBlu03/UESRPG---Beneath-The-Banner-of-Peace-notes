@@ -4,27 +4,27 @@
 
 ## Chapter 7: The Return
 **24th of Heartfire, 2E 600**  
-The party made final preparations to leave Fort Greenwall. Before they departed, Vigrod approached them with a grim warning. “You walk among dangerous powers now,” he said, casting a glance toward the chamber where the orb lay. “Choose your allies with care.”
+The party made final preparations to leave Fort [[Info/Locations/Greenwall\|Greenwall]]. Before they departed, [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod Wraithbane]] approached them with a grim warning. "You walk among dangerous powers now," he said, casting a glance toward the chamber where the orb lay. "Choose your allies with care."
 
-Durov hoisted the severed vampire's head into a cloth sack—grisly proof of their victory.
+[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] hoisted the severed vampire's head into a cloth sack—grisly proof of their victory.
 
-Periwyn, seeking answers from the orb, released a bolt of lightning into its core. In a flash of light, she was consumed by a vision: pale moonlight filtering through a snowy glade, and within it, unnatural shapes—undead werewolves. When the others pressed her, she could not explain what it meant, only that it felt deeply wrong.
+[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]], seeking answers from the orb, released a bolt of lightning into its core. In a flash of light, she was consumed by a vision: pale moonlight filtering through a snowy glade, and within it, unnatural shapes—undead werewolves. When the others pressed her, she could not explain what it meant, only that it felt deeply wrong.
 
-While the wounded man recovered under Hillevi's care, Gjellir stepped forward and went pale. "I know him. That’s Wuunferth. Wuunferth the Hunter."
+While the wounded man recovered under [[Info/Characters/999 NPC's/Hillevi\|Hillevi]]'s care, [[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] stepped forward and went pale. "I know him. That's [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]. Wuunferth the Hunter."
 
-Hillevi admitted she had done all she could, but there was one last hope: a place of ancient power deep in the Hirsing Range, known as Mistwatch. She would take him there in search of healing from the Old Gods.
+Hillevi admitted she had done all she could, but there was one last hope: a place of ancient power deep in the Hirsing Range, known as [[Info/Locations/Mistwatch\|Mistwatch]]. She would take him there in search of healing from the Old Gods.
 
-Before they left, a hawk swept through the rafters and landed on Vigrod’s shoulder. He read the note it carried, then turned to the party. Reinforcements would arrive by the next day. The Companions would remain behind to secure Greenwall and bury the dead. The orb, he said, was too dangerous to leave unguarded.
+Before they left, a hawk swept through the rafters and landed on Vigrod's shoulder. He read the note it carried, then turned to the party. Reinforcements would arrive by the next day. The [[Info/Organizations/Companions\|Companions]] would remain behind to secure Greenwall and bury the dead. The orb, he said, was too dangerous to leave unguarded.
 
-He instructed the party to return to Riften and report directly to Queen Freidr. And once the snows melted, they were to meet Hillevi at Mistwatch.
+He instructed the party to return to [[Info/Locations/Riften\|Riften]] and report directly to [[Info/Characters/999 NPC's/Queen_Freidr\|Queen Freidr]]. And once the snows melted, they were to meet Hillevi at Mistwatch.
 
-As they passed the war camp, they found the still-smoking pyre of Olen and Beitild. Kirya placed fresh flowers atop the ash. Periwyn quietly drew a periwinkle flower in her journal, then tore out the page and cast it into the flame.
+As they passed the war camp, they found the still-smoking pyre of Olen and Beitild. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] placed fresh flowers atop the ash. Periwyn quietly drew a periwinkle flower in her journal, then tore out the page and cast it into the flame.
 
-Hjar met them at the edge of the woods, giving them rations and a simple farewell: “Tell my brother I still owe him a bottle of mead.”
+[[Info/Characters/999 NPC's/Hjar\|Hjar]] met them at the edge of the woods, giving them rations and a simple farewell: "Tell my brother I still owe him a bottle of mead."
 
-The first day on the road was difficult. Fatigue weighed on them, and Periwyn stumbled, twisting her ankle. Onasha struggled too, her shoulders slumping beneath her pack.
+The first day on the road was difficult. Fatigue weighed on them, and Periwyn stumbled, twisting her ankle. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] struggled too, her shoulders slumping beneath her pack.
 
-That evening, the two of them slipped away to try their forbidden spell: an attempt to resurrect the Bone Hawk. They didn’t know Kirya had followed, silent in the shadows.
+That evening, the two of them slipped away to try their forbidden spell: an attempt to resurrect the Bone Hawk. They didn't know Kirya had followed, silent in the shadows.
 
 The ritual failed.
 
@@ -44,14 +44,14 @@ That evening, a squirrel snuck into camp, rifling through their packs. Durov sta
 **26th of Heartfire**  
 On the road, they crossed paths with a traveling Khajiit merchant bound for Greenwall. Kirya inquired after alchemy reagents, but he had none.
 
-Noticing Periwyn’s demeanor, the Khajiit offered her a vial—a potion he claimed could produce lucid dreams. She turned it over in her hand but ultimately declined, heeding Onasha’s wary look.
+Noticing Periwyn's demeanor, the Khajiit offered her a vial—a potion he claimed could produce lucid dreams. She turned it over in her hand but ultimately declined, heeding Onasha's wary look.
 
 Rain fell by evening, soaking their cloaks. Onasha stood with her face to the sky, drinking in the moisture. Kirya, ever resourceful, collected more berries.
 
 **27th of Heartfire**  
-Periwyn skipped breakfast again, but Onasha insisted she eat. “You won’t help anyone by starving yourself.”
+Periwyn skipped breakfast again, but Onasha insisted she eat. "You won't help anyone by starving yourself."
 
-Later, Onasha confronted Kirya about the growing tension between them. Kirya finally spoke: she felt betrayed, kept in the dark. Her younger sister had vanished years ago. She feared loss again. This admission shocked Onasha—she had never considered that someone might actually care for her. In a rare moment of vulnerability, she subtly hinted that she, too, cared in her own way, though it was clear she wouldn’t admit it, not even to herself. Not yet.
+Later, Onasha confronted Kirya about the growing tension between them. Kirya finally spoke: she felt betrayed, kept in the dark. Her younger sister had vanished years ago. She feared loss again. This admission shocked Onasha—she had never considered that someone might actually care for her. In a rare moment of vulnerability, she subtly hinted that she, too, cared in her own way, though it was clear she wouldn't admit it, not even to herself. Not yet.
 
 That night, a fox appeared at the edge of their camp. Onasha offered it fish, and it spoke.
 
@@ -61,26 +61,26 @@ She asked it about the scroll—the strange one given to her by one of the talki
 
 Hoping for more, Onasha tried to tear a piece from the scroll—but the parchment would not yield. Instead, she pressed a corner of it into the flames. Immediately, the fire turned black, roaring high into the air like a pillar of shadow. The others leapt up, weapons drawn, but the flames vanished as quickly as they had appeared. Onasha yanked the scroll back, unharmed. Still, from that moment on, a heavy sense of being watched lingered over them.
 
-That night, Periwyn dreamed again. Malacath returned, this time seated on a throne of skulls. He struck the ground with his maul, and the stone turned to blood. She awoke in a panic.
+That night, Periwyn dreamed again. [[Info/Lore/Malacath\|Malacath]] returned, this time seated on a throne of skulls. He struck the ground with his maul, and the stone turned to blood. She awoke in a panic.
 
 **28th of Heartfire**  
 By mid-morning, the spires of Riften came into view.
 
-Their first stop was Alara’s shop. Onasha broke the news gently: none of Alara’s family had survived. She shut the shop, thanked them for their effort, and went home to grieve.
+Their first stop was [[Info/Characters/999 NPC's/Alara\|Alara]]'s shop. Onasha broke the news gently: none of Alara's family had survived. She shut the shop, thanked them for their effort, and went home to grieve.
 
 At the market, Durov and Kirya placed bets on another brawl. Both walked away with a few extra coins.
 
-At the keep, they were intercepted by guards, but upon learning who they were, rushed through the halls to Queen Freidr’s war room.
+At the keep, they were intercepted by guards, but upon learning who they were, rushed through the halls to Queen Freidr's war room.
 
 Kirya delivered their report. Vampires had taken Greenwall. They were destroyed, but at great cost.
 
-Archmagus Mortgren took the vampire's head from Durov. After inspection, he confirmed it belonged to an ancient, rogue member of Clan Volkihar. Not pureblooded, but powerful. He took the head for further study.
+[[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]] took the vampire's head from Durov. After inspection, he confirmed it belonged to an ancient, rogue member of [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]]. Not pureblooded, but powerful. He took the head for further study.
 
-Periwyn spoke of her vision—undead werewolves and the Coldharbour-touched orb. Queen Freidr’s expression darkened. She recalled the Grey Host, a sinister alliance of vampires and werebeasts that had once terrorized Tamriel. Over a decade ago, they had experimented with merging their curses, attempting to create hybrid monstrosities. "They were believed destroyed," she said gravely, "but if any survived... the realm must be warned."
+Periwyn spoke of her vision—undead werewolves and the Coldharbour-touched orb. Queen Freidr's expression darkened. She recalled the [[Info/Lore/Grey_Host\|Grey Host]], a sinister alliance of vampires and werebeasts that had once terrorized Tamriel. Over a decade ago, they had experimented with merging their curses, attempting to create hybrid monstrosities. "They were believed destroyed," she said gravely, "but if any survived... the realm must be warned."
 
-Mortgren would travel to Greenwall to study the orb. Freidr would alert the High King and the Mages Guild. She offered them lodging at the keep.
+Mortgren would travel to Greenwall to study the orb. Freidr would alert the High King and the [[Info/Organizations/Mages_Guild\|Mages Guild]]. She offered them lodging at the keep.
 
-The party first visited Alara’s shop, hoping to invite her and Hafjorg to join them. Hafjorg, his voice quiet but firm, declined. “I want to mourn them in peace,” he said, and gently closed the door behind them.
+The party first visited [[Info/Characters/999 NPC's/Hafjorg\|Hafjorg]]'s shop, hoping to invite him and [[Info/Characters/999 NPC's/Alara\|Alara]] to join them. Hafjorg, his voice quiet but firm, declined. "I want to mourn them in peace," he said, and gently closed the door behind them.
 
 When they reached the Amber Keg, music and laughter greeted them. A celebration was already underway—some marked the changing season, others simply toasted to being alive. The group joined in, raising mugs for Olen, Beitild, and all those lost in Greenwall. For a few hours, grief gave way to memory, and memory to song.
 

@@ -5,7 +5,7 @@
 # Session 019 - Downtime, Training & The Road to Kjalgrad
 
 ## Summary
-Following the execution witnessed in Session 018, the party spent additional downtime in [[Info/Locations/Falderstad\|Falderstad]] before departing for [[Kjalgrad\|Kjalgrad]]. **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** mysteriously woke near [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s abandoned warehouse and wandered lost through the city before falling asleep by the stables. **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** searched for him across town, eventually finding him and engaging in a stubborn argument. **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** spent the night submerged in the river and drifted downstream. The party discussed travel plans and routes toward Riften. Over the following days, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] practiced her necromancy lessons, [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] reconnected with an old egg-brother at the market, and the group prepared for departure. The five-day journey to [[Kjalgrad\|Kjalgrad]] tested the party with harsh cold—[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] both suffered fatigue from exposure. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] hunted successfully, bringing down two elks and providing substantial rations. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] completed **Sub-Lesson III: The Bone Ward** after an initial failure left her frostbitten. Upon arrival in [[Kjalgrad\|Kjalgrad]], a prosperous mining town controlled by **Clan Morvan**, the party secured rooms at the **Frost Gate Hall**. A **murder of crows** visited [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s window, including the rotund **Jangleplume**, stating they had business to discuss.
+Following the execution witnessed in Session 018, the party spent additional downtime in [[Info/Locations/Falderstad\|Falderstad]] before departing for [[Info/Locations/Kjallgrad\|Kjalgrad]]. **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** mysteriously woke near [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s abandoned warehouse and wandered lost through the city before falling asleep by the stables. **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** searched for him across town, eventually finding him and engaging in a stubborn argument. **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** spent the night submerged in the river and drifted downstream. The party discussed travel plans and routes toward Riften. Over the following days, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] practiced her necromancy lessons, [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] reconnected with an old egg-brother at the market, and the group prepared for departure. The five-day journey to [[Info/Locations/Kjallgrad\|Kjalgrad]] tested the party with harsh cold—[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] both suffered fatigue from exposure. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] hunted successfully, bringing down two elks and providing substantial rations. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] completed **Sub-Lesson III: The Bone Ward** after an initial failure left her frostbitten. Upon arrival in [[Info/Locations/Kjallgrad\|Kjalgrad]], a prosperous mining town controlled by **Clan Morvan**, the party secured rooms at the **[[Info/Locations/Frost_Gate_Hall\|Frost Gate Hall]]**. A **murder of crows** visited [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s window, including the rotund **[[Info/Characters/999 NPC's/Baron_Jangleplume\|Jangleplume]]**, stating they had business to discuss.
 
 ---
 
@@ -40,11 +40,11 @@ Following the execution witnessed in Session 018, the party spent additional dow
    - Spotted [[Info/Characters/999 NPC's/Runa\|Runa]] at his stall
    - Saw the caravan of Argonians arriving
 
-2. **The Soggy Beaver (Second Stop):**
+2. **[[Info/Locations/The_Soggy_Beaver\|The Soggy Beaver]] (Second Stop):**
    - [[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]] was serving drinks
    - He didn't know where [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] had gone
 
-3. **The Wounded Boar (Third Stop):**
+3. **[[Info/Locations/The_Wounded_Boar\|The Wounded Boar]] (Third Stop):**
    - [[Info/Characters/999 NPC's/Denskar\|Denskar]] was serving food
    - Also had no information about [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s whereabouts
 
@@ -106,8 +106,8 @@ Following the execution witnessed in Session 018, the party spent additional dow
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** and **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** had a conversation with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** continued studying the **Jack of Trades spellbook** [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] had given her in Session 018
 - The group discussed travel plans and route options:
-  - **Proposed Route**: Kjalgrad → Shor's Stone → Riften → Stromton → Nimalten
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** excused herself to read the letter she had received from **[[Eirik the Quick\|Eirik the Quick]]**
+  - **Proposed Route**: [[Info/Locations/Kjallgrad\|Kjalgrad]] → Shor's Stone → [[Info/Locations/Riften\|Riften]] → Stromton → Nimalten
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** excused herself to read the letter she had received from **[[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]**
 
 ---
 
@@ -124,7 +124,7 @@ Following the execution witnessed in Session 018, the party spent additional dow
 - **Discussion Topics:**
   - Monsters and unpleasant creatures
   - The morality of feeling sympathy for vampires
-  - The morality of feeling sympathy for Dunmer (given [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s past with [[House Dres\|House Dres]])
+  - The morality of feeling sympathy for Dunmer (given [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s past with House Dres)
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** offered comfort and perspective to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
 - They returned to the house
 
@@ -340,14 +340,14 @@ These days were spent preparing for the upcoming journey:
 
 **Finding Lodging:**
 - The party headed to the nearest inn with stables
-- Found the **Frost Gate Hall** near the western gate
+- Found the **[[Info/Locations/Frost_Gate_Hall\|Frost Gate Hall]]** near the western gate
 - Stabled their horses
 
 **Interior Description:**
 - **Architecture**: Polished oak beams and high ceilings
 - **Décor**: Silk drapes and fur rugs, indicating an upscale establishment
 - **Atmosphere**: Warm, welcoming, and well-maintained
-- **Innkeeper**: **Orgnar**, a Nord man with a professional demeanor
+- **Innkeeper**: **[[Info/Characters/999 NPC's/Orgnar\|Orgnar]]**, a Nord man with a professional demeanor
 
 **Room Arrangements:**
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** and **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]**: Took a double room together
@@ -362,7 +362,7 @@ These days were spent preparing for the upcoming journey:
 
 **The Gathering:**
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] offered the crow some bread
-- A slightly rotund crow arrived—**Jangleplume**, whom [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] recognized
+- A slightly rotund crow arrived—**[[Info/Characters/999 NPC's/Baron_Jangleplume\|Jangleplume]]**, whom [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] recognized
 - Shortly after, several more crows descended onto the sill
 - The crows stated they had **"business"** to discuss
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] spoke with them briefly
@@ -373,14 +373,14 @@ These days were spent preparing for the upcoming journey:
 
 ## NPCs Met
 
-- **[[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]**: Bartender at The Soggy Beaver. Did not know [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s whereabouts during [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s search.
-- **[[Info/Characters/999 NPC's/Denskar\|Denskar]]**: Server at The Wounded Boar. Also had no information about [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]].
+- **[[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]]**: Bartender at [[Info/Locations/The_Soggy_Beaver\|The Soggy Beaver]]. Did not know [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s whereabouts during [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s search.
+- **[[Info/Characters/999 NPC's/Denskar\|Denskar]]**: Server at [[Info/Locations/The_Wounded_Boar\|The Wounded Boar]]. Also had no information about [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]].
 - **[[Info/Characters/999 NPC's/Runa\|Runa]]**: Cabbage merchant in [[Info/Locations/Falderstad\|Falderstad]] market. Recognized [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and chatted with him briefly.
 - **Argonian Egg-Brother**: An old acquaintance of [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s from her past. Sold wares at the Argonian caravan in [[Info/Locations/Falderstad\|Falderstad]]. Spoke with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] in Jel.
 - **[[Info/Characters/999 NPC's/Helga\|Helga]]** & **[[Info/Characters/999 NPC's/Svala\|Svala]]**: Met briefly during departure from [[Info/Locations/Falderstad\|Falderstad]]. Exchanged farewells.
-- **Kjalgrad Guards**: Guards at the entrance to [[Kjalgrad\|Kjalgrad]]. Inspected the party's belongings before allowing entry.
-- **[[Info/Characters/999 NPC's/Orgnar\|Orgnar]]**: Nord innkeeper of the Frost Gate Hall in [[Kjalgrad\|Kjalgrad]]. Professional and welcoming.
-- **Jangleplume**: A rotund crow, part of a murder of crows. Known to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]. Visited the party's room in [[Kjalgrad\|Kjalgrad]] to discuss "business."
+- **Kjalgrad Guards**: Guards at the entrance to [[Info/Locations/Kjallgrad\|Kjalgrad]]. Inspected the party's belongings before allowing entry.
+- **[[Info/Characters/999 NPC's/Orgnar\|Orgnar]]**: Nord innkeeper of the [[Info/Locations/Frost_Gate_Hall\|Frost Gate Hall]] in [[Info/Locations/Kjallgrad\|Kjalgrad]]. Professional and welcoming.
+- **[[Info/Characters/999 NPC's/Baron_Jangleplume\|Jangleplume]]**: A rotund crow, part of a murder of crows. Known to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]. Visited the party's room in [[Info/Locations/Kjallgrad\|Kjalgrad]] to discuss "business."
 - **Murder of Crows**: A group of crows that gathered at [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s window. Stated they had business to discuss.
 
 ---
@@ -401,7 +401,7 @@ These days were spent preparing for the upcoming journey:
 ### In Progress
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s Search**: Continues looking for her sister (identified by a blue bracelet with pinkish hue).
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s Necromancy Training**: Completed Sub-Lesson III: The Bone Ward.
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s Revenge Quest**: Still seeking to free a young girl from [[House Dres\|House Dres]] slavery (referenced in Session 018).
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s Revenge Quest**: Still seeking to free a young girl from House Dres slavery (referenced in Session 018).
 - **Jack of Trades Spell Study**: [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] is studying the spellbook given to her by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]].
 
 ### Completed
@@ -425,7 +425,7 @@ These days were spent preparing for the upcoming journey:
 - Went hunting successfully with [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]], providing for the party
 - Had a vulnerable conversation with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] about morality and sympathy for various races
 - The murder of crows seeking her suggests ongoing connections to her past or mysterious affairs
-- Read the letter from [[Eirik the Quick\|Eirik the Quick]]
+- Read the letter from [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]
 
 ### Durov
 - Woke up near [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s warehouse with no memory of how he got there (mysterious circumstances)
@@ -446,6 +446,6 @@ These days were spent preparing for the upcoming journey:
 
 - **Investigate the Crows' Business**: The murder of crows stated they have business to discuss with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and possibly [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]].
 - **Explore Kjalgrad**: The party has just arrived and will need to familiarize themselves with the town, its merchants, and any local threats or opportunities.
-- **Continue Journey to Riften**: The planned route is Kjalgrad → Shor's Stone → Riften → Stromton → Nimalten.
+- **Continue Journey to [[Info/Locations/Riften\|Riften]]**: The planned route is [[Info/Locations/Kjallgrad\|Kjalgrad]] → Shor's Stone → [[Info/Locations/Riften\|Riften]] → Stromton → Nimalten.
 - **Investigate the Ouroboros Pendant Connection**: The pendant seen in Session 18 is the same type [[Info/Characters/999 NPC's/Stryder\|Stryder]] has encountered before (mentioned in summary but not detailed in session).
 - **Durov's Mysterious Night**: Consider investigating why [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] woke near [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s warehouse with no memory.

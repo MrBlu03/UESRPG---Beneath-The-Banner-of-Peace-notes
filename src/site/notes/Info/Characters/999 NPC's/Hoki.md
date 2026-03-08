@@ -118,7 +118,7 @@ Hoki represents the vulnerability of inexperienced individuals when facing super
 ### [[2 -  Sessions/Session 018\|Session 018]] - Recruited as Informant
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] visited Hoki at his house
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] asked him to be her "eyes and ears" in [[Info/Locations/Falderstad\|Falderstad]]
-- Part of [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s growing spy network (with Astrid in Riften)
+- Part of [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s growing spy network (with [[Info/Characters/999 NPC's/Astrid\|Astrid]] in Riften)
 - **Mission**: Watch for specific threats:
   - The [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] symbol ([[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] showed him sketches)
   - Suspicious Dunmer activity

@@ -7,11 +7,11 @@
 
 ## Summary
 
-The party executed a daring infiltration of the **Jarl's Hall** during a prestigious trade event hosted by the **Guild of the Silverroad**. While **Periwyn** and **Onasha** attended as invited guests to gather intelligence and make trade connections, **Kirya** infiltrated through the sewers to search the Jarl's private quarters for evidence of his suspicious activities. **Durov** worked undercover as a guard for **Valen Marr**, maintaining his cover while protecting the party's interests.
+The party executed a daring infiltration of the **Jarl's Hall** during a prestigious trade event hosted by the **[[Info/Organizations/Guild_of_the_Silverroad\|Guild of the Silverroad]]**. While **Periwyn** and **Onasha** attended as invited guests to gather intelligence and make trade connections, **Kirya** infiltrated through the sewers to search the Jarl's private quarters for evidence of his suspicious activities. **Durov** worked undercover as a guard for **[[Info/Characters/999 NPC's/Valen_Marr\|Valen Marr]]**, maintaining his cover while protecting the party's interests.
 
-During the event, **Onasha** spotted **Valen Marr wearing an Ouroboros pendant**—confirming he is a member of the **Coiled Serpent**. **Periwyn** successfully reconnected with her family's old trading partners, securing lucrative trade deals with silk baron **Renald Vero** and lumber baron **Olvfrost**. Meanwhile, **Kirya** discovered a bloody fur cloak and a **dark runic stone radiating heat** hidden in the Jarl's quarters.
+During the event, **Onasha** spotted **Valen Marr wearing an Ouroboros pendant**—confirming he is a member of the **[[Info/Lore/Coiled_Serpent\|Coiled Serpent]]**. **Periwyn** successfully reconnected with her family's old trading partners, securing lucrative trade deals with silk baron **[[Info/Characters/999 NPC's/Renald_Vero\|Renald Vero]]** and lumber baron **[[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]**. Meanwhile, **Kirya** discovered a [[Info/1 - Party Findings/Bloody Fur Cloak\|bloody fur cloak]] and a **[[Info/1 - Party Findings/Dark Runic Stone\|dark runic stone]] radiating heat** hidden in the Jarl's quarters.
 
-The Jarl delivered a speech with a strange magical effect that was neutralized by spell absorption tinctures the party had taken. Shortly after, **two guards were found murdered outside**—victims of the **Camonna Tong**, who have infiltrated the city. The session ended with the party regrouping at the inn to discuss their findings and planning their next moves, including infiltrating the Guild of Silverroad further and investigating the mysterious stone.
+The Jarl delivered a speech with a strange magical effect that was neutralized by spell absorption tinctures the party had taken. Shortly after, **two guards were found murdered outside**—victims of the **[[Info/Organizations/Camonna_Tong\|Camonna Tong]]**, who have infiltrated the city. The session ended with the party regrouping at the inn to discuss their findings and planning their next moves, including infiltrating the [[Info/Organizations/Guild_of_the_Silverroad\|Guild of the Silverroad]] further and investigating the mysterious stone.
 
 ---
 
@@ -21,21 +21,21 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 
 **Early Morning - Individual Routines:**
 
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** woke first and had a conversation with his guard companion **Huldir**
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** woke first and had a conversation with his guard companion **[[Info/Characters/999 NPC's/Huldir\|Huldir]]**
   - Discussed their similar shield crests—both from the far north
   - Huldir mentioned a castle on cliffs in their homeland
-  - Huldir has been with the Guild of the Silverroad for ~3 years
-  - Works personally with **Valen Marr**
+  - Huldir has been with the [[Info/Organizations/Guild_of_the_Silverroad\|Guild of the Silverroad]] for ~3 years
+  - Works personally with **[[Info/Characters/999 NPC's/Valen_Marr\|Valen Marr]]**
   - Early 30s, originally from Bruma
   
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** received an invitation the previous evening from **Guildmaster Jorvik Hanison** to a trade event at the **Jarl's Hall**
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** received an invitation the previous evening from **Guildmaster [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik Hanison]]** to a trade event at the **Jarl's Hall**
   - Invited by name (Lunclaire) and allowed to bring an entourage
   
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]** had boarded up the windows during downtime due to paranoia
   - During her downtime at the library, she was kidnapped by Dunmer for half a day
   - Escaped with help from another Argonian
   
-- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** had been gathering rumors about **Darius Karo** (the Steward)
+- **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** had been gathering rumors about **[[Info/Characters/999 NPC's/Darius_Karo\|Darius Karo]]** (the Steward)
   - Compiled notes proving he's suspicious/guilty of something
   - Wanted to sneak into his quarters for evidence
 
@@ -44,8 +44,8 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 ### Morning - Market and Planning
 
 **Durov at the Market:**
-- Met **Olaf**, the cabbage merchant (now selling frozen potatoes since cabbages don't grow in winter)
-- Olaf has a farm near "Cow's Crossing" north of Kjalgrad
+- Met **[[Info/Characters/999 NPC's/Olaf\|Olaf]]**, the cabbage merchant (now selling frozen potatoes since cabbages don't grow in winter)
+- Olaf has a farm near "Cow's Crossing" north of [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - Durov bought potatoes (10 gold) and herbs (5 gold)
 - No fresh meat available at the market
 
@@ -71,10 +71,10 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 ### Afternoon - The Guild Event at Jarl's Hall
 
 **Durov (as Guard):**
-- Arrived at the bridge meeting point with **Huldir** and another guard (**Brom/Bramm**)
-- Entered the Jarl's Hall and was greeted by **Valen Marr**
+- Arrived at the bridge meeting point with **[[Info/Characters/999 NPC's/Huldir\|Huldir]]** and another guard (**[[Info/Characters/999 NPC's/Brom\|Brom/Bramm]]**)
+- Entered the Jarl's Hall and was greeted by **[[Info/Characters/999 NPC's/Valen_Marr\|Valen Marr]]**
 - Valen told them to help themselves to food and drink
-- Valen had been speaking with **Darius Karo** (the Steward) when they arrived
+- Valen had been speaking with **[[Info/Characters/999 NPC's/Darius_Karo\|Darius Karo]]** (the Steward) when they arrived
 - Mediated a dispute between two drunk merchants arguing about wheat tariffs (35% vs 20%, settled at 30%)
 - Observed Valen watching Periwyn intently when she entered
 
@@ -85,16 +85,16 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 
 **Guildmaster Jorvik Hanison's Opening Speech:**
 - Spoke about trade, trust, prosperity, and cooperation
-- Praised the Guild of the Silverroad for keeping Kjalgrad strong
+- Praised the [[Info/Organizations/Guild_of_the_Silverroad\|Guild of the Silverroad]] for keeping [[Info/Locations/Kjallgrad\|Kjalgrad]] strong
 - Raised a toast to shared futures
 
 **Periwyn's Networking:**
-- Met **Renald Vero** - a silk baron from Rivenspire (Shornhelm) who knew her father
+- Met **[[Info/Characters/999 NPC's/Renald_Vero\|Renald Vero]]** - a silk baron from Rivenspire (Shornhelm) who knew her father
   - Had dealt with the Lunclaire family in the past
   - Has an office in Windhelm, offered to restart old trade when Periwyn visits
   - A warm, friendly old man
   
-- Met **Olvfrost** - a Nord lumber baron near Fort Morven Scott area
+- Met **[[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]** - a Nord lumber baron near Fort Morven Scott area
   - Gave Periwyn a signed document for a profitable lumber trade route from there to Whiterun
   - Based on their mutual acquaintance with Guildmaster Hanison
 
@@ -107,7 +107,7 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 - Mentioned the Jarl would make a speech
 
 **The Revelation:**
-- **Onasha spotted the Ouroboros pendant on Valen Marr's neck**—the Coiled Serpent symbol!
+- **Onasha spotted the Ouroboros pendant on Valen Marr's neck**—the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] symbol!
 - She subtly tried to signal Periwyn by adjusting her armor near her neck
 - Valen noticed but thought it was from the heat
 - Periwyn passed a logic test and understood the signal, seeing the pendant too
@@ -117,7 +117,7 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 ### Kirya's Sewer Infiltration
 
 **Entering the Sewers:**
-- Entered sewers near the bridge to Jarl's Hall
+- Entered [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad Sewers]] near the bridge to Jarl's Hall
 - Rolled lucky on Observe—found a corpse with arm pinned to wall by a dagger
 - The dagger pointed to a sign reading "old sewers"
 - Found a pouch with a rusted key on the corpse
@@ -142,8 +142,8 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 
 **Discoveries in the Jarl's Room:**
 - Blood trail from a closet to a window
-- In the closet: an old, bloody, stinking fur cloak (smelled of soot and wet dirty fur)
-- A **lockbox** on an end table containing a **dark stone with runes etched on it** that radiated heat
+- In the closet: an old, [[Info/1 - Party Findings/Bloody Fur Cloak\|bloody, stinking fur cloak]] (smelled of soot and wet dirty fur)
+- A **lockbox** on an end table containing a **[[Info/1 - Party Findings/Dark Runic Stone\|dark stone with runes etched on it]]** that radiated heat
 - She wrapped the stone in cloth (didn't touch it directly), put it in her pouch, relocked the lockbox
 - On the way out, stole some wine from the cellar (fruity and spicy varieties)
 - Exited through sewers, slightly tipsy from sampling wine
@@ -166,7 +166,7 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 - Guards were suddenly called to the front door—commotion
 - **Two guards found dead outside** the Jarl's Hall—the same ones from Durov's morning shift
 - Durov went to check, saw bodies being examined by guards and a healer
-- Huldir told Durov privately: **Camonna Tong is in the city**
+- Huldir told Durov privately: **[[Info/Organizations/Camonna_Tong\|Camonna Tong]] is in the city**
   - They need to get Valen out, possibly leaving today or tomorrow
   - Durov's payment will come by courier
   - Told Durov to guard the front/gates
@@ -183,19 +183,19 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 - Durov eventually returned after helping with the bodies
 
 **Debriefing:**
-- Kirya revealed the **dark runic stone** she found in the Jarl's quarters
+- Kirya revealed the **[[Info/1 - Party Findings/Dark Runic Stone\|dark runic stone]]** she found in the Jarl's quarters
   - Periwyn examined it—recognized Daedric runes but couldn't read them
   - Stone radiated heat
   - Party discussed sending it to the Queen's court mage for analysis
   - Decided to hold onto it for now rather than risk sending it
   
-- Kirya also described the bloody fur cloak with soot smell
-- They confirmed Valen Marr wears the Ouroboros—he's a Coiled Serpent agent
+- Kirya also described the [[Info/1 - Party Findings/Bloody Fur Cloak\|bloody fur cloak]] with soot smell
+- They confirmed Valen Marr wears the Ouroboros—he's a [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] agent
 - Discussed assassinating the Steward but decided against it without more information
 
 **Next Steps Planned:**
-- Infiltrate the Guild of Silverroad proper to learn more about their operations
-- Wait for The Vestige to contact them via crow
+- Infiltrate the [[Info/Organizations/Guild_of_the_Silverroad\|Guild of the Silverroad]] proper to learn more about their operations
+- Wait for [[Info/Characters/999 NPC's/The_Vestige\|The Vestige]] to contact them via crow
 - Take 3 days of downtime (Friday, Saturday, Sunday)
 - Meet with Valen Marr on Monday if he's still in the city
 
@@ -205,19 +205,19 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 
 - **[[Info/Characters/999 NPC's/Olaf\|Olaf]]**: A cabbage/potato merchant with a farm near Cow's Crossing north of Kjalgrad. Friendly and recognized Durov from previous visits.
 
-- **[[Info/Characters/999 NPC's/Huldir\|Huldir]]**: Durov's guard companion, early 30s, from Bruma, personal guard to Valen Marr. Has a similar shield crest to Durov, suggesting shared northern origins. Informed Durov about the Camonna Tong presence.
+- **[[Info/Characters/999 NPC's/Huldir\|Huldir]]**: Durov's guard companion, early 30s, from Bruma, personal guard to [[Info/Characters/999 NPC's/Valen_Marr\|Valen Marr]]. Has a similar shield crest to Durov, suggesting shared northern origins. Informed Durov about the [[Info/Organizations/Camonna_Tong\|Camonna Tong]] presence.
 
-- **[[Brom / Bramm\|Brom / Bramm]]**: Another guard working with Durov at the event.
+- **[[Info/Characters/999 NPC's/Brom\|Brom / Bramm]]**: Another guard working with Durov at the event.
 
-- **[[Jorvik Hanison\|Jorvik Hanison]]**: Guildmaster of the Guild of the Silverroad. Gave the opening speech about trade and prosperity. Invited Periwyn to the event by name.
+- **[[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik Hanison]]**: Guildmaster of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild of the Silverroad]]. Gave the opening speech about trade and prosperity. Invited Periwyn to the event by name.
 
-- **[[Renald Vero\|Renald Vero]]**: A silk baron from Rivenspire/Shornhelm (High Rock) who knew Periwyn's father and dealt with the Lunclaire family. Has an office in Windhelm, offered to restart old trade connections.
+- **[[Info/Characters/999 NPC's/Renald_Vero\|Renald Vero]]**: A silk baron from Rivenspire/Shornhelm (High Rock) who knew Periwyn's father and dealt with the Lunclaire family. Has an office in Windhelm, offered to restart old trade connections.
 
 - **[[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]**: A Nord lumber baron near Fort Morven Scott. Offered Periwyn a signed document for a profitable lumber trade route from there to Whiterun.
 
-- **[[Valen Marr\|Valen Marr]]**: Confirmed member of the Coiled Serpent—Onasha spotted the Ouroboros pendant on his neck. Approached Periwyn about partnership and warned of political changes. Personal guard to someone high in the Guild hierarchy.
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen Marr]]**: Confirmed member of the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]—Onasha spotted the Ouroboros pendant on his neck. Approached Periwyn about partnership and warned of political changes. Personal guard to someone high in the Guild hierarchy.
 
-- **[[The Jarl\|The Jarl]] (Clan Morvan)**: Appeared in person to give a suspicious speech with apparent magical effects. Has a bloody fur cloak and a dark runic stone in his quarters. Something seemed "off" about him during the speech.
+- **The Jarl (Clan Morvan)**: Appeared in person to give a suspicious speech with apparent magical effects. Has a [[Info/1 - Party Findings/Bloody Fur Cloak\|bloody fur cloak]] and a [[Info/1 - Party Findings/Dark Runic Stone\|dark runic stone]] in his quarters. Something seemed "off" about him during the speech.
 
 - **[[Alchemist\|Alchemist]]**: Elderly woman who sold the party spell absorption tinctures. Mentioned that guards and mercenaries had recently ordered a large batch.
 
@@ -229,7 +229,7 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 
 - **Chameleon Tincture**: Given by Onasha to Kirya for her infiltration. Provides -30 penalty to being spotted.
 
-- **Dark Runic Stone**: Found by Kirya in a lockbox in the Jarl's quarters. Etched with Daedric runes, radiates heat. Potentially a Daedric artifact.
+- **[[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]]**: Found by Kirya in a lockbox in the Jarl's quarters. Etched with Daedric runes, radiates heat. Potentially a Daedric artifact.
 
 - **Rusted Key**: Found on a corpse in the sewers pointing toward the old sewers.
 
@@ -246,14 +246,14 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 ## Quests
 
 ### New
-- **Investigate the Jarl's Dark Stone**: The runic stone found in the Jarl's quarters is clearly significant and potentially Daedric in origin. Needs further analysis.
-- **The Camonna Tong in Kjalgrad**: The murders outside the Jarl's Hall were committed by the Camonna Tong. They are targeting someone—possibly Valen Marr.
-- **Valen Marr and the Coiled Serpent**: Confirmed that Valen wears the Ouroboros pendant. Need to learn his role in the organization and how high up he is.
+- **[[Info/Quests/Investigate_Jarls_Dark_Stone\|Investigate the Jarl's Dark Stone]]**: The runic stone found in the Jarl's quarters is clearly significant and potentially Daedric in origin. Needs further analysis.
+- **The [[Info/Organizations/Camonna_Tong\|Camonna Tong]] in [[Info/Locations/Kjallgrad\|Kjalgrad]]**: The murders outside the Jarl's Hall were committed by the Camonna Tong. They are targeting someone—possibly Valen Marr.
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen Marr]] and the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]**: Confirmed that Valen wears the Ouroboros pendant. Need to learn his role in the organization and how high up he is.
 
 ### In Progress
-- **Infiltrate Guild of Silverroad**: The party plans to infiltrate the Guild proper to learn about their operations, hierarchy, and connections.
-- **The Coiled Serpent Investigation**: Major breakthrough—identified Valen Marr as a member. Need to learn who else is involved.
-- **The Cult of Clavicus Vile**: Still investigating with The Vestige. Waiting for his contact via crow.
+- **[[Info/Quests/Infiltrate_Guild_of_Silverroad\|Infiltrate Guild of Silverroad]]**: The party plans to infiltrate the Guild proper to learn about their operations, hierarchy, and connections.
+- **The [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled Serpent Investigation]]**: Major breakthrough—identified Valen Marr as a member. Need to learn who else is involved.
+- **The Cult of [[Info/Lore/Clavicus_Vile\|Clavicus Vile]]**: Still investigating with [[Info/Characters/999 NPC's/The_Vestige\|The Vestige]]. Waiting for his contact via crow.
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s Search**: Continues looking for her sister.
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s Necromancy Training**: Ongoing studies.
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s Revenge Quest**: Still seeking justice against [[House Dres\|House Dres]].
@@ -296,20 +296,20 @@ The Jarl delivered a speech with a strange magical effect that was neutralized b
 
 ## Important Revelations
 
-- **Valen Marr wears the Ouroboros necklace**—he IS the Coiled Serpent contact in the Guild of the Silverroad, possibly a high-ranking member.
+- **[[Info/Characters/999 NPC's/Valen_Marr\|Valen Marr]] wears the Ouroboros necklace**—he IS the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] contact in the [[Info/Organizations/Guild_of_the_Silverroad\|Guild of the Silverroad]], possibly a high-ranking member.
 - **The Jarl's speech has magical properties**—warmth and pressure change felt by attendees. The spell absorption tinctures protected the party from whatever effect was intended.
-- **Dark runic stone** found in Jarl's quarters radiating heat with Daedric runes—likely a Daedric artifact or connected to the Cult of Clavicus Vile.
-- **Bloody fur cloak with soot smell** in Jarl's closet—suspicious and potentially related to the murders or other dark activities.
-- **Camonna Tong presence in Kjalgrad**—two guards murdered outside the Jarl's Hall. Valen Marr is evacuating the city because of this threat.
+- **[[Info/1 - Party Findings/Dark Runic Stone\|Dark runic stone]]** found in Jarl's quarters radiating heat with Daedric runes—likely a Daedric artifact or connected to the Cult of [[Info/Lore/Clavicus_Vile\|Clavicus Vile]].
+- **[[Info/1 - Party Findings/Bloody Fur Cloak\|Bloody fur cloak]] with soot smell** in Jarl's closet—suspicious and potentially related to the murders or other dark activities.
+- **[[Info/Organizations/Camonna_Tong\|Camonna Tong]] presence in [[Info/Locations/Kjallgrad\|Kjalgrad]]**—two guards murdered outside the Jarl's Hall. [[Info/Characters/999 NPC's/Valen_Marr\|Valen Marr]] is evacuating the city because of this threat.
 - **The High King is reportedly unwell**—political instability hinted by Valen Marr.
-- **The Guild of the Silverroad controls most trade** in the region from the trading hall up to Windhelm.
+- **The [[Info/Organizations/Guild_of_the_Silverroad\|Guild of the Silverroad]] controls most trade** in the region from the trading hall up to Windhelm.
 
 ---
 
 ## Next Steps
 
-- **Wait for The Vestige's Contact**: He will send word via crow when ready to meet again.
-- **Infiltrate the Guild of Silverroad**: The party plans to properly infiltrate the Guild to learn more about their operations and identify other Coiled Serpent members.
-- **Investigate the Dark Stone**: Determine what the runic stone is and its connection to the Jarl or Daedric forces.
-- **Monday Meeting with Valen**: If Valen is still in the city, Periwyn plans to meet with him to learn more about his organization and the Coiled Serpent.
+- **Wait for [[Info/Characters/999 NPC's/The_Vestige\|The Vestige]]'s Contact**: He will send word via crow when ready to meet again.
+- **[[Info/Quests/Infiltrate_Guild_of_Silverroad\|Infiltrate the Guild of Silverroad]]**: The party plans to properly infiltrate the Guild to learn more about their operations and identify other [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] members.
+- **Investigate the [[Info/1 - Party Findings/Dark Runic Stone\|Dark Stone]]**: Determine what the runic stone is and its connection to the Jarl or Daedric forces.
+- **Monday Meeting with Valen**: If [[Info/Characters/999 NPC's/Valen_Marr\|Valen Marr]] is still in the city, Periwyn plans to meet with him to learn more about his organization and the Coiled Serpent.
 - **3 Days Downtime**: Friday, Saturday, Sunday will be spent resting, training, and preparing for next steps.

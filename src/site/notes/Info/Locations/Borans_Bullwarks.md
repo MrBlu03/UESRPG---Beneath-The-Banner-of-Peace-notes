@@ -5,7 +5,7 @@
 # Boran's Bullwarks
 
 ## Description
-Boran's Bullwarks is a shop in Riften owned by Boran, specializing in cold weather gear and fur trading. The shop offers group discounts for bulk purchases and serves as both a supplier of winter equipment and a buyer of pelts and furs.
+Boran's Bullwarks is a shop in [[Info/Locations/Riften\|Riften]] owned by Boran, specializing in cold weather gear and fur trading. The shop offers group discounts for bulk purchases and serves as both a supplier of winter equipment and a buyer of pelts and furs.
 
 ## Services
 - **Cold Weather Gear**: Bear cloaks and winter protection equipment
@@ -25,5 +25,5 @@ Boran's Bullwarks is a shop in Riften owned by Boran, specializing in cold weath
 
 ## Notes
 - Essential stop for cold weather preparation
-- Reliable source for winter gear in Riften
+- Reliable source for winter gear in [[Info/Locations/Riften\|Riften]]
 - Accepts fur trading as well as selling equipment

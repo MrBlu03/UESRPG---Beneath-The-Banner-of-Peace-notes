@@ -24,7 +24,7 @@ Gabrielle arrived in [[Info/Locations/Falderstad\|Falderstad]] before the 10th o
 ## Key Expertise
 - **Daedric Relics**: Primary specialization in understanding and analyzing Daedric artifacts
 - **Harrowstorm Research**: Involved in studying the Harrowstorm Engine Core
-- **Grey Host Knowledge**: Aware of the connection between the artifact and the Grey Host
+- **Grey Host Knowledge**: Aware of the connection between the artifact and the [[Info/Lore/Grey_Host\|Grey Host]]
 
 ## Current Mission
 - **Destination**: [[Info/Locations/Greenwall\|Greenwall]] to investigate the Daedric orb discovered by the party

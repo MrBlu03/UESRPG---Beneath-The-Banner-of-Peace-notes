@@ -156,6 +156,48 @@ Valen's confirmed Coiled Serpent membership changes everything:
 - The partnership offer to Periwyn may have been an attempt to recruit her
 - His warning about the High King suggests the conspiracy reaches the highest levels of Skyrim's government
 
+## The Meeting — Session 023
+
+### The Partnership Offer
+[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] met with Valen at the [[Info/Locations/Guild_of_the_Silverroad_Guildhouse\|Guild_of_the_Silverroad_Guildhouse]] in [[2 -  Sessions/Session 023\|Session 023]]:
+- Offered an **8% guild rate** (vs. the standard 15% for independent merchants)
+- Proposed three trade routes:
+  1. Kjalgrad → Morrowind
+  2. Rift routes (unspecified)
+  3. Rift → Falkreath → Bruma/Cyrodiil
+- Offered a **permanent warehouse in southeast Skyrim**
+- In exchange: carry Guild cargo and report on rival merchants
+- Framed the Guild as giving merchants a **"voice in politics"** with connections in royal courts and mercenary guilds
+
+### The Interruption
+Partway through the meeting, a guard **whispered something to Valen** and he stepped out. This was almost certainly news about the warehouse incident — the party had been investigating Warehouse 7 and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] had paid 500 gold to hold suspicious crates. Valen's absence gave the party a window to examine the office.
+
+### The Ouroboros Pendant — Cover Story
+[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] asked about the Ouroboros pendant directly. Valen gave a prepared explanation:
+- Claims it is a **keepsake from a fellow Planemeld survivor**
+- Says it represents the **three alliances** from the siege of the White Gold Tower: Ebonheart Pact, Aldmeri Dominion (griffon), Daggerfall Covenant (lion)
+- Claims to know **one other pendant-wearer in Bruma**
+- This is his public justification for wearing the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] symbol openly — a calculated cover that ties it to a widely-known historical event
+
+### Periwyn's Deceive Check
+Valen noticed [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] had not touched her wine during the meeting. She narrowly passed a Deceive check to cover her hesitation.
+
+## Confirmed Connections and Intelligence (Session 023)
+
+### His Office Contents
+The [[Info/1 - Party Findings/Valen_Office_Intelligence\|intelligence gathered from Valen's office]] during his absence revealed:
+- **Wall map**: Two red circles in the [[Info/Locations/Kjalgrad_Warehouse_District\|Kjalgrad_Warehouse_District]] (Warehouses 4 and 7), plus a mark **northeast of Kjalgrad** outside the city walls
+- **Ledger entries**: Night warehouse transfers, a "special consignment — temple allocation" (no temple in Kjalgrad), and coin distribution records
+- **Cabinet letter (slightly burnt)**: *"Jarl remains cooperative though his condition requires continued supervision"* — confirms the Jarl is under Guild/Coiled Serpent management
+- **Lockbox**: Silver Road contracts, **bribe payments to Riften officials** (last two weeks), letter fragments referencing **"the Coming Correction"**
+
+### The Coming Correction
+Fragments in Valen's lockbox reference a planned event called **"the Coming Correction."** The nature, target, and timeline of this event are unknown.
+
+### Bruma Contact
+Valen mentioned knowing **one other person in Bruma** who wears an Ouroboros pendant. While presented as part of his cover story, this may be genuine — implying at least one more confirmed [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] member operating in **Bruma**, Cyrodiil.
+
 ## Session References
 - **[[2 -  Sessions/Session 021\|Session 021]]**: First mentioned; identified as Trade Advocate; party directed to meet him with forged letter
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Confirmed Coiled Serpent member (Ouroboros pendant spotted); interacted with party at trade event; evacuated city due to Camonna Tong threat
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Met Periwyn at guildhouse; offered trade partnership; gave Planemeld pendant cover story; stepped out mid-meeting; office searched; major intelligence gathered

@@ -10,10 +10,10 @@
 **Gender:** Unknown  
 **Status:** Undead (Vampire)  
 **Location:** [[Info/Locations/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]] in [[Info/Locations/Northern_Forest\|Northern_Forest]]  
-**Faction:** [[Majorn\|Majorn]]'s Cohort
+**Faction:** [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s Cohort
 
 ## Description
-The sole survivor of the [[Info/Locations/Greenwall\|Greenwall]] incident, this vampire serves as a field agent for [[Majorn\|Majorn]]'s organization. Currently injured and hiding in a ruined hunting lodge, they conduct necromantic experiments and field testing as part of a larger conspiracy to spread fear and prepare for a world under a blocked sun.
+The sole survivor of the [[Info/Locations/Greenwall\|Greenwall]] incident, this vampire serves as a field agent for [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s organization. Currently injured and hiding in a ruined hunting lodge, they conduct necromantic experiments and field testing as part of a larger conspiracy to spread fear and prepare for a world under a blocked sun.
 
 ## Key Revelations
 
@@ -23,7 +23,7 @@ When confronted by the party, the vampire revealed extensive information about t
 #### Connection to Greenwall
 - Only survivor from the [[Info/Locations/Greenwall\|Greenwall]] incident
 - Originally sent to sow chaos and terror, leaving nothing alive
-- Part of larger field operations for [[Majorn\|Majorn]]'s cohort
+- Part of larger field operations for [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s cohort
 
 #### Conspiracy Details
 - The frozen hunters were part of a "field test" for blocking out the sun
@@ -43,7 +43,7 @@ When confronted by the party, the vampire revealed extensive information about t
 - Surprised by the party's non-hostile approach but willing to share information
 
 ## Relationships
-- **[[Majorn\|Majorn]]**: Works for his cohort as a field agent
+- **[[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]**: Works for his cohort as a field agent
 - **[[Info/Characters/999 NPC's/Nilan\|Nilan]]**: Former thrall, killed when no longer useful
 - **[[Poisoned_Dunmer\|Poisoned_Dunmer]]**: Alliance partner as field agents
 - **Territorial Creature**: Unknown entity that injured the vampire
@@ -66,10 +66,10 @@ When confronted by the party, the vampire revealed extensive information about t
 - Wounded and taking refuge in ruined hunting lodge
 - Temporarily vulnerable due to territorial creature attacks
 - Maintains connection to larger conspiracy network
-- May be valuable source of information about [[Majorn\|Majorn]]'s plans
+- May be valuable source of information about [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s plans
 
 ## Significance
-This vampire represents a direct link to the broader conspiracy threatening the region. Their willingness to share information provides crucial intelligence about [[Majorn\|Majorn]]'s operations and the scope of the vampire threat. Their survival from [[Info/Locations/Greenwall\|Greenwall]] makes them a key witness to previous supernatural incidents.
+This vampire represents a direct link to the broader conspiracy threatening the region. Their willingness to share information provides crucial intelligence about [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn]]'s operations and the scope of the vampire threat. Their survival from [[Info/Locations/Greenwall\|Greenwall]] makes them a key witness to previous supernatural incidents.
 
 ## Notes
 - Surprisingly forthcoming with information when not immediately attacked

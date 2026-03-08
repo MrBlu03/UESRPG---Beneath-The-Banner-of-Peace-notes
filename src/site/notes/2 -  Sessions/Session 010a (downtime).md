@@ -9,7 +9,7 @@
 
 **Key Revelations:**
 
-• Adda had prophetic dreams about Periwyn long before they met 
+• [[Info/Characters/999 NPC's/Adda\|Adda]] had prophetic dreams about [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] long before they met 
 • She saw visions of Periwyn's childhood - a young girl desperately trying to raise the dead through necromancy 
 • Witnessed Periwyn's relationship with a knight figure who protected her, then was killed by Periwyn herself ("hammer in hand, breaking the wall yourself... because love demanded it") 
 • Adda sees Periwyn's future as violent and filled with pursuit of shadows

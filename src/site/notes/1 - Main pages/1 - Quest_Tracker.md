@@ -58,7 +58,7 @@
 | ---------------------------------- | ----------------------------- | ------------------------------------------------------------------ |
 | 📜 Serpent Symbol                  | [[Info/Locations/Snow-Shod_Dam\|Snow-Shod_Dam]]             | Mystery symbol                                                     |
 | 📕 Adrith's Diary                  | Adrith (dead)                 | Murder Scene Evidence                                              |
-| 📚 Frozen Logbook                  | Harmugstahl                   | General's last entry                                               |
+| 📚 Frozen Logbook                  | [[Info/Locations/Harmugstahl\|Harmugstahl]]               | General's last entry                                               |
 | 🪶 Black Feathers                  | Crows                         |                                                                    |
 | 🗡️ Ebony Ritual Dagger            | Black Sacrament site          | Dull blade with Daedric runes                                      |
 | 📚 "A Kiss, Sweet Mother"          | Black Sacrament site          | Dark Brotherhood ritual book                                       |
