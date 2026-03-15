@@ -32,19 +32,20 @@
 { .block-language-dataview}
 
 ## Completed Quests
-| File                                                                          |    | Type               | Completed   | Reward                                           |
-| ----------------------------------------------------------------------------- | -- | ------------------ | ----------- | ------------------------------------------------ |
-| [[Info/Quests/Onashas_Eirik_Challenge\|Onashas_Eirik_Challenge]]           | 👤 | Personal           | Session 018 | Personal Satisfaction                            |
-| [[Info/Quests/Hunt_Forest_Creature\|Hunt_Forest_Creature]]                 | 📋 | Monster Hunt       | Session 017 | 500 gold each + Free house in Falderstad         |
-| [[Info/Quests/Stryder's_Favor\|Stryder's_Favor]]                           | 📋 | Criminal Operation | Session 015 | Contraband Goods, Intelligence on Coiled Serpent |
-| [[Info/Quests/Investigate_Frozen_Hunters\|Investigate_Frozen_Hunters]]     | 🔍 | Investigation      | Session 014 | 95 Gold, Intelligence on Vampire Conspiracy      |
-| [[Info/Quests/Haunted_Lodge_Contract\|Haunted_Lodge_Contract]]             | ⭐  | Main               | Session 009 | 400 gold each                                    |
-| [[Info/Quests/Return_to_Riften\|Return_to_Riften]]                         | ⭐  | Main               | Session 007 | 250 gold each                                    |
-| [[Info/Quests/Dispel_the_Darkness\|Dispel_the_Darkness]]                   | ⭐  | Main               | Session 006 | Sunlight restored to Greenwall                   |
-| [[Info/Quests/Fangs_of_Fjelhorst_Formation\|Fangs_of_Fjelhorst_Formation]] | ⭐  | Main               | Session 004 | Official Royal Status                            |
-| [[Info/Quests/Harmugstahl_Investigation\|Harmugstahl_Investigation]]       | ⭐  | Main               | Session 004 | 400 gold each                                    |
-| [[Info/Quests/Find_Missing_Alchemist\|Find_Missing_Alchemist]]             | ⭐  | Main               | Session 003 | 50 gold each                                     |
-| [[Info/Quests/Trevas_Bend_Aid\|Trevas_Bend_Aid]]                           | ⭐  | Main               | Session 002 | 250 gold total                                   |
+| File                                                                          |    | Type               | Completed    | Reward                                           |
+| ----------------------------------------------------------------------------- | -- | ------------------ | ------------ | ------------------------------------------------ |
+| [[Info/Quests/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]]             | 📋 | Monster Hunt       | Session 023a | Pending (negotiated settlement)                  |
+| [[Info/Quests/Onashas_Eirik_Challenge\|Onashas_Eirik_Challenge]]           | 👤 | Personal           | Session 018  | Personal Satisfaction                            |
+| [[Info/Quests/Hunt_Forest_Creature\|Hunt_Forest_Creature]]                 | 📋 | Monster Hunt       | Session 017  | 500 gold each + Free house in Falderstad         |
+| [[Info/Quests/Stryder's_Favor\|Stryder's_Favor]]                           | 📋 | Criminal Operation | Session 015  | Contraband Goods, Intelligence on Coiled Serpent |
+| [[Info/Quests/Investigate_Frozen_Hunters\|Investigate_Frozen_Hunters]]     | 🔍 | Investigation      | Session 014  | 95 Gold, Intelligence on Vampire Conspiracy      |
+| [[Info/Quests/Haunted_Lodge_Contract\|Haunted_Lodge_Contract]]             | ⭐  | Main               | Session 009  | 400 gold each                                    |
+| [[Info/Quests/Return_to_Riften\|Return_to_Riften]]                         | ⭐  | Main               | Session 007  | 250 gold each                                    |
+| [[Info/Quests/Dispel_the_Darkness\|Dispel_the_Darkness]]                   | ⭐  | Main               | Session 006  | Sunlight restored to Greenwall                   |
+| [[Info/Quests/Fangs_of_Fjelhorst_Formation\|Fangs_of_Fjelhorst_Formation]] | ⭐  | Main               | Session 004  | Official Royal Status                            |
+| [[Info/Quests/Harmugstahl_Investigation\|Harmugstahl_Investigation]]       | ⭐  | Main               | Session 004  | 400 gold each                                    |
+| [[Info/Quests/Find_Missing_Alchemist\|Find_Missing_Alchemist]]             | ⭐  | Main               | Session 003  | 50 gold each                                     |
+| [[Info/Quests/Trevas_Bend_Aid\|Trevas_Bend_Aid]]                           | ⭐  | Main               | Session 002  | 250 gold total                                   |
 
 { .block-language-dataview}
 

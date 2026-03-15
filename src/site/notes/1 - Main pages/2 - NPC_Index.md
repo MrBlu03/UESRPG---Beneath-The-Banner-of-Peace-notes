@@ -24,6 +24,7 @@
 | [[Info/Characters/999 NPC's/Brom\|Brom]]                                       | 🟢 | Guard               | Kjalgrad                                | Guild of the Silverroad                        | 🟢 | Session 022                                        |
 | [[Info/Characters/999 NPC's/Huldir\|Huldir]]                                   | 🟢 | Guard               | Kjalgrad                                | Guild of the Silverroad                        | 🟢 | Session 022                                        |
 | [[Info/Characters/999 NPC's/Alma\|Alma]]                                       | 🟢 | Hunter              | Falderstad                              | Independent                                    | 🟢 | Session 016                                        |
+| [[Info/Characters/999 NPC's/Bjorn_Hunter\|Bjorn_Hunter]]                       | 🟢 | Hunter              | Kjalgrad                                | Independent                                    | 🟢 | Session 023a                                       |
 | [[Info/Characters/999 NPC's/Bjorr\|Bjorr]]                                     | 🔴 | Hunter              | Falderstad                              | Independent                                    | 🔴 | Session 016                                        |
 | [[Info/Characters/999 NPC's/Hoki\|Hoki]]                                       | 🟢 | Hunter              | Falderstad                              | Independent                                    | 🟢 | Session 015                                        |
 | [[Info/Characters/999 NPC's/Ingrin\|Ingrin]]                                   | 🟢 | Hunter              | Falderstad                              | Independent                                    | 🟢 | Session 016                                        |
@@ -93,6 +94,7 @@
 | [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]           | 🟢 | Supernatural        | Greenwall                               | Clan Volkihar                                  | 🟢 | Session 012                                        |
 | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                         | ❓  | Supernatural        | Northern_Forest                         | Independent (Daedric)                          | ❓  | Session 014 (mentioned), Session 016 (encountered) |
 | [[Info/Characters/999 NPC's/Talking_Fox\|Talking_Fox]]                         | 🟢 | Supernatural        | Various                                 | Independent                                    | 🟢 | Unknown                                            |
+| [[Info/Characters/999 NPC's/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]]   | 🟢 | Supernatural        | Witch's Clearing (west of Kjalgrad)     | Independent                                    | 🟢 | Session 023a                                       |
 | [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]     | 🔴 | Supernatural        | Greenwall                               | Clan Volkihar                                  | 🔴 | Session 012                                        |
 | [[Info/Characters/999 NPC's/Mysterious_Crow\|Mysterious_Crow]]                 | 🟢 | Supernatural Entity | Unknown                                 | Unknown                                        | 🟢 | Session 014                                        |
 | [[Info/Characters/999 NPC's/Astrid\|Astrid]]                                   | 🟢 | Tavern Staff        | Riften                                  | Independent                                    | 🟢 | Session 010                                        |
@@ -175,14 +177,15 @@
 { .block-language-dataview}
 
 ## Supernatural Beings
-| File                                                                          | Location        | Faction                        |    | First Seen                                         |
-| ----------------------------------------------------------------------------- | --------------- | ------------------------------ | -- | -------------------------------------------------- |
-| [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]         | Various         | Blackfeather Court / Nocturnal | 🟢 | Unknown                                            |
-| [[Info/Characters/999 NPC's/Lagertha\|Lagertha]]                           | Haunted Lodge   | Independent                    | 🔴 | Session 009                                        |
-| [[Info/Characters/999 NPC's/M'aiq\|M'aiq]]                                 | Various         | Independent                    | 🟢 | Unknown                                            |
-| [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]       | Greenwall       | Clan Volkihar                  | 🟢 | Session 012                                        |
-| [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                     | Northern_Forest | Independent (Daedric)          | ❓  | Session 014 (mentioned), Session 016 (encountered) |
-| [[Info/Characters/999 NPC's/Talking_Fox\|Talking_Fox]]                     | Various         | Independent                    | 🟢 | Unknown                                            |
-| [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]] | Greenwall       | Clan Volkihar                  | 🔴 | Session 012                                        |
+| File                                                                            | Location                            | Faction                        |    | First Seen                                         |
+| ------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------ | -- | -------------------------------------------------- |
+| [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]           | Various                             | Blackfeather Court / Nocturnal | 🟢 | Unknown                                            |
+| [[Info/Characters/999 NPC's/Lagertha\|Lagertha]]                             | Haunted Lodge                       | Independent                    | 🔴 | Session 009                                        |
+| [[Info/Characters/999 NPC's/M'aiq\|M'aiq]]                                   | Various                             | Independent                    | 🟢 | Unknown                                            |
+| [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | Greenwall                           | Clan Volkihar                  | 🟢 | Session 012                                        |
+| [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | Northern_Forest                     | Independent (Daedric)          | ❓  | Session 014 (mentioned), Session 016 (encountered) |
+| [[Info/Characters/999 NPC's/Talking_Fox\|Talking_Fox]]                       | Various                             | Independent                    | 🟢 | Unknown                                            |
+| [[Info/Characters/999 NPC's/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]] | Witch's Clearing (west of Kjalgrad) | Independent                    | 🟢 | Session 023a                                       |
+| [[Info/Characters/999 NPC's/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]   | Greenwall                           | Clan Volkihar                  | 🔴 | Session 012                                        |
 
 { .block-language-dataview}
