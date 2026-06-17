@@ -106,7 +106,7 @@ This confirms Clavicus Vile's operation includes not just economic manipulation 
 
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: Cult identified by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]; brimstone gold operation discovered
-- **[[Session 023b\|Session 023b]]**: Horned mask letter found on bandit mage — first physical sigil of the cult; confirmed as Clavicus Vile's mask by Onasha
+- **[[2 -  Sessions/Session 023b\|Session 023b]]**: Horned mask letter found on bandit mage — first physical sigil of the cult; confirmed as Clavicus Vile's mask by Onasha
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Scathing encountered at northeast warehouse; confirmed as Clavicus Vile servant; ledger confirms Guild-cult-bandit chain
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Milos explains the skin-changer operation; memory anchor confirmed; Jarl almost certainly dead
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Skin-changer Jarl confirmed still in Yarls Hall, more agitated; both Kjalgrad warehouses burned

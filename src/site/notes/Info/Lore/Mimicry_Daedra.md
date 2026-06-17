@@ -93,7 +93,7 @@ Whether Clavicus Vile himself is directly orchestrating this or whether it is a 
 ---
 
 ## Session References
-- **[[Session 023b\|Session 023b]]**: Horned mask letter from bandit mage stash — first evidence of Clavicus Vile connection
+- **[[2 -  Sessions/Session 023b\|Session 023b]]**: Horned mask letter from bandit mage stash — first evidence of Clavicus Vile connection
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Scathing encountered at northeast warehouse; confirmed as Clavicus Vile servant; immune to frenzy bomb and Calm spell
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Milos explains skin-changers, memory anchors, and the Jarl's almost certain death; stone confirmed as memory anchor
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Lower Lodge confirms Jarl (skin-changer) has not left Yarls Hall and is more agitated

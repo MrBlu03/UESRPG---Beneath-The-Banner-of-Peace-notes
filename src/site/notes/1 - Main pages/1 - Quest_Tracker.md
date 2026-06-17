@@ -25,8 +25,8 @@
 | [[Info/Quests/Periwyns_Vampire_Hunter_Search\|Periwyns_Vampire_Hunter_Search]]                           | 👤 | Personal | Session 007  | TBD                                 | Minor      |
 | [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                             | 👤 | Personal | Session 007  | TBD                                 | Major      |
 | [[Info/Quests/Durovs_Lost_Past\|Durovs_Lost_Past]]                                                       | 👤 | Personal | Session 010  | TBD                                 | Major      |
-| [[Info/Quests/Woad_Training\|Woad_Training]]                                                             | 👤 | Personal | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Lute_Acquisition\|Lute_Acquisition]]                                                       | 👤 | Personal | Session 012  | TBD                                 | Minor      |
+| [[Info/Quests/Woad_Training\|Woad_Training]]                                                             | 👤 | Personal | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Moonsugar_Business_Venture\|Moonsugar_Business_Venture]]                                   | 👤 | Personal | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Necromantic_Training\|Necromantic_Training]]                                               | 👤 | Personal | Session 012a | Necromantic knowledge and abilities | Major      |
 | [[Info/Quests/Jean_Pierre_LaRoche_Missing\|Jean_Pierre_LaRoche_Missing]]                                 | 📋 | Side     | Session 026  | TBD                                 | Minor      |
@@ -44,8 +44,8 @@
 | [[Info/Quests/Haunted_Lodge_Contract\|Haunted_Lodge_Contract]]             | ⭐  | Main               | Session 009  | 400 gold each                                    |
 | [[Info/Quests/Return_to_Riften\|Return_to_Riften]]                         | ⭐  | Main               | Session 007  | 250 gold each                                    |
 | [[Info/Quests/Dispel_the_Darkness\|Dispel_the_Darkness]]                   | ⭐  | Main               | Session 006  | Sunlight restored to Greenwall                   |
-| [[Info/Quests/Harmugstahl_Investigation\|Harmugstahl_Investigation]]       | ⭐  | Main               | Session 004  | 400 gold each                                    |
 | [[Info/Quests/Fangs_of_Fjelhorst_Formation\|Fangs_of_Fjelhorst_Formation]] | ⭐  | Main               | Session 004  | Official Royal Status                            |
+| [[Info/Quests/Harmugstahl_Investigation\|Harmugstahl_Investigation]]       | ⭐  | Main               | Session 004  | 400 gold each                                    |
 | [[Info/Quests/Find_Missing_Alchemist\|Find_Missing_Alchemist]]             | ⭐  | Main               | Session 003  | 50 gold each                                     |
 | [[Info/Quests/Trevas_Bend_Aid\|Trevas_Bend_Aid]]                           | ⭐  | Main               | Session 002  | 250 gold total                                   |
 

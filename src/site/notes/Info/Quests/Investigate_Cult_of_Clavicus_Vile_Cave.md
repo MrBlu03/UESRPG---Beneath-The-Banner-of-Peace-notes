@@ -222,7 +222,7 @@ Milos (the Vestige) confirmed the dark runic stone is a **memory anchor** for a 
 - **[[2 -  Sessions/Session 021\|Session 021]]**: [[Info/Characters/999 NPC's/Varren\|Varren]] interrogated; Daedric speaking stone analyzed; speaking stone links to Oblivion
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Trade event; Jarl's speech with Daedric effects; Daedric stone recovered from Jarl's lockbox
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Coin molds and ritual materials confirmed at Warehouse 7; office intelligence gathered; northeast marker identified
-- **[[Session 023b\|Session 023b]]**: Horned mask (Masque of Clavicus Vile) confirmed on bandit mage's letter
+- **[[2 -  Sessions/Session 023b\|Session 023b]]**: Horned mask (Masque of Clavicus Vile) confirmed on bandit mage's letter
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Northeast warehouse raided; Scathing encountered; ledger recovered; workers freed; warehouse preserved
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Memory anchor explained; skin-changer Jarl confirmed almost certainly dead; two-day downtime at barrow
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Ward problem identified by Milos; two Ward solutions in progress; warehouses burned; assault preparations underway
