@@ -190,8 +190,45 @@ Active bribe payments to Riften officials within the past two weeks confirms the
 5. Which Riften officials have been bribed and what have they done in exchange?
 6. Who is the **Bruma pendant-wearer** Valen mentioned?
 
+### Session 024 — Ledger Confirms Guild-Bandit-Cult Chain
+The **warehouse ledger** recovered from the northeast warehouse confirmed:
+- **Payment records to the eastern road bandits**: The Guild financed the bandit operation cleared in Session 23b — the mage with the horned mask symbol was on their payroll
+- **"Selection cargo" entries**: Names of disappeared citizens matching Jarl's event guests — being shipped north
+- **Ritual supply confirmations**: Matching the crates Durov flagged at Warehouse 7
+- **Direction to main facility**: Several hours north of the northeast warehouse
+
+### Session 026 — Warehouses Burned; Protest; Strange Gold Pay Docking
+
+#### Both Kjalgrad Warehouses Burned
+**Onasha** and **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** executed a coordinated sabotage with Daria's Lower Lodge network:
+- Guard at first warehouse knocked out (war hammer, flat side; 8 damage; propped against wall)
+- Death bell tripwire traps planted in both warehouses
+- Kindling slung into second warehouse crates — fire spread immediately
+- Both warehouses burned simultaneously via dual network action
+- The Guild's Kjalgrad storage is now destroyed
+
+#### Market Protest
+A **market strike** organized by the Lower Lodge network pulled ~40–50 guards to the market perimeter (weapons sheathed). Merchants and tannery workers protested Guild tariffs and strange gold distribution:
+- **Hana** (elderly merchant): Tariffs pushing sellers to losses, speaking for a group
+- **Yelena** (female tanner): Workers being **paid in strange smelly gold** and having pay **docked for refusing it**. Started approximately one week ago — timeline consistent with the stone going missing. A specific tannery worker was last seen at the warehouses.
+- **[[Info/Characters/999 NPC's/Lady_Aine\|Lady_Aine]]**: Her husband **[[Info/Characters/999 NPC's/Jean_Pierre_LaRoche\|Jean-Pierre LaRoche]]** (Breton silk merchant, distinctive curling moustache) has been missing for over a week, last seen leaving home to open his market stall. Was at the Jarl's banquet shortly before vanishing. Name matches the warehouse ledger's "selection cargo."
+
+#### The Strange Smelly Gold (Brimstone Gold)
+Yelena's testimony confirms the brimstone gold is now being used as **workers' wages** and workers who refuse it are being **docked pay**. This represents an escalation beyond market injection — the Guild is now forcing it into the labour economy.
+
+### Key Questions (Updated)
+1. What is "the Coming Correction"?
+2. What is the **northeast marker** / main facility?
+3. What is the "temple allocation" — and where is this temple?
+4. What happened to the citizens who disappeared (now known to be at the main facility)?
+5. Which Riften officials have been bribed and what have they done in exchange?
+6. Who is the **Bruma pendant-wearer** Valen mentioned?
+7. Where is the **brimstone gold** (now used as wages) coming from?
+
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: First detailed information; [[Info/Characters/999 NPC's/Varren\|Varren]] captured
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Leadership revealed; [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]] and [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] identified; party begins infiltration
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Trade event; Valen confirmed as Coiled Serpent; Camonna Tong murders; Valen evacuated
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Tariff escalation; citizen disappearances; Warehouse 7 investigation; partnership offer; office intelligence gathered; Riften bribes; "Coming Correction" discovered
+- **[[2 -  Sessions/Session 024\|Session 024]]**: Ledger from northeast warehouse confirms Guild paid bandits; selection cargo confirmed; ritual supply chain confirmed; main facility pointed north
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Both Kjalgrad warehouses burned by party + Lower Lodge; market protest; strange gold now used as docked wages; Jean-Pierre LaRoche identified as missing/selection cargo

@@ -84,5 +84,29 @@ The convergence of these elements suggests a coordinated effort by multiple fact
 - Or it could be a way of binding people into unwitting pacts
 - The cult's true goal is likely hidden behind layers of mortal agents
 
+## Daedric Servants in the Region
+
+### The Scathing (Session 024)
+A **Scathing** — a tall, horned, largely humanoid Daedra — was found managing the **northeast warehouse** on behalf of the cult. It openly declared itself a servant of Clavicus Vile:
+> *"My master. The Lord of Bargains. Clavicus Vile."*
+
+It bargained for its release in exchange for allowing the party to search freely, kept its word, and departed. It is **immune to mind-altering magic and toxins** — including Onasha's frenzy bomb (it played along for its own reasons) and Kirya's Calm spell.
+
+See [[Info/Lore/Mimicry_Daedra\|Mimicry_Daedra]] for full Scathing details.
+
+### The Skin-Changer Jarl (Sessions 025–026)
+A **Mimicry Daedra** (skin-changer) is currently posing as the **Jarl of Kjalgrad**. The Daedric stone stolen from the Jarl's lockbox ([[2 -  Sessions/Session 022\|Session 022]]) was confirmed by Milos (the Vestige) in [[2 -  Sessions/Session 025\|Session 025]] to be a **memory anchor** — it periodically transferred the real Jarl's memories to the creature, allowing it to maintain the identity.
+
+- The real Jarl is **almost certainly dead**
+- Without the memory anchor, the creature is **degrading**
+- It knows the stone is gone and is actively searching for it
+- It has not left the Yarls Hall; is reportedly more agitated than usual
+
+This confirms Clavicus Vile's operation includes not just economic manipulation (brimstone gold) but active **political infiltration** of Kjalgrad's government.
+
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: Cult identified by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]; brimstone gold operation discovered
+- **[[Session 023b\|Session 023b]]**: Horned mask letter found on bandit mage — first physical sigil of the cult; confirmed as Clavicus Vile's mask by Onasha
+- **[[2 -  Sessions/Session 024\|Session 024]]**: Scathing encountered at northeast warehouse; confirmed as Clavicus Vile servant; ledger confirms Guild-cult-bandit chain
+- **[[2 -  Sessions/Session 025\|Session 025]]**: Milos explains the skin-changer operation; memory anchor confirmed; Jarl almost certainly dead
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Skin-changer Jarl confirmed still in Yarls Hall, more agitated; both Kjalgrad warehouses burned

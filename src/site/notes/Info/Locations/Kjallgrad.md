@@ -150,3 +150,31 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]]:
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Guild leadership identified; infiltration plan executed
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Trade event; Valen confirmed Coiled Serpent; Kirya infiltrated Jarl's Hall
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Tariffs/disappearances; Warehouse 7 investigation; Valen meeting; office intelligence
+- **[[Session 023b\|Session 023b]]**: Northeast of city — party traveled through woods, located northeast warehouse
+- **[[2 -  Sessions/Session 024\|Session 024]]**: Northeast warehouse raided (Camonna Tong disguise); Scathing encountered; workers freed; ledger recovered; barrow riddle solution researched; [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]] identified as next destination
+- **[[2 -  Sessions/Session 025\|Session 025]]**: Party left Kjalgrad to find the barrow; met Milos; skin-changer Jarl confirmed
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Party returned to Kjalgrad; market protest (Lower Lodge organized); warehouses burned; brimstone gold wages confirmed; Jean-Pierre LaRoche reported missing; Father Aldric recruited at Grand Library; pearl purchased from Julian; Luulov + Durov investigating missing persons
+
+### [[2 -  Sessions/Session 024\|Session 024]] — Northeast Warehouse
+- Party traveled northeast through increasingly dense forest (~3 hours) to the **northeast warehouse**
+- Infiltrated in Camonna Tong disguise
+- See [[Info/Locations/Northeast_Warehouse_and_Main_Facility\|Northeast_Warehouse_and_Main_Facility]]
+
+### [[2 -  Sessions/Session 025\|Session 025]] — The Barrow
+- Party solved the Blackfeather Court riddle and located [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]] south of Kjalgrad
+- Two days of downtime at the barrow while Milos scouted
+
+### [[2 -  Sessions/Session 026\|Session 026]] — Return to Kjalgrad; Warehouses Burned
+- **Market protest**: Lower Lodge organized ~40–50 guard pull; Durov + Luulov took missing persons statements
+- **Both warehouses burned** by party + Lower Lodge network
+- **Father Aldric** recruited at the Grand Library (Breton priest of Stendarr, alteration dabbler) for Ward removal
+- **Pearl purchased** from Julian the alchemist (8 gold) for Ward varnish
+- **Jean-Pierre LaRoche** reported missing by his wife Lady Aine at the protest
+- **Skin-changer Jarl** confirmed still in Yarls Hall; more agitated (Daria's network)
+- Luulov found Durov at the Guildhouse seeking missing persons intel; they attended the protest together heading toward Blackfoot Guild house informants when the warehouses went up
+
+## New Locations (Sessions 024–026)
+- **[[Info/Locations/Northeast_Warehouse_and_Main_Facility\|Northeast_Warehouse_and_Main_Facility]]**: Northeast warehouse (raided, Session 024) and main facility further north (scouted, Session 026)
+- **[[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]]**: Milos's base; south of Kjalgrad via Widow's River and Three Brothers standing stones
+- **Grand Library**: Where [[Info/Characters/999 NPC's/Father_Aldric\|Father_Aldric]] was found (restoration section)
+- **Julian's Alchemist Shop**: Source of the pearl for the Ward varnish

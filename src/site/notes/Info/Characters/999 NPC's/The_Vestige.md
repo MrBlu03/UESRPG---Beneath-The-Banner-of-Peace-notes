@@ -3,49 +3,48 @@
 ---
 
 
-# The Vestige
+# The Vestige (Milos)
 
 ## Basic Information
-**Race:** Dunmer (current guise)  
-**Gender:** Unknown (appears male)  
+**Race:** Argonian (true form); appeared as Dunmer "Sadrith Indoril" in [[Kjalgrad\|Kjalgrad]]  
+**True Name:** Milos (confirmed [[2 -  Sessions/Session 025\|Session 025]])  
 **Title:** The Vestige, The Crowfather, Founder of the Blackfeather Court  
-**Location:** Various (can teleport)  
+**Location:** Various; currently operating from [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]] south of [[Kjalgrad\|Kjalgrad]]  
 **Faction:** [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]  
-**Status:** Immortal / Soulless
+**Status:** Immortal / Soulless — killed by a necromancer, soul imprisoned in Coldharbour  
 
 ## Known Aliases
+- **Milos**: True name, confirmed in [[2 -  Sessions/Session 025\|Session 025]]
 - **Sadrith Indoril**: Dunmer identity used in [[Kjalgrad\|Kjalgrad]]
 - **The Crowfather**: Title among the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]
-- **The Vestige**: His original/true identity
 
 ## Description
 The Vestige is a legendary figure from the **Planemeld Crisis** (circa 2E 582). A hero who lost their soul to **Molag Bal** and ultimately defeated the Daedric Prince to reclaim it. He is the founder of the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] and commands the loyalty of the Daedric crows, including [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]].
 
-In [[Kjalgrad\|Kjalgrad]], he appeared disguised as a Dunmer named **Sadrith Indoril**, wearing leather armor with the **Fighters Guild** symbol. He was investigating Daedric activity in the region while posing as a troublesome investigator who accused citizens of working with Daedra.
+His true name is **Milos**, an **Argonian** — confirmed in [[2 -  Sessions/Session 025\|Session 025]] when the party met him face-to-face in his barrow. Acquainted with **Nordgren** and **Morgan** (Blackfeather Court leadership). Operates with daggers and a short sword, combat skills oriented toward stealth.
 
 ## History
 
 ### The Planemeld (circa 2E 582)
-- Lost his soul to **Molag Bal**
-- Became a "soulless one" - neither fully alive nor dead
+- Lost his soul to **Molag Bal**; became a "soulless one"
 - Was part of the **Fighters Guild** during the crisis
-- **Infiltrated Coldharbour** itself
-- Defeated Molag Bal and reclaimed his soul
+- **Infiltrated Coldharbour** itself; defeated Molag Bal and reclaimed his soul
 - Founded the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] sometime after
 
-### Current Activities ([[2 -  Sessions/Session 020\|Session 020]])
-- Investigating a **Cult of Clavicus Vile** operating in the Rift
-- Tracking **brimstone gold** originating from Oblivion
-- Using the alias "Sadrith Indoril" in [[Kjalgrad\|Kjalgrad]]
-- Has a bounty placed on him by [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] (unknowingly targeting a legendary hero)
+### Death and Vestige Status
+- **Killed by a necromancer** — stabbed in the heart; soul imprisoned in Coldharbour
+- No longer fully mortal — a vestige rather than a living person
+- Does not care about conventional morality around necromancy (*"Do whatever you want."*)
 
 ## Key Interactions
 
-### [[2 -  Sessions/Session 020\|Session 020]] - Revelation in Kjalgrad
+### [[2 -  Sessions/Session 020\|Session 020]] — Revelation in Kjalgrad
 **Initial Encounter:**
 - The party was hired by [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] to capture or kill "Sadrith"
 - Found him at the abandoned [[Info/Locations/Blackfoot_Guild_House_Kjalgrad\|Blackfoot Guild House]] in [[Kjalgrad\|Kjalgrad]]
 - He was standing over a table with notes, investigating Daedric activity
+
+
 
 **The Reveal:**
 - Saw through [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s deception immediately
@@ -156,8 +155,70 @@ Revealed that:
 - During the hunt, they became acquainted rather than enemies
 - The Vestige and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] worked together to deal with **cultists in the sewers**
 
+## Session 024 Updates
+
+### Crow Intelligence
+[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] received the Blackfeather Court riddle (encoded note) leading to Milos's location. Crows were spotted following the party back from the northeast warehouse, confirming the Blackfeather Court was monitoring their movements.
+
+## Session 025 Updates
+
+### The Barrow Meeting
+The party solved the riddle (**Widow's River → Three Brothers standing stones → Barrow of the Oath Breaker King**) and found Milos inside the throne room. He opened the door immediately and offered his resources without reservation.
+
+**True identity confirmed:**
+- An **Argonian** named **Milos** — not the Dunmer identity he had used in the city
+- Previously and briefly met by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] in the [[Kjalgrad\|Kjalgrad]] marketplace — she was the only one who immediately identified him
+- Acquainted with **Nordgren** and **Morgan** (Blackfeather Court leadership)
+
+**The Daedric Stone Debrief:**
+[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] summarised the full intelligence haul and handed over the stone. Milos examined it and explained:
+- The stone is a **memory anchor** for a **skin-changer** (Mimicry Daedra) currently posing as the Jarl
+- The Jarl is **almost certainly dead**; the creature wearing his form is degrading without the anchor
+- The cult knows the stone is gone — **right now**
+
+**On the Horned Mask:**
+Milos confirmed he already knew about the Clavicus Vile connection. He placed the situation as **two overlapping operations**: the Coiled Serpent (Guild corruption) and the cult (Daedric ritual/skin-changer element).
+
+**On the Queen of Riften:**
+Advised against waiting — by the time a message reaches Riften and anyone responds, the main facility would have already acted. Report after.
+
+**On Necromancy:**
+[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] asked directly. He disclosed his death by necromancer's hand and imprisonment in Coldharbour. His view: *"Do whatever you want."* Periwyn pulled out her black tome and began studying immediately.
+
+**Training:**
+Agreed to train [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] in stealth-based combat during the two-day downtime.
+
+**The Two-Day Plan:**
+- He scouts the main facility solo tonight (too many people draws attention)
+- Party rests at the barrow, uses the alchemy lab and enchanting table
+- Returns with intel; they go in together
+- He distracts the top-tier target; the party handles everyone else
+
+## Session 026 Updates
+
+### Returning from the Scout
+Milos returned overnight from the main facility, bloodied but functional. His report:
+- The facility is an old Nordic ruin north of the barrow, up by the edge of the mesa
+- Sporadically guarded — manageable
+- **Problem**: Secondary entrances are Warded shut with powerful glyphs he cannot dispel alone
+
+**Two solutions offered:**
+1. Find a mage skilled in conjuration/alteration to dispel the Wards
+2. Brew an alchemical **varnish** from a **pearl** (purchasable from the alchemist) and a **hag raven feather**
+
+**On the hag raven feather:**
+After learning [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] had previously brokered a truce with the **Witch of the Woods** (the hagraven west of Kjalgrad), Milos offered to retrieve the feather himself — either negotiate or take what he needs. (His reaction to Periwyn's diplomatic history with the creature: *"I swear. Bretons and hag-ravens."*)
+
+**Message by crow:**
+- For [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]: Guard captain Luulov is looking for him
+- For [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]: *"Some women are asking about you, peddling in hidden places and filthy places"*
+
+**Current status:** Departed for the Witch of the Woods to retrieve the hag raven feather. Has not yet returned.
+
 ## Session References
 - **[[2 -  Sessions/Session 004\|Session 004]]**: First mentioned as founder of the Blackfeather Court
 - **[[2 -  Sessions/Session 007\|Session 007]]**: Referenced in Blackfeather Court investigation
 - **[[2 -  Sessions/Session 020\|Session 020]]**: First direct encounter; revealed as Sadrith Indoril
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Analyzed speaking stone; revealed guild intelligence; caring for [[Info/Characters/999 NPC's/Varren\|Varren]] with [[Info/Characters/999 NPC's/Adda\|Adda]]
+- **[[2 -  Sessions/Session 025\|Session 025]]**: True identity as Argonian Milos confirmed; barrow base revealed; stone explained as memory anchor; skin-changer Jarl confirmed; two-day downtime plan agreed
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Returned from scout bloodied; Ward problem identified; varnish recipe given; departed for Witch of the Woods to retrieve hag raven feather

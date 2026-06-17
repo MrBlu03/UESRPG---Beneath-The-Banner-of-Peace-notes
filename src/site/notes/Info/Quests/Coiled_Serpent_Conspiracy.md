@@ -302,3 +302,61 @@ Citizens speaking out against Guild tariffs (now at 45%) are disappearing. **[[I
 *Session 022: **BREAKTHROUGH** — Valen Marr confirmed as Coiled Serpent member wearing Ouroboros pendant. Infiltration successful at highest level yet.*
 
 *Session 023: **MAJOR INTELLIGENCE HAUL** — Jarl confirmed under Guild supervision; Riften officials bribed; "Coming Correction" planned; coin molds and ritual materials at Warehouse 7; northeast marker identified.*
+
+*Session 023b: **HORNED MASK CONFIRMED** — sealed letter in bandit mage's stash bears the symbol of the Masque of Clavicus Vile; directly links the eastern road bandit operation to the cult.*
+
+*Session 024: **NORTHEAST WAREHOUSE RAIDED** — enslaved workers freed; Scathing encountered (Clavicus Vile servant); warehouse ledger confirms Guild paid bandits, lists "selection cargo" (disappeared citizens), and points to main facility several hours north. Warehouse preserved by party decision.*
+
+*Session 025: **TWO-OPERATION STRUCTURE CONFIRMED** — Milos (the Vestige) identifies the Coiled Serpent (Guild layer) and Cult of Clavicus Vile (Daedric layer) as overlapping. Jarl confirmed dead and replaced by skin-changer. Memory anchor explained. Two-day downtime; Milos scouts main facility.*
+
+*Session 026: **WAREHOUSES BURNED** — both Kjalgrad warehouses destroyed in coordinated party + Lower Lodge action. Market protest organized by Lower Lodge; brimstone gold now being used as workers' wages with pay docking for refusal. Jean-Pierre LaRoche (missing silk merchant) confirmed as "selection cargo." Milos scouted main facility; Ward problem identified; Ward solutions in progress.*
+
+## Session 024–026 Updates
+
+### Session 023b — The Horned Mask Confirmed
+- Sealed letter in bandit mage's stash references external financial backing for the bandits
+- Letter signed with a **horned mask symbol** — identified by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] as the **Masque of Clavicus Vile**
+- First physical sigil of the cult; confirms the Guild-bandit chain runs through the cult
+
+### Session 024 — Northeast Warehouse Raided
+- Party infiltrated northeast warehouse in Camonna Tong disguise
+- Found **enslaved workers** (freed; directed to Strider's network)
+- **Scathing** encountered — tall horned Daedra, self-declared Clavicus Vile servant, bargained for release and departed
+- **Warehouse ledger** recovered:
+  - Payments to the eastern road bandits (the mage with the horned mask was on the Guild's payroll)
+  - "Selection cargo" entries — names of disappeared citizens from Jarl's events
+  - Ritual supply confirmations matching Warehouse 7 crates
+  - Main facility: *"several hours further north"*
+
+### Session 025 — Grand Picture Confirmed
+Milos confirmed the **two-operation structure**:
+1. The **Coiled Serpent** — Guild/political corruption
+2. The **Cult of Clavicus Vile** — Daedric/ritual (skin-changer Jarl, ritual supplies, enslaved people)
+
+The Jarl is **almost certainly dead** — replaced by a Mimicry Daedra (skin-changer). This makes the conspiracy's reach extend to direct control of Kjalgrad's head of government.
+
+### Session 026 — Warehouses Burned; Brimstone Gold Wages
+- **Both Kjalgrad warehouses burned** — Onasha and Periwyn + Lower Lodge dual-network action
+- **Market protest** organized by Lower Lodge; ~40–50 guards drawn to perimeter
+- **Brimstone gold as wages**: Tannery workers being paid in strange smelly gold, with pay **docked for refusing it** — began ~1 week ago (timeline matches stone going missing)
+- **Jean-Pierre LaRoche** identified as missing via Lady Aine's report — confirmed as matching selection cargo pattern
+- **Skin-changer Jarl** confirmed still in Yarls Hall; more agitated than usual
+
+## Key Tasks (Final Update — Post-Session 026)
+- [x] ~~Investigate [[Kjalgrad\|Kjalgrad]] in the Rift~~ — **IN PROGRESS**: Major discoveries made
+- [x] ~~Find the contact wearing an Ouroboros pendant~~ — **IDENTIFIED**: [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
+- [x] ~~Identify and confront the Ouroboros wearer~~ — **CONFIRMED**: Valen Marr
+- [x] ~~Analyze the Daedric Speaking Stone~~ — **COMPLETED**: Memory anchor for skin-changer
+- [x] ~~Investigate the northeast marker outside Kjalgrad~~ — **COMPLETED**: Northeast warehouse raided
+- [ ] **Assault the main facility** — see [[Info/Quests/Assault_Main_Facility\|Assault_Main_Facility]] (Ward solutions pending)
+- [ ] **Deal with the skin-changer Jarl** — see [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]] (after facility)
+- [ ] Identify what **"the Coming Correction"** is — timeline, target, nature
+- [ ] Investigate the **Bruma pendant-wearer** Valen mentioned
+- [ ] Follow up on **Riften bribes** — which officials, what they've done
+- [ ] **Report to the Queen of Riften** — after facility operation is complete
+- [ ] Investigate [[Info/Organizations/House_Hlaalu\|House_Hlaalu]] connection and [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]
+- [ ] Analyze the **Dunmer Ledger** for further leads
+- [ ] Learn Valen Marr's full rank within Coiled Serpent
+- [ ] Investigate "The Grand Architect"
+- [ ] Monitor for [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]] vampire activities
+- [ ] Track down remaining cult operatives with black leathers and Daedric runes

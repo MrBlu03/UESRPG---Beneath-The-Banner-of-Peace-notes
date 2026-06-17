@@ -33,7 +33,9 @@
 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | 🟢 | [[Info/Characters/999 NPC's/Torvald_Black-Foot\|Torvald_Black-Foot]]         | Merchant            | 🟢 |
 | [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]                       | 🟢 | [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]                       | Legendary           | 🟢 |
 | [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]           | 🟢 | [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron_Jangleplume]]           | Supernatural        | 🟢 |
+| [[Info/Characters/999 NPC's/Father_Aldric\|Father_Aldric]]                   | 🟢 | [[Info/Characters/999 NPC's/Father_Aldric\|Father_Aldric]]                   | Civilian            | 🟢 |
 | [[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]] | 🟢 | [[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]] | Military            | 🟢 |
+| [[Info/Characters/999 NPC's/Luulov\|Luulov]]                                 | 🟢 | [[Info/Characters/999 NPC's/Luulov\|Luulov]]                                 | Military            | 🟢 |
 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                 | 🟢 | [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]                                 | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]                                 | 🟢 | [[Info/Characters/999 NPC's/Jorrun\|Jorrun]]                                 | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | 🟢 | [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]]         | Supernatural        | 🟢 |
@@ -57,6 +59,8 @@
 | [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]                       | 🟢 | [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]                       | Political           | 🟢 |
 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | 🟢 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | Criminal            | 🟢 |
 | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | ❓  | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | Supernatural        | ❓  |
+| [[Info/Characters/999 NPC's/Lady_Aine\|Lady_Aine]]                           | 🟢 | [[Info/Characters/999 NPC's/Lady_Aine\|Lady_Aine]]                           | Civilian            | 🟢 |
+| [[Info/Characters/999 NPC's/Jean_Pierre_LaRoche\|Jean_Pierre_LaRoche]]       | ❓  | [[Info/Characters/999 NPC's/Jean_Pierre_LaRoche\|Jean_Pierre_LaRoche]]       | Missing Person      | ❓  |
 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | 🟢 | [[Info/Characters/999 NPC's/Stryder\|Stryder]]                               | Underworld Contact  | 🟢 |
 | [[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]                             | 🟢 | [[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]                             | Merchant            | 🟢 |
 | [[Info/Characters/999 NPC's/Renald_Vero\|Renald_Vero]]                       | 🟢 | [[Info/Characters/999 NPC's/Renald_Vero\|Renald_Vero]]                       | Merchant            | 🟢 |

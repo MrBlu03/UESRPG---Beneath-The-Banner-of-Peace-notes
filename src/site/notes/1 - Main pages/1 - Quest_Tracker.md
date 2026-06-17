@@ -13,21 +13,23 @@
 | File                                                                                                        |    | Type     | Started      | Reward                              | Importance |
 | ----------------------------------------------------------------------------------------------------------- | -- | -------- | ------------ | ----------------------------------- | ---------- |
 | [[Info/Quests/Dark_Brotherhood_Contract\|Dark_Brotherhood_Contract]]                                     | ⭐  | Main     | Session 006  | TBD                                 | Major      |
-| [[Info/Quests/Blackfeather_Court_Investigation\|Blackfeather_Court_Investigation]]                       | ⭐  | Main     | Session 007  | TBD                                 | Major      |
 | [[Info/Quests/Undead_Werewolf_Threat_Grey_Host_Connection\|Undead_Werewolf_Threat_Grey_Host_Connection]] | ⭐  | Main     | Session 007  | TBD                                 | Major      |
 | [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]                                     | ⭐  | Main     | Session 012  | TBD                                 | Major      |
 | [[Info/Quests/Investigate_Cult_of_Clavicus_Vile_Cave\|Investigate_Cult_of_Clavicus_Vile_Cave]]           | ⭐  | Main     | Session 020  | Favor from The Vestige              | Major      |
 | [[Info/Quests/Infiltrate_Guild_of_Silverroad\|Infiltrate_Guild_of_Silverroad]]                           | ⭐  | Main     | Session 021  | TBD                                 | Major      |
 | [[Info/Quests/Investigate_Jarls_Dark_Stone\|Investigate_Jarls_Dark_Stone]]                               | ⭐  | Main     | Session 022  | TBD                                 | Major      |
+| [[Info/Quests/Assault_Main_Facility\|Assault_Main_Facility]]                                             | ⭐  | Main     | Session 024  | TBD                                 | Major      |
+| [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]]                                             | ⭐  | Main     | Session 025  | TBD                                 | Major      |
 | [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]                                                         | 📋 | Optional | Session 013  | Unknown                             | Minor      |
 | [[Info/Quests/Study_Shadow_Stone_Powers\|Study_Shadow_Stone_Powers]]                                     | 📋 | Optional | TBD          | TBD                                 | Background |
-| [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                             | 👤 | Personal | Session 007  | TBD                                 | Major      |
 | [[Info/Quests/Periwyns_Vampire_Hunter_Search\|Periwyns_Vampire_Hunter_Search]]                           | 👤 | Personal | Session 007  | TBD                                 | Minor      |
+| [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                             | 👤 | Personal | Session 007  | TBD                                 | Major      |
 | [[Info/Quests/Durovs_Lost_Past\|Durovs_Lost_Past]]                                                       | 👤 | Personal | Session 010  | TBD                                 | Major      |
+| [[Info/Quests/Woad_Training\|Woad_Training]]                                                             | 👤 | Personal | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Lute_Acquisition\|Lute_Acquisition]]                                                       | 👤 | Personal | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Moonsugar_Business_Venture\|Moonsugar_Business_Venture]]                                   | 👤 | Personal | Session 012  | TBD                                 | Minor      |
-| [[Info/Quests/Woad_Training\|Woad_Training]]                                                             | 👤 | Personal | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Necromantic_Training\|Necromantic_Training]]                                               | 👤 | Personal | Session 012a | Necromantic knowledge and abilities | Major      |
+| [[Info/Quests/Jean_Pierre_LaRoche_Missing\|Jean_Pierre_LaRoche_Missing]]                                 | 📋 | Side     | Session 026  | TBD                                 | Minor      |
 
 { .block-language-dataview}
 
@@ -42,8 +44,8 @@
 | [[Info/Quests/Haunted_Lodge_Contract\|Haunted_Lodge_Contract]]             | ⭐  | Main               | Session 009  | 400 gold each                                    |
 | [[Info/Quests/Return_to_Riften\|Return_to_Riften]]                         | ⭐  | Main               | Session 007  | 250 gold each                                    |
 | [[Info/Quests/Dispel_the_Darkness\|Dispel_the_Darkness]]                   | ⭐  | Main               | Session 006  | Sunlight restored to Greenwall                   |
-| [[Info/Quests/Fangs_of_Fjelhorst_Formation\|Fangs_of_Fjelhorst_Formation]] | ⭐  | Main               | Session 004  | Official Royal Status                            |
 | [[Info/Quests/Harmugstahl_Investigation\|Harmugstahl_Investigation]]       | ⭐  | Main               | Session 004  | 400 gold each                                    |
+| [[Info/Quests/Fangs_of_Fjelhorst_Formation\|Fangs_of_Fjelhorst_Formation]] | ⭐  | Main               | Session 004  | Official Royal Status                            |
 | [[Info/Quests/Find_Missing_Alchemist\|Find_Missing_Alchemist]]             | ⭐  | Main               | Session 003  | 50 gold each                                     |
 | [[Info/Quests/Trevas_Bend_Aid\|Trevas_Bend_Aid]]                           | ⭐  | Main               | Session 002  | 250 gold total                                   |
 

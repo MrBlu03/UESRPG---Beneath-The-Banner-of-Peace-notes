@@ -90,3 +90,16 @@ This quest demonstrates that not all supernatural threats require violent soluti
 - Demonstrates that supernatural beings can be reasoned with
 - The witch's requirements (hearts, eyeballs) suggest necromantic or dark magical practices
 - Cold weather (-18°C) during the investigation added to the challenge
+
+## Session 026 — The Truce Becomes Operationally Critical
+[[Info/Characters/999 NPC's/The_Vestige\|Milos]] (the Vestige) departed the [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]] to retrieve a **hag raven feather** from the Witch:
+
+**Why this matters:** A hag raven feather combined with a pearl (purchased from Julian for 8 gold) produces a **Ward-dissolving varnish** — the alchemical solution to the powerful cult glyphs blocking secondary entrances to the main facility. See [[Info/Quests/Assault_Main_Facility\|Assault_Main_Facility]].
+
+Milos indicated he would either negotiate or take what he needs. [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s prior diplomatic truce gives him a context, though his approach to the Witch is likely more direct than hers was.
+
+**Status:** Milos departed; outcome not yet known. If successful, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] brews the varnish.
+
+## Session References
+- **[[Session 023a\|Session 023a]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] investigated; found dead horse and abandoned camp; negotiated truce; tribute arrangement (monthly hearts, eyeballs, gems) established
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Milos visited to retrieve hag raven feather for Ward varnish; outcome pending

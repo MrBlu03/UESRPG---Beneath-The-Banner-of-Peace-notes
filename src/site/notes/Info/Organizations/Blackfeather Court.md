@@ -89,6 +89,32 @@ A crow appeared at the window of [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Ha
 
 This delivery confirms The Vestige is tracking the party's location and maintaining communication through his crows.
 
+## Session 024 — Post-Warehouse Crows
+After the party returned from the northeast warehouse, **crows were observed following them back** — behaviour consistent with previous Blackfeather Court contacts. It remained unclear whether one was Jango specifically. The party discussed solving the riddle and finding the contact as their immediate priority.
+
+## Session 025 — The Riddle Solved; Contact Found
+The party decoded the **Blackfeather Court riddle** and located the contact:
+
+**The riddle:**
+> *"When the Silver Gate fed the wandering road... seek not the trader's beaten trail nor hunter's path through wood and vale... walk where the widow's river bends... beneath the watch of brothers three whose names were lost to memory... there lies the hole no song will keep, where oath-breaker king was laid to sleep..."*
+
+**Solution:**
+- **Silver Gate** = south gate of Kjalgrad
+- **Widow's River** = small frozen stream south of Kjalgrad
+- **Three Brothers** = standing stones in the mountains, referenced in *On the Early Years of the Rift*
+- **Barrow** = tomb of the Oath Breaker King, near the stones
+
+A **crow with glowing dark purple eyes** landed on one of the standing stones and led the party to the barrow entrance, then vanished inside.
+
+**The contact:** **Milos** — an Argonian, the true identity of the Vestige. Based in the [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]]. The Blackfeather Court investigation quest is now **resolved** at this level.
+
+## Session 026 — Crow Messaging
+A Blackfeather Court crow arrived at the barrow with two messages (before the party departed):
+- **For Durov**: Guard captain Luulov is looking for him
+- **For Onasha**: *"Some women are asking about you, peddling in hidden places and filthy places"*
+
+The Blackfeather Court continues to monitor the party's movements and relay intelligence.
+
 ## Session References
 - **[[2 -  Sessions/Session 004\|Session 004]]**: First mentioned; connection to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s backstory
 - **[[2 -  Sessions/Session 007\|Session 007]]**: Blackfeather Court investigation started
@@ -97,3 +123,6 @@ This delivery confirms The Vestige is tracking the party's location and maintain
 - **[[2 -  Sessions/Session 020\|Session 020]]**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] encountered and revealed his identity
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Crow guided party out of [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] after Kirya's infiltration
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Crow delivered note to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]; *"Apple note from Master. Thank you."*
+- **[[2 -  Sessions/Session 024\|Session 024]]**: Crows observed following the party back from the northeast warehouse
+- **[[2 -  Sessions/Session 025\|Session 025]]**: Riddle solved; Milos (the contact) found in the [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]]; Daedric stone delivered; skin-changer briefing received
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Crow messages delivered at the barrow; Milos departed to retrieve hag raven feather

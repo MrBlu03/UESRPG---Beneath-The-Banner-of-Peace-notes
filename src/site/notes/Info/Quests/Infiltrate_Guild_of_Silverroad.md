@@ -253,7 +253,39 @@ A guard whispered to Valen mid-meeting (likely about the warehouse investigation
 - [ ] Identify the Bruma pendant-wearer Valen mentioned
 - [ ] Extract without compromising cover (when investigation complete)
 
-## Session References
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Quest initiated; forged letter created and delivered to [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]; directed to meet [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
 - **[[2 -  Sessions/Session 022\|Session 022]]**: **BREAKTHROUGH** - Infiltrated trade event; Valen Marr confirmed as Coiled Serpent member (Ouroboros pendant spotted); Periwyn made legitimate trade connections; Durov maintained guard cover; Valen evacuated city due to Camonna Tong
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Periwyn met Valen at guildhouse; partnership offer; pendant cover story; office searched; major intelligence gathered ([[Info/1 - Party Findings/Valen_Office_Intelligence\|Valen_Office_Intelligence]])
+- **[[2 -  Sessions/Session 024\|Session 024]]**: Northeast warehouse raided (Camonna Tong cover); warehouse ledger recovered; enslaved workers freed; Scathing (Clavicus Vile servant) encountered and released; warehouse preserved to maintain supply chain
+- **[[2 -  Sessions/Session 026\|Session 026]]**: **Both Kjalgrad warehouses burned** in coordinated party + Lower Lodge network action. Guild's Kjalgrad storage destroyed. Durov attended market protest with guard captain Luulov; took missing persons statements. Brimstone gold now being used as tannery wages with pay docking for refusal.
+
+## Session 024–026 Additional Notes
+
+### Session 024 — Northeast Warehouse Raided
+The party disguised themselves as Camonna Tong operatives (using attire from the raid in Session 23b) and attacked the northeast warehouse:
+- Workers freed and directed to Strider's sewer network for safety
+- Scathing encountered (Clavicus Vile servant) — bargained for freedom; allowed the party to search freely
+- Warehouse ledger: key intelligence document linking Guild to bandits, disappeared citizens, and main facility
+- **Warehouse not burned** — Periwyn argued that the supply chain has more value as intelligence
+
+### Session 026 — Warehouses Burned; Durov at the Protest
+- **Both Kjalgrad warehouses burned**: Onasha/Periwyn executed the operation with Daria's Lower Lodge contacts; death bell traps planted, guard knocked out, fire spread simultaneously from both sites
+- **Durov + Luulov at the protest**: Attended the market strike organized by the Lower Lodge as cover; took statements from Hana (merchant), Yelena (tannery), and Lady Aine (missing husband)
+- **Brimstone gold wages**: Tannery workers being paid in strange gold and docked pay for refusing — new Guild pressure tactic
+
+## Updated Key Tasks (Post-Session 026)
+- [x] ~~Create convincing forged evidence~~ — **COMPLETED**
+- [x] ~~Deceive [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]~~ — **COMPLETED**
+- [x] ~~Meet [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] with forged letter~~ — **COMPLETED**
+- [x] ~~Confirm Valen Marr is Coiled Serpent~~ — **CONFIRMED**
+- [x] ~~Search Valen's office~~ — **COMPLETED**
+- [x] ~~Investigate the northeast marker on Valen's map~~ — **COMPLETED** (Session 024)
+- [x] ~~Destroy the Guild's Kjalgrad warehouse operations~~ — **COMPLETED** (Session 026)
+- [ ] **Assault the main facility** (the Guild's cult operations hub) — see [[Info/Quests/Assault_Main_Facility\|Assault_Main_Facility]]
+- [ ] **Deal with the skin-changer Jarl** — see [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]]
+- [ ] Identify "the Coming Correction" — timeline and target
+- [ ] Follow up on Riften bribes — which officials, what they've done
+- [ ] Investigate "The Grand Architect"
+- [ ] Determine [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]'s direct involvement
+- [ ] Identify the Bruma pendant-wearer Valen mentioned
+

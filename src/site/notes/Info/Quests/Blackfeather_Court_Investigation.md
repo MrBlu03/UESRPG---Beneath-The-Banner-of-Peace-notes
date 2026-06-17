@@ -5,12 +5,14 @@
 
 # Blackfeather Court Investigation
 
-**Status**: Active (Session 020) - **MAJOR BREAKTHROUGH**  
-**Objective**: Research the mysterious organization mentioned by the talking fox
+**Status**: Resolved (Session 025) — Contact found; quest complete at this level  
+**Objective**: ~~Research the mysterious organization mentioned by the talking fox~~ — **RESOLVED**: Milos (the Argonian Vestige) found in the Barrow of the Oath Breaker King
 
 ## Key Tasks
 - [x] ~~Research what or who the "Blackfeather Court" might be~~ - **COMPLETED**: Met [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]], founder
 - [x] ~~Look for the Talking Fox again~~ - **NO LONGER NEEDED**: Alliance formed with The Vestige directly
+- [x] ~~Solve the riddle to find the Blackfeather Court contact~~ - **COMPLETED** ([[2 -  Sessions/Session 025\|Session 025]]): Widow's River → Three Brothers → Barrow of the Oath Breaker King
+- [x] ~~Deliver the Daedric stone~~ - **COMPLETED** ([[2 -  Sessions/Session 025\|Session 025]]): Handed to Milos; confirmed as memory anchor for a skin-changer
 - [ ] Determine the meaning and purpose of the dragon language summoning scroll (Onasha possesses)
 - [ ] Identify the components mentioned in the ritual
 - [ ] Consult [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] about his knowledge of the group
@@ -37,7 +39,17 @@
 - Called [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] "little flower" - **reason unknown**
 - Reacted aggressively to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] initially
 
+## Session 025 - The Contact Found
+- True identity revealed: **Milos**, an **Argonian** (not Dunmer)
+- True name disclosed, barrow base confirmed: [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]]
+- The contact the party had been seeking since the riddle was Milos himself
+- He immediately admitted the party and offered his resources without reservation
+- Acquainted with Nordgren and Morgan (Blackfeather Court leadership)
+- The riddle is **solved**; the contact is **found**
+
 ## Notes
 *The [[Talking Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
 
 *Session 020: The founder has revealed himself and formed an alliance with the party. His recognition of Periwyn and reaction to Onasha suggest deeper connections to the party's histories.*
+
+*Session 025: The contact quest is now complete. Milos is an Argonian Vestige — killed by a necromancer, soul imprisoned in Coldharbour. He opened the door the moment the party knocked.*

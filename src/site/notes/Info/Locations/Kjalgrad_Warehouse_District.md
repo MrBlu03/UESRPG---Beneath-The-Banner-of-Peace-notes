@@ -81,3 +81,8 @@ The same map also showed a mark **northeast of Kjalgrad outside the city walls**
 
 ## Session References
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Party investigated Warehouse 7; found coin molds, black candles, animal parts; Durov paid to hold crates; supervisor disappeared; [[Info/Characters/999 NPC's/Warehouse_Contact\|Warehouse_Contact]] made contact
+- **[[2 -  Sessions/Session 024\|Session 024]]**: Northeast Warehouse investigated (see [[Info/Locations/Northeast_Warehouse_and_Main_Facility\|Northeast_Warehouse_and_Main_Facility]]); enslaved workers found and freed; Scathing encountered; ledger recovered confirming ritual supplies match Warehouse 7 crates and linking to bandit payments and "selection cargo"
+- **[[2 -  Sessions/Session 026\|Session 026]]**: **Both Kjalgrad city warehouses burned**. Onasha and Periwyn executed the sabotage operation: death bell tripwire traps planted, guard at warehouse one knocked out and propped up; kindling slung into crates at warehouse two; both warehouses burned simultaneously — one by the party, one by Daria's embedded network contacts. The Guild's Kjalgrad storage is destroyed. **Note: The main facility (ruin north of the northeast warehouse) was not affected by this operation.**
+
+## Current Status (Post-Session 026)
+Both city warehouses are burned. The northeast warehouse is cleared but not destroyed (party chose to preserve the supply chain). The main facility north of the northeast warehouse is intact and still operational.

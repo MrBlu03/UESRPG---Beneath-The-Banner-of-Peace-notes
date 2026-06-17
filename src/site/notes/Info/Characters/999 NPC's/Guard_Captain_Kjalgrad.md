@@ -46,4 +46,7 @@ As a guard captain whose entire force is bankrolled by the [[Info/Organizations/
 - Was found drinking mead at the [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]] when Durov approached in the morning
 
 ## Session References
-- **[[2 -  Sessions/Session 023\|Session 023]]**: Confirmed arrests with no dungeon records; disappearances unaccounted for; encountered at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Confirmed arrests with no dungeon records; disappearances unaccounted for; encountered at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]] (unnamed)
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Named as **Luulov** — see [[Info/Characters/999 NPC's/Luulov\|Luulov]] for full details. Found Durov at the Guildhouse; attended the market protest together; taking missing persons statements alongside Durov; heading to meet shady informants near the old Blackfoot Guild house when both warehouses went up in flames.
+
+> **Note:** This file covers the initial unnamed encounter. The full NPC file is [[Info/Characters/999 NPC's/Luulov\|Luulov]].

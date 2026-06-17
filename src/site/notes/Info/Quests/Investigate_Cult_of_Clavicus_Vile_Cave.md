@@ -177,3 +177,52 @@ The investigation has revealed the conspiracy reaches the highest levels:
 - Consider if the Camonna Tong could be an enemy of the cult (potential ally?)
 
 *Session 022: **BREAKTHROUGH** - Valen Marr confirmed Coiled Serpent; Jarl possesses Daedric artifact; conspiracy reaches highest levels of city government.*
+
+## Session 023b Updates — First Cult Sigil
+A sealed letter in the bandit mage's stash (eastern road) bore the **Masque of Clavicus Vile** symbol (horned mask with curved horns) — identified by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]. This is the first physical sigil of the cult encountered; it confirms the bandit operation was funded through the cult, connecting the Guild to banditry on the road.
+
+## Session 024 Updates — Scathing Encountered; Ledger Recovered
+The party raided the **northeast warehouse** disguised as Camonna Tong:
+- **The Scathing**: A tall, horned Daedra emerged from the warehouse interior after combat and declared itself a servant of **Clavicus Vile**. It offered a bargain (freedom for free search access) and kept its word. Confirmed immune to mind-altering magic and toxins.
+  - See [[Info/Lore/Mimicry_Daedra\|Mimicry_Daedra]] for full Scathing details
+- **Enslaved workers**: Found and freed; directed to Strider's sewer network
+- **Warehouse ledger**: Confirmed the cult-Guild-bandit chain, listed "selection cargo" (disappeared citizens from Jarl's events), pointed to the main facility north
+
+## Session 025 Updates — Skin-Changer Confirmed; Memory Anchor Explained
+Milos (the Vestige) confirmed the dark runic stone is a **memory anchor** for a Mimicry Daedra posing as the Jarl:
+- The Jarl is **almost certainly dead**
+- The creature is now **degrading** — memory gaps, wrong mannerisms
+- It knows the stone is gone and is searching for it
+- The cult operates two overlapping layers: economic manipulation AND political infiltration via skin-changer
+
+## Session 026 Updates — Ward Problem; Assault Preparations
+- Milos returned from scouting the **main facility** (Nordic ruin, edge of the mesa, several hours north)
+- Secondary entrances are **Warded shut** by powerful cult glyphs
+- Two Ward solutions in progress: alchemical varnish (pearl + hag raven feather) and [[Info/Characters/999 NPC's/Father_Aldric\|Father_Aldric]] (Breton alteration mage)
+- Milos departed to retrieve the hag raven feather from the Witch of the Woods
+- Both Kjalgrad warehouses burned in coordinated party + Lower Lodge action
+
+## Updated Key Tasks (Post-Session 026)
+- [x] ~~Meet [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]~~ — **COMPLETED**: Alliance formed
+- [x] ~~Investigate [[Info/Characters/999 NPC's/Varren\|Varren]]~~ — **COMPLETED**: Confession obtained; Varren severely traumatized
+- [x] ~~Retrieve the **Daedric Speaking Stone**~~ — **COMPLETED** by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
+- [x] ~~Analyze the **Daedric Speaking Stone**~~ — **COMPLETED** (Session 021): Links to Oblivion
+- [x] ~~Identify the high-ranking Coiled Serpent member with Ouroboros~~ — **CONFIRMED**: [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
+- [x] ~~Deliver the Daedric stone to the Blackfeather Court~~ — **COMPLETED** (Session 025): Handed to Milos; confirmed as memory anchor
+- [x] ~~Investigate the northeast marker~~ — **COMPLETED** (Session 024): Northeast warehouse
+- [x] ~~Determine Jarl's status~~ — **CONFIRMED** (Session 025): Almost certainly dead; skin-changer in place
+- [ ] **Assault the main facility** — see [[Info/Quests/Assault_Main_Facility\|Assault_Main_Facility]]
+- [ ] **Deal with the skin-changer Jarl** — see [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]]
+- [ ] Understand what the cult's "bargain" entails — the grand purpose of the brimstone gold, skin-changer, and enslaved people
+- [ ] Identify "The Grand Architect" — the orchestrator behind both the Guild and cult operations
+- [ ] Determine what "the Coming Correction" is
+
+## Session References
+- **[[2 -  Sessions/Session 020\|Session 020]]**: Quest initiated; [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] met; alliance formed; [[Info/Characters/999 NPC's/Varren\|Varren]] captured
+- **[[2 -  Sessions/Session 021\|Session 021]]**: [[Info/Characters/999 NPC's/Varren\|Varren]] interrogated; Daedric speaking stone analyzed; speaking stone links to Oblivion
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Trade event; Jarl's speech with Daedric effects; Daedric stone recovered from Jarl's lockbox
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Coin molds and ritual materials confirmed at Warehouse 7; office intelligence gathered; northeast marker identified
+- **[[Session 023b\|Session 023b]]**: Horned mask (Masque of Clavicus Vile) confirmed on bandit mage's letter
+- **[[2 -  Sessions/Session 024\|Session 024]]**: Northeast warehouse raided; Scathing encountered; ledger recovered; workers freed; warehouse preserved
+- **[[2 -  Sessions/Session 025\|Session 025]]**: Memory anchor explained; skin-changer Jarl confirmed almost certainly dead; two-day downtime at barrow
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Ward problem identified by Milos; two Ward solutions in progress; warehouses burned; assault preparations underway

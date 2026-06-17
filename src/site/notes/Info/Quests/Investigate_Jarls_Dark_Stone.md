@@ -217,3 +217,5 @@ The burnt letter changes the investigation priorities:
 ## Session References
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Discovered by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] in the Jarl's lockbox; taken by party for analysis
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Burnt letter from Valen's office confirms Jarl "remains cooperative, condition requires continued supervision"; direct connection to stone now established
+- **[[2 -  Sessions/Session 025\|Session 025]]**: **MAJOR REVELATION** — Milos (the Vestige) confirmed the stone is a **memory anchor** for a Mimicry Daedra (skin-changer) posing as the Jarl. The Jarl is almost certainly dead. The creature is now degrading without the anchor. See [[Info/Lore/Mimicry_Daedra\|Mimicry_Daedra]] and [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]] for full details.
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Daria's network confirms skin-changer has not left the Yarls Hall; is more agitated than usual — consistent with memory degradation

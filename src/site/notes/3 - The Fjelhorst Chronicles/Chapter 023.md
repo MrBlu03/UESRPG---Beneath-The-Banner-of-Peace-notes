@@ -145,4 +145,4 @@ The meaning was unclear.
 
 But in Kjallgrad, where coin smelled of brimstone and ledgers concealed more than numbers, such words rarely arrived without reason.
 
-[[Chapter 024\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 024\|Next Chapter →]]
