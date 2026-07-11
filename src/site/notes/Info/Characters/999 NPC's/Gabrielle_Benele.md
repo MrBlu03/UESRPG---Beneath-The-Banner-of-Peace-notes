@@ -13,7 +13,7 @@ Gabrielle arrived in [[Info/Locations/Falderstad\|Falderstad]] before the 10th o
 - **Transport**: The artifact departed [[Info/Locations/Falderstad\|Falderstad]] 1-2 days prior, heading to [[Info/Locations/Eyevea\|Eyevea]] via [[Windhelm\|Windhelm]]
 - **Security**: The core has been wrapped in multiple layers of **anti-Daedric wards**
 - **Storage**: [[Vanus\|Vanus]] is handling storage arrangements at [[Info/Locations/Eyevea\|Eyevea]]
-- **Request**: She asked [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to keep an eye out for artifacts or documents tied to the [[Grey Host\|Grey Host]] and to send word to the guild if found
+- **Request**: She asked [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to keep an eye out for artifacts or documents tied to the [[Info/Lore/Grey_Host\|Grey Host]] and to send word to the guild if found
 
 ## Relationships
 - **Mages Guild Member**: Part of the expert team sent by Skald-King Jorunn

@@ -200,7 +200,7 @@ The **warehouse ledger** recovered from the northeast warehouse confirmed:
 ### Session 026 — Warehouses Burned; Protest; Strange Gold Pay Docking
 
 #### Both Kjalgrad Warehouses Burned
-**Onasha** and **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** executed a coordinated sabotage with Daria's Lower Lodge network:
+**Onasha** and **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]** executed a coordinated sabotage with Taria's Lower Lodge network:
 - Guard at first warehouse knocked out (war hammer, flat side; 8 damage; propped against wall)
 - Death bell tripwire traps planted in both warehouses
 - Kindling slung into second warehouse crates — fire spread immediately
@@ -216,6 +216,13 @@ A **market strike** organized by the Lower Lodge network pulled ~40–50 guards 
 #### The Strange Smelly Gold (Brimstone Gold)
 Yelena's testimony confirms the brimstone gold is now being used as **workers' wages** and workers who refuse it are being **docked pay**. This represents an escalation beyond market injection — the Guild is now forcing it into the labour economy.
 
+### Session 027 — Jailbreak & Arson of Yarls Hall
+
+#### Interrogation and Escape
+- **Interrogating Onasha**: Following the warehouse fires, Jarl's steward [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] (under suspected Guild influence) tortured [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] in the dungeon beneath the Jarl's hall. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] sent a warning message to the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] about the steward's cult and Daedric connections.
+- **Durov's Deception**: [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/999 NPC's/Irlav\|Irlav]] arrived to interrogate Onasha on "Guild orders." Durov successfully deceived the steward into leaving, found the [[Info/1 - Party Findings/Official Writ of Authority\|Queen's writ of authority]] in Periwyn's confiscated journal, and hid it in his armor.
+- **The Jailbreak and Fire**: Periwyn and a Lower Lodge rescue squad broke Onasha out of her cell via a secret sewer wall. Durov passed the Queen's writ back to Periwyn during the escape. Before leaving, Onasha threw a flame bomb in the hall, setting the [[Info/Locations/Clan_Morvan_Longhouse\|Yarls Hall]] on fire.
+
 ### Key Questions (Updated)
 1. What is "the Coming Correction"?
 2. What is the **northeast marker** / main facility?
@@ -224,6 +231,7 @@ Yelena's testimony confirms the brimstone gold is now being used as **workers' w
 5. Which Riften officials have been bribed and what have they done in exchange?
 6. Who is the **Bruma pendant-wearer** Valen mentioned?
 7. Where is the **brimstone gold** (now used as wages) coming from?
+8. Did Jarl's steward [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] or the Jarl survive the Yarls Hall fire?
 
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: First detailed information; [[Info/Characters/999 NPC's/Varren\|Varren]] captured
@@ -232,3 +240,5 @@ Yelena's testimony confirms the brimstone gold is now being used as **workers' w
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Tariff escalation; citizen disappearances; Warehouse 7 investigation; partnership offer; office intelligence gathered; Riften bribes; "Coming Correction" discovered
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Ledger from northeast warehouse confirms Guild paid bandits; selection cargo confirmed; ritual supply chain confirmed; main facility pointed north
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Both Kjalgrad warehouses burned by party + Lower Lodge; market protest; strange gold now used as docked wages; Jean-Pierre LaRoche identified as missing/selection cargo
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha and Periwyn arrested; Periwyn escaped custody and rescue squad (Lower Lodge) broke Onasha out; Durov pocketed Queen's writ and handed to Periwyn; Jarl's steward Darius Karo tortured Onasha; Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during escape; Durov met contact John and found missing merchant's journal scraps pointing to the mesa.
+

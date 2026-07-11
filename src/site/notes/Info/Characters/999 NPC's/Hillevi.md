@@ -14,7 +14,7 @@
 - Member of the [[Info/Organizations/Companions\|Companions]] organization
 - Provided healing for the torture victim in Greenwall keep
 - Assisted the party during the Greenwall infiltration
-- Knows [[Info/Characters/Beitild\|Beitild]] and [[Info/Characters/Olen\|Olen]] who died during the Greenwall attack
+- Knows [[Info/Characters/999 NPC's/Beitild\|Beitild]] and [[Info/Characters/999 NPC's/Olen\|Olen]] who died during the Greenwall attack
 
 ## Location
 - Originally encountered at the war camp outside [[Info/Locations/Greenwall\|Greenwall]]

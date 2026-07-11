@@ -21,7 +21,7 @@ According to [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]:
 - Nocturnal is associated with **Daedric crows**
 - These crows are immortal, teleporting creatures that can speak
 - They are described as "curious creatures"
-- **[[Baron Jangleplume\|Baron Jangleplume]]** is one such Daedric crow
+- **[[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron Jangleplume]]** is one such Daedric crow
 - The crows are known for mischievous behavior
 
 ## Organizations
@@ -29,7 +29,7 @@ According to [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]:
 - **Thieves Guild**: Traditional worshippers of Nocturnal (not yet encountered in campaign)
 
 ## Related NPCs
-- **[[Baron Jangleplume\|Baron Jangleplume]]**: Daedric crow associated with Nocturnal
+- **[[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron Jangleplume]]**: Daedric crow associated with Nocturnal
 - **[[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]**: Provided information about Nocturnal's association with the crows
 
 ## Session References

@@ -18,7 +18,7 @@ The Blackfeather Court is a mysterious and secretive organization first mentione
 
 ## Members
 - **[[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]**: Founder and leader, also known as "The Crowfather"
-- **[[Baron Jangleplume\|Baron Jangleplume]]**: A rotund Daedric crow with the title "Baron"
+- **[[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron Jangleplume]]**: A rotund Daedric crow with the title "Baron"
 - **Murder of Crows**: Daedric crows that serve as messengers and agents
 
 ## The Vestige Revealed ([[2 -  Sessions/Session 020\|Session 020]])
@@ -118,7 +118,7 @@ The Blackfeather Court continues to monitor the party's movements and relay inte
 ## Session References
 - **[[2 -  Sessions/Session 004\|Session 004]]**: First mentioned; connection to [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s backstory
 - **[[2 -  Sessions/Session 007\|Session 007]]**: Blackfeather Court investigation started
-- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Baron Jangleplume\|Baron Jangleplume]]'s nature revealed by [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]
+- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron Jangleplume]]'s nature revealed by [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]
 - **[[2 -  Sessions/Session 019\|Session 019]]**: Crows made contact at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]
 - **[[2 -  Sessions/Session 020\|Session 020]]**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] encountered and revealed his identity
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Crow guided party out of [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] after Kirya's infiltration

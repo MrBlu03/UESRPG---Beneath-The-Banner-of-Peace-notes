@@ -62,7 +62,7 @@ Renald Vero represents:
 
 ## Relationships
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]**: Business contact - daughter of his former trading partner; wants to help her restart the family business
-- **[[Jorvik Hanison\|Jorvik Hanison]]**: Acquaintance through guild events (mutual acknowledgment)
+- **[[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik Hanison]]**: Acquaintance through guild events (mutual acknowledgment)
 - **Lunclaire Family (Deceased)**: Former trading partners - had extensive silk trade dealings
 - **[[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]**: Fellow merchant at the same event
 

@@ -66,7 +66,7 @@ The document Olvfrost gave Periwyn:
 ## Relationships
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]**: New business contact - gave her a signed lumber trade agreement
 - **[[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik Hanison]]**: Mutual acquaintance - Olvfrost uses this connection to establish trust
-- **[[Renald Vero\|Renald Vero]]**: Fellow merchant at the same event
+- **[[Info/Characters/999 NPC's/Renald_Vero\|Renald Vero]]**: Fellow merchant at the same event
 
 ## Strategic Value
 - Provides immediate legitimate trade documentation for Periwyn

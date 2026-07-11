@@ -82,7 +82,7 @@ What the party knows about Valen:
 - **[[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]**: Target of the failed hunt
 - **[[Fangs of Fjelhorst\|Fangs of Fjelhorst]]**: Met at trade event under false pretenses
 - **[[Info/Characters/999 NPC's/Huldir\|Huldir]]**: Personal guard who works closely with Valen
-- **[[Renald Vero\|Renald Vero]] and [[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]**: Trade associates at the event
+- **[[Info/Characters/999 NPC's/Renald_Vero\|Renald Vero]] and [[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]]**: Trade associates at the event
 
 ## Significance
 Valen Marr represents a critical link in the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] hierarchy. As Trade Advocate reporting directly to the Guildmaster, he likely has knowledge of:

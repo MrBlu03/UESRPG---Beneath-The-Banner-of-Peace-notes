@@ -7,16 +7,16 @@
 ![Screenshot798.png](/img/user/Z%20-%20Image%20Assets/Screenshot798.png)
 
 ## Description
-[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] is a character with a tragic past involving vampires. She lost her family during the [[Night of Crimson Tears\|Night of Crimson Tears]] and subsequently trained with the [[Knights of Arkay\|Knights of Arkay]] to combat vampire threats.
+[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] is a character with a tragic past involving vampires. She lost her family during the [[Night of Crimson Tears\|Night of Crimson Tears]] and subsequently trained with the [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]] to combat vampire threats.
 
 ## Relationships
-- Former member of the [[Knights of Arkay\|Knights of Arkay]]
+- Former member of the [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]
 - Lost family to vampires during the [[Night of Crimson Tears\|Night of Crimson Tears]]
 
 ## Key Events
 - **[[2 -  Sessions/Session 001\|Session 001]]**: Introduced as part of the party
 - **[[2 -  Sessions/Session 003\|Session 003]]**: Shared knowledge about vampire weaknesses
-- **[[2 -  Sessions/Session 004\|Session 004]]**: Provided critical information about [[Clan Volkihar\|Clan Volkihar]]
+- **[[2 -  Sessions/Session 004\|Session 004]]**: Provided critical information about [[Info/Organizations/Clan_Volkihar\|Clan Volkihar]]
 - **[[2 -  Sessions/Session 005\|Session 005]]**: Experienced traumatic flashbacks when encountering scenes reminiscent of the [[Night of Crimson Tears\|Night of Crimson Tears]]
 - **[[2 -  Sessions/Session 006\|Session 006]]**: Revealed knowledge of necromancy to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
 - **[[2 -  Sessions/Session 007\|Session 007]]**: 
@@ -32,7 +32,7 @@
   - Subjected to ritual sacrifice attempt
   - Experienced traumatic visions and nightmares during captivity
   - Successfully rescued by the party
-  - Currently in comatose state, recovering at [[Cult of Ysmir\|Cult of Ysmir]] hall
+  - Currently in comatose state, recovering at [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] hall
   - "Touched by something ancient and hollow" during the ritual
 - **[[Session 9.5\|Session 9.5]]**:
   - Experienced vivid dream/vision while comatose
@@ -43,7 +43,7 @@
   - Learned about writing her own story rather than following fate/prophecy
   - Gained insight into [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus Mortgren]]'s true age
 - **[[2 -  Sessions/Session 010\|Session 010]]**:
-  - Awakened from three-day coma at [[Cult of Ysmir\|Cult of Ysmir]] hall
+  - Awakened from three-day coma at [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] hall
   - Last person she spoke to in dreams was the "Crow Father"
   - Learned that [[Sven\|Sven]] and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] have been laid to rest
   - Joined camping trip to decompress and process trauma
@@ -96,7 +96,7 @@
   - Tackled and killed attacking [[Dunmer\|Dunmer]] guard, broke his neck
   - Encountered Hooded Figure who claimed to be "no one of consequence"
   - Voice similar to figure from her dreams
-  - Met at [[Soggy Beaver\|Soggy Beaver]] tavern for party reunion
+  - Met at [[Info/Locations/The_Soggy_Beaver\|Soggy Beaver]] tavern for party reunion
 
 ## Current Concerns
 - Being targeted by [[Info/Lore/Malacath\|Malacath]], who appears to be encouraging her vengeful tendencies
@@ -110,7 +110,7 @@
 
 ## Current Status
 - Awake and recovering from three-day coma following Dragon Priest ritual
-- Under care of [[Info/Characters/999 NPC's/Adda\|Adda]] at [[Cult of Ysmir\|Cult of Ysmir]] hall
+- Under care of [[Info/Characters/999 NPC's/Adda\|Adda]] at [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] hall
 - Experiencing emotional healing and greater openness about her past
 - Processing trauma through art (sketching and journaling)
 - Showing renewed engagement with the party and their activities
@@ -119,7 +119,7 @@
 - **Previous**: Gained mysterious black feather with unknown properties
 
 ## Relationship with [[Info/Characters/999 NPC's/Gareth\|Gareth]]
-- **Mentor and Student**: [[Info/Characters/999 NPC's/Gareth\|Gareth]] was [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s trainer and mentor with the [[Knights of Arkay\|Knights of Arkay]]
+- **Mentor and Student**: [[Info/Characters/999 NPC's/Gareth\|Gareth]] was [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s trainer and mentor with the [[Info/Organizations/Knights_of_Arkay\|Knights of Arkay]]
 - **Tragic End**: [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] was forced to kill [[Info/Characters/999 NPC's/Gareth\|Gareth]] after he was turned into a vampire
 - **Emotional Weight**: This act has been a source of deep trauma and guilt for [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
 - **Dream Reconciliation**: During her coma, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] encountered [[Info/Characters/999 NPC's/Gareth\|Gareth]]'s spirit and received forgiveness

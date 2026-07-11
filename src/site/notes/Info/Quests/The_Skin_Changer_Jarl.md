@@ -29,11 +29,12 @@ The **Daedric stone** stolen by [[Info/Characters/001 The Fangs of Fjelhorst/Kir
 - The cult is aware the anchor has been taken
 
 ## Known Status (Session 026)
-From Daria's network (Lower Lodge):
+From Taria's network (Lower Lodge):
 - The skin-changer **has not left the Yarls Hall**
 - It has been **more agitated than usual** — consistent with degrading memory without the anchor
 - The Lower Lodge network has the building surrounded
 - **No secret exits or entrances** detected
+- **[[2 -  Sessions/Session 027\|Session 027]] Update**: Onasha set fire to the Yarls Hall (Clan Morvan Longhouse) during her escape. The current status of the skin-changer Jarl (whether it survived the fire or fled) is unknown.
 
 ## Key Questions
 - [ ] Is there a way to use the degraded creature's confusion against it?
@@ -57,14 +58,14 @@ Based on Milos's confirmation regarding Mimicry Daedra:
 - **[[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]]** (Item): The memory anchor — in the party's possession
 - **Burnt letter from Valen's office**: *"Jarl remains cooperative though his condition requires continued supervision"* — external confirmation the creature is being managed
 - **The Jarl's speech** (Session 022): Had magical properties (warmth, pressure changes); party was protected by spell absorption tinctures
-- **[[Bloody_Fur_Cloak\|Bloody_Fur_Cloak]]** (Item): Found in same room; blood trail to window — may be connected to how the original Jarl was disposed of
+- **[[Info/1 - Party Findings/Bloody Fur Cloak\|Bloody_Fur_Cloak]]** (Item): Found in same room; blood trail to window — may be connected to how the original Jarl was disposed of
 
 ## Key Tasks
-- [x] ~~Recover the memory anchor~~ — **COMPLETED**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] stole the stone in Session 022
-- [x] ~~Identify what the stone does~~ — **COMPLETED**: Milos confirmed it is a memory anchor (Session 025)
-- [x] ~~Confirm the Jarl is a skin-changer~~ — **CONFIRMED**: Milos's assessment; burnt letter; Nordic mannerism inconsistencies
+- [x] Recover the memory anchor — **COMPLETED**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] stole the stone in Session 022
+- [x] Identify what the stone does — **COMPLETED**: Milos confirmed it is a memory anchor (Session 025)
+- [x] Confirm the Jarl is a skin-changer — **CONFIRMED**: Milos's assessment; burnt letter; Nordic mannerism inconsistencies
 - [ ] **Deal with the main facility first** — isolate the skin-changer from its support
-- [ ] **Confront the skin-changer Jarl** — after the facility is resolved
+- [ ] **Confront the skin-changer Jarl** — after the facility is resolved (status unknown post-fire)
 - [ ] **Investigate the Jarl's Hall** — when approaching the skin-changer directly
 - [ ] **Report to the Queen of Riften** — after both threats are resolved
 
@@ -77,4 +78,5 @@ Based on Milos's confirmation regarding Mimicry Daedra:
 - **[[2 -  Sessions/Session 022\|Session 022]]**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] discovered the stone in the Jarl's lockbox; Jarl's speech had magical properties
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Burnt letter from Valen's office confirmed "Jarl remains cooperative"
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Milos identified the stone as a memory anchor; confirmed the Jarl is almost certainly a skin-changer and dead; skin-changer now knows stone is missing
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Lower Lodge confirms skin-changer has not left Yarls Hall; more agitated
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Lower Lodge confirms Jarl (skin-changer) has not left Yarls Hall and is more agitated
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during her escape; skin-changer Jarl's status is currently unknown.

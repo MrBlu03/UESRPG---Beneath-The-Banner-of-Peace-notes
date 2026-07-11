@@ -30,4 +30,14 @@ By my hand and by my oath, let no man or woman doubt their right to stand in my 
 **Freidr Volngsdottir**
 *Queen of the Rift*
 
-**(Here, the document bears her personal seal: a bear's head, jaws open in defiance, ringed by the knotwork of Clan Volng. Beneath it, the royal sea of Riften: the crossed keys of Mistveil Keep.)**
+**(Here, the document bears her personal seal: a bear's head, jaws open in defiance, ringed by the knotwork of Clan Volng. Beneath it, the royal seal of Riften: the crossed keys of Mistveil Keep.)**
+
+---
+
+## History and Significance
+
+### Confiscation and Recovery ([[2 -  Sessions/Session 027\|Session 027]])
+- During the arrest of [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] in [[Kjalgrad\|Kjalgrad]], the writ was confiscated along with Periwyn's journal by city guards and taken to the evidence room of [[Info/Locations/Clan_Morvan_Longhouse\|Yarls Hall]].
+- The corrupt steward [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] discovered the writ, using it to question Onasha about her association with the Queen of [[Info/Locations/Riften\|Riften]].
+- [[Info/Characters/999 NPC's/Irlav\|Irlav]], a guild guard who holds respect for the Queen of Riften but not for the corrupt Jarl or steward of Kjalgrad, recovered the writ from the steward's possession and handed it to [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]].
+- Durov hid the writ in his armor and successfully returned it to Periwyn during the jailbreak before the longhouse was set on fire.

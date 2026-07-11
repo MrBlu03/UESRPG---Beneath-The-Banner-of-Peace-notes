@@ -21,7 +21,7 @@ Kahru's Hollow is a forested valley area located east of [[Info/Locations/Riften
 - **Type**: Ancient hunting lodge (now ruins)
 - **Location**: Within Kahru's Hollow, east of [[Info/Locations/Riften\|Riften]]
 - **Age**: Ancient - abandoned for longer than most people have been alive
-- **Current Status**: Haunting resolved, protected by [[Cult of Ysmir\|Cult of Ysmir]]
+- **Current Status**: Haunting resolved, protected by [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
 
 ## Historical Background
 The lodge sits on cursed ground with a dark history spanning millennia:
@@ -100,7 +100,7 @@ The haunting of Kahru's Hollow has been successfully resolved through the effort
 ### Achievements
 - **Spirits Laid to Rest**: [[Sven\|Sven]] and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] finally found peace
 - **Dragon Priest Destroyed**: Ancient evil eliminated by [[Info/Characters/999 NPC's/Adda\|Adda]]
-- **Area Secured**: Domain now protected by [[Cult of Ysmir\|Cult of Ysmir]] to prevent future disturbances
+- **Area Secured**: Domain now protected by [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] to prevent future disturbances
 - **Artifacts Recovered**: Dragon Cult mask retrieved by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] for scholarly study
 - **Contract Fulfilled**: Successfully completed clearing mission for [[Info/Characters/999 NPC's/Hadvar\|Hadvar]]
 

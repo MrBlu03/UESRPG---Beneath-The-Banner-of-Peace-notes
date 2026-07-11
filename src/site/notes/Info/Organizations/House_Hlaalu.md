@@ -16,7 +16,7 @@ House Hlaalu is one of the Great Houses of Morrowind, a major political and merc
 
 ## Leadership
 - **Belyn Hlaalu**: Grand Master of House Hlaalu
-- **[[Garen Hlaalu\|Garen Hlaalu]]**: Leads operations extending into Skyrim
+- **[[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen Hlaalu]]**: Leads operations extending into Skyrim
 
 ## Criminal Operations
 ### Smuggling Network ([[2 -  Sessions/Session 018\|Session 018]])
@@ -24,7 +24,7 @@ Information obtained from interrogation of Dunmer prisoners in [[Info/Locations/
 - **Moon Sugar Smuggling**: Importing moon sugar from [[Info/Locations/Ebonheart\|Ebonheart]] (Morrowind) into Skyrim
 - **Courier Network**: Using hired couriers to transport goods and documents
 - **Payment Structure**: Couriers paid 400 gold total for transporting moon sugar worth 300 gold
-- **Skyrim Operations**: [[Garen Hlaalu\|Garen Hlaalu]] coordinates activities within Skyrim
+- **Skyrim Operations**: [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen Hlaalu]] coordinates activities within Skyrim
 
 ## Connection to the Coiled Serpent
 The captured Dunmer smugglers revealed:
@@ -45,7 +45,7 @@ Confiscated ledger contents (mostly in Dunmeri):
 
 ## Key NPCs
 - **Belyn Hlaalu**: Grand Master (mentioned)
-- **[[Garen Hlaalu\|Garen Hlaalu]]**: Operations leader for Skyrim
+- **[[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen Hlaalu]]**: Operations leader for Skyrim
 - **Temple Guard Contact**: Man resembling a Temple Guard who delivered the ledger in [[Info/Locations/Fultheim\|Fultheim]]; smelled of sulfur
 
 ## Related Locations

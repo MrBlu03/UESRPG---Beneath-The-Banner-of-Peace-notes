@@ -52,7 +52,7 @@ The forged letter contained the following information:
 ## Delivery to Darius Karo
 
 ### The Meeting ([[2 -  Sessions/Session 021\|Session 021]])
-The party returned to the [[Clan Morvan Longhouse\|Clan Morvan Longhouse]]:
+The party returned to the [[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]]:
 - Claimed they searched the abandoned [[Blackfoot Merchants Guild House\|Blackfoot Merchants Guild House]]
 - Reported finding **no sign of Sadrith** (the Dunmer bounty target)
 - Presented the forged letter as evidence found at the location

@@ -48,7 +48,7 @@
 - The riddle is **solved**; the contact is **found**
 
 ## Notes
-*The [[Talking Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
+*The [[Info/Characters/999 NPC's/Talking_Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
 
 *Session 020: The founder has revealed himself and formed an alliance with the party. His recognition of Periwyn and reaction to Onasha suggest deeper connections to the party's histories.*
 

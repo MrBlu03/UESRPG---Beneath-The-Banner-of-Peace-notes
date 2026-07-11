@@ -25,9 +25,9 @@ Warrior of the [[Info/Organizations/Cult_of_Ysmir\|Cult_of_Ysmir]]
 
 ## Relationships
 - **[[Info/Characters/999 NPC's/Adda\|Adda]]**: Close companion and spiritual partner
-- **[[Cult of Ysmir\|Cult of Ysmir]]**: Member of the cult
+- **[[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]**: Member of the cult
 - **[[Sven\|Sven]] and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]]**: Brought to balance against their influence
 
 ## Current Status
-- Active member of [[Cult of Ysmir\|Cult of Ysmir]]
+- Active member of [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]
 - Will be part of the group ensuring the lodge area remains protected

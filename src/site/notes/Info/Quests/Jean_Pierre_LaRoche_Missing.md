@@ -22,9 +22,14 @@ He was at the **Jarl's banquet** shortly before he disappeared. His wife noted h
 
 He is almost certainly being held at the **main facility north of Kjalgrad** — the destination of the "selection cargo" shipments.
 
+### Session 027 — The Mesa Lead
+- **Journal Scraps**: Durov met shady contact John near the abandoned Blackfoot Guildhouse and recovered journal scraps from a nameless missing merchant.
+- **The Mesa Destination**: The scraps detail hearing the Jarl's voice in his head (indicative of mind control/influence) and end with a note about going to see the mesa that afternoon. This directly links the mesa to the merchant disappearances.
+
 ## Key Tasks
 - [x] ~~Identify him as a missing person~~ — **COMPLETED**: Lady Aine's report (Session 026)
 - [x] ~~Connect him to the ledger~~ — **CONFIRMED**: His profile matches "selection cargo" entries
+- [ ] **Investigate the Mesa** — check the mesa destination for clues or missing persons
 - [ ] **Find him at the main facility** — he is almost certainly among the enslaved there
 - [ ] **Return him to Lady Aine** (if alive)
 - [ ] **Gather information from Lady Aine** about who he spoke with at the banquet (if useful)
@@ -42,3 +47,5 @@ He is almost certainly being held at the **main facility north of Kjalgrad** —
 ## Session References
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Name (unnamed) appears in warehouse ledger under "selection cargo"
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Lady Aine reports him missing at the market protest; Durov takes the statement; frozen silk stall detail established
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Durov obtains missing merchant's journal scraps from John, linking the Jarl's voice control and a trip to the mesa.
+

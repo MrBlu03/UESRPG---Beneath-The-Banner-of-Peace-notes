@@ -15,7 +15,7 @@ The Vestige's scouting report was grim but actionable: the old Nordic ruin north
 
 The session then split across two fronts:
 
-**Onasha and Periwyn** returned to Kjalgrad on foot (Durov had technically already gone ahead, via the scenic route). They visited the **Grand Library** to find an alteration mage as a backup plan, and met **Father Aldric** — a Breton priest of Stendarr, restoration specialist, alteration dabbler, and enthusiastic drinker — who agreed to help. They then went to **Julian's alchemist shop**, bought the pearl, and had an extended visit with the elderly woman (flowers placed in the vase again). Finally, Onasha led Periwyn through the sewers to the **Lower Lodge**, where contact **Daria** briefed them on the protest operation: Daria's network had organised a market strike to pull guards away from the warehouses, and needed the party to deliver encrypted letters to embedded contacts and set traps inside both warehouses using death bell tripwires and kindling. Onasha executed the plan — knocked out the guard at the first warehouse with her war hammer, planted the trap, found pages ripped from the warehouse manifest (not on site), then burned the second warehouse by slinging kindling into the crates. Both warehouses went up in flames.
+**Onasha and Periwyn** returned to Kjalgrad on foot (Durov had technically already gone ahead, via the scenic route). They visited the **Grand Library** to find an alteration mage as a backup plan, and met **Father Aldric** — a Breton priest of Stendarr, restoration specialist, alteration dabbler, and enthusiastic drinker — who agreed to help. They then went to **Julian's alchemist shop**, bought the pearl, and had an extended visit with the elderly woman (flowers placed in the vase again). Finally, Onasha led Periwyn through the sewers to the **Lower Lodge**, where contact **Taria** briefed them on the protest operation: Taria's network had organised a market strike to pull guards away from the warehouses, and needed the party to deliver encrypted letters to embedded contacts and set traps inside both warehouses using death bell tripwires and kindling. Onasha executed the plan — knocked out the guard at the first warehouse with her war hammer, planted the trap, found pages ripped from the warehouse manifest (not on site), then burned the second warehouse by slinging kindling into the crates. Both warehouses went up in flames.
 
 **Durov** exited the barrow, turned right, and then navigated approximately 90 minutes of snowbound mountain forest through a series of navigate and observe tests that should not have worked, and absolutely did. He arrived not at the south gate (which he left from), but at the west gate — roughly half an hour off course — where he immediately spotted his horse, gave it a pat, and headed to the Silver Road Guildhouse. Valen Marr greeted him briefly, confirmed the guard captain Luulov had been looking for him, and left Durov to the refreshments. Durov grabbed hummingbird mead, brought mugs to the two door guards (one accepted reluctantly, one let it fall), and waited. Luulov found him at roughly midday, pulled him aside into the alleys, and briefed him: the missing persons situation is far wider than expected, the lead is personal (for a family friend), and it's not officially Guild business. They attended the protest together, where Durov took statements from **Hana** (elderly merchant, tariff complaints), **Yelena** (tanner, strange gold/docked pay), and **Lady Aine** (the wife of **Jean-Pierre LaRoche** — a silk merchant missing since the Jarl's banquet). As they were heading to meet Luulov's shady informants near the old Blackfoot Guild house, Durov spotted two massive plumes of smoke rising from the warehouse district.
 
@@ -113,21 +113,21 @@ Julian returned and sold her **one pearl for 8 gold**. Mention of the Silver Roa
 
 Onasha took Periwyn through the sewers — the familiar diamond-circle symbol on the entrance — and into the **Lower Lodge**. It was noticeably **busier** than last time. Onasha spotted several of the **warehouse refugees** she had sent here after the raid, now talking with other people and seeming settled.
 
-Onasha made her way to **Daria's** desk. Daria looked up from her journal.
+Onasha made her way to **Taria's** desk. Taria looked up from her journal.
 
-**Daria's briefing**: The network had been busy. A **market protest** was being organised — every Silver Road-affiliated merchant was being called out to the market by her people, pulling guards to keep the peace. Estimated **40–50 guards** at the market perimeter, weapons sheathed. The protest is primarily working merchants (those whose income is being squeezed) and is making noise about tariffs, unfair trade, and the general state of the city economy.
+**Taria's briefing**: The network had been busy. A **market protest** was being organised — every Silver Road-affiliated merchant was being called out to the market by her people, pulling guards to keep the peace. Estimated **40–50 guards** at the market perimeter, weapons sheathed. The protest is primarily working merchants (those whose income is being squeezed) and is making noise about tariffs, unfair trade, and the general state of the city economy.
 
-**Warehouse task**: With workers out protesting and most guards occupied, the warehouses would be lightly defended. Daria's plan:
+**Warehouse task**: With workers out protesting and most guards occupied, the warehouses would be lightly defended. Taria's plan:
 1. **Deliver encoded letters** to two embedded contacts inside the warehouse district — identifiable by the network's mark (diamond with circle)
 2. The contacts would supply **death bell tripwire traps** and **kindling**
 3. Plant the traps and burn at least one warehouse
 
-**Death bells**: Daria confirmed these are the network's calling card — tripwires set near pillars that will hit suspicious crates if triggered. *"Our people that are tripwires."*
+**Death bells**: Taria confirmed these are the network's calling card — tripwires set near pillars that will hit suspicious crates if triggered. *"Our people that are tripwires."*
 
 Periwyn (now listening in) was introduced as associated with Onasha and not the Night of Arc.
 
-Additional intel from Daria on the skin-changer situation:
-- **The Jarl (skin-changer) has not left the Yarls Hall** — Daria's people have the building surrounded and have access to the sewers. No secret exits or entrances detected.
+Additional intel from Taria on the skin-changer situation:
+- **The Jarl (skin-changer) has not left the Yarls Hall** — Taria's people have the building surrounded and have access to the sewers. No secret exits or entrances detected.
 - **He has been more agitated lately** — consistent with the missing memory anchor.
 
 ---
@@ -196,7 +196,7 @@ Back outside. Onasha confirmed the plan — everyone out, next building down. Co
 
 **The burn**: Periwyn asked if Onasha wanted her to do it. Onasha already had a sling. She wound up and let the kindling fly from the next building over. It landed in the crates. The fire spread immediately — all the pre-set traps and death bells going off in sequence, firebombs dropping from crates, the entire warehouse going up at once.
 
-Shortly after: the first warehouse also went up, as heard from the distance. Daria's network agents had triggered their own set. Both warehouses burned simultaneously.
+Shortly after: the first warehouse also went up, as heard from the distance. Taria's network agents had triggered their own set. Both warehouses burned simultaneously.
 
 ---
 
@@ -287,7 +287,7 @@ Shortly after: the first warehouse also went up, as heard from the distance. Dar
 - **Father Aldric as backup**: A Breton priest of Stendarr with alteration capability, met in the Grand Library. If the varnish fails or the feather isn't retrieved in time, he is the contingency. He drinks. He agreed to help for essentially a bottle of mead.
 - **The smelly strange gold is now a known phenomenon**: Yelena confirmed workers are being paid in it and docked for refusing. This is new — it wasn't in the warehouse ledger. The timing (roughly one week) aligns with the stone going missing. Whether the strange gold is connected to the ritual materials or the Daedric element is unclear.
 - **Jean-Pierre LaRoche is confirmed missing**: A named silk merchant — present at the Jarl's banquet, disappeared shortly after, stall left set up. The name matches a pattern of people "selected" from the Jarl's events.
-- **Both warehouses are now ash**: The Guild's storage in Kjalgrad is destroyed. The protest pulled guards away. Daria's network and the party handled both simultaneously. The Guild will notice.
+- **Both warehouses are now ash**: The Guild's storage in Kjalgrad is destroyed. The protest pulled guards away. Taria's network and the party handled both simultaneously. The Guild will notice.
 
 ---
 

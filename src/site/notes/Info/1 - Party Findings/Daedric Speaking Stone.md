@@ -51,7 +51,7 @@ When [[Info/Characters/999 NPC's/Varren\|Varren]] used the device:
 2. **Tracing**: May be possible to trace where communications go
 3. **Evidence**: Proves Daedric involvement in [[Kjalgrad\|Kjalgrad]] affairs
 4. **Bait**: Could be used to lure cult members
-5. **Analysis**: [[Mages Guild\|Mages Guild]] might be able to study its properties
+5. **Analysis**: [[Info/Organizations/Mages_Guild\|Mages Guild]] might be able to study its properties
 
 ## Risks
 - Using it may alert the cult that [[Info/Characters/999 NPC's/Varren\|Varren]] has been compromised

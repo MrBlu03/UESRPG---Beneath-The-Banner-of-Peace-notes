@@ -9,12 +9,12 @@
 **Race:** Imperial  
 **Gender:** Male  
 **Title:** Steward to the Jarl of [[Kjalgrad\|Kjalgrad]]  
-**Location:** [[Clan Morvan Longhouse\|Clan Morvan Longhouse]], [[Kjalgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]], [[Kjalgrad\|Kjalgrad]]  
 **Faction:** Clan Morvan (official), [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] (suspected)  
 **Status:** Alive
 
 ## Description
-Darius Karo is the Imperial steward who effectively runs [[Kjalgrad\|Kjalgrad]] in place of the largely ceremonial Jarl. He operates from the [[Clan Morvan Longhouse\|Clan Morvan Longhouse]] and handles the actual governance of the city. According to [[Info/Characters/999 NPC's/Alma\|Alma]], he is likely in the pocket of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], the merchant organization that bankrolls the city's guards and controls prices, tolls, and passages.
+Darius Karo is the Imperial steward who effectively runs [[Kjalgrad\|Kjalgrad]] in place of the largely ceremonial Jarl. He operates from the [[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]] and handles the actual governance of the city. According to [[Info/Characters/999 NPC's/Alma\|Alma]], he is likely in the pocket of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], the merchant organization that bankrolls the city's guards and controls prices, tolls, and passages.
 
 ## Physical Description
 - Imperial man
@@ -89,7 +89,7 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]]:
 Darius Karo represents the corruption in [[Kjalgrad\|Kjalgrad]]'s leadership. While ostensibly serving the Jarl, he appears to be a tool of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], and his attempt to eliminate "Sadrith" suggests he may be working to protect Daedric-connected interests in the city.
 
 ## Location
-- **[[Clan Morvan Longhouse\|Clan Morvan Longhouse]]**: Primary location, stands beside the Jarl's chair
+- **[[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]]**: Primary location, stands beside the Jarl's chair
 
 ## Notes
 - The party accepted his bounty but discovered the target was actually [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]
@@ -148,9 +148,15 @@ This has significant implications for Darius Karo:
 Under the arrangement Darius Karo oversees:
 - **Tariffs raised to 45%** — citizens speaking out are disappearing with no dungeon records
 - **[[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]]** confirmed arrests were made but no one appeared in the dungeon
-- Darius's complicity or helplessness in this situation reflects the Guild's total grip on city governance
+
+### [[2 -  Sessions/Session 027\|Session 027]] — Interrogation and Escape
+- **Torture of Onasha**: Following the warehouse sabotages, Onasha was arrested and taken to the dungeon. Darius Karo personally interrogated and tortured her (dealing 2 damage), discovering she was not a Shadowscale. He decided to execute her without trial.
+- **Confiscation of the Writ**: Darius confiscated Periwyn's journal, in which he discovered the [[Info/1 - Party Findings/Official Writ of Authority\|Queen's Writ of Authority]] from Riften. He questioned Onasha about her ties to Queen Freydis.
+- **Durov's Deception**: Durov and Irlav arrived on "Guild orders" to interrogate the prisoner. Durov successfully deceived Darius into leaving the cell, claiming he would handle it.
+- **The Escape**: Darius left holding the writ, but it was recovered by [[Info/Characters/999 NPC's/Irlav\|Irlav]] (who holds respect for the Queen of Riften but not for the Jarl or steward of Kjalgrad) and returned to Durov, who passed it back to Periwyn. The party freed Onasha, and during their escape, Onasha set fire to the hall. Darius Karo's status after the arson of the Jarl's palace is currently unknown.
 
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: First appearance; hired party to capture "Sadrith"
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Party delivered forged evidence; paid 3,200 gold; directed party to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Burnt letter from Valen's office confirms Jarl "remains cooperative, condition requires continued supervision" — implicates Darius's role in the control structure
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Interrogated and tortured Onasha; confiscated Queen's Writ; deceived by Durov; status unknown after Yarls Hall fire.

@@ -71,7 +71,7 @@
   - Spotted patterns in bloodstains around dying white stag
   - Stag turned head toward her and sighed before dying
   - Fled when chased by territorial creature
-  - Went to [[Soggy Beaver\|Soggy Beaver]] tavern with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
+  - Went to [[Info/Locations/The_Soggy_Beaver\|Soggy Beaver]] tavern with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
   - Met at tavern for party reunion
 
 ## Skills & Interests

@@ -60,9 +60,10 @@ A **different** Mimicry Daedra — not the Scathing — is currently posing as t
 - **The real Jarl is almost certainly dead**
 - The memory anchor (stone) has been missing for approximately **one week** (since Kirya stole it from the lockbox)
 - The creature is now experiencing **memory degradation** — it knows the stone is gone and is actively searching for it
-- It has reportedly been **more agitated than usual** according to Daria's network
+- It has reportedly been **more agitated than usual** according to Taria's network
 - It has **not left the Yarls Hall** since the party's knowledge of it became relevant
 - The Lower Lodge network has the building surrounded; no secret exits detected
+- **[[2 -  Sessions/Session 027\|Session 027]] Update**: During the jailbreak of Onasha, the Yarls Hall (Clan Morvan Longhouse) was set on fire. The current status of the skin-changer Jarl (whether it survived the fire or fled) is unknown.
 
 ### Signs That Tipped Off Milos
 > *"Whether it is the Jarl or the steward, I'm not sure. But someone is, given the Nordic mannerisms and the writing — I believe it to be likely the Jarl. The steward is an Imperial, after all."*
@@ -88,7 +89,7 @@ Whether Clavicus Vile himself is directly orchestrating this or whether it is a 
 | Entity | Type | Status | Location |
 |---|---|---|---|
 | The Warehouse Scathing | Scathing | Alive, whereabouts unknown | Last seen northeast warehouse (S024) |
-| The Skin-Changer Jarl | Unknown (skin-changer) | Active, degrading | Yarls Hall, Kjalgrad |
+| The Skin-Changer Jarl | Unknown (skin-changer) | Active, degrading (Status unknown after Yarls Hall fire) | Yarls Hall (burning), Kjalgrad |
 
 ---
 
@@ -97,3 +98,4 @@ Whether Clavicus Vile himself is directly orchestrating this or whether it is a 
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Scathing encountered at northeast warehouse; confirmed as Clavicus Vile servant; immune to frenzy bomb and Calm spell
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Milos explains skin-changers, memory anchors, and the Jarl's almost certain death; stone confirmed as memory anchor
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Lower Lodge confirms Jarl (skin-changer) has not left Yarls Hall and is more agitated
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha set fire to the Yarls Hall (Clan Morvan Longhouse) during her escape; skin-changer Jarl's status is currently unknown.

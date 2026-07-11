@@ -60,7 +60,7 @@ Pricing not specified but likely premium given the quality of furnishings and am
 #### The Crow Visitation
 - In [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s room, a **crow** appeared on the glass window sill
 - [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] offered bread
-- **[[Baron Jangleplume\|Baron Jangleplume]]** (rotund Daedric crow) arrived
+- **[[Info/Characters/999 NPC's/Baron_Jangleplume\|Baron Jangleplume]]** (rotund Daedric crow) arrived
 - Several more crows descended, forming a **murder of crows**
 - The crows stated they had **"business"** to discuss with [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] and [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]
 - This marked a formal contact by the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]

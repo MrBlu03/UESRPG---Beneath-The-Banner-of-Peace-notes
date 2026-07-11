@@ -139,14 +139,14 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]]:
 - **[[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]**: True power; Daedric connections; 45% tariffs; disappearances
 - **[[Info/Lore/Coiled_Serpent\|Coiled_Serpent]]**: Infiltrated guild leadership; "Coming Correction" planned
 - **Cult of Clavicus Vile**: Operating through the guild (brimstone gold, coin molds)
-- **[[Camonna Tong\|Camonna Tong]]**: Active and targeting Guild assets; Onasha misdirected them at Valen
+- **[[Info/Organizations/Camonna_Tong\|Camonna Tong]]**: Active and targeting Guild assets; Onasha misdirected them at Valen
 - **[[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]]**: Formerly operated here
 - **[[Info/Organizations/Blackfeather Court\|Blackfeather Court]]**: [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] operating in the city; crow contact at [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]
 
 ## Session References
 - **[[2 -  Sessions/Session 018\|Session 018]]**: Named as [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] delivery destination
 - **[[2 -  Sessions/Session 019\|Session 019]]**: Party arrived; [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] contact
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Major investigation session; [[Vestige\|Vestige]] alliance formed
+- **[[2 -  Sessions/Session 020\|Session 020]]**: Major investigation session; [[Info/Characters/999 NPC's/The_Vestige\|Vestige]] alliance formed
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Guild leadership identified; infiltration plan executed
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Trade event; Valen confirmed Coiled Serpent; Kirya infiltrated Jarl's Hall
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Tariffs/disappearances; Warehouse 7 investigation; Valen meeting; office intelligence
@@ -154,6 +154,7 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]]:
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Northeast warehouse raided (Camonna Tong disguise); Scathing encountered; workers freed; ledger recovered; barrow riddle solution researched; [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]] identified as next destination
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Party left Kjalgrad to find the barrow; met Milos; skin-changer Jarl confirmed
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Party returned to Kjalgrad; market protest (Lower Lodge organized); warehouses burned; brimstone gold wages confirmed; Jean-Pierre LaRoche reported missing; Father Aldric recruited at Grand Library; pearl purchased from Julian; Luulov + Durov investigating missing persons
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha and Periwyn arrested; Periwyn escaped custody and rescue squad (Lower Lodge) broke Onasha out; Durov pocketed Queen's writ and handed to Periwyn; Jarl's steward Darius Karo tortured Onasha; Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during escape; Durov met contact John and found missing merchant's journal scraps pointing to the mesa.
 
 ### [[2 -  Sessions/Session 024\|Session 024]] — Northeast Warehouse
 - Party traveled northeast through increasingly dense forest (~3 hours) to the **northeast warehouse**
@@ -170,8 +171,15 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]]:
 - **Father Aldric** recruited at the Grand Library (Breton priest of Stendarr, alteration dabbler) for Ward removal
 - **Pearl purchased** from Julian the alchemist (8 gold) for Ward varnish
 - **Jean-Pierre LaRoche** reported missing by his wife Lady Aine at the protest
-- **Skin-changer Jarl** confirmed still in Yarls Hall; more agitated (Daria's network)
+- **Skin-changer Jarl** confirmed still in Yarls Hall; more agitated (Taria's network)
 - Luulov found Durov at the Guildhouse seeking missing persons intel; they attended the protest together heading toward Blackfoot Guild house informants when the warehouses went up
+
+### [[2 -  Sessions/Session 027\|Session 027]] — Jailbreak & Arson of Yarls Hall
+- **Durov and Irlav** investigated the charred warehouses; found death bell flowers and oily residue, and tracked footprints with a tail drag to a sewer grate. They met contact **John** near the abandoned Blackfoot Guildhouse and found journal scraps of a missing merchant detailing Jarl voice influence and a trip to the mesa.
+- **Onasha and Periwyn** were cornered by city guards. Periwyn tried to cast Charm, alerting the guards. They were arrested, but Periwyn escaped custody by tricking a guard for a bathroom break, stunning him with a shock spell, and fleeing to the Lower Lodge sewer hideout.
+- **Durov** intercepted Onasha's interrogation in the dungeon of [[Info/Locations/Clan_Morvan_Longhouse\|Yarls Hall]], successfully deceiving the corrupt steward [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] (who had tortured her). Durov found the [[Info/1 - Party Findings/Official Writ of Authority\|Queen's writ of authority]] in Periwyn's confiscated journal, pocketed it, and slipped it back to Periwyn when she arrived with the rescue team.
+- **Onasha's escape**: Periwyn and a Lower Lodge rescue team led by Tabitha broke Onasha out of her cell via a secret sewer wall. Onasha sent a warning crow to the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] about the steward's cult and Daedric connections. Before fleeing, Onasha threw a flame bomb in the main hall of the [[Info/Locations/Clan_Morvan_Longhouse\|Yarls Hall]], setting the building ablaze.
+
 
 ## New Locations (Sessions 024–026)
 - **[[Info/Locations/Northeast_Warehouse_and_Main_Facility\|Northeast_Warehouse_and_Main_Facility]]**: Northeast warehouse (raided, Session 024) and main facility further north (scouted, Session 026)

@@ -53,6 +53,7 @@
 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | 🟢 | [[Info/Characters/999 NPC's/Helga\|Helga]]                                   | Political Figure    | 🟢 |
 | [[Info/Characters/999 NPC's/Brom\|Brom]]                                     | 🟢 | [[Info/Characters/999 NPC's/Brom\|Brom]]                                     | Guard               | 🟢 |
 | [[Info/Characters/999 NPC's/Huldir\|Huldir]]                                 | 🟢 | [[Info/Characters/999 NPC's/Huldir\|Huldir]]                                 | Guard               | 🟢 |
+| [[Info/Characters/999 NPC's/Irlav\|Irlav]]                                   | 🟢 | [[Info/Characters/999 NPC's/Irlav\|Irlav]]                                   | Guild / Military    | 🟢 |
 | [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]                 | 🟢 | [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]                 | Political           | 🟢 |
 | [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]                         | 🟢 | [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]                         | Political           | 🟢 |
 | [[Info/Characters/999 NPC's/Varren\|Varren]]                                 | ❓  | [[Info/Characters/999 NPC's/Varren\|Varren]]                                 | Criminal            | ❓  |

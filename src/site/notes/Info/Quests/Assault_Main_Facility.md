@@ -48,7 +48,8 @@ The Vestige's plan, pending final briefing:
 
 ## Complications
 - **Kirya is absent** — she left before the Vestige returned; the party is three: Onasha, Periwyn, Durov
-- **The skin-changer Jarl** — still on the throne; will need to be addressed separately after the facility is handled
+- **The Jarl's Palace Arson** — Onasha set fire to the Yarls Hall during the escape; the local political and guard reaction to the burning of the palace may create immediate security complications in Kjalgrad
+- **The skin-changer Jarl** — still on the throne; status unknown after the fire; will need to be addressed separately after the facility is handled
 - **Strange smelly gold** — workers being paid in it and docked for refusing; origin unclear, may be connected to the ritual
 
 ## Related Quests
@@ -61,3 +62,5 @@ The Vestige's plan, pending final briefing:
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Warehouse ledger discovered; main facility referenced; Periwyn's Clairvoyance imprinted on ritual crates for tracking
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Milos confirms the facility is the final target; ward problem not yet identified; two-day downtime agreed
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Vestige scouted it; Ward problem confirmed; varnish recipe given; Father Aldric recruited; pearl purchased; Vestige went for feather
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha and Periwyn arrested; Periwyn escaped custody and rescue squad (Lower Lodge) broke Onasha out; Durov pocketed Queen's writ and handed to Periwyn; Jarl's steward Darius Karo tortured Onasha; Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during escape; Durov met contact John and found missing merchant's journal scraps pointing to the mesa.
+
