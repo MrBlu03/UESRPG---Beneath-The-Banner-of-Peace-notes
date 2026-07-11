@@ -7,12 +7,12 @@
 
 ## Basic Information
 **Type:** Forest Region  
-**Region:** The Rift, Skyrim (west of [[Kjalgrad\|Kjalgrad]])  
+**Region:** The Rift, Skyrim (west of [[Info/Locations/Kjallgrad\|Kjalgrad]])  
 **Status:** Active  
 **Significance:** Hunting grounds; home to supernatural threats
 
 ## Description
-The western woods outside [[Kjalgrad\|Kjalgrad]] serve as hunting grounds for local hunters. The area is cold and wild, with dense forest cover that makes tracking difficult. Recently, the woods have become dangerous due to supernatural activity.
+The western woods outside [[Info/Locations/Kjallgrad\|Kjalgrad]] serve as hunting grounds for local hunters. The area is cold and wild, with dense forest cover that makes tracking difficult. Recently, the woods have become dangerous due to supernatural activity.
 
 ## Notable Locations
 - **Abandoned Hunter Camp:** Left behind after the witch attack
@@ -34,7 +34,7 @@ The western woods outside [[Kjalgrad\|Kjalgrad]] serve as hunting grounds for lo
 - **Harsh Weather:** -18°C temperatures during [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]'s investigation
 
 ## Significance
-These woods demonstrate that supernatural threats exist close to settled areas like [[Kjalgrad\|Kjalgrad]], requiring hunters and adventurers to deal with creatures that don't fit into normal understandings of wildlife.
+These woods demonstrate that supernatural threats exist close to settled areas like [[Info/Locations/Kjallgrad\|Kjalgrad]], requiring hunters and adventurers to deal with creatures that don't fit into normal understandings of wildlife.
 
 ## Session 026 — The Truce Becomes Plot-Critical
 [[Info/Characters/999 NPC's/The_Vestige\|Milos]] (the Vestige) departed the [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]] for the western woods to retrieve a **hag raven feather** from the Witch of the Woods:

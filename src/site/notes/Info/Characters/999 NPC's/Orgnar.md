@@ -8,11 +8,11 @@
 **Race:** Nord  
 **Gender:** Male  
 **Occupation:** Innkeeper  
-**Location:** [[Kjalgrad\|Kjalgrad]], [[Info/Locations/Frost_Gate_Hall\|Frost Gate Hall]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]], [[Info/Locations/Frost_Gate_Hall\|Frost Gate Hall]]  
 **Status:** Alive
 
 ## Description
-Orgnar is the Nord innkeeper of the [[Info/Locations/Frost_Gate_Hall\|Frost Gate Hall]], an upscale inn located near the western gate of [[Kjalgrad\|Kjalgrad]]. He maintains a professional demeanor and runs one of the finest establishments in the Rift.
+Orgnar is the Nord innkeeper of the [[Info/Locations/Frost_Gate_Hall\|Frost Gate Hall]], an upscale inn located near the western gate of [[Info/Locations/Kjallgrad\|Kjalgrad]]. He maintains a professional demeanor and runs one of the finest establishments in the Rift.
 
 ## Personality
 - Professional and courteous
@@ -21,7 +21,7 @@ Orgnar is the Nord innkeeper of the [[Info/Locations/Frost_Gate_Hall\|Frost Gate
 
 ## Location
 **[[Info/Locations/Frost_Gate_Hall\|Frost Gate Hall]]**
-- Near the western gate of [[Kjalgrad\|Kjalgrad]]
+- Near the western gate of [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - Features stables, polished oak beams, silk drapes, fur rugs, and glass windows
 - Caters to wealthier travelers and merchants
 

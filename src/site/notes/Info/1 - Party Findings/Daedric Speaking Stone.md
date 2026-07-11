@@ -49,7 +49,7 @@ When [[Info/Characters/999 NPC's/Varren\|Varren]] used the device:
 ## Potential Uses
 1. **Intelligence**: Could potentially intercept communications
 2. **Tracing**: May be possible to trace where communications go
-3. **Evidence**: Proves Daedric involvement in [[Kjalgrad\|Kjalgrad]] affairs
+3. **Evidence**: Proves Daedric involvement in [[Info/Locations/Kjallgrad\|Kjalgrad]] affairs
 4. **Bait**: Could be used to lure cult members
 5. **Analysis**: [[Info/Organizations/Mages_Guild\|Mages Guild]] might be able to study its properties
 
@@ -63,7 +63,7 @@ When [[Info/Characters/999 NPC's/Varren\|Varren]] used the device:
 This device is crucial evidence connecting:
 - [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] → Daedric entities
 - Brimstone gold operation → Organized conspiracy
-- [[Kjalgrad\|Kjalgrad]] corruption → Cult of Clavicus Vile
+- [[Info/Locations/Kjallgrad\|Kjalgrad]] corruption → Cult of Clavicus Vile
 
 ## Notes
 - [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] did not take the stone; it was left with the party
@@ -80,5 +80,5 @@ After retrieving the stone from the sewers, [[Info/Characters/001 The Fangs of F
 - This confirms direct communication between [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] agents and Daedric entities
 
 ## Session References
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Confiscated from [[Info/Characters/999 NPC's/Varren\|Varren]] in the [[Kjalgrad\|Kjalgrad]] sewers
+- **[[2 -  Sessions/Session 020\|Session 020]]**: Confiscated from [[Info/Characters/999 NPC's/Varren\|Varren]] in the [[Info/Locations/Kjallgrad\|Kjalgrad]] sewers
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Retrieved from the sewers; analyzed by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]; confirmed to link to Oblivion

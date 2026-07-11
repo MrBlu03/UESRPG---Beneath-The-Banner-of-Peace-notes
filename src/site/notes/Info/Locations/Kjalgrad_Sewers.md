@@ -7,16 +7,16 @@
 
 ## Basic Information
 **Type:** Underground Sewer System  
-**Location:** Beneath [[Kjalgrad\|Kjalgrad]]  
+**Location:** Beneath [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Region:** The Rift, Skyrim  
 **Status:** Active  
 **Significance:** Meeting point for [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] agents
 
 ## Description
-The sewer system beneath [[Kjalgrad\|Kjalgrad]] serves as a clandestine meeting location for agents of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] to communicate with their mysterious superiors. The tunnels are accessible via grates in the city's alleyways.
+The sewer system beneath [[Info/Locations/Kjallgrad\|Kjalgrad]] serves as a clandestine meeting location for agents of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] to communicate with their mysterious superiors. The tunnels are accessible via grates in the city's alleyways.
 
 ## Access Points
-- Sewer grates in various alleyways throughout [[Kjalgrad\|Kjalgrad]]
+- Sewer grates in various alleyways throughout [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - [[Info/Characters/999 NPC's/Varren\|Varren]] accessed via an alley grate when tailed by the party
 
 ## Layout
@@ -80,7 +80,7 @@ The sewers serve as a secure location for cult communications:
 - Connection between [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] and Daedric entities
 
 ## Related Locations
-- **[[Kjalgrad\|Kjalgrad]]**: The city above
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]]**: The city above
 - **Grand Market**: Where [[Info/Characters/999 NPC's/Varren\|Varren]] was spotted before descending
 
 ## Related Organizations
@@ -124,7 +124,7 @@ The sewers serve as a secure location for cult communications:
 - Designed to **summon Daedra** from Oblivion
 - Multiple cultist corpses nearby
 - Previously dealt with by [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]
-- Proves **active Daedric ritual activity** beneath [[Kjalgrad\|Kjalgrad]]
+- Proves **active Daedric ritual activity** beneath [[Info/Locations/Kjallgrad\|Kjalgrad]]
 
 ### Implications
 - Cult has safe locations for summoning rituals underground

@@ -9,11 +9,11 @@
 **Race:** Nord  
 **Gender:** Male  
 **Occupation:** Farmer and Merchant  
-**Location:** [[Kjalgrad\|Kjalgrad]] Grand Market (seasonal), Farm near Cow's Crossing (residence)  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]] Grand Market (seasonal), Farm near Cow's Crossing (residence)  
 **Status:** Alive
 
 ## Description
-Olaf is a friendly Nord farmer and merchant who sells produce at the [[Kjalgrad\|Kjalgrad]] Grand Market. He is a familiar face to regular market-goers and has a jovial, welcoming personality.
+Olaf is a friendly Nord farmer and merchant who sells produce at the [[Info/Locations/Kjallgrad\|Kjalgrad]] Grand Market. He is a familiar face to regular market-goers and has a jovial, welcoming personality.
 
 ## Business
 
@@ -49,7 +49,7 @@ Olaf adjusts his merchandise based on the season:
 - **Wife**: Lives at the farm near Cow's Crossing; Olaf encourages customers to say hello to her
 
 ## Significance
-While a minor NPC, Olaf represents the common folk of [[Kjalgrad\|Kjalgrad]] and the region's agricultural economy. His presence shows:
+While a minor NPC, Olaf represents the common folk of [[Info/Locations/Kjallgrad\|Kjalgrad]] and the region's agricultural economy. His presence shows:
 - The local economy's seasonal nature
 - The friendliness of regular townsfolk compared to the corruption in the city's leadership
 - Potential local contacts for the party if they need supplies or information from the rural areas
@@ -57,7 +57,7 @@ While a minor NPC, Olaf represents the common folk of [[Kjalgrad\|Kjalgrad]] and
 ## Notes
 - Previously known informally as "Cabbage Guy" by the party
 - His real name **Olaf** was revealed in [[2 -  Sessions/Session 022\|Session 022]]
-- One of the few genuinely friendly NPCs the party has encountered in [[Kjalgrad\|Kjalgrad]]
+- One of the few genuinely friendly NPCs the party has encountered in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 
 ## Session References
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Named and interacted with; sold potatoes to Durov; revealed farm location

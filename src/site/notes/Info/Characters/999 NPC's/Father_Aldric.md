@@ -9,12 +9,12 @@
 **Race:** Breton  
 **Gender:** Male  
 **Title:** Father (priest of Stendarr)  
-**Location:** [[Kjalgrad\|Kjalgrad]] — Grand Library  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]] — Grand Library  
 **Faction:** Church of Stendarr  
 **Status:** Alive  
 
 ## Description
-A Breton priest of Stendarr, met by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] in the Grand Library in [[Kjalgrad\|Kjalgrad]] during [[2 -  Sessions/Session 026\|Session 026]]. Found in the restoration section browsing spell books, with a jug of mead beside him on the shelf.
+A Breton priest of Stendarr, met by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] and [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] in the Grand Library in [[Info/Locations/Kjallgrad\|Kjalgrad]] during [[2 -  Sessions/Session 026\|Session 026]]. Found in the restoration section browsing spell books, with a jug of mead beside him on the shelf.
 
 Father Aldric is primarily a **restoration mage**, with additional dabbling in **destruction** and **alteration**. He is described as standing with his hands folded — very priestly — and as someone who drinks a significant amount.
 

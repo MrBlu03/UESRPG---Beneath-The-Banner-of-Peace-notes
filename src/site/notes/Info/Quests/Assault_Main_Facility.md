@@ -6,7 +6,7 @@
 # Assault the Main Facility
 
 **Status**: Active (Session 026) — In preparation  
-**Objective**: Break into the Nordic ruin north of [[Kjalgrad\|Kjalgrad]], free the enslaved "selection cargo," stop the cult's ritual operation, and deal with whoever is running it
+**Objective**: Break into the Nordic ruin north of [[Info/Locations/Kjallgrad\|Kjalgrad]], free the enslaved "selection cargo," stop the cult's ritual operation, and deal with whoever is running it
 
 ## Background
 The **warehouse ledger** recovered in [[2 -  Sessions/Session 024\|Session 024]] pointed to a primary facility **several hours further north** of the northeast warehouse — the destination for both the ritual supplies (coin molds, chalk, gemstones, bone and sinew) and the "selection cargo" (enslaved people selected from Kjalgrad's Jarl's events and merchant community).

@@ -14,7 +14,7 @@
 - [ ] Fulfill favor obligation to [[Info/Characters/999 NPC's/Brooding_Corner_Patron\|Brooding_Corner_Patron]] (1 month)
 - [x] ~~Await [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]'s analysis of Daedric orb~~ - **COMPLETED**: Orb identified as Harrowstorm Engine Core
 - [ ] Track down remaining cult operatives with black leathers and Daedric runes
-- [x] ~~Investigate **[[Kjalgrad\|Kjalgrad]]** in the Rift~~ - **IN PROGRESS**: Party arrived, major discoveries made
+- [x] ~~Investigate **[[Info/Locations/Kjallgrad\|Kjalgrad]]** in the Rift~~ - **IN PROGRESS**: Party arrived, major discoveries made
 - [x] ~~Find the contact wearing an **Ouroboros pendant**~~ - **IDENTIFIED**: [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]], Trade Advocate of [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
 - [x] ~~Identify and confront the Ouroboros wearer in [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]~~ - **CONFIRMED**: Valen Marr spotted wearing pendant at trade event
 - [ ] Investigate [[Info/Organizations/House_Hlaalu\|House_Hlaalu]] connection and [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]
@@ -155,7 +155,7 @@ Interrogation of Dunmer prisoners in [[Info/Locations/Falderstad\|Falderstad]] r
 ## Session 020 Updates
 ### Guild of the Silverroad Connection
 [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] (operating as "Sadrith Indoril") revealed:
-- A **Cult of Clavicus Vile** is operating in [[Kjalgrad\|Kjalgrad]]
+- A **Cult of Clavicus Vile** is operating in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - The [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] is distributing **brimstone gold** from Oblivion
 - Someone **high-ranking** in the guild wears an **Ouroboros necklace**
 - This confirms [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] infiltration of the guild
@@ -244,7 +244,7 @@ During the event, Valen:
 - The warning about the High King suggests the Coiled Serpent has intelligence about (or involvement in) the royal succession
 
 ### Evacuation Due to Camonna Tong
-- Valen evacuated [[Kjalgrad\|Kjalgrad]] after Camonna Tong murdered two guild guards
+- Valen evacuated [[Info/Locations/Kjallgrad\|Kjalgrad]] after Camonna Tong murdered two guild guards
 - He is leaving the city (possibly today or tomorrow)
 - The party plans to meet with him on Monday if possible
 - This may be the last chance to gather intelligence from him directly
@@ -279,7 +279,7 @@ Citizens speaking out against Guild tariffs (now at 45%) are disappearing. **[[I
 [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] previously told the Camonna Tong that **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]** had the Blackfoot lockbox — misdirecting them at a Guild target. This creates potential to pit the two organizations against each other (frenzy bomb plan being considered).
 
 ## Key Tasks (Updated)
-- [x] ~~Investigate [[Kjalgrad\|Kjalgrad]] in the Rift~~ — **IN PROGRESS**: Major discoveries made
+- [x] ~~Investigate [[Info/Locations/Kjallgrad\|Kjalgrad]] in the Rift~~ — **IN PROGRESS**: Major discoveries made
 - [x] ~~Find the contact wearing an Ouroboros pendant~~ — **IDENTIFIED**: [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
 - [x] ~~Identify and confront the Ouroboros wearer~~ — **CONFIRMED**: Valen Marr
 - [x] ~~Analyze the Daedric Speaking Stone~~ — **COMPLETED**: Links to Oblivion
@@ -340,16 +340,24 @@ The Jarl is **almost certainly dead** — replaced by a Mimicry Daedra (skin-cha
 - **Market protest** organized by Lower Lodge; ~40–50 guards drawn to perimeter
 - **Brimstone gold as wages**: Tannery workers being paid in strange smelly gold, with pay **docked for refusing it** — began ~1 week ago (timeline matches stone going missing)
 - **Jean-Pierre LaRoche** identified as missing via Lady Aine's report — confirmed as matching selection cargo pattern
-- **Skin-changer Jarl** confirmed still in Yarls Hall; more agitated than usual
+- **Skin-changer Jarl** confirmed still in Yarls Hall; more agitated than usual (Taria's network)
 
-## Key Tasks (Final Update — Post-Session 026)
-- [x] ~~Investigate [[Kjalgrad\|Kjalgrad]] in the Rift~~ — **IN PROGRESS**: Major discoveries made
+### Session 027 — Jailbreak & Arson of Yarls Hall
+- **Dirov and Irlav** investigated the charred warehouses, finding death bell flowers and oily residue, and tracked footprints with a tail drag to a sewer grate. Durov also met contact John near the abandoned Blackfoot Guildhouse and found journal scraps of a missing merchant detailing Jarl voice influence and a trip to the mesa.
+- **Onasha and Periwyn arrested**: Cornered by guards after Periwyn's public magic cast. Onasha was interrogated and tortured by Jarl's steward [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]. Onasha sent a warning crow to the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]].
+- **Writ recovered**: Durov pocketed the [[Info/1 - Party Findings/Official Writ of Authority\|Queen's writ of authority]] from Periwyn's confiscated journal, hid it in his armor, and passed it back to Periwyn.
+- **Dungeon Breakout & Arson**: Periwyn and a Lower Lodge rescue team led by Tabitha freed Onasha via a secret sewer wall. Onasha set fire to the hall curtains during escape, leaving the [[Info/Locations/Clan_Morvan_Longhouse\|Yarls Hall]] engulfed in flames.
+
+## Key Tasks (Final Update — Post-Session 027)
+- [x] ~~Investigate [[Info/Locations/Kjallgrad\|Kjalgrad]] in the Rift~~ — **IN PROGRESS**: Major discoveries made
 - [x] ~~Find the contact wearing an Ouroboros pendant~~ — **IDENTIFIED**: [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
 - [x] ~~Identify and confront the Ouroboros wearer~~ — **CONFIRMED**: Valen Marr
 - [x] ~~Analyze the Daedric Speaking Stone~~ — **COMPLETED**: Memory anchor for skin-changer
 - [x] ~~Investigate the northeast marker outside Kjalgrad~~ — **COMPLETED**: Northeast warehouse raided
+- [x] ~~Rescue Onasha from Jarl's dungeon~~ — **COMPLETED** (Session 027)
 - [ ] **Assault the main facility** — see [[Info/Quests/Assault_Main_Facility\|Assault_Main_Facility]] (Ward solutions pending)
-- [ ] **Deal with the skin-changer Jarl** — see [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]] (after facility)
+- [ ] **Deal with the skin-changer Jarl** — see [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]] (status unknown post-fire)
+- [ ] **Investigate the Mesa** — find out what happened to the missing merchants (Mesa Lead from John)
 - [ ] Identify what **"the Coming Correction"** is — timeline, target, nature
 - [ ] Investigate the **Bruma pendant-wearer** Valen mentioned
 - [ ] Follow up on **Riften bribes** — which officials, what they've done
@@ -360,3 +368,14 @@ The Jarl is **almost certainly dead** — replaced by a Mimicry Daedra (skin-cha
 - [ ] Investigate "The Grand Architect"
 - [ ] Monitor for [[Info/Characters/999 NPC's/Majorn_the_Ancient\|Majorn_the_Ancient]] vampire activities
 - [ ] Track down remaining cult operatives with black leathers and Daedric runes
+
+## Session References
+- **[[2 -  Sessions/Session 020\|Session 020]]**: Quest initiated; [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] met; alliance formed; [[Info/Characters/999 NPC's/Varren\|Varren]] captured
+- **[[2 -  Sessions/Session 021\|Session 021]]**: [[Info/Characters/999 NPC's/Varren\|Varren]] interrogated; Daedric speaking stone analyzed; speaking stone links to Oblivion
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Trade event; Jarl's speech with Daedric effects; Daedric stone recovered from Jarl's lockbox
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Coin molds and ritual materials confirmed at Warehouse 7; office intelligence gathered; northeast marker identified
+- **[[2 -  Sessions/Session 023b\|Session 023b]]**: Horned mask (Masque of Clavicus Vile) confirmed on bandit mage's letter
+- **[[2 -  Sessions/Session 024\|Session 024]]**: Northeast warehouse raided; Scathing encountered; ledger recovered; workers freed; warehouse preserved
+- **[[2 -  Sessions/Session 025\|Session 025]]**: Memory anchor explained; skin-changer Jarl confirmed almost certainly dead; two-day downtime at barrow
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Ward problem identified by Milos; two Ward solutions in progress; warehouses burned; assault preparations underway
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha and Periwyn arrested; Periwyn escaped custody and rescue squad (Lower Lodge) broke Onasha out; Durov pocketed Queen's writ and handed to Periwyn; Jarl's steward Darius Karo tortured Onasha; Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during escape; Durov met contact John and found missing merchant's journal scraps pointing to the mesa.

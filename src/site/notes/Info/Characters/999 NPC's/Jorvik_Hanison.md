@@ -9,12 +9,12 @@
 **Race:** Unknown  
 **Gender:** Male (assumed)  
 **Title:** **Guildmaster** of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]  
-**Location:** [[Kjalgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] (Leader)  
 **Status:** Alive
 
 ## Description
-Jorvik Hanison is the **Guildmaster** of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], making him the ultimate authority within the guild. He commands a powerful merchant organization that has effectively taken control of [[Kjalgrad\|Kjalgrad]] through economic influence, controlling the city's guards, prices, tolls, and passages.
+Jorvik Hanison is the **Guildmaster** of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], making him the ultimate authority within the guild. He commands a powerful merchant organization that has effectively taken control of [[Info/Locations/Kjallgrad\|Kjalgrad]] through economic influence, controlling the city's guards, prices, tolls, and passages.
 
 ## Position and Power
 
@@ -36,7 +36,7 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]] ([[2 -  Sessions/Session 0
 - Commands a wealthy merchant organization
 - Controls trade routes (the "Silverroad" likely refers to their trade network)
 - Has enough money to maintain a city's entire guard force
-- Can set prices and tolls throughout [[Kjalgrad\|Kjalgrad]]
+- Can set prices and tolls throughout [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - Significant influence over the regional economy
 
 ## Potential Involvement in Conspiracy
@@ -57,7 +57,7 @@ While Jorvik has not been directly connected to the conspiracy, his position mak
 - Could be the Ouroboros wearer himself
 
 **Political Control:**
-- The guild controls [[Kjalgrad\|Kjalgrad]] politically and economically
+- The guild controls [[Info/Locations/Kjallgrad\|Kjalgrad]] politically and economically
 - [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] attempted to eliminate [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] who was investigating
 - This level of corruption likely requires Guildmaster approval
 
@@ -125,7 +125,7 @@ Jorvik Hanison is the **key target** for understanding the conspiracy:
 7. **Would taking him down expose the conspiracy or just remove one piece?**
 
 ## Location
-- **[[Kjalgrad\|Kjalgrad]]**: Primary location
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]]**: Primary location
 - Likely has a guild headquarters or estate
 - Specific location unknown to the party
 
@@ -133,7 +133,7 @@ Jorvik Hanison is the **key target** for understanding the conspiracy:
 - Has not been encountered directly by the party yet
 - All information is second-hand through [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s title and guild structure
 - The party may meet him after dealing with [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
-- Could be the final boss of the [[Kjalgrad\|Kjalgrad]] conspiracy arc
+- Could be the final boss of the [[Info/Locations/Kjallgrad\|Kjalgrad]] conspiracy arc
 - Or could be a puppet for "The Grand Architect"
 
 ## Session 022 Updates
@@ -161,7 +161,7 @@ Jorvik hosted a major trade event at the **Jarl's Hall** in [[2 -  Sessions/Sess
 
 ### Tariffs and Disappearances
 By Session 023, the Guild under Jorvik's leadership has:
-- Raised **tariffs to 45%** — a punishing rate affecting all merchants in [[Kjalgrad\|Kjalgrad]]
+- Raised **tariffs to 45%** — a punishing rate affecting all merchants in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - Citizens who speak out are **disappearing** with no dungeon records ([[Info/Characters/999 NPC's/Guard_Captain_Kjalgrad\|Guard_Captain_Kjalgrad]] confirmed this)
 - City guards confirmed to be on the Guild's payroll are reportedly "less than reputable people" questioning merchants at warehouses
 
@@ -172,7 +172,7 @@ Intelligence gathered from [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'
 - The Jarl is described as "cooperative" but requiring "continued supervision" — implying the Guild controls the nominal ruler of the city
 
 ### The Guild's Reach
-Under Jorvik's leadership, the Guild has moved beyond [[Kjalgrad\|Kjalgrad]]:
+Under Jorvik's leadership, the Guild has moved beyond [[Info/Locations/Kjallgrad\|Kjalgrad]]:
 - Active bribery of Riften officials confirms expansion of political influence
 - Three trade routes proposed to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] by [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] — Kjalgrad→Morrowind, Rift routes, Rift→Falkreath→Bruma/Cyrodiil — suggest pan-regional ambition
 - The reference to "Coming Correction" implies something coordinated at a larger scale than city politics

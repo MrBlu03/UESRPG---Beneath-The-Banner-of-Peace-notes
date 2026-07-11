@@ -6,7 +6,7 @@
 # Investigate Cult of Clavicus Vile
 
 **Status**: Active (Session 020)  
-**Objective**: Assist [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] in uncovering and stopping the Cult of Clavicus Vile operations in [[Kjalgrad\|Kjalgrad]]
+**Objective**: Assist [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] in uncovering and stopping the Cult of Clavicus Vile operations in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 
 ## Background
 [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] revealed in [[2 -  Sessions/Session 020\|Session 020]] that a **Cult of Clavicus Vile** is operating in the Rift. The cult is distributing **brimstone gold** (currency from Oblivion) through the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] and may be connected to the broader [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] conspiracy.
@@ -34,7 +34,7 @@
 - Currency originating from **Oblivion**
 - Warm to the touch
 - Smells of sulfur/brimstone
-- Being distributed through normal commerce in [[Kjalgrad\|Kjalgrad]]
+- Being distributed through normal commerce in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - [[Info/Characters/999 NPC's/Varren\|Varren]] paid **far more** than items were worth
 - Sample obtained by [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] from merchant [[Nielfa\|Nielfa]]
 
@@ -66,7 +66,7 @@
 - **"The Grand Architect"**: Mysterious authority figure
 
 ## Key Locations
-- **[[Kjalgrad\|Kjalgrad]]**: Center of cult activity
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]]**: Center of cult activity
 - **[[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]]**: Communication hub for agents
 - **[[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]**: Front organization
 
@@ -86,7 +86,7 @@
 - Discovered **multiple corpses** of cultists
 - Found a **summoning circle** on the floor—designed to summon Daedra
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** and [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] had previously dealt with these cultists
-- Evidence of active Daedric summoning rituals in [[Kjalgrad\|Kjalgrad]]
+- Evidence of active Daedric summoning rituals in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 
 ### Guild Leadership Revealed
 - **[[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]**: **Guildmaster** of the Guild of the Silverroad
@@ -122,7 +122,7 @@ The party successfully infiltrated a major trade event hosted by the Guild of th
 
 **Periwyn and Onasha (Guest Approach):**
 - Attended as "Lady Lunclaire" and bodyguard
-- Made legitimate trade connections with [[Renald Vero\|Renald Vero]] (silk) and [[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]] (lumber)
+- Made legitimate trade connections with [[Info/Characters/999 NPC's/Renald_Vero\|Renald Vero]] (silk) and [[Info/Characters/999 NPC's/Olvfrost\|Olvfrost]] (lumber)
 - **CRITICAL DISCOVERY**: **[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] spotted [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] wearing an Ouroboros pendant**
 - This confirms Valen is a **confirmed member of the Coiled Serpent**
 - Valen approached Periwyn about partnership and warned of political changes with the High King unwell
@@ -200,9 +200,14 @@ Milos (the Vestige) confirmed the dark runic stone is a **memory anchor** for a 
 - Secondary entrances are **Warded shut** by powerful cult glyphs
 - Two Ward solutions in progress: alchemical varnish (pearl + hag raven feather) and [[Info/Characters/999 NPC's/Father_Aldric\|Father_Aldric]] (Breton alteration mage)
 - Milos departed to retrieve the hag raven feather from the Witch of the Woods
-- Both Kjalgrad warehouses burned in coordinated party + Lower Lodge action
+- Both Kjalgrad warehouses burned in coordinated party + Lower Lodge action (Taria's network)
 
-## Updated Key Tasks (Post-Session 026)
+## Session 027 Updates — Interrogation and Escape
+- **Interrogation and Torture**: Onasha was tortured by the Jarl's steward [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] in the dungeon of the [[Info/Locations/Clan_Morvan_Longhouse\|Yarls Hall]], prompting her to send an urgent warning crow to the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] about the steward's cult and Daedric connections.
+- **Durov's Intervention**: Durov deceived the steward into leaving, pocketed the [[Info/1 - Party Findings/Official Writ of Authority\|Queen's writ of authority]] from Periwyn's confiscated journal, and returned it to Periwyn.
+- **The Jailbreak and Fire**: Periwyn and a Lower Lodge rescue squad broke Onasha out via a secret sewer wall. Before escaping, Onasha set fire to the hall, leaving the [[Info/Locations/Clan_Morvan_Longhouse\|Yarls Hall]] engulfed in flames.
+
+## Updated Key Tasks (Post-Session 027)
 - [x] ~~Meet [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]~~ — **COMPLETED**: Alliance formed
 - [x] ~~Investigate [[Info/Characters/999 NPC's/Varren\|Varren]]~~ — **COMPLETED**: Confession obtained; Varren severely traumatized
 - [x] ~~Retrieve the **Daedric Speaking Stone**~~ — **COMPLETED** by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
@@ -211,8 +216,10 @@ Milos (the Vestige) confirmed the dark runic stone is a **memory anchor** for a 
 - [x] ~~Deliver the Daedric stone to the Blackfeather Court~~ — **COMPLETED** (Session 025): Handed to Milos; confirmed as memory anchor
 - [x] ~~Investigate the northeast marker~~ — **COMPLETED** (Session 024): Northeast warehouse
 - [x] ~~Determine Jarl's status~~ — **CONFIRMED** (Session 025): Almost certainly dead; skin-changer in place
+- [x] ~~Rescue Onasha from Jarl's dungeon~~ — **COMPLETED** (Session 027)
 - [ ] **Assault the main facility** — see [[Info/Quests/Assault_Main_Facility\|Assault_Main_Facility]]
-- [ ] **Deal with the skin-changer Jarl** — see [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]]
+- [ ] **Deal with the skin-changer Jarl** — see [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]] (status unknown post-fire)
+- [ ] **Investigate the Mesa** — check the mesa destination for missing merchants (Mesa Lead from John)
 - [ ] Understand what the cult's "bargain" entails — the grand purpose of the brimstone gold, skin-changer, and enslaved people
 - [ ] Identify "The Grand Architect" — the orchestrator behind both the Guild and cult operations
 - [ ] Determine what "the Coming Correction" is
@@ -226,3 +233,4 @@ Milos (the Vestige) confirmed the dark runic stone is a **memory anchor** for a 
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Northeast warehouse raided; Scathing encountered; ledger recovered; workers freed; warehouse preserved
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Memory anchor explained; skin-changer Jarl confirmed almost certainly dead; two-day downtime at barrow
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Ward problem identified by Milos; two Ward solutions in progress; warehouses burned; assault preparations underway
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha and Periwyn arrested; Periwyn escaped custody and rescue squad (Lower Lodge) broke Onasha out; Durov pocketed Queen's writ and handed to Periwyn; Jarl's steward Darius Karo tortured Onasha; Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during escape; Durov met contact John and found missing merchant's journal scraps pointing to the mesa.

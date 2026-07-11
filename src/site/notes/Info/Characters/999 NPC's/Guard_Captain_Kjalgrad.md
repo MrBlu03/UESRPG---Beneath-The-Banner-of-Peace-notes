@@ -8,14 +8,14 @@
 ## Basic Information
 **Race:** Unknown  
 **Gender:** Unknown  
-**Title:** Captain of the Guard, [[Kjalgrad\|Kjalgrad]]  
-**Location:** [[Kjalgrad\|Kjalgrad]]  
+**Title:** Captain of the Guard, [[Info/Locations/Kjallgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** City Guard (funded by [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]])  
 **Status:** Alive  
 **Name:** Unknown — referred to in transcript as "Captain" (auto-generated transcript produced garbled readings; name unconfirmed)
 
 ## Description
-The captain of the city guard in [[Kjalgrad\|Kjalgrad]]. Like all city guards here, this captain is on the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]'s payroll rather than the Jarl's. When citizens began disappearing after speaking out against the Guild's tariff increases, the captain confirmed that arrests had been made — but could not account for the missing people, as none of them appeared in the dungeon records.
+The captain of the city guard in [[Info/Locations/Kjallgrad\|Kjalgrad]]. Like all city guards here, this captain is on the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]'s payroll rather than the Jarl's. When citizens began disappearing after speaking out against the Guild's tariff increases, the captain confirmed that arrests had been made — but could not account for the missing people, as none of them appeared in the dungeon records.
 
 The captain was encountered sitting at the [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]] drinking mead in the morning when [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] approached.
 

@@ -9,19 +9,19 @@
 **Race:** Unknown (posh, older woman)  
 **Gender:** Female  
 **Title:** Lady  
-**Location:** [[Kjalgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Status:** Alive  
 **Husband:** Jean-Pierre LaRoche (missing)  
 
 ## Description
-A well-dressed, older woman of evident social standing. Met [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] at the market protest in [[Kjalgrad\|Kjalgrad]] during [[2 -  Sessions/Session 026\|Session 026]], arriving with a cane and wearing a frock. She came specifically to report her husband missing and sought him out in his capacity as a Guild complaints officer.
+A well-dressed, older woman of evident social standing. Met [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] at the market protest in [[Info/Locations/Kjallgrad\|Kjalgrad]] during [[2 -  Sessions/Session 026\|Session 026]], arriving with a cane and wearing a frock. She came specifically to report her husband missing and sought him out in his capacity as a Guild complaints officer.
 
 ## Key Interactions
 
 ### [[2 -  Sessions/Session 026\|Session 026]] — Market Protest
 Approached [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] at the market protest to report her husband's disappearance:
 
-- **Husband:** His Illustrious Magnificence **Jean-Pierre LaRoche**, Marquis of the Sapphire Coast, Baron of the Nine Rooms, Keeper of the Royal Cocoon Seals, and Patriarch of House LaRoche — a **silk merchant** based in [[Kjalgrad\|Kjalgrad]]
+- **Husband:** His Illustrious Magnificence **Jean-Pierre LaRoche**, Marquis of the Sapphire Coast, Baron of the Nine Rooms, Keeper of the Royal Cocoon Seals, and Patriarch of House LaRoche — a **silk merchant** based in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - **Disappeared:** Over a week ago, last seen **leaving home to open his market stall**
 - **His stall** is still standing in the market with **frozen fabrics** left unattended — she believes he would never voluntarily abandon his silks
 - **Last behavior:** He had been mildly **absent-minded since the Jarl's banquet**, which she noted but did not consider alarming at the time

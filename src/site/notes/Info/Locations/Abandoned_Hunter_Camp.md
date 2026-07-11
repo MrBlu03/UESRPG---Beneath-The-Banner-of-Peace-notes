@@ -7,12 +7,12 @@
 
 ## Basic Information
 **Type:** Campsite  
-**Region:** The Rift, Skyrim (west of [[Kjalgrad\|Kjalgrad]])  
+**Region:** The Rift, Skyrim (west of [[Info/Locations/Kjallgrad\|Kjalgrad]])  
 **Status:** Abandoned  
 **Last Used:** Prior to [[Session 023a\|Session 023a]]
 
 ## Description
-A temporary hunting camp established by Bjorn and his hunting party in the western woods outside [[Kjalgrad\|Kjalgrad]]. The camp was abandoned after the hunters were attacked by a supernatural creature, forcing them to flee and leave their equipment behind.
+A temporary hunting camp established by Bjorn and his hunting party in the western woods outside [[Info/Locations/Kjallgrad\|Kjalgrad]]. The camp was abandoned after the hunters were attacked by a supernatural creature, forcing them to flee and leave their equipment behind.
 
 ## Features
 - **Burnt-out Campfire:** Still has logs covered in snow

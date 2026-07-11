@@ -7,14 +7,14 @@
 
 ## Basic Information
 **Type:** Abandoned Guild House  
-**Location:** [[Kjalgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Region:** The Rift, Skyrim  
 **Status:** Abandoned  
 **Former Owner:** [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]]  
 **Current Use:** Base of operations for [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]
 
 ## Description
-An abandoned guild house in [[Kjalgrad\|Kjalgrad]] that formerly belonged to the [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] before they left the city. The building now serves as a temporary base for [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] (operating under the alias "Sadrith Indoril") during his investigation of the **Cult of Clavicus Vile**.
+An abandoned guild house in [[Info/Locations/Kjallgrad\|Kjalgrad]] that formerly belonged to the [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]] before they left the city. The building now serves as a temporary base for [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] (operating under the alias "Sadrith Indoril") during his investigation of the **Cult of Clavicus Vile**.
 
 ## Physical Description
 - **Appearance**: Similar aesthetic to [[Info/Characters/999 NPC's/Stryder\|Stryder]]'s place in [[Info/Locations/Falderstad\|Falderstad]]
@@ -41,7 +41,7 @@ When [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] examined the 
 
 ### As a Guild House
 - Originally operated by the [[Info/Organizations/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]]
-- Guild departed [[Kjalgrad\|Kjalgrad]] at some point (reasons unknown)
+- Guild departed [[Info/Locations/Kjallgrad\|Kjalgrad]] at some point (reasons unknown)
 - Building fell into disuse
 
 ### Current Usage ([[2 -  Sessions/Session 020\|Session 020]])
@@ -89,7 +89,7 @@ When [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] examined the 
 - **[[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]**: Target of investigation from here
 
 ## Related Locations
-- **[[Kjalgrad\|Kjalgrad]]**: The city where it's located
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]]**: The city where it's located
 - **[[Info/Locations/Abandoned_Guild_House\|Abandoned_Guild_House]]**: Similar building in [[Info/Locations/Falderstad\|Falderstad]] (different organization)
 
 ## Notes

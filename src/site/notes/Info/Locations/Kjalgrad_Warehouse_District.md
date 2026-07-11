@@ -7,13 +7,13 @@
 
 ## Basic Information
 **Type:** Warehouse and Docking District  
-**Location:** [[Kjalgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Region:** The Rift, Skyrim  
 **Status:** Active  
 **Controlled By:** [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] (effective)
 
 ## Description
-The warehouse district of [[Kjalgrad\|Kjalgrad]] handles the storage and distribution of goods flowing through the city's guild-controlled trade network. The district has been the site of suspicious activity: night deliveries, sealed crates with no manifest explanation, and workers reporting "less than reputable" individuals asking questions around the premises.
+The warehouse district of [[Info/Locations/Kjallgrad\|Kjalgrad]] handles the storage and distribution of goods flowing through the city's guild-controlled trade network. The district has been the site of suspicious activity: night deliveries, sealed crates with no manifest explanation, and workers reporting "less than reputable" individuals asking questions around the premises.
 
 ## Notable Locations
 
@@ -72,7 +72,7 @@ The same map also showed a mark **northeast of Kjalgrad outside the city walls**
 
 ## Related Locations
 - **[[Info/Locations/Guild_of_the_Silverroad_Guildhouse\|Guild_of_the_Silverroad_Guildhouse]]**: Map and ledger connecting to this district
-- **[[Kjalgrad\|Kjalgrad]]**: The city containing this district
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]]**: The city containing this district
 - **Northeast marker**: Unknown site outside Kjalgrad
 
 ## Related Organizations

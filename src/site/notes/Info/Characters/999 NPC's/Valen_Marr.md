@@ -9,7 +9,7 @@
 **Race:** Unknown  
 **Gender:** Male (assumed)  
 **Title:** Trade Advocate for the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]  
-**Location:** [[Kjalgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]  
 **Superior:** [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]] (Guildmaster)  
 **Status:** Alive
@@ -38,7 +38,7 @@ Valen Marr is the **Trade Advocate** for Guildmaster **[[Info/Characters/999 NPC
 ### Hiring Durov to Hunt The Vestige
 Revealed in [[2 -  Sessions/Session 021\|Session 021]]:
 - Previously hired **[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]** to hunt down **[[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]**
-- This occurred before the party arrived in [[Kjalgrad\|Kjalgrad]]
+- This occurred before the party arrived in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - The hunt failed when [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] and The Vestige became acquainted instead
 - Suggests Valen knew The Vestige was investigating the guild
 - Shows he has authority to hire hunters for guild security
@@ -109,7 +109,7 @@ Meeting him with the forged letter is extremely risky—if he sees through the d
 - His reaction to the party's forged evidence
 
 ## Location
-- **[[Kjalgrad\|Kjalgrad]]**: Primary location (specific location provided by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]])
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]]**: Primary location (specific location provided by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]])
 - Likely has an office or headquarters within guild property
 
 ## Notes

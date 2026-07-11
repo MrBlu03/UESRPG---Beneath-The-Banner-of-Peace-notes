@@ -9,12 +9,12 @@
 **Race:** Unknown  
 **Gender:** Unknown  
 **Title:** None known  
-**Location:** [[Info/Locations/Kjalgrad_Warehouse_District\|Kjalgrad_Warehouse_District]], [[Kjalgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjalgrad_Warehouse_District\|Kjalgrad_Warehouse_District]], [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** Unknown — suspected resistance network or Strider operative  
 **Status:** Alive
 
 ## Description
-A suspiciously well-dressed individual working in or around [[Kjalgrad\|Kjalgrad]]'s warehouse district. This person stands out as incongruous among typical dock and warehouse workers, suggesting a cover identity. When the party investigated [[Warehouse 7\|Warehouse 7]], this contact approached and made a veiled offer, describing themselves as someone with **"friends in low places"** — language consistent with underworld or resistance contacts.
+A suspiciously well-dressed individual working in or around [[Info/Locations/Kjallgrad\|Kjalgrad]]'s warehouse district. This person stands out as incongruous among typical dock and warehouse workers, suggesting a cover identity. When the party investigated [[Warehouse 7\|Warehouse 7]], this contact approached and made a veiled offer, describing themselves as someone with **"friends in low places"** — language consistent with underworld or resistance contacts.
 
 ## Physical Description
 - Notably well-dressed for a warehouse environment

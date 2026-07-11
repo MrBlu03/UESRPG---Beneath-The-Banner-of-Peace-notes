@@ -34,7 +34,7 @@ The Camonna Tong is a criminal syndicate originating from Morrowind that operate
 - Entire local operation eliminated by [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]]
 
 **[[2 -  Sessions/Session 022\|Session 022]]**:
-- **ACTIVE IN [[Kjalgrad\|Kjalgrad]]**: Murdered two guards outside the Jarl's Hall
+- **ACTIVE IN [[Info/Locations/Kjallgrad\|Kjalgrad]]**: Murdered two guards outside the Jarl's Hall
 - The guards were working for the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
 - Targeted during a major trade event hosted by the Guild
 - Forced [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] to evacuate the city

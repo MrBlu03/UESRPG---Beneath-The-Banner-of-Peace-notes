@@ -6,24 +6,24 @@
 # The Witch of the Woods
 
 ## Quest Overview
-A bounty posted by a hunter named Bjorn regarding a dangerous "witch of the woods" that has been attacking hunters and their livestock west of [[Kjalgrad\|Kjalgrad]]. The creature uses magic and has killed several people, making it a threat to the local hunting community.
+A bounty posted by a hunter named Bjorn regarding a dangerous "witch of the woods" that has been attacking hunters and their livestock west of [[Info/Locations/Kjallgrad\|Kjalgrad]]. The creature uses magic and has killed several people, making it a threat to the local hunting community.
 
 ## Quest Details
 **Given By:** [[Info/Characters/999 NPC's/Bjorn_Hunter\|Bjorn]] (hunter)  
-**Location:** Western woods outside [[Kjalgrad\|Kjalgrad]]  
-**Contact:** Bjorn at the tavern in [[Kjalgrad\|Kjalgrad]]  
+**Location:** Western woods outside [[Info/Locations/Kjallgrad\|Kjalgrad]]  
+**Contact:** Bjorn at the tavern in [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Type:** Bounty/Monster hunt  
 **Creature:** [[Info/Quests/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]] (hagravenn-like supernatural being)
 
 ## Background
-Hunters operating west of [[Kjalgrad\|Kjalgrad]] have encountered a dangerous creature that attacks with magic. Bjorn's horse was killed by fire magic during a hunting expedition, and the creature has claimed several lives in recent days. The hunters are not equipped to deal with a magical threat and posted a bounty for adventurers to handle the problem.
+Hunters operating west of [[Info/Locations/Kjallgrad\|Kjalgrad]] have encountered a dangerous creature that attacks with magic. Bjorn's horse was killed by fire magic during a hunting expedition, and the creature has claimed several lives in recent days. The hunters are not equipped to deal with a magical threat and posted a bounty for adventurers to handle the problem.
 
 ## Quest Development
 
 ### [[Session 023a\|Session 023a]] - Investigation and Resolution
 
 **Taking the Contract:**
-- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] found the bounty on the bounty board at [[Kjalgrad\|Kjalgrad]]
+- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] found the bounty on the bounty board at [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - Met with Bjorn at the tavern to discuss details
 - Learned the creature uses fire magic and has killed multiple people
 - Received a rough map showing the creature's territorial range
@@ -71,7 +71,7 @@ Hunters operating west of [[Kjalgrad\|Kjalgrad]] have encountered a dangerous cr
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]:** Adventurer who resolved the quest
 
 ## Related Locations
-- **[[Kjalgrad\|Kjalgrad]]:** Where the bounty was posted
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]]:** Where the bounty was posted
 - **[[Info/Locations/Western_Woods_Kjalgrad\|Western_Woods_Kjalgrad]]:** Where the witch resides
 - **[[Info/Locations/Abandoned_Hunter_Camp\|Abandoned_Hunter_Camp]]:** Starting point for tracking
 - **[[Info/Locations/Witchs_Clearing\|Witchs_Clearing]]:** The creature's territorial center

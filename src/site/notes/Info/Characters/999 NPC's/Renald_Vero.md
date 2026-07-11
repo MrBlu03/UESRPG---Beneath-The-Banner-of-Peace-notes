@@ -10,7 +10,7 @@
 **Gender:** Male  
 **Title:** Silk Baron  
 **Origin:** Rivenspire (Shornhelm), High Rock  
-**Current Location:** [[Windhelm\|Windhelm]] (office), travels to [[Kjalgrad\|Kjalgrad]]  
+**Current Location:** [[Windhelm\|Windhelm]] (office), travels to [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Business:** Silk Trade  
 **Status:** Alive
 

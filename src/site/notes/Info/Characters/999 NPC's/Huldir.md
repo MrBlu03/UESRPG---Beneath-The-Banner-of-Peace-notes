@@ -12,7 +12,7 @@
 **Occupation:** Personal Guard  
 **Employer:** [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]  
 **Origin:** Bruma  
-**Location:** [[Kjalgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
 
 ## Description
@@ -48,7 +48,7 @@ During [[2 -  Sessions/Session 022\|Session 022]], Huldir and [[Info/Characters/
 
 ### Camonna Tong Discovery
 - Privately informed [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] about the Camonna Tong murders outside
-- Revealed that the Camonna Tong is active in [[Kjalgrad\|Kjalgrad]]
+- Revealed that the Camonna Tong is active in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - Told Durov that Valen needed to be evacuated
 - Arranged for payment to be delivered by courier
 - Evacuated with Valen and Brom/Bramm after the event
@@ -77,7 +77,7 @@ Huldir represents:
 - His knowledge of the spell absorption tinctures suggests either he or Valen knew about the Jarl's magical speech
 - Could be a valuable contact if [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] continues working with the Guild
 - His similar shield crest to Durov may indicate shared clan or regional origins
-- Evacuated with Valen—may not be in [[Kjalgrad\|Kjalgrad]] for future sessions
+- Evacuated with Valen—may not be in [[Info/Locations/Kjallgrad\|Kjalgrad]] for future sessions
 
 ## Session References
 - **[[2 -  Sessions/Session 022\|Session 022]]**: Bonded with Durov; distributed spell absorption tinctures; evacuated Valen after Camonna Tong murders

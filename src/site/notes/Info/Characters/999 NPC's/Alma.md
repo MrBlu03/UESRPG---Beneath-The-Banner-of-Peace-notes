@@ -94,7 +94,7 @@ Alma represents the ordinary hunters of [[Info/Locations/Falderstad\|Falderstad]
 ### [[2 -  Sessions/Session 020\|Session 020]] - Intelligence Source in Kjalgrad
 
 **Encounter:**
-- Party encountered her on the streets of [[Kjalgrad\|Kjalgrad]]
+- Party encountered her on the streets of [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - Her wounds from the Ragged Lord battle were healing well
 
 **Intel Provided:**

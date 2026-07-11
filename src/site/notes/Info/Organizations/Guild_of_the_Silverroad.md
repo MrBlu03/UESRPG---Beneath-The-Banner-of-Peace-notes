@@ -6,7 +6,7 @@
 # Guild of the Silverroad
 
 ## Overview
-The Guild of the Silverroad is a powerful merchant organization that effectively controls the city of [[Kjalgrad\|Kjalgrad]] in the Rift. While ostensibly a legitimate trading guild, evidence suggests deep corruption and connections to Daedric activity, specifically the **Cult of Clavicus Vile** and the **[[Info/Lore/Coiled_Serpent\|Coiled_Serpent]]**.
+The Guild of the Silverroad is a powerful merchant organization that effectively controls the city of [[Info/Locations/Kjallgrad\|Kjalgrad]] in the Rift. While ostensibly a legitimate trading guild, evidence suggests deep corruption and connections to Daedric activity, specifically the **Cult of Clavicus Vile** and the **[[Info/Lore/Coiled_Serpent\|Coiled_Serpent]]**.
 
 ## Political Power
 
@@ -14,12 +14,12 @@ The Guild of the Silverroad is a powerful merchant organization that effectively
 According to [[Info/Characters/999 NPC's/Alma\|Alma]] ([[2 -  Sessions/Session 020\|Session 020]]):
 - **Bankrolls the city guards** - not the Jarl
 - **Controls prices, tolls, and passages**
-- The Jarl of [[Kjalgrad\|Kjalgrad]] is essentially a figurehead
+- The Jarl of [[Info/Locations/Kjallgrad\|Kjalgrad]] is essentially a figurehead
 - [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] (Jarl's Steward) handles actual governance
 - Darius Karo is likely in the guild's pocket
 
 ### Implications
-- The guild has effectively purchased control of [[Kjalgrad\|Kjalgrad]]
+- The guild has effectively purchased control of [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - City policy likely serves guild interests
 - Guards answer to guild money, not traditional Nordic authority
 - Travelers and merchants are subject to guild-controlled tolls
@@ -43,7 +43,7 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]] ([[2 -  Sessions/Session 0
 - Someone **high up** in the Guild of the Silverroad wears an **Ouroboros necklace**
 - The Ouroboros is the symbol of the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]]
 - This confirms infiltration at the leadership level
-- Matches previous intel about a contact in [[Kjalgrad\|Kjalgrad]] wearing the pendant
+- Matches previous intel about a contact in [[Info/Locations/Kjallgrad\|Kjalgrad]] wearing the pendant
 
 ## Known Operations
 
@@ -118,7 +118,7 @@ The Guild hosted a major trade event at the **Jarl's Hall**:
 - The conspiracy reaches the highest levels of guild leadership
 
 ### Key Questions
-1. What is the purpose of flooding [[Kjalgrad\|Kjalgrad]] with Daedric gold?
+1. What is the purpose of flooding [[Info/Locations/Kjallgrad\|Kjalgrad]] with Daedric gold?
 2. Who is "The Grand Architect"?
 3. Who in guild leadership wears the Ouroboros?
 4. How deep does the Daedric influence go?
@@ -127,29 +127,29 @@ The Guild hosted a major trade event at the **Jarl's Hall**:
 ## Evidence
 - [[Info/Characters/999 NPC's/Varren\|Varren]]'s confession regarding brimstone gold operation
 - **Daedric Speaking Stone** confiscated by [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
-- [[Info/Characters/999 NPC's/Alma\|Alma]]'s testimony about guild control of [[Kjalgrad\|Kjalgrad]]
+- [[Info/Characters/999 NPC's/Alma\|Alma]]'s testimony about guild control of [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]'s notes showing Ouroboros wearer in guild leadership
 - Reconstructed letter mentioning "The Architect"
 
 ## Locations
-- **[[Kjalgrad\|Kjalgrad]]**: Primary base of operations
-- **[[Kjalgrad\|Kjalgrad]] Sewers**: Meeting point for agent communications
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]]**: Primary base of operations
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]] Sewers**: Meeting point for agent communications
 
 ## Related Organizations
 - **[[Info/Lore/Coiled_Serpent\|Coiled_Serpent]]**: Infiltrated guild leadership (Ouroboros necklace)
 - **Cult of Clavicus Vile**: Connected through brimstone gold
-- **[[Clan Morvan\|Clan Morvan]]**: Nominal rulers of [[Kjalgrad\|Kjalgrad]], but subservient to guild
+- **[[Clan Morvan\|Clan Morvan]]**: Nominal rulers of [[Info/Locations/Kjallgrad\|Kjalgrad]], but subservient to guild
 
 ## Threat Assessment
 **HIGH** - The Guild of the Silverroad represents a sophisticated conspiracy combining:
-- Economic power (controls [[Kjalgrad\|Kjalgrad]]'s commerce)
+- Economic power (controls [[Info/Locations/Kjallgrad\|Kjalgrad]]'s commerce)
 - Political power (controls the city government through [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]])
 - Daedric connections (Cult of Clavicus Vile, brimstone gold)
 - [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] infiltration at leadership level
 
 ## Notes
 - The name "Silverroad" may refer to trade routes they control
-- Their control of [[Kjalgrad\|Kjalgrad]] explains why Khajiit caravans don't visit
+- Their control of [[Info/Locations/Kjallgrad\|Kjalgrad]] explains why Khajiit caravans don't visit
 - Connection between this guild and [[Info/Organizations/House_Hlaalu\|House_Hlaalu]] smugglers is possible
 - May be part of the same conspiracy as the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] operations in [[Info/Locations/Riften\|Riften]]
 

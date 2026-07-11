@@ -10,12 +10,12 @@
 **Race:** Breton  
 **Gender:** Male  
 **Profession:** Silk merchant  
-**Location:** Unknown — last seen [[Kjalgrad\|Kjalgrad]]  
+**Location:** Unknown — last seen [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Status:** Missing (over one week)  
 **Wife:** [[Info/Characters/999 NPC's/Lady_Aine\|Lady_Aine]]  
 
 ## Description
-A Breton silk merchant operating out of [[Kjalgrad\|Kjalgrad]], identifiable by his **memorable curling moustache**. A man of some social standing — invited to the Jarl's banquets, with an extensive set of noble titles. His family business appears to be silk, and he maintains a market stall in [[Kjalgrad\|Kjalgrad]].
+A Breton silk merchant operating out of [[Info/Locations/Kjallgrad\|Kjalgrad]], identifiable by his **memorable curling moustache**. A man of some social standing — invited to the Jarl's banquets, with an extensive set of noble titles. His family business appears to be silk, and he maintains a market stall in [[Info/Locations/Kjallgrad\|Kjalgrad]].
 
 ## Disappearance
 

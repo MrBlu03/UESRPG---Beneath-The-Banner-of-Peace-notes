@@ -57,7 +57,7 @@ The Mysterious Crow represents growing supernatural interest in the party's acti
 [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] was identified as the founder of the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] ("The Crowfather"). The crows serve as his messengers and agents; they guided the party out of [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] after the [[Info/Characters/999 NPC's/Varren\|Varren]] confrontation.
 
 ### [[2 -  Sessions/Session 023\|Session 023]] - Note Delivered to Kirya
-A crow appeared at the window of [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]] in [[Kjalgrad\|Kjalgrad]]:
+A crow appeared at the window of [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]] in [[Info/Locations/Kjallgrad\|Kjalgrad]]:
 - **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** offered the crow an apple
 - The crow delivered a note in exchange
 - The note read: *"Apple note from Master. Thank you."*

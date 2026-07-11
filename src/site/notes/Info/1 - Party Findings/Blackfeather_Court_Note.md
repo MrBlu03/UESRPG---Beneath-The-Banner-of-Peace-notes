@@ -43,7 +43,7 @@ The note itself contains no operational intelligence. However, the delivery conf
 3. **Kirya is the point of contact** for this particular crow — the crow came to her specifically
 
 ## The Vestige's Current Whereabouts
-[[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] was last known to be in [[Kjalgrad\|Kjalgrad]] but is not currently travelling with the party. The crow's continued contact suggests he is monitoring the situation, potentially from a distance, and may intervene if the party's mission becomes critical.
+[[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] was last known to be in [[Info/Locations/Kjallgrad\|Kjalgrad]] but is not currently travelling with the party. The crow's continued contact suggests he is monitoring the situation, potentially from a distance, and may intervene if the party's mission becomes critical.
 
 ## Notes
 - The note is mundane in content but significant as a sign of the Blackfeather Court's continued surveillance and interest

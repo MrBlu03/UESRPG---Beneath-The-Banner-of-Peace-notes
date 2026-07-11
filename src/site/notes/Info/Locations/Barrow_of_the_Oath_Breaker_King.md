@@ -7,7 +7,7 @@
 
 ## Basic Information
 **Type:** Nordic burial barrow  
-**Region:** Mountains south of [[Kjalgrad\|Kjalgrad]], near the Three Brothers standing stones  
+**Region:** Mountains south of [[Info/Locations/Kjallgrad\|Kjalgrad]], near the Three Brothers standing stones  
 **Status:** Active — occupied by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] (Milos)  
 **First Visited:** Session 025  
 
@@ -16,11 +16,11 @@ An ancient Nordic barrow built into a cliff face, externally difficult to distin
 
 The barrow is the **tomb of the Oath Breaker King**, a Nordic ruler who was sealed away by three brothers who subsequently turned themselves into standing stones in his memory. The Three Brothers standing stones outside serve as the barrow's exterior landmark.
 
-The [[Info/Characters/999 NPC's/The_Vestige\|Vestige]] (Milos) has made this his base of operations during the [[Kjalgrad\|Kjalgrad]] investigation.
+The [[Info/Characters/999 NPC's/The_Vestige\|Vestige]] (Milos) has made this his base of operations during the [[Info/Locations/Kjallgrad\|Kjalgrad]] investigation.
 
 ## How to Find It
 Follow the riddle given by the Blackfeather Court:
-1. Exit through the **south gate** of [[Kjalgrad\|Kjalgrad]]
+1. Exit through the **south gate** of [[Info/Locations/Kjallgrad\|Kjalgrad]]
 2. Follow the **Widow's River** (a small frozen stream named for a Jarl's wife who walked into it in grief after her husband died in war)
 3. At the fork, take the **right branch**
 4. Pass the **Three Brothers** standing stones (on a gentle slope to the left, barely-visible crown carvings)

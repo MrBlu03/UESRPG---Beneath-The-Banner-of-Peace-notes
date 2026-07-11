@@ -9,7 +9,7 @@
 **Objective**: Analyze the dark runic stone found in the Jarl's quarters to determine its nature, origin, purpose, and connection to Daedric forces
 
 ## Background
-During [[2 -  Sessions/Session 022\|Session 022]], **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** infiltrated the Jarl's private quarters and discovered a **dark stone etched with Daedric runes** inside a secured lockbox. The stone radiates heat and was found alongside a bloody fur cloak with a trail of blood leading to the window. This discovery suggests the Jarl of [[Kjalgrad\|Kjalgrad]] is directly involved with Daedric forces.
+During [[2 -  Sessions/Session 022\|Session 022]], **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** infiltrated the Jarl's private quarters and discovered a **dark stone etched with Daedric runes** inside a secured lockbox. The stone radiates heat and was found alongside a bloody fur cloak with a trail of blood leading to the window. This discovery suggests the Jarl of [[Info/Locations/Kjallgrad\|Kjalgrad]] is directly involved with Daedric forces.
 
 ## The Discovery
 
@@ -79,7 +79,7 @@ During [[2 -  Sessions/Session 022\|Session 022]], **[[Info/Characters/001 The F
 ### Follow-Up Investigation
 - [ ] **Monitor the Jarl**: Watch for further suspicious activity
 - [ ] **Check for More Stones**: Are there others hidden in the city?
-- [ ] **Disappearances**: Research recent mysterious deaths in [[Kjalgrad\|Kjalgrad]]
+- [ ] **Disappearances**: Research recent mysterious deaths in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - [ ] **Guild Connection**: Is the Guild of the Silverroad providing these to the Jarl?
 
 ## Potential Threats
@@ -121,7 +121,7 @@ Warm to the touch like the stone - may share a common source in Oblivion.
 ### As Evidence
 - **Smoking Gun**: Direct link between the Jarl and Daedric forces
 - **Political Weapon**: Could expose the Jarl if presented to authorities
-- **Proof of Corruption**: Validates all suspicions about [[Kjalgrad\|Kjalgrad]]'s leadership
+- **Proof of Corruption**: Validates all suspicions about [[Info/Locations/Kjallgrad\|Kjalgrad]]'s leadership
 
 ### As Intelligence
 - **Function**: Learning what it does reveals the conspiracy's capabilities
@@ -183,7 +183,7 @@ Warm to the touch like the stone - may share a common source in Oblivion.
 - **[[Info/Quests/Infiltrate_Guild_of_Silverroad\|Infiltrate_Guild_of_Silverroad]]**: Guild may have provided the stone to the Jarl
 
 ## Notes
-*This artifact represents the most concrete evidence yet of Daedric infiltration at the highest levels of [[Kjalgrad\|Kjalgrad]]'s government. Handle with extreme caution - Daedric artifacts are notoriously dangerous.*
+*This artifact represents the most concrete evidence yet of Daedric infiltration at the highest levels of [[Info/Locations/Kjallgrad\|Kjalgrad]]'s government. Handle with extreme caution - Daedric artifacts are notoriously dangerous.*
 
 *The combination of the stone, the bloody cloak, the Jarl's magical speech, and the conspiracy's control of the city paints a dire picture. The party is dealing with forces far beyond simple corruption.*
 

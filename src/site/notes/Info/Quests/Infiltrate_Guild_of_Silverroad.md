@@ -97,7 +97,7 @@ After discovering the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the
 - **Unknown Ouroboros Wearer**: High-ranking member
 
 ### Guild Operations
-- Bankrolls [[Kjalgrad\|Kjalgrad]] city guards
+- Bankrolls [[Info/Locations/Kjallgrad\|Kjalgrad]] city guards
 - Controls prices, tolls, and passages
 - Distributes **brimstone gold from Oblivion**
 - Uses **Daedric speaking stones** for communication
@@ -106,7 +106,7 @@ After discovering the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the
 
 ### Political Control
 - [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] (Jarl's Steward) likely in guild's pocket
-- Jarl of [[Kjalgrad\|Kjalgrad]] is a figurehead
+- Jarl of [[Info/Locations/Kjallgrad\|Kjalgrad]] is a figurehead
 - Guild effectively controls city government
 - Can place bounties and mobilize guards
 
@@ -117,7 +117,7 @@ After discovering the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the
 - Could face arrest, assassination, or worse
 - Entire investigation compromised
 - [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s application would be rejected/dangerous
-- May need to flee [[Kjalgrad\|Kjalgrad]]
+- May need to flee [[Info/Locations/Kjallgrad\|Kjalgrad]]
 
 ### If Durov is Recognized
 - [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] may remember hiring him to hunt [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]
@@ -172,7 +172,7 @@ After discovering the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the
 ### Complete Victory
 - Optimal success plus:
 - Capture or eliminate guild leadership
-- Destroy cult operations in [[Kjalgrad\|Kjalgrad]]
+- Destroy cult operations in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - Free the city from guild control
 - Connect to broader [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] conspiracy
 - Prevent Daedric incursion
@@ -269,11 +269,18 @@ The party disguised themselves as Camonna Tong operatives (using attire from the
 - **Warehouse not burned** — Periwyn argued that the supply chain has more value as intelligence
 
 ### Session 026 — Warehouses Burned; Durov at the Protest
-- **Both Kjalgrad warehouses burned**: Onasha/Periwyn executed the operation with Daria's Lower Lodge contacts; death bell traps planted, guard knocked out, fire spread simultaneously from both sites
+- **Both Kjalgrad warehouses burned**: Onasha/Periwyn executed the operation with Taria's Lower Lodge contacts; death bell traps planted, guard knocked out, fire spread simultaneously from both sites
 - **Durov + Luulov at the protest**: Attended the market strike organized by the Lower Lodge as cover; took statements from Hana (merchant), Yelena (tannery), and Lady Aine (missing husband)
 - **Brimstone gold wages**: Tannery workers being paid in strange gold and docked pay for refusing — new Guild pressure tactic
 
-## Updated Key Tasks (Post-Session 026)
+### Session 027 — Jailbreak & Arson of Yarls Hall
+- **Onasha and Periwyn arrested**: Intercepted by city guards after Periwyn's public magic cast.
+- **Onasha interrogated**: Tortured in the dungeon by Jarl's steward [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]. She sent a warning crow to the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]].
+- **Durov Deceives Steward**: Durov pocketed the [[Info/1 - Party Findings/Official Writ of Authority\|Queen's writ of authority]] from Periwyn's journal, hid it in his armor, and deceived the steward to take control of the interrogation.
+- **The Escape**: Periwyn and a Lower Lodge rescue team led by Tabitha freed Onasha via a secret sewer wall. Durov passed the Queen's writ back to Periwyn. Onasha set fire to the [[Info/Locations/Clan_Morvan_Longhouse\|Yarls Hall]] curtains during escape, leaving the building in flames.
+- **The Mesa Lead**: Durov met contact John and recovered journal scraps from a missing merchant detailing Jarl voice influence and a trip to the mesa.
+
+## Updated Key Tasks (Post-Session 027)
 - [x] ~~Create convincing forged evidence~~ — **COMPLETED**
 - [x] ~~Deceive [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]~~ — **COMPLETED**
 - [x] ~~Meet [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] with forged letter~~ — **COMPLETED**
@@ -282,10 +289,17 @@ The party disguised themselves as Camonna Tong operatives (using attire from the
 - [x] ~~Investigate the northeast marker on Valen's map~~ — **COMPLETED** (Session 024)
 - [x] ~~Destroy the Guild's Kjalgrad warehouse operations~~ — **COMPLETED** (Session 026)
 - [ ] **Assault the main facility** (the Guild's cult operations hub) — see [[Info/Quests/Assault_Main_Facility\|Assault_Main_Facility]]
-- [ ] **Deal with the skin-changer Jarl** — see [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]]
+- [ ] **Deal with the skin-changer Jarl** — see [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]] (status unknown after fire)
+- [ ] **Investigate the Mesa** — find out what happened to the missing merchants (Mesa Lead from John)
 - [ ] Identify "the Coming Correction" — timeline and target
 - [ ] Follow up on Riften bribes — which officials, what they've done
 - [ ] Investigate "The Grand Architect"
 - [ ] Determine [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]'s direct involvement
 - [ ] Identify the Bruma pendant-wearer Valen mentioned
 
+- **[[2 -  Sessions/Session 021\|Session 021]]**: Quest initiated; forged letter created and delivered to [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]; directed to meet [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
+- **[[2 -  Sessions/Session 022\|Session 022]]**: **BREAKTHROUGH** - Infiltrated trade event; Valen Marr confirmed as Coiled Serpent member (Ouroboros pendant spotted); Periwyn made legitimate trade connections; Durov maintained guard cover; Valen evacuated city due to Camonna Tong
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Periwyn met Valen at guildhouse; partnership offer; pendant cover story; office searched; major intelligence gathered ([[Info/1 - Party Findings/Valen_Office_Intelligence\|Valen_Office_Intelligence]])
+- **[[2 -  Sessions/Session 024\|Session 024]]**: Northeast warehouse raided (Camonna Tong cover); warehouse ledger recovered; enslaved workers freed; Scathing (Clavicus Vile servant) encountered and released; warehouse preserved to maintain supply chain
+- **[[2 -  Sessions/Session 026\|Session 026]]**: **Both Kjalgrad warehouses burned** in coordinated party + Lower Lodge network action. Guild's Kjalgrad storage destroyed. Durov attended market protest with guard captain Luulov; took missing persons statements. Brimstone gold now being used as tannery wages with pay docking for refusal.
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha and Periwyn arrested; Periwyn escaped custody and rescue squad (Lower Lodge) broke Onasha out; Durov pocketed Queen's writ and handed to Periwyn; Jarl's steward Darius Karo tortured Onasha; Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during escape; Durov met contact John and found missing merchant's journal scraps pointing to the mesa.

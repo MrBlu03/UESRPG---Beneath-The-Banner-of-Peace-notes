@@ -6,16 +6,16 @@
 # The Vestige (Milos)
 
 ## Basic Information
-**Race:** Argonian (true form); appeared as Dunmer "Sadrith Indoril" in [[Kjalgrad\|Kjalgrad]]  
+**Race:** Argonian (true form); appeared as Dunmer "Sadrith Indoril" in [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **True Name:** Milos (confirmed [[2 -  Sessions/Session 025\|Session 025]])  
 **Title:** The Vestige, The Crowfather, Founder of the Blackfeather Court  
-**Location:** Various; currently operating from [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]] south of [[Kjalgrad\|Kjalgrad]]  
+**Location:** Various; currently operating from [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]] south of [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]  
 **Status:** Immortal / Soulless — killed by a necromancer, soul imprisoned in Coldharbour  
 
 ## Known Aliases
 - **Milos**: True name, confirmed in [[2 -  Sessions/Session 025\|Session 025]]
-- **Sadrith Indoril**: Dunmer identity used in [[Kjalgrad\|Kjalgrad]]
+- **Sadrith Indoril**: Dunmer identity used in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - **The Crowfather**: Title among the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]]
 
 ## Description
@@ -41,7 +41,7 @@ His true name is **Milos**, an **Argonian** — confirmed in [[2 -  Sessions/Ses
 ### [[2 -  Sessions/Session 020\|Session 020]] — Revelation in Kjalgrad
 **Initial Encounter:**
 - The party was hired by [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] to capture or kill "Sadrith"
-- Found him at the abandoned [[Info/Locations/Blackfoot_Guild_House_Kjalgrad\|Blackfoot Guild House]] in [[Kjalgrad\|Kjalgrad]]
+- Found him at the abandoned [[Info/Locations/Blackfoot_Guild_House_Kjalgrad\|Blackfoot Guild House]] in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - He was standing over a table with notes, investigating Daedric activity
 
 
@@ -94,7 +94,7 @@ His true name is **Milos**, an **Argonian** — confirmed in [[2 -  Sessions/Ses
 
 ## Current Investigation
 - **Target**: Cult of Clavicus Vile
-- **Focus**: Brimstone gold distribution in [[Kjalgrad\|Kjalgrad]]
+- **Focus**: Brimstone gold distribution in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - **Key Lead**: [[Info/Characters/999 NPC's/Varren\|Varren]] and his connection to the **Guild of the Silverroad**
 - **Interest**: "The Grand Architect" mentioned by [[Info/Characters/999 NPC's/Varren\|Varren]]
 
@@ -167,7 +167,7 @@ The party solved the riddle (**Widow's River → Three Brothers standing stones 
 
 **True identity confirmed:**
 - An **Argonian** named **Milos** — not the Dunmer identity he had used in the city
-- Previously and briefly met by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] in the [[Kjalgrad\|Kjalgrad]] marketplace — she was the only one who immediately identified him
+- Previously and briefly met by [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] in the [[Info/Locations/Kjallgrad\|Kjalgrad]] marketplace — she was the only one who immediately identified him
 - Acquainted with **Nordgren** and **Morgan** (Blackfeather Court leadership)
 
 **The Daedric Stone Debrief:**

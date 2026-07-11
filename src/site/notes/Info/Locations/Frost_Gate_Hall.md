@@ -7,14 +7,14 @@
 
 ## Basic Information
 **Type:** Upscale Inn with Stables  
-**Location:** [[Kjalgrad\|Kjalgrad]], near the western gate  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]], near the western gate  
 **Region:** The Rift, Skyrim  
 **Status:** Active  
 **Proprietor:** [[Info/Characters/999 NPC's/Orgnar\|Orgnar]]  
 **Controlled By:** [[Clan Morvan\|Clan Morvan]] territory
 
 ## Description
-The Frost Gate Hall is a high-quality inn located near the western gate of [[Kjalgrad\|Kjalgrad]]. It represents one of the finest accommodations in the Rift, catering to prosperous travelers and merchants passing through the mining town. The establishment's quality reflects the wealth and prosperity of [[Kjalgrad\|Kjalgrad]] under [[Clan Morvan\|Clan Morvan]]'s control.
+The Frost Gate Hall is a high-quality inn located near the western gate of [[Info/Locations/Kjallgrad\|Kjalgrad]]. It represents one of the finest accommodations in the Rift, catering to prosperous travelers and merchants passing through the mining town. The establishment's quality reflects the wealth and prosperity of [[Info/Locations/Kjallgrad\|Kjalgrad]] under [[Clan Morvan\|Clan Morvan]]'s control.
 
 ## Architecture and Features
 
@@ -68,31 +68,31 @@ Pricing not specified but likely premium given the quality of furnishings and am
 ## Strategic Importance
 - **Location**: Prime position near western gate for travelers
 - **Quality**: Attracts wealthy clientele, making it an information hub
-- **Security**: Well-protected within [[Kjalgrad\|Kjalgrad]]'s stone walls
+- **Security**: Well-protected within [[Info/Locations/Kjallgrad\|Kjalgrad]]'s stone walls
 - **Comfort**: High-quality accommodations for extended stays
 
 ## Staff
 - **[[Info/Characters/999 NPC's/Orgnar\|Orgnar]]**: Nord innkeeper, professional and courteous
 
 ## Related Locations
-- **[[Kjalgrad\|Kjalgrad]]**: The mining town where the inn is located
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]]**: The mining town where the inn is located
 - **Western Gate**: Adjacent to the inn's location
 - **[[Info/Locations/Falderstad\|Falderstad]]**: Previous stop for the party, 5 days' travel west
 
 ## Related Organizations
-- **[[Clan Morvan\|Clan Morvan]]**: Controls [[Kjalgrad\|Kjalgrad]] where the inn operates
+- **[[Clan Morvan\|Clan Morvan]]**: Controls [[Info/Locations/Kjallgrad\|Kjalgrad]] where the inn operates
 - **[[Info/Organizations/Blackfeather Court\|Blackfeather Court]]**: Made contact with party members here
 
 ## Notes
 - The presence of glass windows indicates significant investment and caters to wealthy travelers
-- The quality of the establishment reflects [[Kjalgrad\|Kjalgrad]]'s prosperity from mining operations
+- The quality of the establishment reflects [[Info/Locations/Kjallgrad\|Kjalgrad]]'s prosperity from mining operations
 - The inn's name "Frost Gate Hall" likely references its proximity to the western gate
 - The [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] chose this location for their formal contact, suggesting they knew exactly where the party would stay
 
 ### [[2 -  Sessions/Session 020\|Session 020]] - Extended Stay
 - [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] agreed to pay for **one week of lodging** for the party
 - [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] negotiated this as part of their alliance
-- Party now has a secure base for continued investigation in [[Kjalgrad\|Kjalgrad]]
+- Party now has a secure base for continued investigation in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 
 ### [[2 -  Sessions/Session 022\|Session 022]] — Party Returns After Trade Event
 - The party returned to the Frost Gate Hall after the Guild trade event at the Jarl's Hall

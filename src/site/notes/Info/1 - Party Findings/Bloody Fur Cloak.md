@@ -52,7 +52,7 @@ An **old fur cloak** discovered in the Jarl's private quarters, heavily stained 
 - Kept in his **most private quarters**
 - Hidden in a closet - clearly not meant to be found
 - Suggests the Jarl is personally involved in violent or occult activities
-- May be connected to disappearances or murders in [[Kjalgrad\|Kjalgrad]]
+- May be connected to disappearances or murders in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 
 ### Possible Connections
 - **Cult of Clavicus Vile**: May be related to sacrifices or rituals
@@ -110,7 +110,7 @@ Found in the same room:
 1. **Document**: Record detailed description and location
 2. **Connect**: Link to other evidence (Dark Stone, Jarl's behavior, disappearances)
 3. **Surveillance**: Watch for the Jarl's activities and other suspicious behavior
-4. **History**: Research any recent disappearances or mysterious deaths in [[Kjalgrad\|Kjalgrad]]
+4. **History**: Research any recent disappearances or mysterious deaths in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 5. **Analysis**: If possible, have blood analyzed (by magical or alchemical means)
 
 ## Theories

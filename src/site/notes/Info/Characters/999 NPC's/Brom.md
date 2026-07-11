@@ -10,7 +10,7 @@
 **Gender:** Male  
 **Occupation:** Guard  
 **Employer:** [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]  
-**Location:** [[Kjalgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]  
 **Also Known As:** Bramm
 
@@ -33,7 +33,7 @@ Brom (also referred to as Bramm) is a guard working for [[Info/Characters/999 NP
 ## Significance
 - Part of Valen Marr's security detail
 - Indicates Valen travels with multiple guards
-- Evacuated with the group—may not be in [[Kjalgrad\|Kjalgrad]] for future sessions
+- Evacuated with the group—may not be in [[Info/Locations/Kjallgrad\|Kjalgrad]] for future sessions
 
 ## Relationships
 - **[[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]**: Employer - Trade Advocate

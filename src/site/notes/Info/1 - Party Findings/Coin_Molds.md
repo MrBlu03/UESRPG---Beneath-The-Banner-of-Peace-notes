@@ -6,7 +6,7 @@
 # Coin Molds
 
 ## Description
-Multiple **coin molds** discovered inside sealed crates at [[Info/Locations/Kjalgrad_Warehouse_District\|Warehouse 7]] in [[Kjalgrad\|Kjalgrad]]. The molds match the distinctive shape of **brimstone gold** — the Daedric-tainted currency the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] has been distributing through [[Kjalgrad\|Kjalgrad]]'s economy.
+Multiple **coin molds** discovered inside sealed crates at [[Info/Locations/Kjalgrad_Warehouse_District\|Warehouse 7]] in [[Info/Locations/Kjallgrad\|Kjalgrad]]. The molds match the distinctive shape of **brimstone gold** — the Daedric-tainted currency the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] has been distributing through [[Info/Locations/Kjallgrad\|Kjalgrad]]'s economy.
 
 ## Physical Properties
 - **Type**: Casting molds used for producing metal coins

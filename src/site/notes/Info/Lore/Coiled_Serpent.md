@@ -51,10 +51,10 @@ Contents of the confiscated ledger (mostly in Dunmeri):
 
 ## Recent Activities (Session 020)
 ### Guild of the Silverroad Infiltration
-Investigation in [[Kjalgrad\|Kjalgrad]] revealed:
+Investigation in [[Info/Locations/Kjallgrad\|Kjalgrad]] revealed:
 - Someone **high-ranking** in the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] wears an **Ouroboros necklace**
 - This confirms [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] infiltration at the leadership level
-- The guild effectively controls [[Kjalgrad\|Kjalgrad]] (bankrolls guards, controls prices)
+- The guild effectively controls [[Info/Locations/Kjallgrad\|Kjalgrad]] (bankrolls guards, controls prices)
 - May be connected to **Cult of Clavicus Vile** operations
 - [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] discovered this connection during his investigation
 
@@ -106,7 +106,7 @@ Letter fragments found in [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s
 A **slightly burnt letter** in Valen's locked cabinet reads:
 > *"Jarl remains cooperative though his condition requires continued supervision."*
 
-This confirms the Coiled Serpent (through the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]) is directly managing [[Kjalgrad\|Kjalgrad]]'s nominal ruler. The Jarl is not merely a figurehead — he is actively supervised, likely due to his "condition" (possibly magical control, illness, or psychological conditioning from the [[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]]).
+This confirms the Coiled Serpent (through the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]) is directly managing [[Info/Locations/Kjallgrad\|Kjalgrad]]'s nominal ruler. The Jarl is not merely a figurehead — he is actively supervised, likely due to his "condition" (possibly magical control, illness, or psychological conditioning from the [[Info/1 - Party Findings/Dark Runic Stone\|Dark Runic Stone]]).
 
 ### Riften Political Corruption
 Bribe payments to **Riften officials** within the last two weeks confirm the Coiled Serpent's influence is actively expanding beyond Kjalgrad into Riften.

@@ -7,12 +7,12 @@
 
 ## Basic Information
 **Type:** Forest Clearing  
-**Region:** The Rift, Skyrim (west of [[Kjalgrad\|Kjalgrad]])  
+**Region:** The Rift, Skyrim (west of [[Info/Locations/Kjallgrad\|Kjalgrad]])  
 **Status:** Active (Territorial)  
 **Controlled By:** The Witch of the Woods
 
 ## Description
-A small clearing in the western woods outside [[Kjalgrad\|Kjalgrad]] that serves as the territorial center for a supernatural creature known as the Witch of the Woods. The clearing is the creature's home and the center of its domain. It appears inconspicuous from a distance but holds danger for those who enter uninvited.
+A small clearing in the western woods outside [[Info/Locations/Kjallgrad\|Kjalgrad]] that serves as the territorial center for a supernatural creature known as the Witch of the Woods. The clearing is the creature's home and the center of its domain. It appears inconspicuous from a distance but holds danger for those who enter uninvited.
 
 ## Features
 - **Open Space:** Small clearing surrounded by dense forest

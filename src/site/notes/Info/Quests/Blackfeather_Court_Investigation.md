@@ -30,7 +30,7 @@
 - [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]
 
 ## Session 020 - The Vestige Revealed
-- Party met [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] in [[Kjalgrad\|Kjalgrad]], operating under alias "Sadrith Indoril"
+- Party met [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] in [[Info/Locations/Kjallgrad\|Kjalgrad]], operating under alias "Sadrith Indoril"
 - He is a **Dunmer** (or appears as one), former Fighters Guild member
 - **Hero of the Planemeld**: Infiltrated Coldharbour, defeated Molag Bal
 - Founded the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] and commands the Daedric crows

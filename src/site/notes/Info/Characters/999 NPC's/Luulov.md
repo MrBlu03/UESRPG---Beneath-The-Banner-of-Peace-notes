@@ -8,13 +8,13 @@
 ## Basic Information
 **Race:** Unknown  
 **Gender:** Unknown  
-**Title:** Captain of the Guard, [[Kjalgrad\|Kjalgrad]]  
-**Location:** [[Kjalgrad\|Kjalgrad]]  
+**Title:** Captain of the Guard, [[Info/Locations/Kjallgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** City Guard (funded by [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]])  
 **Status:** Alive  
 
 ## Description
-The guard captain of [[Kjalgrad\|Kjalgrad]], now confirmed by name as Luulov. Like all city guards here, his force is on the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]'s payroll rather than the Jarl's. However, Luulov has been conducting an independent investigation into the missing persons situation — off the books, driven by a personal connection to a family friend who has gone missing.
+The guard captain of [[Info/Locations/Kjallgrad\|Kjalgrad]], now confirmed by name as Luulov. Like all city guards here, his force is on the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]'s payroll rather than the Jarl's. However, Luulov has been conducting an independent investigation into the missing persons situation — off the books, driven by a personal connection to a family friend who has gone missing.
 
 Previously encountered in [[2 -  Sessions/Session 023\|Session 023]] (unnamed, referred to only as "Captain"), now fully named in [[2 -  Sessions/Session 026\|Session 026]].
 

@@ -9,7 +9,7 @@
 **Race:** Hagravenn (corrupted being)  
 **Gender:** Female  
 **Type:** Supernatural Creature  
-**Location:** Clearing west of [[Kjalgrad\|Kjalgrad]]  
+**Location:** Clearing west of [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** Independent  
 **Status:** Alive (truce established)
 

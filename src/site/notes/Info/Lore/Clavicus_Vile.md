@@ -20,7 +20,7 @@ Clavicus Vile is a **Daedric Prince** associated with bargains, pacts, and wishe
 [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] revealed he is investigating a **Cult of Clavicus Vile** operating in the region:
 
 **Evidence of Activity:**
-- **Brimstone Gold**: Currency originating from Oblivion being distributed in [[Kjalgrad\|Kjalgrad]]
+- **Brimstone Gold**: Currency originating from Oblivion being distributed in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - Gold is warm to the touch and smells of sulfur/brimstone
 - Being distributed through the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]
 - **"The Grand Architect"** mentioned as a figure of authority
@@ -34,7 +34,7 @@ Clavicus Vile is a **Daedric Prince** associated with bargains, pacts, and wishe
 **Purpose:**
 - Unknown, but likely involves some form of "bargain"
 - The reconstructed letter mentioned "bargains" being set in motion
-- Economic manipulation of [[Kjalgrad\|Kjalgrad]] may be preparation for something larger
+- Economic manipulation of [[Info/Locations/Kjallgrad\|Kjalgrad]] may be preparation for something larger
 
 ## Connection to Other Plots
 
@@ -63,7 +63,7 @@ Cults of Clavicus Vile typically:
 
 ## The Vestige's Investigation
 [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] has been tracking this cult's activities:
-- Posed as "Sadrith Indoril" in [[Kjalgrad\|Kjalgrad]]
+- Posed as "Sadrith Indoril" in [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - Accused citizens of Daedric dealings (testing reactions)
 - Identified [[Info/Characters/999 NPC's/Varren\|Varren]] as a key operative
 - Made alliance with [[Fangs of Fjelhorst\|Fangs of Fjelhorst]] to continue investigation

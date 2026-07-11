@@ -6,7 +6,7 @@
 # Northeast Warehouse / Main Facility
 
 ## Overview
-Two related sites northeast of [[Kjalgrad\|Kjalgrad]] that form the logistical and ritual backbone of the [[Cult of Clavicus Vile\|Cult of Clavicus Vile]] and [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] operation.
+Two related sites northeast of [[Info/Locations/Kjallgrad\|Kjalgrad]] that form the logistical and ritual backbone of the [[Cult of Clavicus Vile\|Cult of Clavicus Vile]] and [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] operation.
 
 ---
 
@@ -14,7 +14,7 @@ Two related sites northeast of [[Kjalgrad\|Kjalgrad]] that form the logistical a
 
 ### Basic Information
 **Type:** Fortified warehouse  
-**Location:** ~3 hours northeast of [[Kjalgrad\|Kjalgrad]], on foot through forest  
+**Location:** ~3 hours northeast of [[Info/Locations/Kjallgrad\|Kjalgrad]], on foot through forest  
 **Status:** Partially cleared (guards dead, contents stripped, workers freed)  
 **First Visited:** Session 024  
 

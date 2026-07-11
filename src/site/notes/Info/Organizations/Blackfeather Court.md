@@ -22,7 +22,7 @@ The Blackfeather Court is a mysterious and secretive organization first mentione
 - **Murder of Crows**: Daedric crows that serve as messengers and agents
 
 ## The Vestige Revealed ([[2 -  Sessions/Session 020\|Session 020]])
-The Vestige was finally encountered in [[Kjalgrad\|Kjalgrad]]:
+The Vestige was finally encountered in [[Info/Locations/Kjallgrad\|Kjalgrad]]:
 - **Alias Used**: Sadrith Indoril (Dunmer identity)
 - **Appearance**: Wore Fighters Guild symbol on leather armor
 - **History**: Hero of the Planemeld; infiltrated Coldharbour; defeated Molag Bal
@@ -78,7 +78,7 @@ Unknown, but multiple sources have urged caution:
 - The Vestige reacted aggressively to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] initially - may sense something about her
 
 ## Session 022 — Sewer Guidance
-During [[2 -  Sessions/Session 022\|Session 022]], a crow guided **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** and the party out of the [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] after [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] completed her infiltration mission at the Jarl's Hall. The crow's guidance confirmed the Blackfeather Court is actively monitoring the party's movements in [[Kjalgrad\|Kjalgrad]].
+During [[2 -  Sessions/Session 022\|Session 022]], a crow guided **[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]** and the party out of the [[Info/Locations/Kjalgrad_Sewers\|Kjalgrad_Sewers]] after [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] completed her infiltration mission at the Jarl's Hall. The crow's guidance confirmed the Blackfeather Court is actively monitoring the party's movements in [[Info/Locations/Kjallgrad\|Kjalgrad]].
 
 ## Session 023 — Note Delivered to Kirya
 A crow appeared at the window of [[Info/Locations/Frost_Gate_Hall\|Frost_Gate_Hall]]:

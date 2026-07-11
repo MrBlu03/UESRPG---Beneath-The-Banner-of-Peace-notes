@@ -8,13 +8,13 @@
 ## Basic Information
 **Race:** Imperial  
 **Gender:** Male  
-**Title:** Steward to the Jarl of [[Kjalgrad\|Kjalgrad]]  
-**Location:** [[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]], [[Kjalgrad\|Kjalgrad]]  
+**Title:** Steward to the Jarl of [[Info/Locations/Kjallgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]], [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** Clan Morvan (official), [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] (suspected)  
 **Status:** Alive
 
 ## Description
-Darius Karo is the Imperial steward who effectively runs [[Kjalgrad\|Kjalgrad]] in place of the largely ceremonial Jarl. He operates from the [[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]] and handles the actual governance of the city. According to [[Info/Characters/999 NPC's/Alma\|Alma]], he is likely in the pocket of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], the merchant organization that bankrolls the city's guards and controls prices, tolls, and passages.
+Darius Karo is the Imperial steward who effectively runs [[Info/Locations/Kjallgrad\|Kjalgrad]] in place of the largely ceremonial Jarl. He operates from the [[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]] and handles the actual governance of the city. According to [[Info/Characters/999 NPC's/Alma\|Alma]], he is likely in the pocket of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], the merchant organization that bankrolls the city's guards and controls prices, tolls, and passages.
 
 ## Physical Description
 - Imperial man
@@ -23,7 +23,7 @@ Darius Karo is the Imperial steward who effectively runs [[Kjalgrad\|Kjalgrad]] 
 
 ## Role in Kjalgrad
 - **Official Title**: Jarl's Steward
-- **Actual Role**: De facto ruler of [[Kjalgrad\|Kjalgrad]]
+- **Actual Role**: De facto ruler of [[Info/Locations/Kjallgrad\|Kjalgrad]]
 - **The Jarl**: Functions as a figurehead only
 - **Power Base**: Likely derives from [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] backing
 
@@ -86,7 +86,7 @@ According to [[Info/Characters/999 NPC's/Alma\|Alma]]:
 - **[[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]**: Unknowingly placed a bounty on a legendary hero
 
 ## Significance
-Darius Karo represents the corruption in [[Kjalgrad\|Kjalgrad]]'s leadership. While ostensibly serving the Jarl, he appears to be a tool of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], and his attempt to eliminate "Sadrith" suggests he may be working to protect Daedric-connected interests in the city.
+Darius Karo represents the corruption in [[Info/Locations/Kjallgrad\|Kjalgrad]]'s leadership. While ostensibly serving the Jarl, he appears to be a tool of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], and his attempt to eliminate "Sadrith" suggests he may be working to protect Daedric-connected interests in the city.
 
 ## Location
 - **[[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]]**: Primary location, stands beside the Jarl's chair

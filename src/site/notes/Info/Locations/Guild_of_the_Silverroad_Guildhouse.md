@@ -7,14 +7,14 @@
 
 ## Basic Information
 **Type:** Guild Headquarters / Office  
-**Location:** [[Kjalgrad\|Kjalgrad]]  
+**Location:** [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Region:** The Rift, Skyrim  
 **Status:** Active  
 **Controlled By:** [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]  
 **Primary Occupant:** [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]] (Trade Advocate)
 
 ## Description
-The [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] maintains a guildhouse in [[Kjalgrad\|Kjalgrad]] that serves as the official seat of guild operations in the city. The building includes formal meeting rooms for conducting business with potential trade partners, as well as private offices. [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s personal office is located here and contains significant intelligence on guild operations.
+The [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] maintains a guildhouse in [[Info/Locations/Kjallgrad\|Kjalgrad]] that serves as the official seat of guild operations in the city. The building includes formal meeting rooms for conducting business with potential trade partners, as well as private offices. [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s personal office is located here and contains significant intelligence on guild operations.
 
 ## Valen Marr's Office
 
@@ -27,7 +27,7 @@ The [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] main
 
 ### The Wall Map
 The map in Valen's office bore several marked locations:
-- **Two red circles in the warehouse district** of [[Kjalgrad\|Kjalgrad]] — almost certainly [[Warehouse 4\|Warehouse 4]] and [[Warehouse 7\|Warehouse 7]]
+- **Two red circles in the warehouse district** of [[Info/Locations/Kjallgrad\|Kjalgrad]] — almost certainly [[Warehouse 4\|Warehouse 4]] and [[Warehouse 7\|Warehouse 7]]
 - **One mark northeast of Kjalgrad**, outside the city walls — location unknown; possible field site, meeting point, or hidden operation
 
 ### The Ledger
@@ -89,7 +89,7 @@ The guildhouse is one of the most intelligence-rich locations the party has acce
 ## Related Locations
 - **[[Info/Locations/Kjalgrad_Warehouse_District\|Kjalgrad_Warehouse_District]]**: Connected via map markers (Warehouses 4 and 7)
 - **[[Info/Locations/Clan_Morvan_Longhouse\|Clan_Morvan_Longhouse]]**: The Jarl mentioned in the cabinet letter
-- **[[Kjalgrad\|Kjalgrad]]**: The city the guildhouse operates in
+- **[[Info/Locations/Kjallgrad\|Kjalgrad]]**: The city the guildhouse operates in
 
 ## Related Organizations
 - **[[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]**: Owns and operates the building

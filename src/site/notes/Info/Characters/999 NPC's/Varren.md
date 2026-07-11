@@ -15,7 +15,7 @@
 **Status:** Alive, turned double agent
 
 ## Description
-Varren is an Imperial man in his mid-50s who was distributing **brimstone gold** (gold originating from Oblivion) throughout [[Kjalgrad\|Kjalgrad]]'s markets. He works for the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] and communicated with a mysterious figure via a **Daedric speaking stone**. After being captured and interrogated by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] and the [[Fangs of Fjelhorst\|Fangs of Fjelhorst]], he was turned into a double agent.
+Varren is an Imperial man in his mid-50s who was distributing **brimstone gold** (gold originating from Oblivion) throughout [[Info/Locations/Kjallgrad\|Kjalgrad]]'s markets. He works for the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] and communicated with a mysterious figure via a **Daedric speaking stone**. After being captured and interrogated by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] and the [[Fangs of Fjelhorst\|Fangs of Fjelhorst]], he was turned into a double agent.
 
 ## Physical Description
 - Imperial male
@@ -36,7 +36,7 @@ Varren is an Imperial man in his mid-50s who was distributing **brimstone gold**
 - Stone is different from normal speaking stones - etched with **Daedric runes**
 - Communicates with a humanoid but inhuman projection
 - Reports purchases made and gold distributed
-- Meeting location: Dead-end tunnel in [[Kjalgrad\|Kjalgrad]] sewers
+- Meeting location: Dead-end tunnel in [[Info/Locations/Kjallgrad\|Kjalgrad]] sewers
 
 ## Key Interactions
 
@@ -106,7 +106,7 @@ Varren is an Imperial man in his mid-50s who was distributing **brimstone gold**
 - **The Projection Entity**: Mysterious superior he reported to
 
 ## Significance
-Varren is a low-level operative in a much larger conspiracy. His role was to distribute Daedric gold throughout the economy of [[Kjalgrad\|Kjalgrad]], likely as part of a broader scheme by the **Cult of Clavicus Vile**. His capture and turning provides the party with an inside source on the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]'s activities.
+Varren is a low-level operative in a much larger conspiracy. His role was to distribute Daedric gold throughout the economy of [[Info/Locations/Kjallgrad\|Kjalgrad]], likely as part of a broader scheme by the **Cult of Clavicus Vile**. His capture and turning provides the party with an inside source on the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]'s activities.
 
 ## Current Status ([[2 -  Sessions/Session 021\|Session 021]])
 - **Severely traumatized** - far worse than expected
