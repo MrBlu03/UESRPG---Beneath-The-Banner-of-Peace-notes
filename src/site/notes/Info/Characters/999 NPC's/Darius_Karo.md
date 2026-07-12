@@ -11,7 +11,7 @@
 **Title:** Steward to the Jarl of [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Location:** [[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]], [[Info/Locations/Kjallgrad\|Kjalgrad]]  
 **Faction:** Clan Morvan (official), [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] (suspected)  
-**Status:** Alive
+**Status:** Captured (Detained at Main Facility)
 
 ## Description
 Darius Karo is the Imperial steward who effectively runs [[Info/Locations/Kjallgrad\|Kjalgrad]] in place of the largely ceremonial Jarl. He operates from the [[Info/Locations/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]] and handles the actual governance of the city. According to [[Info/Characters/999 NPC's/Alma\|Alma]], he is likely in the pocket of the [[Info/Organizations/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], the merchant organization that bankrolls the city's guards and controls prices, tolls, and passages.
@@ -155,8 +155,14 @@ Under the arrangement Darius Karo oversees:
 - **Durov's Deception**: Durov and Irlav arrived on "Guild orders" to interrogate the prisoner. Durov successfully deceived Darius into leaving the cell, claiming he would handle it.
 - **The Escape**: Darius left holding the writ, but it was recovered by [[Info/Characters/999 NPC's/Irlav\|Irlav]] (who holds respect for the Queen of Riften but not for the Jarl or steward of Kjalgrad) and returned to Durov, who passed it back to Periwyn. The party freed Onasha, and during their escape, Onasha set fire to the hall. Darius Karo's status after the arson of the Jarl's palace is currently unknown.
 
+### [[2 -  Sessions/Session 028\|Session 028]] — Confrontation, True Form, and Interrogation
+- **True Form Revealed**: Confronted by Periwyn and Onasha in his burning office, Darius attempted to flee but was knocked unconscious by Periwyn. His form then reverted, revealing him to be a **Dremora** (specifically a **Scaafin**-like Daedra in service to the [[Cult of Clavicus Vile\|Cult of Clavicus Vile]]).
+- **Interrogation in the Sewers**: Dragged to the sewers by the party and the Dark Brotherhood assassin [[Info/Characters/999 NPC's/The_Vestige\|Milos]], Darius initially resisted questioning due to a Daedric ward. After Periwyn scorched his face with *Sunbeam* magic, he confessed that he hired the [[Info/Organizations/Camonna_Tong\|Camonna_Tong]] due to "mutual interest" to eliminate the party and the Dunmer ([[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]) for being "too nosy."
+- **Current Status**: Bound and transported to the [[Info/Locations/Northeast_Warehouse_and_Main_Facility\|Main Facility Ruin]], where he is currently secured by the [[Info/Characters/999 NPC's/The_Vestige\|Vestige]].
+
 ## Session References
 - **[[2 -  Sessions/Session 020\|Session 020]]**: First appearance; hired party to capture "Sadrith"
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Party delivered forged evidence; paid 3,200 gold; directed party to [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Burnt letter from Valen's office confirms Jarl "remains cooperative, condition requires continued supervision" — implicates Darius's role in the control structure
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Interrogated and tortured Onasha; confiscated Queen's Writ; deceived by Durov; status unknown after Yarls Hall fire.
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Interrogated and tortured Onasha; confiscated Queen's Writ; deceived by Durov; status unknown after Yarls Hall fire
+- **[[2 -  Sessions/Session 028\|Session 028]]**: Defeated in his burning office; Dremora identity revealed; interrogated in the sewers; dragged to the Main Facility

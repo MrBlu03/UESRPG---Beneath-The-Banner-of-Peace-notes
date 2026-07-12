@@ -4,7 +4,7 @@
 
 ## Act I - The Hollow Village
 
-[[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] found herself once again on the road to an old contract — one she had taken years ago.
+Periwyn found herself once again on the road to an old contract — one she had taken years ago.
 
 The path wound through a valley cupped in the grey arms of the Wrothgarian Mountains, shrouded in a fog like a dying breath that refused to leave the lungs of the world. Her boots struck the muddy stone with a dull thud. No birdsong. No rustling creatures. Only the wind — and even that seemed to hesitate here.
 
@@ -106,7 +106,7 @@ The girl nodded, eyes wide.
 
 "What's your name?"
 
-"…[[Info/Characters/999 NPC's/Sybille\|Sybille]]," she whispered. "Thank you for bringing her back."
+"…Sybille," she whispered. "Thank you for bringing her back."
 
 "You're welcome, Sybille. I'm Periwyn."
 
@@ -155,7 +155,7 @@ Inside, the once-hallowed air had gone still and stagnant — like breath trappe
 
 The altar had been defaced — Stendarr's sigil carved over. But beneath the desecration, faintly scratched into the stone, was something older. Something she had once carved with her own blade.
 
-**[[Info/Lore/Arkay\|Arkay]]'s seal.**  
+**Arkay's seal.**  
 Her seal.
 
 She had made it.  
@@ -346,7 +346,7 @@ The soul gem burst. The air shimmered.
 
 A wave of warmth passed through the chapel — the first in what felt like lifetimes.
 
-The man — _[[Info/Characters/999 NPC's/Mirel\|Mirel]]_ — collapsed, not to ash, but to _light_.
+The man — _Mirel_ — collapsed, not to ash, but to _light_.
 
 "Thank you," he said, voice fading. "For letting me be remembered… as I was."
 
@@ -360,7 +360,7 @@ Periwyn now stood on the winding path to the manor atop the cliff.
 
 The air reeked of salt and rot. The once-grand estate loomed ahead, half-sunken into the rock, as if trying to bury itself. Ivy draped the decaying facade, but even nature couldn't mask the scent of old blood that clung to the wind. Something foul lived there—but it wore grace like perfume.
 
-In the crumbling garden, a single white flower bloomed. Pure. Defiant. Like the ones her mother once planted in [[Info/Locations/Northpoint\|Northpoint]]. They shouldn't grow in soil this dark.
+In the crumbling garden, a single white flower bloomed. Pure. Defiant. Like the ones her mother once planted in Northpoint. They shouldn't grow in soil this dark.
 
 She stepped forward.
 
@@ -368,7 +368,7 @@ Inside, the manor whispered of ghosts. The foyer stretched out before her: marbl
 
 ---
 
-[[Info/Characters/999 NPC's/Lady Elaris\|Lady Elaris]] sat at the far end of the ballroom, framed by wilted roses and candlelight. She did not rise. She didn't need to.
+Lady Elaris sat at the far end of the ballroom, framed by wilted roses and candlelight. She did not rise. She didn't need to.
 
 Pale, resplendent, robed in silks that draped like mourning veils, she studied Periwyn with eyes that saw far too much.
 
@@ -542,7 +542,7 @@ Periwyn tensed. "What are you?"
 
 "Me?" the stranger said, his voice low, gravel-dry. "No one of consequence. Just a simple n'wah making my way through Tamriel, same as you."
 
-He looked around the forest with a glimmer of amusement. "Lovely, isn't it? Crow's Wood. Used to belong to [[Info/Lore/Nocturnal\|Nocturnal]]. Now? Mine. A fixer-upper, if you will. No scrying. No praying. Just the birds… and the echo."
+He looked around the forest with a glimmer of amusement. "Lovely, isn't it? Crow's Wood. Used to belong to Nocturnal. Now? Mine. A fixer-upper, if you will. No scrying. No praying. Just the birds… and the echo."
 
 He stepped closer, hands tucked in his cloak as if mildly cold. But the air wasn't cold. It just _was_.
 
@@ -566,7 +566,7 @@ He turned to face her directly.
 
 "I've seen stories like yours. Dozens. Hundreds. But _you_? You're different. I like that."
 
-He smiled slightly. "Now _[[Info/Lore/Malacath\|Malacath]]_? He doesn't. He's watching, by the way. Think of him as a fan. With a very violent book club."
+He smiled slightly. "Now _Malacath_? He doesn't. He's watching, by the way. Think of him as a fan. With a very violent book club."
 
 "I saw him," she murmured. "In one of my dreams."
 
@@ -626,7 +626,7 @@ He laughed — a dry rasp, but genuine.
 
 "Mortgren?" she asked.
 
-"Oh, met him, did you?" He grinned. "Yes, [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Mortgren]]. High Advisor to Emeric. Friends in high places."
+"Oh, met him, did you?" He grinned. "Yes, Mortgren. High Advisor to Emeric. Friends in high places."
 
 She narrowed her eyes. "But if you know him... how old is he?"
 

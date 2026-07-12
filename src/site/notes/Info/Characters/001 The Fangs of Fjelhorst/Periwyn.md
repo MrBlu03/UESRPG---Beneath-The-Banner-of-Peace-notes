@@ -97,6 +97,14 @@
   - Encountered Hooded Figure who claimed to be "no one of consequence"
   - Voice similar to figure from her dreams
   - Met at [[Info/Locations/The_Soggy_Beaver\|Soggy Beaver]] tavern for party reunion
+- **[[2 -  Sessions/Session 028\|Session 028]]**:
+  - Led the assault on [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]'s office, kicking open the door to catch the guards by surprise.
+  - Performed a Coup de Grace to execute a paralyzed guard, and engaged the other guard in two-handed melee combat.
+  - Evaded Firebolts cast by Darius Karo.
+  - Knocked Darius Karo unconscious with a pommel strike to the head as he tried to escape the burning hall.
+  - Dragged Darius into the sewers, where she cast *Sunbeam* to scorch his face to force him to speak.
+  - Participated in dragging the Dremora steward to the [[Info/Locations/Northeast_Warehouse_and_Main_Facility\|Main Facility Ruin]] to lock him up.
+  - Shared her tragic backstory about her brother and her oath to the Knights of Arkay to hunt vampires.
 
 ## Current Concerns
 - Being targeted by [[Info/Lore/Malacath\|Malacath]], who appears to be encouraging her vengeful tendencies

@@ -6,9 +6,9 @@
 
 **8th of Frostfall, 2E 600**
 
-The party awoke in the stone hall of the [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]]. [[Info/Characters/999 NPC's/Adda\|Adda]] tended to [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]], who remained unconscious, her face painted with protective runes. She had not stirred since the lodge, and her body remained pale and still.
+The party awoke in the stone hall of the Cult of Ysmir. Adda tended to Periwyn, who remained unconscious, her face painted with protective runes. She had not stirred since the lodge, and her body remained pale and still.
 
-[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] rose first, drawn by the scent of cooked hog and fresh mead. He ate with purpose. [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]], after checking on the Dragon Priest mask under her bed, wrapped it in a blanket and joined the meal with a plate of fish. [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] woke last, groggy and quiet.
+Durov rose first, drawn by the scent of cooked hog and fresh mead. He ate with purpose. Kirya, after checking on the Dragon Priest mask under her bed, wrapped it in a blanket and joined the meal with a plate of fish. Onasha woke last, groggy and quiet.
 
 Periwyn stirred before midday. Confused but stable, she asked Adda where she was, then quietly mentioned the Crow Father as the last being she spoke to. Adda said little.
 
@@ -16,21 +16,21 @@ Kirya presented the wrapped mask to Adda. She examined it, but declared its magi
 
 Adda explained the painted runes as "Woad," an old form of protective magic. Onasha inquired if they could be used elsewhere, but Adda said they were made for the face.
 
-Kirya told Periwyn of Sven and [[Info/Characters/999 NPC's/Lagertha\|Lagertha]]'s deaths. Periwyn only asked if they got paid. Durov tossed her coin, which she missed while putting on her chestplate.
+Kirya told Periwyn of Sven and Lagertha's deaths. Periwyn only asked if they got paid. Durov tossed her coin, which she missed while putting on her chestplate.
 
 ---
 
-Kirya suggested a lake trip to unwind. After brief hesitation, the others agreed. [[Info/Characters/999 NPC's/Alara\|Alara]] would be asked first.
+Kirya suggested a lake trip to unwind. After brief hesitation, the others agreed. Alara would be asked first.
 
 As they left the hall, Adda murmured something about feathers.
 
 ---
 
-They passed [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]] sprinting through town. Onasha tried to trip him for fun, but failed so badly it planted a seed for a new goal.
+They passed Eirik the Quick sprinting through town. Onasha tried to trip him for fun, but failed so badly it planted a seed for a new goal.
 
 At Alara's shop, her small husky companion John greeted them. Kirya proposed a trip for rest, gathering, and fishing. Alara accepted without hesitation.
 
-At the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]], now home to [[Info/Characters/999 NPC's/Senya\|Senya]] and [[Info/Characters/999 NPC's/Sonya\|Sonya]], Durov asked [[Info/Characters/999 NPC's/Bjorin\|Bjorin]] to come along. Bjorin agreed, bringing [[Info/Characters/999 NPC's/Astrid\|Astrid]] with him. A meeting was arranged at the gate.
+At the Wanderer's Rest, now home to Senya and Sonya, Durov asked Bjorin to come along. Bjorin agreed, bringing Astrid with him. A meeting was arranged at the gate.
 
 ---
 
@@ -62,7 +62,7 @@ That night, Durov dreamed of war. Familiar armor, comrades falling, and a snowy 
 
 A cold fog greeted the dawn. Periwyn rose early and rekindled the fire. Astrid checked the meat. Durov, Bjorin, and Kirya followed. Onasha emerged from the lake, startling Durov. Bjorin's scream woke Alara.
 
-Later, Onasha and Astrid found a rabbit in one of their traps. A Khajiit named [[Info/Characters/999 NPC's/M'aiq\|M'aiq]] appeared, muttered strange wisdom, then left.
+Later, Onasha and Astrid found a rabbit in one of their traps. A Khajiit named M'aiq appeared, muttered strange wisdom, then left.
 
 Kirya joined the others for a bear hunt. The group succeeded, and Durov and Periwyn helped drag it back.
 

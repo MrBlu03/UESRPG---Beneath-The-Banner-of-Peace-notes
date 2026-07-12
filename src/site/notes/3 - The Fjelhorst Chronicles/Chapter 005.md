@@ -7,11 +7,11 @@
 **18th–23rd of Heartfire, 2E 600**
 
   
-The morning of the 18th dawned clear and cold, a final breath of autumn hanging in the air as the party made ready to leave [[Info/Locations/Riften\|Riften]] behind. After a hearty breakfast prepared by [[Info/Characters/999 NPC's/Astrid\|Astrid]], the innkeeper's daughter, [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]], [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]], and [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] paid a last visit to [[Info/Characters/999 NPC's/Alara\|Alara]]'s shop, hoping to acquire Fire Salts for the journey. But the price proved too steep, and they left empty-handed. Meanwhile, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] remained at the inn, eating her breakfast alone on the upper balcony and sketching quietly in her journal as the city stirred below. When the others returned, Durov tossed a small pebble up to the balcony to catch her attention. Periwyn looked down, mildly annoyed, and called out that she would've heard them had they simply called her name. She tucked her journal away with a sigh and rose to join them downstairs without another word. Not long after, [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]], the ever-hurried courier, arrived with a message: [[Info/Characters/999 NPC's/Hjar\|Hjar]] of Clan Black-Foot was waiting for them at the stables.
+The morning of the 18th dawned clear and cold, a final breath of autumn hanging in the air as the party made ready to leave Riften behind. After a hearty breakfast prepared by Astrid, the innkeeper's daughter, Durov, Kirya, and Onasha paid a last visit to Alara's shop, hoping to acquire Fire Salts for the journey. But the price proved too steep, and they left empty-handed. Meanwhile, Periwyn remained at the inn, eating her breakfast alone on the upper balcony and sketching quietly in her journal as the city stirred below. When the others returned, Durov tossed a small pebble up to the balcony to catch her attention. Periwyn looked down, mildly annoyed, and called out that she would've heard them had they simply called her name. She tucked her journal away with a sigh and rose to join them downstairs without another word. Not long after, Eirik the Quick, the ever-hurried courier, arrived with a message: Hjar of Clan Black-Foot was waiting for them at the stables.
 
   
 
-When the party arrived at the stables, Durov joined Ralof and Hrongar in loading supplies onto the cart, while [[Info/Characters/999 NPC's/Bjorin\|Bjorin]], the innkeeper, stood nearby, overseeing the delivery of provisions. Moments later, the ground began to tremble faintly under the approach of heavy, metal-clad footsteps—[[Info/Characters/999 NPC's/Gjellir_Stormcrown\|Gjellir Stormcrown]] the Harbinger had arrived, flanked by the sharp-eyed [[Info/Characters/999 NPC's/Beitild\|Beitild]] the Unwavering and the lean, hawkish [[Info/Characters/999 NPC's/Olen\|Olen]] the Mer-Killer. These three, members of the Cult of Ysmir, joined Hjar of Clan Black-Foot, the convoy's gruff but reliable leader and an old acquaintance of the party. With everyone assembled, the convoy set off just as sunlight crested the Velothi Mountains, casting long golden rays across the road ahead.
+When the party arrived at the stables, Durov joined Ralof and Hrongar in loading supplies onto the cart, while Bjorin, the innkeeper, stood nearby, overseeing the delivery of provisions. Moments later, the ground began to tremble faintly under the approach of heavy, metal-clad footsteps—Gjellir Stormcrown the Harbinger had arrived, flanked by the sharp-eyed Beitild the Unwavering and the lean, hawkish Olen the Mer-Killer. These three, members of the Cult of Ysmir, joined Hjar of Clan Black-Foot, the convoy's gruff but reliable leader and an old acquaintance of the party. With everyone assembled, the convoy set off just as sunlight crested the Velothi Mountains, casting long golden rays across the road ahead.
 
   
 
@@ -67,11 +67,11 @@ From her own tent, Onasha watched silently. Her eyes shifted to the fire pit whe
 
 **Day 6**  
 
-By early afternoon, the sun vanished behind a curtain of unnatural clouds. A darkness fell—not merely shade, but something deeper. Periwyn recognized it instantly, chilled by the memory of [[Info/Locations/Northpoint\|Northpoint]] and the shadow that had fallen there. It was not just the absence of light—it was the presence of something else.
+By early afternoon, the sun vanished behind a curtain of unnatural clouds. A darkness fell—not merely shade, but something deeper. Periwyn recognized it instantly, chilled by the memory of Northpoint and the shadow that had fallen there. It was not just the absence of light—it was the presence of something else.
 
   
 
-By evening, the party crested a final ridge and looked down upon [[Info/Locations/Greenwall\|Greenwall]]. What remained of it was barely a ruin. The war camp below was sparse—five Companions, battered but determined, led by the Harbinger [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod Wraithbane]].
+By evening, the party crested a final ridge and looked down upon Greenwall. What remained of it was barely a ruin. The war camp below was sparse—five Companions, battered but determined, led by the Harbinger Vigrod Wraithbane.
 
   
 

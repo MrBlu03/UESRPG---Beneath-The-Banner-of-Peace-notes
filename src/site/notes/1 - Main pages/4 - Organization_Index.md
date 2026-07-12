@@ -55,9 +55,10 @@
 | [[Info/Characters/999 NPC's/Huldir\|Huldir]]                                 | 🟢 | [[Info/Characters/999 NPC's/Huldir\|Huldir]]                                 | Guard               | 🟢 |
 | [[Info/Characters/999 NPC's/Irlav\|Irlav]]                                   | 🟢 | [[Info/Characters/999 NPC's/Irlav\|Irlav]]                                   | Guild / Military    | 🟢 |
 | [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]                 | 🟢 | [[Info/Characters/999 NPC's/Jorvik_Hanison\|Jorvik_Hanison]]                 | Political           | 🟢 |
+| [[Info/Characters/999 NPC's/Proventus\|Proventus]]                           | 🟢 | [[Info/Characters/999 NPC's/Proventus\|Proventus]]                           | Other               | 🟢 |
 | [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]                         | 🟢 | [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]                         | Political           | 🟢 |
 | [[Info/Characters/999 NPC's/Varren\|Varren]]                                 | ❓  | [[Info/Characters/999 NPC's/Varren\|Varren]]                                 | Criminal            | ❓  |
-| [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]                       | 🟢 | [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]                       | Political           | 🟢 |
+| [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]                       | ❓  | [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]                       | Political           | ❓  |
 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | 🟢 | [[Info/Characters/999 NPC's/Garen_Hlaalu\|Garen_Hlaalu]]                     | Criminal            | 🟢 |
 | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | ❓  | [[Info/Characters/999 NPC's/Skinstealer\|Skinstealer]]                       | Supernatural        | ❓  |
 | [[Info/Characters/999 NPC's/Lady_Aine\|Lady_Aine]]                           | 🟢 | [[Info/Characters/999 NPC's/Lady_Aine\|Lady_Aine]]                           | Civilian            | 🟢 |

@@ -64,7 +64,7 @@ Based on Milos's confirmation regarding Mimicry Daedra:
 - [x] Recover the memory anchor — **COMPLETED**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] stole the stone in Session 022
 - [x] Identify what the stone does — **COMPLETED**: Milos confirmed it is a memory anchor (Session 025)
 - [x] Confirm the Jarl is a skin-changer — **CONFIRMED**: Milos's assessment; burnt letter; Nordic mannerism inconsistencies
-- [ ] **Deal with the main facility first** — isolate the skin-changer from its support
+- [ ] **Deal with the main facility first** — isolate the skin-changer from its support (in progress; main handler captured)
 - [ ] **Confront the skin-changer Jarl** — after the facility is resolved (status unknown post-fire)
 - [ ] **Investigate the Jarl's Hall** — when approaching the skin-changer directly
 - [ ] **Report to the Queen of Riften** — after both threats are resolved
@@ -79,4 +79,5 @@ Based on Milos's confirmation regarding Mimicry Daedra:
 - **[[2 -  Sessions/Session 023\|Session 023]]**: Burnt letter from Valen's office confirmed "Jarl remains cooperative"
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Milos identified the stone as a memory anchor; confirmed the Jarl is almost certainly a skin-changer and dead; skin-changer now knows stone is missing
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Lower Lodge confirms Jarl (skin-changer) has not left Yarls Hall and is more agitated
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during her escape; skin-changer Jarl's status is currently unknown.
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during escape; skin-changer Jarl's status is currently unknown
+- **[[2 -  Sessions/Session 028\|Session 028]]**: The Jarl's steward Darius Karo was captured by Periwyn and Onasha and revealed to be a Dremora (Scaafin) in service to the cult, leaving the skin-changer Jarl without his main local handler

@@ -54,6 +54,13 @@
   - Planted additional evidence to justify executing merchants
   - Worked with [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] to capture caravan and evidence
   - Met with [[Info/Characters/999 NPC's/Stryder\|Stryder]] and Hooded Figure for final coordination
+- **[[2 -  Sessions/Session 028\|Session 028]]**:
+  - Rode with [[Info/Characters/999 NPC's/Irlav\|Irlav]] to the [[Info/Locations/Northeast_Warehouse_and_Main_Facility\|Main Facility Ruin]] north of [[Info/Locations/Kjallgrad\|Kjalgrad]].
+  - Witnessed Irlav using [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s Ouroboros pendant to open the main Dwemer door to the keep.
+  - Met with Valen Marr, who was preparing to leave the city due to warehouse explosions and negative public opinion.
+  - Accepted an investigative task from Valen to locate and check a former [[Info/Organizations/Camonna_Tong\|Camonna_Tong]] camp.
+  - Was joined by an Imperial guard named [[Info/Characters/999 NPC's/Proventus\|Proventus]] for the mission, whom Durov ordered to stop formal marching.
+  - Learned historical details about his crest and Cyrodiil from Irlav.
 
 ## Dreams and Visions
 ### The Battlefield Dream ([[2 -  Sessions/Session 010\|Session 010]])
@@ -63,14 +70,16 @@ During the camping trip, [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Dur
 - **Tragedy**: Witnessed one of his companions fall due to a spear in the chest
 - **Location**: In the distance, a large snowy castle with a banner bearing the same insignia as [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
 - **Significance**: Suggests military background and connection to a specific stronghold or organization
+- **Session 028 Revelation**: The insignia on his shield is the **Bruma Crest** (an eagle with one head looking forward to the future, and one head looking back with its eye closed, representing not learning from the past). It belongs to a noble Colovian house from Bruma, Cyrodiil.
 
 ## Mystery of the Past
-- Suffers from amnesia regarding his previous life
-- His shield bears a symbol recognized by [[Info/Characters/999 NPC's/Alara\|Alara]] but she couldn't place it
-- The dream suggests he was part of a military unit or order
-- Connection to a castle or stronghold in a snowy region
-- May have lost companions in battle, explaining potential trauma
+- Suffers from amnesia regarding his previous life.
+- His shield bears the crest of a noble Colovian house from [[Bruma\|Bruma]] (Cyrodiil).
+- During the **Planemeld Crisis** (circa 2E 582), a massive Daedric anchor fell directly into Bruma's market in front of the Cathedral of Saint Lucia, an event that Irlav described as highly traumatic for Cyrodiil.
+- Connection to a castle or stronghold in a snowy region (possibly Bruma Keep).
+- May have lost companions in battle, explaining potential trauma.
 
 ## Equipment
 - Helmet (worn constantly)
+
 

@@ -5,15 +5,15 @@
 ## Chapter 9 - The Curse of Kahru's Hollow
 **4th of Frostfall, 2E 600**
 
-In the early light of Frostfall, [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] arrived in [[Info/Locations/Riften\|Riften]]. Her path was purposeful. First, she went to [[Info/Locations/Borans_Bullwarks\|Boran's Bulwarks]], where the smith offered her iron shards freely from a bucket of scrap. "Take what you need," he grunted. "Was gonna melt it anyway." Three shards in hand, she proceeded to the [[Info/Locations/Scent_of_Serenity\|Scent of Serenity]]. [[Info/Characters/999 NPC's/Alara\|Alara]], having helped them before, offered the salt without question. "Seems like you need this more than I do."
+In the early light of Frostfall, Kirya arrived in Riften. Her path was purposeful. First, she went to Boran's Bulwarks, where the smith offered her iron shards freely from a bucket of scrap. "Take what you need," he grunted. "Was gonna melt it anyway." Three shards in hand, she proceeded to the Scent of Serenity. Alara, having helped them before, offered the salt without question. "Seems like you need this more than I do."
 
-Next, Kirya made for Mistveil Keep. On her way, she caught a glimpse of [[Info/Characters/999 NPC's/Eirik_the_Quick\|Eirik the Quick]]—standing still, for once. She almost didn't believe her eyes.
+Next, Kirya made for Mistveil Keep. On her way, she caught a glimpse of Eirik the Quick—standing still, for once. She almost didn't believe her eyes.
 
-Inside the keep, she met with the Argonian court mage, [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]. After studying the sketch of the mask, he offered solemn insight. "In the days of the Dragon War, those who served the Dragons with utter devotion wore masks like these. Each held great power—symbols of their terrible rank."
+Inside the keep, she met with the Argonian court mage, Speaks-Spells-Gently. After studying the sketch of the mask, he offered solemn insight. "In the days of the Dragon War, those who served the Dragons with utter devotion wore masks like these. Each held great power—symbols of their terrible rank."
 
 When Kirya asked about Arkay's rites, Speaks nodded. "The blessing of the God of Endings is never wasted."
 
-Kirya described [[Info/Characters/999 NPC's/Lagertha\|Lagertha]] and Sven—the spirit and the speaking draugr. Speaks's brow furrowed. "Her presence may shield him. Love or grief, it holds him back. You should speak with [[Info/Characters/999 NPC's/Adda\|Adda]]. Her wisdom goes deeper than mine. I'll wait at the stables with horses."
+Kirya described Lagertha and Sven—the spirit and the speaking draugr. Speaks's brow furrowed. "Her presence may shield him. Love or grief, it holds him back. You should speak with Adda. Her wisdom goes deeper than mine. I'll wait at the stables with horses."
 
 At Ysmir's Hall, Adda awaited her. "I saw your shadow at dawn. I knew you would return before nightfall."
 
@@ -25,7 +25,7 @@ She summoned Víðir, one of Ysmir's sons, to join them. Together, they returned
 
 Back at the lodge, the air grew tense. Sven emerged from the misty woods, silent but changed. He approached the well, and spoke: "Faas. Ru. Maar." Fear. Run. Terror. The words split the silence.
 
-[[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]], [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]], and [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] froze. The Thu'um—a shout forged from true fear—gripped them. Sven lifted Periwyn like a child, vanishing into the mist with her.
+Onasha, Periwyn, and Durov froze. The Thu'um—a shout forged from true fear—gripped them. Sven lifted Periwyn like a child, vanishing into the mist with her.
 
 Adda and Víðir arrived moments later. The shaman knelt by the well, her palm against the earth. "This land is poisoned. This isn't just a curse. It's rot—ancient rot."
 
@@ -77,13 +77,13 @@ Durov placed Lagertha and Sven in the same sarcophagus. With reverent strength, 
 
 Back in Riften, the party followed Adda to Ysmir's Hall. She ordered Víðir and his kin to seal the barrow. None were to cross that threshold again.
 
-They had earned her trust. The [[Info/Organizations/Cult_of_Ysmir\|Cult of Ysmir]] welcomed them fully.
+They had earned her trust. The Cult of Ysmir welcomed them fully.
 
-After settling Periwyn, they returned to the [[Info/Locations/The_Sleeping_Stag\|The Sleeping Stag]]. [[Info/Characters/999 NPC's/Hadvar\|Hadvar]], drunk beyond reason, was barely coherent. Durov seized the chance and secured double the promised gold before the man collapsed into his plate.
+After settling Periwyn, they returned to the The Sleeping Stag. Hadvar, drunk beyond reason, was barely coherent. Durov seized the chance and secured double the promised gold before the man collapsed into his plate.
 
 Kirya, youthful mischief gleaming in her eyes, suggested a prank. Eydis, the innkeeper, joined in without hesitation.
 
-Satisfied, they returned to the [[Info/Locations/Wanderers_Rest\|Wanderer's Rest]]. Durov shared a drink with [[Info/Characters/999 NPC's/Bjorin\|Bjorin]]. Kirya inhaled a full plate of food, ravenous. Then, she and Onasha returned to Ysmir's Hall for rest.
+Satisfied, they returned to the Wanderer's Rest. Durov shared a drink with Bjorin. Kirya inhaled a full plate of food, ravenous. Then, she and Onasha returned to Ysmir's Hall for rest.
 
 Durov stayed a little longer, downing Nord spirit with his old friend. Then, finally, he too retired—leaving behind the shadows of the hollow, if only for the night.
 [[3 - The Fjelhorst Chronicles/Chapter 009a Memoir - She Wore Her Grief Like Silk\|Next Chapter →]]

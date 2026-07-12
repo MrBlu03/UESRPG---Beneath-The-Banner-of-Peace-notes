@@ -58,9 +58,9 @@ A tall, horned humanoid Daedra emerged after combat — the warehouse's manager 
 ## Site 2: The Main Facility (Nordic Ruin)
 
 ### Basic Information
-**Type:** Ancient Nordic ruin (repurposed as cult ritual site)  
+**Type:** Ancient Nordic ruin / Dwemer Keep (repurposed as cult ritual site)  
 **Location:** Several hours north of the warehouse, up by the edge of the mesa  
-**Status:** Active threat — cult operations ongoing  
+**Status:** Staging base / Active threat — occupied by Valen Marr, guards, and cultists  
 **First Scouted:** Session 026 (by the Vestige, overnight solo)  
 
 ### Description
@@ -69,10 +69,11 @@ The remnants of an old Nordic ruin in the northern mountains. Sporadically guard
 > *"It is guarded sporadically. That is not the main problem. Normally, ruins like that have several entrances apart from the main one scattered about. It seems that the cult has Warded them quite well. Powerful Warding glyphs that I, unfortunately, with my limited capabilities in conjuration, cannot dispel."*
 > — The Vestige, Session 026
 
-### Known Intelligence (from Vestige's scout)
-- Sporadically guarded — primary entrance is passable
-- Secondary entrances Warded shut with powerful glyphs (cult-placed)
-- The Vestige returned bloody from scouting — suggests some contact or hazard
+### Known Intelligence
+- **Main Door**: A solid Dwemer metal door. It is not warded. It can be opened using [[Info/Characters/999 NPC's/Valen_Marr\|Valen_Marr]]'s Ouroboros pendant of authority.
+- **Secondary Entrances**: Warded shut with powerful glyphs (cult-placed).
+- **Occupants**: Valen Marr has occupied the main hall as a staging base, bringing his entourage (including [[Info/Characters/999 NPC's/Proventus\|Proventus]] and other plate-clad guards). The rest of the ruin is guarded sporadically by fur-clad cultists/bandits.
+- **Containment**: The Dremora steward [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]] is currently held and secured in the main hall of the ruin.
 
 ### What's Inside (Inferred from Ledger)
 - **"Selection cargo"** (enslaved people from the city — merchants, Jarl's guests)
@@ -103,3 +104,4 @@ The Vestige's plan:
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Warehouse investigated; Scathing encountered; ledger recovered; workers freed; warehouse not burned
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Ledger intelligence confirmed with Milos; Periwyn's Clairvoyance imprint of ritual crates
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Milos scouted the ruin overnight; Ward problem identified; Ward solutions being pursued; warehouse sabotage completed (Kjalgrad warehouses burned — this site not yet touched)
+- **[[2 -  Sessions/Session 028\|Session 028]]**: Durov, Irlav, and Valen Marr accessed the main hall using Valen's Ouroboros pendant; Valen assigned Proventus to Durov; Periwyn and Onasha transported the captured Dremora steward Darius Karo here for containment.

@@ -7,7 +7,7 @@
 
 **2nd of Sun's Dusk, 2E 600**
 
-[[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] woke early, the faint grey of morning filtering through the shutters. He dressed without ceremony, descended to the common room for food, and afterward went to the stables to tend to Rimefang, greeting the other Fangs before they set out on their own errands.
+Durov woke early, the faint grey of morning filtering through the shutters. He dressed without ceremony, descended to the common room for food, and afterward went to the stables to tend to Rimefang, greeting the other Fangs before they set out on their own errands.
 
 A distant howl from the woods drew his attention; low, strained, unnatural. He followed the sound east of the palisade, through snow still soft from the night's fall. Animal hides hung high among the branches, far beyond reach.
 
@@ -17,11 +17,11 @@ As suddenly as it had come, it was gone. The wolves fled into the trees. Durov f
 
 ---
 
-Back in [[Info/Locations/Falderstad\|Falderstad]], he sought answers in the market. A hunter named [[Info/Characters/999 NPC's/Runa\|Runa]] told him of a Colovian who sometimes passed through — a quiet man who kept to himself and bought smoked meats. He directed Durov toward a tavern called [[Info/Locations/The_Soggy_Beaver\|The Soggy Beaver]], where the man was said to drink.
+Back in Falderstad, he sought answers in the market. A hunter named Runa told him of a Colovian who sometimes passed through — a quiet man who kept to himself and bought smoked meats. He directed Durov toward a tavern called The Soggy Beaver, where the man was said to drink.
 
-Inside, the tavern's owner, [[Info/Characters/999 NPC's/Bjalfi\|Bjalfi]], confirmed it. The Colovian came from Chorrol, and often muttered over his cup about sin, and the "Emperor's folly." Legion talk. After a round of food and a few drinking games with the locals, Durov than 3ked Bjalfi and set off to find him.
+Inside, the tavern's owner, Bjalfi, confirmed it. The Colovian came from Chorrol, and often muttered over his cup about sin, and the "Emperor's folly." Legion talk. After a round of food and a few drinking games with the locals, Durov than 3ked Bjalfi and set off to find him.
 
-On the road north, a caravan bearing the banners of [[Info/Organizations/House_Hlaalu\|House Hlaalu]] rolled past — silks, spices, and bottles of Sujamma glinting in the lamplight; the drink of choice for [[Info/Characters/999 NPC's/Stryder\|Stryder]], the mysterious criminal he still owed a favor to.
+On the road north, a caravan bearing the banners of House Hlaalu rolled past — silks, spices, and bottles of Sujamma glinting in the lamplight; the drink of choice for Stryder, the mysterious criminal he still owed a favor to.
 
 ---
 
@@ -49,11 +49,11 @@ _To whoever wakes: I owed debts that can't be paid in coin. Some truths are bett
 
 Beside the note lay a melted twin-bird pendant, tarnished but familiar.
 
-He thanked the hunters, gathered his gear, and trudged back to [[Info/Locations/The_Soggy_Beaver\|the Soggy Beaver]]. Bjalfi greeted him with concern — and slid across the table an Imperial Legion tag, stamped with the number zero. "You'll have better use for it than I," he said simply.
+He thanked the hunters, gathered his gear, and trudged back to the Soggy Beaver. Bjalfi greeted him with concern — and slid across the table an Imperial Legion tag, stamped with the number zero. "You'll have better use for it than I," he said simply.
 
 Durov drank deep, ate his fill of venison, and sat by the hearth until the ache in his bones dulled. Then he returned to the stables, checking Rimefang's hooves and calming Mossback, who snorted at his approach.
 
-At [[Info/Locations/The_Wounded_Boar\|The Wounded Boar]], innkeep [[Info/Characters/999 NPC's/Denskar\|Denskar]] told him the rest of the Fangs had taken lodging on the east side of town. Durov nodded, tightened his cloak, and set off through the snow — toward the faint glow of their hearthlight, and the sound of voices within.
+At The Wounded Boar, innkeep Denskar told him the rest of the Fangs had taken lodging on the east side of town. Durov nodded, tightened his cloak, and set off through the snow — toward the faint glow of their hearthlight, and the sound of voices within.
 
 And thus Durov's path rejoined the Fangs.
 

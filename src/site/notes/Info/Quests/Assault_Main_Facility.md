@@ -21,7 +21,7 @@ The cult has Warded all secondary entrances shut with powerful glyphs. Two solut
 - **Ingredients**: Pearl (purchased from Julian, 8 gold) + hag raven feather
 - **Who's getting the feather**: The Vestige has gone to retrieve it from the **Witch of the Woods** (the hagraven [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] brokered a truce with in Session 023a)
 - **Who brews it**: [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] (once she has both ingredients)
-- **Status**: Pearl secured; feather pending Vestige's return
+- **Status**: Pearl secured; feather secured by the Vestige (Session 028)
 
 ### Option B — Father Aldric
 - **Who**: [[Info/Characters/999 NPC's/Father_Aldric\|Father_Aldric]] — Breton priest of Stendarr, met in the Grand Library; primary school restoration, also dabbles in alteration
@@ -38,7 +38,7 @@ The Vestige's plan, pending final briefing:
 - [x] ~~Receive Vestige's scout report~~ — **COMPLETED** (Session 026)
 - [x] ~~Purchase pearl for Ward varnish~~ — **COMPLETED** (Session 026, Julian's shop, 8 gold)
 - [x] ~~Recruit backup Ward-dispelling mage~~ — **COMPLETED** (Session 026, Father Aldric)
-- [ ] **Retrieve hag raven feather** — Vestige is handling this (Witch of the Woods)
+- [x] ~~Retrieve hag raven feather~~ — **COMPLETED** (Session 028)
 - [ ] **Brew Ward-dissolving varnish** — Periwyn, once feather is in hand
 - [ ] **Introduce Father Aldric to party** — scheduled for tomorrow at the inn
 - [ ] **Brief Father Aldric** on the actual scope of the operation (carefully)
@@ -62,5 +62,6 @@ The Vestige's plan, pending final briefing:
 - **[[2 -  Sessions/Session 024\|Session 024]]**: Warehouse ledger discovered; main facility referenced; Periwyn's Clairvoyance imprinted on ritual crates for tracking
 - **[[2 -  Sessions/Session 025\|Session 025]]**: Milos confirms the facility is the final target; ward problem not yet identified; two-day downtime agreed
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Vestige scouted it; Ward problem confirmed; varnish recipe given; Father Aldric recruited; pearl purchased; Vestige went for feather
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha and Periwyn arrested; Periwyn escaped custody and rescue squad (Lower Lodge) broke Onasha out; Durov pocketed Queen's writ and handed to Periwyn; Jarl's steward Darius Karo tortured Onasha; Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during escape; Durov met contact John and found missing merchant's journal scraps pointing to the mesa.
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Onasha and Periwyn arrested; Periwyn escaped custody and rescue squad (Lower Lodge) broke Onasha out; Durov pocketed Queen's writ and handed to Periwyn; Jarl's steward Darius Karo tortured Onasha; Onasha set fire to the Jarl's hall (Clan Morvan Longhouse) during escape; Durov met contact John and found missing merchant's journal scraps pointing to the mesa
+- **[[2 -  Sessions/Session 028\|Session 028]]**: Durov, Irlav, and Valen Marr entered the main hall using Valen's Ouroboros pendant; Valen assigned Proventus to Durov; Periwyn and Onasha transported the captured Dremora steward Darius Karo here; Vestige returned with the hagraven feather
 

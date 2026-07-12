@@ -213,7 +213,7 @@ After learning [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] h
 - For [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]: Guard captain Luulov is looking for him
 - For [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]: *"Some women are asking about you, peddling in hidden places and filthy places"*
 
-**Current status:** Departed for the Witch of the Woods to retrieve the hag raven feather. Has not yet returned.
+- **Current status:** Returned to the Main Facility Ruin with the hagraven feather, where he is currently securing the captured Dremora steward Darius Karo.
 
 ## Session References
 - **[[2 -  Sessions/Session 004\|Session 004]]**: First mentioned as founder of the Blackfeather Court
@@ -222,3 +222,4 @@ After learning [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] h
 - **[[2 -  Sessions/Session 021\|Session 021]]**: Analyzed speaking stone; revealed guild intelligence; caring for [[Info/Characters/999 NPC's/Varren\|Varren]] with [[Info/Characters/999 NPC's/Adda\|Adda]]
 - **[[2 -  Sessions/Session 025\|Session 025]]**: True identity as Argonian Milos confirmed; barrow base revealed; stone explained as memory anchor; skin-changer Jarl confirmed; two-day downtime plan agreed
 - **[[2 -  Sessions/Session 026\|Session 026]]**: Returned from scout bloodied; Ward problem identified; varnish recipe given; departed for Witch of the Woods to retrieve hag raven feather
+- **[[2 -  Sessions/Session 028\|Session 028]]**: Under his Dark Brotherhood persona, assisted Periwyn and Onasha with interrogating Darius Karo in the sewers and transporting him to the ruin; returned with the hagraven feather and secured the prisoner at the Main Facility

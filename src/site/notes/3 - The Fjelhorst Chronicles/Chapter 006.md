@@ -5,29 +5,29 @@
 ## Chapter 6: Into the Storm
 **24th of Heartfire, 2E 600**
 
-The party stirred from uneasy dreams into a darkness that clung like fog—not the black of night, but the unnatural shade of the eclipse. No dawn light crept through the trees, only the faint glow of campfires flickering in the gloom. [[Info/Characters/999 NPC's/Hillevi\|Hillevi]], the Companions' healer, stood over them with a tray of warm bread and porridge, her expression calm despite the dread hanging in the air.
+The party stirred from uneasy dreams into a darkness that clung like fog—not the black of night, but the unnatural shade of the eclipse. No dawn light crept through the trees, only the faint glow of campfires flickering in the gloom. Hillevi, the Companions' healer, stood over them with a tray of warm bread and porridge, her expression calm despite the dread hanging in the air.
 
 Beyond the cold embers of the camp, the massive silhouettes of rebuilt trebuchets loomed—silent sentinels, assembled during the night under the cover of shadow.
 
-While the others took their meal in silence, [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] opened her journal, carefully sketching the war tent—every fold and crease—as if to trap some sense of order amid the chaos.
+While the others took their meal in silence, Periwyn opened her journal, carefully sketching the war tent—every fold and crease—as if to trap some sense of order amid the chaos.
 
-Before the morning's mission briefing, [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] approached Periwyn to discuss the Bone Hawk she'd shot down days earlier. Its unnatural composition gnawed at her thoughts. Periwyn, ever curious, admitted to having dabbled in Necromancy, and suggested they might repurpose the creature as a scout. Onasha's distrust was immediate and instinctive, but after some consideration, she agreed to try—in seclusion, and with caution. If it proved too dangerous, they would harvest the remains instead.
+Before the morning's mission briefing, Onasha approached Periwyn to discuss the Bone Hawk she'd shot down days earlier. Its unnatural composition gnawed at her thoughts. Periwyn, ever curious, admitted to having dabbled in Necromancy, and suggested they might repurpose the creature as a scout. Onasha's distrust was immediate and instinctive, but after some consideration, she agreed to try—in seclusion, and with caution. If it proved too dangerous, they would harvest the remains instead.
 
-Afterward, Onasha struck up a conversation with Hillevi, curious about how the healer had come to join the [[Info/Organizations/Companions\|Companions]]. Hillevi's answer came easily—she had joined six winters ago, drawn by a desire for glory and a wish to help others. To Onasha, the lack of hidden motive was unsettling, even suspicious, but Hillevi's demeanor remained open and sincere. She spoke at length about the Companions, describing them as an ancient order of warriors spread across Skyrim, their lineage stretching back to Ysgramor, the fabled hero of the Merethic Era.
+Afterward, Onasha struck up a conversation with Hillevi, curious about how the healer had come to join the Companions. Hillevi's answer came easily—she had joined six winters ago, drawn by a desire for glory and a wish to help others. To Onasha, the lack of hidden motive was unsettling, even suspicious, but Hillevi's demeanor remained open and sincere. She spoke at length about the Companions, describing them as an ancient order of warriors spread across Skyrim, their lineage stretching back to Ysgramor, the fabled hero of the Merethic Era.
 
-Soon after, [[Info/Characters/999 NPC's/Vigrod_Wraithbane\|Vigrod Wraithbane]] summoned the party to the war tent.
+Soon after, Vigrod Wraithbane summoned the party to the war tent.
 
-There, beneath heavy canvas and maps inked with battle-lines, the party received their mission. They would infiltrate [[Info/Locations/Greenwall\|Greenwall]] through a forgotten tunnel, a remnant of the Three Banners War when smugglers used the fort as a base. While the Companions launched burning debris from trebuchets as a distraction, the party was to slip through the tunnel and locate the source of the eclipse. If there were survivors, they were to be sent through the tunnel and into the safety of the western woods.
+There, beneath heavy canvas and maps inked with battle-lines, the party received their mission. They would infiltrate Greenwall through a forgotten tunnel, a remnant of the Three Banners War when smugglers used the fort as a base. While the Companions launched burning debris from trebuchets as a distraction, the party was to slip through the tunnel and locate the source of the eclipse. If there were survivors, they were to be sent through the tunnel and into the safety of the western woods.
 
 Vigrod clasped their shoulders one by one. "Gods give you strength," he said. "And may we meet again in Sovngarde."
 
-The tunnel's entrance lay beneath a bed of fallen leaves on a quiet hilltop—a weathered trapdoor that groaned as they pulled it open. Below, a wooden ladder descended into a flickering passage. [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]] took the lead, shield raised, his broad back guarding the others as they descended. Periwyn lingered near the rear, her steps hesitant, fear tightening her chest.
+The tunnel's entrance lay beneath a bed of fallen leaves on a quiet hilltop—a weathered trapdoor that groaned as they pulled it open. Below, a wooden ladder descended into a flickering passage. Durov took the lead, shield raised, his broad back guarding the others as they descended. Periwyn lingered near the rear, her steps hesitant, fear tightening her chest.
 
-The passage opened into a forgotten storage room. Dusty crates lined the walls, and a handful of old books caught [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]'s eye: Herbalist's Guide to Skyrim, Sithis, and Herbane's Bestiary: Hagravens. She tucked them away for later study.
+The passage opened into a forgotten storage room. Dusty crates lined the walls, and a handful of old books caught Onasha's eye: Herbalist's Guide to Skyrim, Sithis, and Herbane's Bestiary: Hagravens. She tucked them away for later study.
 
 On the table lay a smuggler's ledger—mundane entries on skooma... and a chilling list of slaves. Onasha's expression hardened. Her scales dried in silent revulsion.
 
-Further in, the tunnel brought them to what remained of the smugglers' living quarters—bedrolls, rusted shackles, and crumbling walls. It looked like a dead end, until [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]'s sharp eyes noticed something off about one of the walls. On closer inspection, a wooden panel was slightly offset, hiding something behind it. With a grunt, Durov stepped forward and brought his axe crashing through the wood, revealing on the ther side the inn's cellar.
+Further in, the tunnel brought them to what remained of the smugglers' living quarters—bedrolls, rusted shackles, and crumbling walls. It looked like a dead end, until Kirya's sharp eyes noticed something off about one of the walls. On closer inspection, a wooden panel was slightly offset, hiding something behind it. With a grunt, Durov stepped forward and brought his axe crashing through the wood, revealing on the ther side the inn's cellar.
 
 There, among cracked casks and broken shelves, Durov paused to sample an old keg of mead, remarking on its sharp, berry tang.
 
@@ -43,7 +43,7 @@ The second house was quieter. The upstairs still held some semblance of order. B
 
 The basement revealed a scene of horror.
 
-In the gloom stood a ritual circle: candles, dried blood, human remains—heart, ribs, skull, and flesh. Onasha froze. When Periwyn coaxed her back, she explained in hushed tones what they were seeing: the Black Sacrament. Someone here had summoned the [[Info/Organizations/Dark_Brotherhood\|Dark Brotherhood]].
+In the gloom stood a ritual circle: candles, dried blood, human remains—heart, ribs, skull, and flesh. Onasha froze. When Periwyn coaxed her back, she explained in hushed tones what they were seeing: the Black Sacrament. Someone here had summoned the Dark Brotherhood.
 
 Among the scattered offerings lay an ebony dagger etched with strange runes, and a copy of 'A Kiss, Sweet Mother'.
 

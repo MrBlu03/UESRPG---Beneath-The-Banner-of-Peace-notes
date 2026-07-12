@@ -55,6 +55,12 @@
   - Attempted bear hunting unsuccessfully but gathered alchemy ingredients
   - Finally succeeded in training Mossback to stand still after five days
   - Witnessed spectacular blue-green aurora that awed the entire party
+- **[[2 -  Sessions/Session 028\|Session 028]]**:
+  - Participated in the raid on [[Info/Characters/999 NPC's/Darius_Karo\|Darius_Karo]]'s office, using a paralysis bomb and a flame bomb to incapacitate his guards.
+  - Convinced the Dark Brotherhood assassin [[Info/Characters/999 NPC's/The_Vestige\|Milos]] to allow a ten-minute interrogation of the steward before taking him out of Kjalgrad.
+  - Interrogated Darius Karo in the sewers, learning he was a Dremora (Scaafin) working with the cult, who hired the Camonna Tong to hunt the party and the Vestige.
+  - In a fit of anger, slashed Darius Karo's cheek with her steel dagger after he mocked their questioning.
+  - Helped drag the Dremora steward to the [[Info/Locations/Northeast_Warehouse_and_Main_Facility\|Main Facility Ruin]] to lock him up with the Vestige.
 
 ## Items of Interest
 - **Dragon Language Scroll**: A mysterious scroll containing a summoning ritual; turns to tar when burned
