@@ -337,4 +337,4 @@ Durov and Irlav turned instinctively toward the distant warehouse district.
 
 Two towering plumes of black smoke climbed into the pale evening sky.
 
-[[Chapter 027\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 027\|Next Chapter →]]

@@ -22,11 +22,11 @@
 | [[Info/Quests/The_Skin_Changer_Jarl\|The_Skin_Changer_Jarl]]                                             | ⭐  | Main     | Session 025  | TBD                                 | Major      |
 | [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]]                                                         | 📋 | Optional | Session 013  | Unknown                             | Minor      |
 | [[Info/Quests/Study_Shadow_Stone_Powers\|Study_Shadow_Stone_Powers]]                                     | 📋 | Optional | TBD          | TBD                                 | Background |
-| [[Info/Quests/Periwyns_Vampire_Hunter_Search\|Periwyns_Vampire_Hunter_Search]]                           | 👤 | Personal | Session 007  | TBD                                 | Minor      |
 | [[Info/Quests/Malacaths_Interest_in_Periwyn\|Malacaths_Interest_in_Periwyn]]                             | 👤 | Personal | Session 007  | TBD                                 | Major      |
+| [[Info/Quests/Periwyns_Vampire_Hunter_Search\|Periwyns_Vampire_Hunter_Search]]                           | 👤 | Personal | Session 007  | TBD                                 | Minor      |
 | [[Info/Quests/Durovs_Lost_Past\|Durovs_Lost_Past]]                                                       | 👤 | Personal | Session 010  | TBD                                 | Major      |
-| [[Info/Quests/Woad_Training\|Woad_Training]]                                                             | 👤 | Personal | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Lute_Acquisition\|Lute_Acquisition]]                                                       | 👤 | Personal | Session 012  | TBD                                 | Minor      |
+| [[Info/Quests/Woad_Training\|Woad_Training]]                                                             | 👤 | Personal | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Moonsugar_Business_Venture\|Moonsugar_Business_Venture]]                                   | 👤 | Personal | Session 012  | TBD                                 | Minor      |
 | [[Info/Quests/Necromantic_Training\|Necromantic_Training]]                                               | 👤 | Personal | Session 012a | Necromantic knowledge and abilities | Major      |
 | [[Info/Quests/Jean_Pierre_LaRoche_Missing\|Jean_Pierre_LaRoche_Missing]]                                 | 📋 | Side     | Session 026  | TBD                                 | Minor      |
