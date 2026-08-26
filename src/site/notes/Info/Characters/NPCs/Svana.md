@@ -5,14 +5,14 @@
 # Svana
 
 ## Description
-A caring young Nord woman in [[Info/Locations/The Rift/Riften\|Riften]]. Her desperate plea to find her missing friend [[Info/Characters/NPCs/Alara\|Alara]] led the party to uncover regional monster attacks and the [[Info/Locations/The Rift/Greenwall\|Greenwall]] crisis.
+A caring young Nord woman in [[Info/Locations/The Rift/Riften\|Riften]] who co-runs a local blacksmith forge. Her concern for her missing friend drove early investigations in the region.
 
 ## Relationships
+- **[[Info/Characters/NPCs/Bjorn\|Bjorn]]**: Her brother and co-owner of the forge.
 - **[[Info/Characters/NPCs/Alara\|Alara]]**: Her dearest childhood friend whose disappearance caused her great distress.
 
 ## Location
-- Resides in the residential quarter of [[Info/Locations/The Rift/Riften\|Riften]].
+- Runs the [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty Steel]] forge in [[Info/Locations/The Rift/Riften\|Riften]].
 
 ## Notes
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Approached the party in tears, begging them to find [[Info/Characters/NPCs/Alara\|Alara]] who had not returned from foraging in the woods.
-- **[[2 -  Sessions/Session 007\|Session 007]]**: Overjoyed when the party brought news of [[Info/Characters/NPCs/Alara\|Alara]]'s safe rescue and the fort's liberation.
+- **[[2 -  Sessions/Session 003\|Session 003]]**: Confirmed the details of [[Info/Characters/NPCs/Alara\|Alara]]'s wanderings to the party when they visited her forge, expressing deep concern that she had been missing for two nights and thanking the party for investigating.

@@ -5,13 +5,14 @@
 # Thrysnr the Unsullied
 
 ## Description
-A boastful, battle-tested Nord mercenary in [[Info/Locations/The Rift/Riften\|Riften]] who offered combat advice.
+A vampire of [[Info/Organizations/Cults/Clan_Volkihar\|Clan_Volkihar]] blood. Unlike most of the clan, he was not turned by Harkon or his court, but was instead sired by the powerful vampire [[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn_the_Ancient]].
 
 ## Relationships
-- **[[Info/Characters/Party/Durov\|Durov]]**: Martial peer in [[Info/Locations/The Rift/Riften\|Riften]].
+- **[[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn_the_Ancient]]**: His sire, a powerful vampire thought dead for twenty years.
+- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]]**: Studied his severed head.
 
 ## Location
-- Frequents taverns in [[Info/Locations/The Rift/Riften\|Riften]].
+- His severed head was kept and studied by [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]] in [[Info/Locations/The Rift/Riften\|Riften]].
 
 ## Notes
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Shared stories of northern campaigns with [[Info/Characters/Party/Durov\|Durov]].
+- **[[2 -  Sessions/Session 012\|Session 012]]**: [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]] presented his findings on Thrysnr's severed head, revealing his lineage to [[Info/Organizations/Cults/Clan_Volkihar\|Clan_Volkihar]] and identifying [[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn_the_Ancient]] as his sire.

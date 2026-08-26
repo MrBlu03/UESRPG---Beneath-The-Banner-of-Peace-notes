@@ -5,13 +5,10 @@
 # Widow's River
 
 ## Description
-A turbulent mountain river flowing through deep rocky gorges between the Rift and [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+A small frozen stream near Kjalgrad that feeds into the mountains. Historical documents state it was named for a Jarl's wife who walked into the river in grief after her husband died in war.
 
-## Features
-- Swift currents, cold glacial runoff, and slippery stone banks.
+## Notable NPCs
+- None
 
-## NPCs
-- Various local residents, travelers, and guards.
-
-## Notes
-- **[[2 -  Sessions/Session 025\|Session 025]]**: The party navigated along Widow's River while approaching the highlands barrows.
+## Key Events
+- **[[2 -  Sessions/Session 025\|Session 025]]**: Following a Blackfeather Court riddle, the party traced the frozen path of the Widow's River on foot, leaving their horses behind due to the icy terrain. They encountered a Wisp Mother floating in a frozen pond along the river and wisely chose to bypass it without engaging.

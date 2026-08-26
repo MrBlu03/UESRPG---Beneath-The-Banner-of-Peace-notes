@@ -2,21 +2,12 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/northern-forest/"}
 ---
 
-# Northern Forest
-
 ## Description
-A dense, primordial pine and birch forest stretching north of [[Info/Locations/Falderstad/Falderstad\|Falderstad]] toward the Velothi Mountains. Became the dark hunting territory of the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]].
+The Northern Forest is a dense, primordial pine and birch forest stretching north of [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. It became the dark hunting territory of the [[Info/Characters/NPCs/Nohrak\|Skinstealer]] and features ancient, bloodstained totems left in grotesque ritual patterns. 
 
-## Features
-- Towering old-growth pines blocking out sunlight.
-- Ancient bloodstained totems and twisted stag remains left in ritual spirals.
-- The [[Info/Locations/The Rift/Cursed_Grove\|Cursed_Grove]] deep within the interior.
+## Notable NPCs
+- **[[Info/Characters/NPCs/Nohrak\|Nohrak]]**: The Skinstealer (or Ragged Lord), a supernatural creature terrorizing the forest.
 
-## NPCs
-- [[Info/Characters/NPCs/Nohrak\|Ragged Lord]]
-- [[Info/Characters/NPCs/Torik\|Torik]]
-- [[Info/Characters/NPCs/Svala\|Svala]]
-- [[Info/Characters/NPCs/Denskar\|Denskar]]
-
-## Notes
-- **[[2 -  Sessions/Session 014\|Session 014]]-**[[2 -  Sessions/Session 017\|Session 017]]**: The party tracked the corrupted white stag and the monstrous [[Info/Characters/NPCs/Nohrak\|Skinstealer]] through these woods, culminating in the summoning ritual and final battle.
+## Key Events
+- **[[2 -  Sessions/Session 014\|Session 014]]**: The party began their investigation into the forest, noting its uneasy, unnatural silence with no birds or rustling.
+- **[[2 -  Sessions/Session 016\|Session 016]]**: The party joined an organized hunt led by [[Info/Characters/NPCs/Svala\|Svala]] and ventured deep into the cursed forest. They discovered a grotesque clearing where bones and human skins were arranged in a shrine to the Ragged Lord. On their return journey, the [[Info/Characters/NPCs/Nohrak\|Skinstealer]] trapped them in a supernatural maze, resulting in the death of Bjorr. [[Info/Characters/NPCs/Torik\|Torik]] used fire salts to break the enchantment, and the creature attacked them at the forest edge before they managed to escape.

@@ -5,14 +5,10 @@
 # Witch's Clearing
 
 ## Description
-A foul, feather-strewn clearing deep in the woods where a sinister hagraven made her lair.
+A small clearing located northeast of an abandoned hunter's camp and west of Kjalgrad. The secluded area serves as the territorial lair for a monstrous hagraven-like creature.
 
-## Features
-- Totems of woven twigs, bird feathers, and animal skulls.
-- A bubbling cauldron filled with vile dark concoctions.
+## Notable NPCs
+- **[[Info/Quests/The_Witch_of_the_Woods\|The Witch of the Woods]]**: A monstrous hagraven-like creature with raven feathers and frost magic who resides in the clearing.
 
-## NPCs
-- [[Info/Quests/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]]
-
-## Notes
-- **[[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] located the lair and defeated [[Info/Quests/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]], purging the dark coven.
+## Key Events
+- **[[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a Periwyns witch hunt]]**: Periwyn tracked humanoid footprints from an abandoned hunter camp to this clearing while investigating a bounty posted by the hunter Bjorn. Here, she located the lair and defeated the Witch of the Woods.

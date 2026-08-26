@@ -5,17 +5,17 @@
 # Olen the Mer-Killer
 
 ## Description
-A legendary, towering veteran Companion with a fearsome reputation for slaying elven adversaries during border wars. Wields a colossal greatsword and fights with unbridled ferocity.
+A lean, hawkish member of the [[Info/Organizations/Religious/Cult_of_Ysmir\|Cult_of_Ysmir]] who traveled with [[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir_Stormcrown]]. A veteran warrior, he bravely fought alongside the party until his untimely end.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod_Wraithbane]]**: Respected Harbinger and battle-leader.
-- **[[Info/Characters/NPCs/Beitild_the_Unwavering\|Beitild_the_Unwavering]]**: Companion shield-sister.
-- **[[Info/Characters/Party/Durov\|Durov]]**: Shared war stories of northern campaigns.
+- **[[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir_Stormcrown]]**: Harbinger of the Cult of Ysmir whom he flanked.
+- **[[Info/Characters/NPCs/Beitild_the_Unwavering\|Beitild_the_Unwavering]]**: Sharp-eyed scout and fellow companion.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Shared reins and old battle tales with him.
 
 ## Location
-- Based at [[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone_Hall]] in the Rift.
+- Last seen at the [[Companions War Camp\|Companions War Camp]] and [[Info/Locations/The Rift/Greenwall\|Greenwall]].
 
 ## Notes
-- **[[2 -  Sessions/Session 005\|Session 005]]**: Arrived with [[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir_Stormcrown]] at the [[Info/Locations/The Rift/Companions_War_Camp\|Companions war camp]], joining the relief force for [[Info/Locations/The Rift/Greenwall\|Greenwall]].
-- **[[2 -  Sessions/Session 006\|Session 006]]**: Spearheaded the breach into the smuggler tunnels beneath [[Info/Locations/The Rift/Greenwall\|Fort Greenwall]].
-- **[[2 -  Sessions/Session 007\|Session 007]]**: Celebrated the fort's liberation with mead and battle songs at the [[Info/Locations/The Rift/Amber_Keg\|Amber Keg]].
+- **[[2 -  Sessions/Session 005\|Session 005]]**: Arrived with [[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir_Stormcrown]], shared the cart reins with [[Info/Characters/Party/Durov\|Durov]], and solemnly helped cut down executed corpses to build a pyre.
+- **[[2 -  Sessions/Session 006\|Session 006]]**: Tragically fell in the assault at [[Info/Locations/The Rift/Greenwall\|Greenwall]].
+- **[[2 -  Sessions/Session 007\|Session 007]]**: His body was cremated on a funeral pyre, where [[Info/Characters/Party/Kirya\|Kirya]] placed fresh flowers and the party toasted his memory at the [[Info/Locations/The Rift/Amber_Keg\|Amber_Keg]].

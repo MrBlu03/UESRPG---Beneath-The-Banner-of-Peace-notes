@@ -11,8 +11,8 @@ An exceptionally talented, confident, and ambitious Khajiit spellcaster from the
 - **[[Info/Characters/Party/Kirya\|Kirya]]**: Trusted friend, mentor, and fellow Khajiit traveler.
 
 ## Location
-- Studies at the [[Info/Locations/Other Skyrim/Winterhold\|College of Winterhold]]; traveled to [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Studies at the [[College of Winterhold\|College of Winterhold]]; travels widely and was recently in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
 
 ## Notes
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Sent a detailed letter to [[Info/Characters/Party/Kirya\|Kirya]] sharing news from [[Info/Locations/Other Skyrim/Winterhold\|Winterhold]] and advising her on arcane matters.
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Met with [[Info/Characters/Party/Kirya\|Kirya]] past midday in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], assisting her as she departed the city on a new journey.
+- **[[2 -  Sessions/Session 018\|Session 018]]**: Sent a detailed letter to [[Info/Characters/Party/Kirya\|Kirya]] sharing news from [[Info/Locations/Other Skyrim/Winterhold\|Winterhold]] that was full of riddles and half-truths, leaving her visibly frustrated.
+- **[[2 -  Sessions/Session 026\|Session 026]]**: Met with [[Info/Characters/Party/Kirya\|Kirya]] past midday in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] with prepared horses, delivering a time-sensitive lead on her missing sister and escorting her out of the city.

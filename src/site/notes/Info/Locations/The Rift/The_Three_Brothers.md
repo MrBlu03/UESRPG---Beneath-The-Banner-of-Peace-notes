@@ -5,15 +5,10 @@
 # The Three Brothers (Standing Stones)
 
 ## Description
-A triad of towering ancient standing stones perched on a wind-swept hill, steeped in old Nordic legends of three warrior brothers.
+A triad of weathered, ancient standing stones located in the mountains near the Widow's River. Etched with barely-visible carvings, including what might be a crown, they are steeped in old Nordic legends of three warrior brothers who sealed an oath-breaking king away in a nearby barrow. 
 
-## Features
-- Three weathered monoliths etched with interlocking ancient runes.
-- Commanding vantage point over the river valley.
+## Notable NPCs
+- None
 
-## NPCs
-- [[Info/Characters/Party/Durov\|Durov]]
-- [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Jango]]
-
-## Notes
-- **[[2 -  Sessions/Session 025\|Session 025]]**: [[Info/Characters/Party/Durov\|Durov]] spotted a magical crow roosting atop the central monolith, leading the party to the entrance of the [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]].
+## Key Events
+- **[[2 -  Sessions/Session 025\|Session 025]]**: The party navigated to the stones after decoding a riddle to find their Blackfeather Court contact. Kirya's scouting instincts helped them find the path to the stones, where a magical crow led them to the nearby barrow of the Oath Breaker King.

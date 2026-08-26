@@ -5,13 +5,13 @@
 # Hrovald
 
 ## Description
-A roadside trader encountered during the long trek from [[Info/Locations/The Rift/Riften\|Riften]] to [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+A stablemaster in the Rift who handles royal steeds. He is meticulous in his duties and ensures that travelers are properly equipped for the road.
 
 ## Relationships
-- **Traveling Traders**: Road companion.
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]**: Royal employer who personally oversaw his work.
 
 ## Location
-- Travels the highway between [[Info/Locations/The Rift/Riften\|Riften]] and [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- Usually found tending the stables along the highway in [[Info/Locations/The Rift/The_Rift\|The Rift]].
 
 ## Notes
-- **[[2 -  Sessions/Session 013\|Session 013]]**: Sold travel provisions and horse feed to the party.
+- **[[2 -  Sessions/Session 013\|Session 013]]**: Assisted the party with horse selection, choosing finer stock such as Rimefang, Sunsnow, Mossback, and Ashen under the direct supervision of [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]].

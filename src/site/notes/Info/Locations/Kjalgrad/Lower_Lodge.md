@@ -2,21 +2,13 @@
 {"dg-publish":true,"permalink":"/info/locations/kjalgrad/lower-lodge/"}
 ---
 
-# The Lower Lodge
-
 ## Description
-The Lower Lodge is a well-concealed underground sanctuary and base of operations for the [[Info/Organizations/Criminal/Lower_Lodge_Network\|Lower_Lodge_Network]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Located behind a false cellar wall near the lower district, it provides a secure meeting point for honest guards, displaced merchants, and local scouts working to resist the corruption of the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Silverroad]] and the cult.
+The Lower Lodge is a well-concealed underground sanctuary and base of operations for the [[Info/Organizations/Criminal/Lower_Lodge_Network\|Lower_Lodge_Network]] in the sewers beneath [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Marked by a diamond-circle symbol on its entrance, it serves as a secure meeting point and refugee shelter for those resisting the corrupt [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] and the Skin-Changer Jarl.
 
-## Features
-- **Hidden Entryway**: Concealed doorway accessed via an unremarkable basement cellar.
-- **War Room & Map Table**: Stocked with maps of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], sewer schematics, and lists of compromised officials.
-- **Armory & Infirmary**: Modest supplies of healing salves, bandages, weapons, and provisions.
+## Notable NPCs
+- **[[Info/Characters/NPCs/Tarja\|Tarja]]**: Also known as Taria, the primary contact and resistance coordinator running the Lower Lodge.
+- **[[Info/Characters/NPCs/Tabitha\|Tabitha]]**: A Lower Lodge contact who serves as a sewer guide.
 
-## NPCs
-- **[[Info/Characters/NPCs/Tarja\|Tarja]]**: Primary contact and resistance coordinator.
-- **[[Info/Organizations/Criminal/Lower_Lodge_Network\|The_Sewer_Contact]]**: Scout specializing in underground routes.
-- **Dissident Town Guards**: Watchmen loyal to the true defense of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
-
-## Notes
-- **[[2 -  Sessions/Session 026\|Session 026]]-**[[2 -  Sessions/Session 027\|Session 027]]**: [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]] were brought to the Lower Lodge by [[Info/Characters/NPCs/Tarja\|Tarja]]. Here, they planned the raid on [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]]'s office, studied sewer entryways, and coordinated safe extraction routes.
-- **[[2 -  Sessions/Session 030\|Session 030]]**: Used as the final coordination point before marching on the cult's main facility at [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]].
+## Key Events
+- **[[2 -  Sessions/Session 026\|Session 026]]**: [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Periwyn\|Periwyn]] visited the lodge, noticing warehouse refugees settling in. They met with [[Info/Characters/NPCs/Tarja\|Tarja]], who briefed them on the market protest operation and supplied them with encoded letters, death bell traps, and kindling to sabotage the warehouse district.
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Following [[Info/Characters/Party/Onasha\|Onasha]]'s capture during the warehouse explosions, [[Info/Characters/Party/Periwyn\|Periwyn]] retreated to the Lower Lodge. [[Info/Characters/NPCs/Tarja\|Tarja]] provided her with a magicka potion and a replacement sword from the stash, and coordinated a rescue squad. Led by [[Info/Characters/NPCs/Tabitha\|Tabitha]], they navigated from the lodge through the sewers to a false wall behind the Yarls Hall dungeon to execute a successful jailbreak.

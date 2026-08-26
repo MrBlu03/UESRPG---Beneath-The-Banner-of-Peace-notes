@@ -14,4 +14,5 @@ An ancient Nordic monarch of the First Era whose spirit was bound to his tomb af
 - Entombed within the [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]].
 
 ## Notes
-- **[[2 -  Sessions/Session 025\|Session 025]]**: The party explored his tomb, solving ancient rune puzzles and retrieving sacred relics while respecting his resting place.
+- **[[2 -  Sessions/Session 025\|Session 025]]**: The party explored his tomb. Despite his cursed legacy, it was revealed that he remained no cursed tyrant in his resting place.
+- **[[2 -  Sessions/Session 027\|Session 027]]**: His barrow served as a stash point where [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] left their most incriminating items, including a necromancy book and a guild ledger, saving them from discovery when arrested.

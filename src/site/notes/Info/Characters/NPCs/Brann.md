@@ -5,13 +5,13 @@
 # Brann
 
 ## Description
-A hardworking dock laborer in [[Info/Locations/The Rift/Riften\|Riften]] who unloads cargo barges along [[Info/Locations/The Rift/Lake_Honrich\|Lake Honrich]].
+The head chef of a kitchen in [[Info/Locations/The Rift/Riften\|Riften]] who prepares food provisions for the destitute inhabitants of the Ratway.
 
 ## Relationships
-- **[[Info/Locations/The Rift/Riften\|Riften]] Dockworkers**: Fellow freight hauler on [[Info/Locations/The Rift/Lake_Honrich\|Lake Honrich]].
+- **[[Info/Characters/Party/Durov\|Durov]]**: Handed him a large basket of food to carry to the Ratway.
 
 ## Location
-- Works at the lower canal docks of [[Info/Locations/The Rift/Riften\|Riften]].
+- Works in a kitchen in [[Info/Locations/The Rift/Riften\|Riften]].
 
 ## Notes
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Provided observations to [[Info/Characters/Party/Durov\|Durov]] and [[Info/Characters/Party/Kirya\|Kirya]] regarding suspicious [[Info/Lore/Nocturnal\|nocturnal]] ship movements and outlaws moving goods into the Ratway.
+- **[[2 -  Sessions/Session 012\|Session 012]]**: Provided a large basket containing bread, cheese, and ham to [[Info/Characters/Party/Durov\|Durov]] to deliver to the inhabitants of the [[Info/Locations/The Rift/Ratway\|Ratway]].

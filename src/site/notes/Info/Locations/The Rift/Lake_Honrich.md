@@ -5,15 +5,10 @@
 # Lake Honrich
 
 ## Description
-A vast, scenic freshwater lake occupying the center of the Rift, surrounded by golden autumn aspen forests. [[Info/Locations/The Rift/Riften\|Riften]] sits upon its eastern shores.
+A vast, scenic freshwater lake occupying the center of the Rift, known for its heavy fogs and winter ice groans.
 
-## Features
-- Teeming with slaughterfish, river trout, and longfin.
-- Fed by mountain tributaries and draining eastward toward the sea.
+## Notable NPCs
+None specific to this location.
 
-## NPCs
-- Fishermen
-- Boatmen
-
-## Notes
-- **[[2 -  Sessions/Session 013\|Session 013]]**: The party rode along the scenic shores of Lake Honrich on the first leg of their journey from [[Info/Locations/The Rift/Riften\|Riften]] to [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+## Key Events
+- **[[2 -  Sessions/Session 013\|Session 013]]**: While traveling from [[Info/Locations/The Rift/Riften\|Riften]] to [[Info/Locations/Falderstad/Falderstad\|Falderstad]], the party camped near the lake. Heavy fog from the lake dampened their gear. By late afternoon of their fourth day of travel, they heard the ice of the lake groan in the distance.

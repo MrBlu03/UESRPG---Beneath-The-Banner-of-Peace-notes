@@ -5,13 +5,13 @@
 # Nordgren
 
 ## Description
-A sturdy mountain guide who provided trail advice for traversing the rocky highlands south of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+An individual acquainted with the leadership of the [[Blackfeather_Court\|Blackfeather_Court]], specifically [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] and Morgan.
 
 ## Relationships
-- **Highland Travelers**: Mountain guide.
+- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Acquaintance.
 
 ## Location
-- Guides caravans through the highland passes near [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Unknown.
 
 ## Notes
-- **[[2 -  Sessions/Session 025\|Session 025]]**: Advised the party on avoiding cliff falls during their trek to [[Info/Characters/NPCs/The_Oath-Breaker_King\|the Oath-Breaker King]]'s barrow.
+- **[[2 -  Sessions/Session 025\|Session 025]]**: Mentioned as being an acquaintance of [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] and part of the [[Blackfeather_Court\|Blackfeather_Court]] leadership circle alongside Morgan.

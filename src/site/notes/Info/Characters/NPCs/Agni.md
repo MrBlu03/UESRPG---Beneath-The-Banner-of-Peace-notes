@@ -5,13 +5,13 @@
 # Agni
 
 ## Description
-A young Nord resident of [[Info/Locations/Falderstad/Falderstad\|Falderstad]] who participates in community trades and gatherings.
+A tall Nord man with a braided beard who performs music alongside the twin Skalds, [[Info/Characters/NPCs/Senya\|Senya]] and [[Info/Characters/NPCs/Sonya\|Sonya]].
 
 ## Relationships
-- **[[Info/Locations/Falderstad/Falderstad\|Falderstad]] Townsfolk**: Fellow resident and market participant.
+- **[[Info/Characters/NPCs/Senya\|Senya]]** and **[[Info/Characters/NPCs/Sonya\|Sonya]]**: Performs musical pieces together with them.
 
 ## Location
-- Resides in the village of [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- Found in the Longhall of [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
 
 ## Notes
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Encountered in the town square during the community celebrations following the defeat of the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]].
+- **[[2 -  Sessions/Session 018\|Session 018]]**: Played the song "Suurin" alongside [[Info/Characters/NPCs/Senya\|Senya]] and [[Info/Characters/NPCs/Sonya\|Sonya]] in the Longhall of [[Info/Locations/Falderstad/Falderstad\|Falderstad]] while preparations were being made for the execution of the Dunmer merchants.

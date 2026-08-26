@@ -5,14 +5,14 @@
 # M'aiq the Liar
 
 ## Description
-The enigmatic, legendary wandering Khajiit who roams Tamriel offering surreal, philosophical, and humorous commentary on world affairs, calipers, dragons, and why people need so many kerchiefs.
+An enigmatic, seemingly immortal wandering Khajiit who roams the roads of Tamriel offering surreal, philosophical, and humorous commentary on world affairs, taxes, and oddly specific topics like kerchiefs.
 
 ## Relationships
-- **[[Info/Characters/Party/Kirya\|Kirya]]**: Exchanged bemused remarks on Khajiit wanderlust.
+- **[[Info/Characters/Party/Kirya\|Kirya]]**: Exchanged bemused remarks on his bizarre statements during travels.
 
 ## Location
-- Found strolling the roads across [[Info/Locations/The Rift/The_Rift\|The Rift]] and Eastmarch.
+- Found randomly strolling the wilderness roads across [[Info/Locations/The Rift/The_Rift\|The Rift]] and Eastmarch.
 
 ## Notes
-- **[[2 -  Sessions/Session 010\|Session 010]]**: Encountered along the forest road, rambling about why Nords wear so much fur and offering bizarre advice to travelers.
-- **[[2 -  Sessions/Session 013\|Session 013]]**: Strolled past the party on the road to [[Info/Locations/Falderstad/Falderstad\|Falderstad]], sharing musings about Dunmer marriages and kerchiefs.
+- **[[2 -  Sessions/Session 010\|Session 010]]**: Suddenly appeared at the party's hunting camp in the forest clearing, rambling cryptically about disliking taxes and being tired, before vanishing as mysteriously as he arrived.
+- **[[2 -  Sessions/Session 013\|Session 013]]**: Encountered near midday on the harsh winter road to [[Info/Locations/Falderstad/Falderstad\|Falderstad]], wearing orange-yellow robes. He rambled to the party about kerchiefs, dark elves, and marriage being "hands in chains" before disappearing into the squall.

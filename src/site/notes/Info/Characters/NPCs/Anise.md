@@ -5,13 +5,13 @@
 # Anise
 
 ## Description
-A local resident and weaver in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] who provided information regarding guard patrol schedules.
+The chief librarian in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], responsible for overseeing the scribes and scholars who work in the archives.
 
 ## Relationships
-- **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] Residents**: Neighbor and craftswoman in the lower district.
+- **Kjalgrad Residents**: Serves as the chief librarian for the local scholars and scribes.
 
 ## Location
-- Resides in the lower residential quarter of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Found in the library in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
 
 ## Notes
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Encountered by the party while gathering intelligence on suspicious movements around the warehouse district.
+- **[[2 -  Sessions/Session 026\|Session 026]]**: She was present in the library, where she quickly shushed the scribes and scholars when their conversations rose above an acceptable volume.

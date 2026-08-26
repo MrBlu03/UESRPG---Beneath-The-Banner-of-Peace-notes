@@ -5,17 +5,16 @@
 # Captain Harvold
 
 ## Description
-The veteran commander of the [[Info/Locations/The Rift/Riften\|Riften]] hold guard. A stern, practical soldier dedicated to maintaining order in the hold, he recognized early on that the party possessed the unique capabilities needed to handle threats beyond his guards' reach.
+The steadfast guard captain of [[Info/Locations/The Rift/Riften\|Riften]] barracks. He maintains order in the city and coordinates with mercenaries to handle threats that stretch beyond the guard's typical duties.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]**: Sovereign ruler whom he serves with unwavering loyalty.
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Commissioned bounties and supported their investigations.
-- **[[Info/Characters/NPCs/Alaric\|Alaric]]**: Took the captured bandit captain into custody.
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]**: Serves her directly, advising the party to report significant findings to her.
+- **[[Info/Characters/NPCs/Alaric\|Alaric]]**: The bandit he took into custody.
 
 ## Location
-- Commands from the city guardhouse and barracks in [[Info/Locations/The Rift/Riften\|Riften]].
+- Commands from the city barracks and jail in [[Info/Locations/The Rift/Riften\|Riften]].
 
 ## Notes
-- **[[2 -  Sessions/Session 001\|Session 001]]**: Accepted custody of the captured bandit [[Info/Characters/NPCs/Alaric\|Alaric]], paid the bounty to the party, and inspected the mysterious [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] wax seal, advising them to report it directly to [[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]].
-- **[[2 -  Sessions/Session 002\|Session 002]]**: Directed the party to deliver [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]]'s corpse to the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall of the Dead]] upon their return from [[Info/Locations/The Rift/Trevas_Bend\|Treva's Bend]].
-- **[[2 -  Sessions/Session 011\|Session 011]]**: Coordinated with the party following the raid on the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]] harbor warehouse, securing captured prisoners and seizing smuggled contraband.
+- **[[2 -  Sessions/Session 001\|Session 001]]**: Took the captured bandit [[Info/Characters/NPCs/Alaric\|Alaric]] into custody, paid the party's bounty, and urged them to report the suspicious serpent mark directly to the Queen.
+- **[[2 -  Sessions/Session 002\|Session 002]]**: Directed the party to bring the corpse of [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]] to the morgue.
+- **[[2 -  Sessions/Session 011\|Session 011]]**: Offered free drinks at the [[Info/Locations/The Rift/Amber_Keg\|Amber_Keg]] to the party if they could successfully interrogate the captured Dunmer smuggler in the dungeons.

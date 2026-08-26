@@ -2,17 +2,12 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/mistwatch/"}
 ---
 
-# Mistwatch
-
 ## Description
-A pair of ancient stone defensive watchtowers situated high atop a rocky ridge overlooking the marshland borders between Eastmarch and the Rift.
+A place of ancient power situated deep in the Hirsing Range, long whispered about for its spiritual significance. It is tied to healing rituals involving the Old Gods.
 
-## Features
-- Sky-bridge connecting two towering stone observation bastions.
-- Commanding view across the southern sulfur pools and northern valleys.
+## Notable NPCs
+- None specified.
 
-## NPCs
-- Lookouts
-
-## Notes
-- **[[2 -  Sessions/Session 007\|Session 007]]**: Sighted and referenced as a strategic landmark during travel north.
+## Key Events
+- **[[2 -  Sessions/Session 007\|Session 007]]**: [[Info/Characters/NPCs/Hillevi\|Hillevi]] planned to take the injured [[Info/Characters/NPCs/Wuunferth\|Wuunferth]] here to seek healing from the Old Gods once the snows melted.
+- **[[2 -  Sessions/Session 021\|Session 021]]**: [[Info/Characters/NPCs/The_Vestige\|The Vestige]] mentioned Mistwatch as a potential site of ancient power or spiritual rites while speaking with the party.

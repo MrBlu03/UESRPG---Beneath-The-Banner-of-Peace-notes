@@ -5,16 +5,12 @@
 # The Amber Keg
 
 ## Description
-A lively neighborhood tavern and brewery in [[Info/Locations/The Rift/Riften\|Riften]] known for its distinct golden honey meads and spirited clientele.
+A lively tavern in [[Info/Locations/The Rift/Riften\|Riften]] known for its music, celebrations, and spirited clientele.
 
-## Features
-- Aromatic oak aging barrels lining the taproom walls.
-- Lively atmosphere with skald performances and bar games.
+## Notable NPCs
+- **[[Info/Characters/NPCs/Grelka\|Grelka]]**: Met by the party at the tavern.
 
-## NPCs
-- Barkeep
-- Local Patrons
-
-## Notes
-- **[[2 -  Sessions/Session 004\|Session 004]]**: Visited by party members to investigate rumors of cultist contacts meeting near the market.
-- **[[2 -  Sessions/Session 007\|Session 007]]**: The party reconvened here to discuss the translation of [[Info/Characters/Party/Onasha\|Onasha]]'s mysterious dragon-language scroll.
+## Key Events
+- **[[2 -  Sessions/Session 004\|Session 004]]**: The party, including [[Info/Characters/Party/Periwyn\|Periwyn]] (under the alias Rigi), had drinks at the tavern and met [[Info/Characters/NPCs/Grelka\|Grelka]].
+- **[[2 -  Sessions/Session 007\|Session 007]]**: The party visited the tavern and found a celebration in progress toasting to being alive and marking the changing season. They joined in to raise mugs for [[Info/Characters/NPCs/Olen_the_Mer-Killer\|Olen]] and [[Info/Characters/NPCs/Beitild_the_Unwavering\|Beitild]], who were lost in [[Info/Locations/The Rift/Greenwall\|Greenwall]].
+- **[[2 -  Sessions/Session 011\|Session 011]]**: [[Info/Characters/NPCs/Captain_Harvold\|Captain_Harvold]] offered the party free drinks at the tavern if they could make a [[Info/Organizations/Criminal/Camonna_Tong\|Camonna_Tong]] prisoner talk.

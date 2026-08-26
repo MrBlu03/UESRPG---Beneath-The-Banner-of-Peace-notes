@@ -5,14 +5,13 @@
 # Mysterious Crow
 
 ## Description
-A magical, observant crow that acts as eyes and ears for the [[Info/Characters/NPCs/The_Vestige\|Crow Father]].
+A supernatural corvid entity that acts as a servant and observer for [[Info/Characters/NPCs/The_Vestige\|the Crow Father]]. It follows travelers to keep an eye on events for its master.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Baron_Jangleplume\|Baron_Jangleplume]]**: Fellow Court corvid.
-- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Emissary.
+- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Master (known as the Crow Father).
 
 ## Location
-- Perches in trees overlooking party campsites across Skyrim.
+- Found following the party through the wilderness.
 
 ## Notes
-- **[[2 -  Sessions/Session 014\|Session 014]]**: Observed the party's investigation of [[Info/Characters/NPCs/Nilan\|Nilan]]'s cabin in [[Info/Locations/Falderstad/Falderstad\|Falderstad]], cawing warnings of ancient blood.
+- **[[2 -  Sessions/Session 014\|Session 014]]**: Observed following the party and confirmed to be a servant of [[Info/Characters/NPCs/The_Vestige\|the Crow Father]].

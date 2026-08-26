@@ -5,14 +5,13 @@
 # Halla
 
 ## Description
-The warm, hospitable barkeep at the [[Info/Locations/The Rift/Silver_Antler_Inn\|Silver_Antler_Inn]] along the eastern road.
+The barkeep at the [[Info/Locations/The Rift/Silver_Antler_Inn\|Silver_Antler_Inn]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
 
 ## Relationships
-- **[[Info/Locations/The Rift/Silver_Antler_Inn\|Robin]]**: Co-worker at the inn.
-- **[[Info/Locations/The Rift/Silver_Antler_Inn\|Nashu]]**: Regular guest.
+- **[[Info/Characters/Party/Kirya\|Kirya]]**: Met her previously and delivered a recovered pendant to her.
 
 ## Location
-- Manages the taproom at the [[Info/Locations/The Rift/Silver_Antler_Inn\|Silver_Antler_Inn]].
+- Works as the barkeep at the [[Info/Locations/The Rift/Silver_Antler_Inn\|Silver_Antler_Inn]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
 
 ## Notes
-- **[[2 -  Sessions/Session 023b\|Session 023b]]**: Welcomed the party with hot venison stew and sheltered them during a roadside bandit skirmish.
+- **[[2 -  Sessions/Session 023b\|Session 023b]]**: [[Info/Characters/Party/Kirya\|Kirya]] returned a stolen gold and emerald pendant to Halla that the party had recovered from a bandit camp. [[Info/Characters/Party/Kirya\|Kirya]] had previously met Halla during a solo session.

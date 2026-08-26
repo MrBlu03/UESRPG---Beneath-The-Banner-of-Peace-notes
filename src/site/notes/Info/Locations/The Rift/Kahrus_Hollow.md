@@ -5,14 +5,13 @@
 # Kahru's Hollow
 
 ## Description
-A secluded, rocky ravine and cave system in the hills of the Rift, known as a breeding territory for mountain predators and wolves.
+A secluded, rocky ravine and cave system in the hills of the Rift. It is located near a fork in the road where the woods thicken. The area is known as cursed ground where spirits have been twisted by pain and rage.
 
-## Features
-- Sheer granite cliff walls sheltering shaded hollows.
-- Overgrown brush concealing animal dens.
+## Notable NPCs
+- **[[Info/Characters/NPCs/Hadvar\|Hadvar]]**: Inherited an ancestral lodge located near the hollow.
+- **[[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]]**: Undead draugr located at the hollow.
+- **[[Info/Characters/NPCs/Lagertha\|Lagertha]]**: Spirit located at the hollow.
 
-## NPCs
-- Wild Beasts
-
-## Notes
-- **[[2 -  Sessions/Session 008\|Session 008]]-**[[2 -  Sessions/Session 009\|Session 009]]**: Scouted by the party while tracking supernatural disturbances near the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]].
+## Key Events
+- **[[2 -  Sessions/Session 008\|Session 008]]**: The party accepted a contract from [[Info/Characters/NPCs/Hadvar\|Hadvar]] to investigate his haunted ancestral hunting lodge located near the hollow. The shaman [[Info/Characters/NPCs/Adda\|Adda]] warned the party that the land around the hollow was cursed.
+- **[[2 -  Sessions/Session 009\|Session 009]]**: [[Info/Characters/NPCs/Speaks-Spells-Gently\|Speaks-Spells-Gently]] explained that the hollow was the spot where [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]] and [[Info/Characters/NPCs/Lagertha\|Lagertha]] were located.

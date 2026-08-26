@@ -5,19 +5,15 @@
 # Haunted Hunting Lodge
 
 ## Description
-An isolated, mist-draped timber hunting lodge in the hills of the Rift that became cursed by dark magic and tragic ancient rituals.
+An isolated, mist-draped timber hunting lodge in the hills east of [[Info/Locations/The Rift/Riften\|Riften]], built on ancient ground where a massacre once occurred. The dilapidated two-story lodge is surrounded by unnatural swirling fog, Wyrd cairns, and features a deep stone well as well as subterranean barrow chambers beneath it holding ancient [[Info/Organizations/Cults/Dragon_Cult\|Dragon_Cult]] sarcophagi.
 
-## Features
-- Dilapidated two-story lodge surrounded by unnatural swirling fog and Wyrd cairns.
-- A deep stone well where the severed skull of [[Info/Characters/NPCs/Lagertha\|Lagertha]] was hidden.
-- Subterranean barrow chambers beneath the lodge holding ancient [[Info/Organizations/Cults/Dragon_Cult\|Dragon Cult]] sarcophagi.
+## Notable NPCs
+- **[[Info/Characters/NPCs/Hadvar\|Hadvar]]**: Well-dressed man of [[Info/Organizations/Other/Clan_Cold-Moor\|Clan_Cold-Moor]] who inherited the lodge.
+- **[[Info/Characters/NPCs/Sven_Cold-Moor\|Sven Cold-Moor]]**: Undead draugr lord who haunted the lodge.
+- **[[Info/Characters/NPCs/Lagertha\|Lagertha]]**: Spirit of a murdered woman whose remains were hidden in the lodge's well.
+- **[[Info/Characters/NPCs/Adda\|Adda]]**: Shaman who assisted the party in investigating the haunting.
 
-## NPCs
-- [[Info/Characters/NPCs/Adda\|Adda]]
-- [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]] (Draugr)
-- [[Info/Characters/NPCs/Lagertha\|Lagertha]] (Skull/Spirit)
-- [[Info/Characters/NPCs/Senya\|Senya]]
-- [[Info/Characters/NPCs/Sonya\|Sonya]]
-
-## Notes
-- **[[2 -  Sessions/Session 008\|Session 008]]-**[[2 -  Sessions/Session 009\|Session 009]]**: The party investigated the lodge with the shaman [[Info/Characters/NPCs/Adda\|Adda]]. They defeated the draugr lord [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]] who exploded through the door wielding the Thu'um, retrieved [[Info/Characters/NPCs/Lagertha\|Lagertha]]'s skull from the well, and claimed a Dragon Priest mask from the ritual chamber.
+## Key Events
+- **[[2 -  Sessions/Session 008\|Session 008]]**: The party accepted a contract from [[Info/Characters/NPCs/Hadvar\|Hadvar]] to clear the haunting at the lodge. They encountered the spirit of [[Info/Characters/NPCs/Lagertha\|Lagertha]] and the undead [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]]. They found [[Info/Characters/NPCs/Lagertha\|Lagertha]]'s remains in the well and a locked box that [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]] requested be burned.
+- **[[2 -  Sessions/Session 009\|Session 009]]**: While the party waited for reinforcements, [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]] used a petrify spell on them and abducted [[Info/Characters/Party/Periwyn\|Periwyn]] for a ritual in the ancient barrow beneath the lodge. The party pursued him through the barrow, discovering evidence of ancient [[Info/Organizations/Cults/Dragon_Cult\|Dragon_Cult]] activity.
+- **[[2 -  Sessions/Session 010\|Session 010]]**: The party collected their final payment from [[Info/Characters/NPCs/Hadvar\|Hadvar]] after successfully laying [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]] and [[Info/Characters/NPCs/Lagertha\|Lagertha]] to rest.

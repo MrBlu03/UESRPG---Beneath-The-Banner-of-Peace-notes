@@ -5,13 +5,13 @@
 # Sybille
 
 ## Description
-A spectral maiden who appeared in [[Info/Characters/Party/Periwyn\|Periwyn]]'s dream vision in [[Info/Locations/Other Realms/Crows_Wood\|Crow's Wood]], holding a doll with charcoal tears.
+A spectral small girl with straw-colored hair who appeared in [[Info/Characters/Party/Periwyn\|Periwyn]]'s dream vision, serving as a poignant symbol of lost innocence in the face of vampirism.
 
 ## Relationships
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Spectral vision.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Interacted with her in a spectral vision, returning her belongings.
 
 ## Location
-- Spectral entity within [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]].
+- Spectral entity encountered within a grain mill in [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]].
 
 ## Notes
-- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a]]**: Symbolized the innocent victims of vampirism, strengthening [[Info/Characters/Party/Periwyn\|Periwyn]]'s vow to protect mortals from undead predation.
+- **[[Session 009a\|Session 009a]]**: Appeared in the grain mill softly humming; she warned [[Info/Characters/Party/Periwyn\|Periwyn]] about the lady in white who makes people forget their names. [[Info/Characters/Party/Periwyn\|Periwyn]] returned her lost doll to her.

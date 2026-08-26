@@ -5,13 +5,15 @@
 # Brooding Corner Patron
 
 ## Description
-An enigmatic, hooded figure cloaked in shadows in the back corners of the [[Info/Locations/The Rift/Ragged_Flagon\|Ragged_Flagon]]. Whispering in measured tones, this underworld broker deals in high-level secrets, dark intelligence, and binding blood obligations.
+A respected Dunmer who frequents the dark corners of the [[Info/Locations/The Rift/Riften\|Riften]] Ratway. He serves as an underworld contact and broker.
 
 ## Relationships
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Sealed a binding blood contract, exchanging confidential information for one month of owed favors.
+- **[[Info/Characters/NPCs/Yannick_the_Brawler\|Yannick_the_Brawler]]**: Silenced him with a mere whistle.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Entered into a binding favor obligation with him.
+- **[[Info/Characters/NPCs/Toren_the_Fence\|Toren_the_Fence]]**: Directed the party to him.
 
 ## Location
-- Lurks in the dark alcoves of the [[Info/Locations/The Rift/Ragged_Flagon\|Ragged_Flagon]] in [[Info/Locations/The Rift/Riften\|Riften]].
+- Frequents the taverns and alcoves of the [[Info/Locations/The Rift/Riften\|Riften]] Ratway.
 
 ## Notes
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Negotiated with [[Info/Characters/Party/Periwyn\|Periwyn]]. In exchange for crucial intelligence on cult movements and dark tomes, sealed a binding one-month blood contract requiring [[Info/Characters/Party/Periwyn\|Periwyn]] to answer future questions and fulfill owed obligations.
+- **[[2 -  Sessions/Session 012\|Session 012]]**: He intervened when the drunk [[Info/Characters/NPCs/Yannick_the_Brawler\|Yannick_the_Brawler]] was loudly blaming guards for recent fires, stopping him with a whistle. He then provided detailed information about the fires to the party and directed them to [[Info/Characters/NPCs/Toren_the_Fence\|Toren_the_Fence]]. In exchange for his information, he secured a one-month favor obligation from [[Info/Characters/Party/Periwyn\|Periwyn]].

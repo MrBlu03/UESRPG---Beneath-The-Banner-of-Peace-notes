@@ -5,13 +5,13 @@
 # Olvfrost
 
 ## Description
-A wealthy, influential lumber magnate in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] who oversees regional timber mills and river floating contracts.
+A Nord lumber baron operating near [[Fort_Morven_Scott\|Fort_Morven_Scott]]. He is an influential merchant capable of establishing lucrative trade routes.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Renald_Vero\|Renald_Vero]]**: Business associate in the [[Info/Locations/Kjalgrad/Grand_Market_Kjalgrad\|Grand Market]].
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Business associate who secured a trade agreement with him.
 
 ## Location
-- Conducts business in the [[Info/Locations/Kjalgrad/Grand_Market_Kjalgrad\|Grand_Market_Kjalgrad]].
+- Conducts business near [[Fort_Morven_Scott\|Fort_Morven_Scott]].
 
 ## Notes
-- **[[2 -  Sessions/Session 022\|Session 022]]**: Questioned by the party regarding timber shipping manifests tied to warehouse contracts.
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Met [[Info/Characters/Party/Periwyn\|Periwyn]] during a prestigious trade event. He offered her a signed document establishing a profitable lumber trade route from [[Fort_Morven_Scott\|Fort_Morven_Scott]] to Whiterun.

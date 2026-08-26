@@ -5,15 +5,10 @@
 # Holmgang Field
 
 ## Description
-A traditional Nord dueling ground and honor circle located near the edge of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], demarcated by carved standing stones and packed dirt.
+An execution site and dueling ground located near Falderstad. It is demarcated by a circle of ancient standing stones that are half-buried in the frost. 
 
-## Features
-- Circular earthen arena bounded by ancient runic boundary stones.
-- Traditional setting for settling clan disputes, martial wagers, and honor challenges.
+## Notable NPCs
+- None
 
-## NPCs
-- [[Info/Characters/Party/Durov\|Durov]]
-- Local Brawlers
-
-## Notes
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Visited during the post-hunt festivities where warriors and mercenaries engaged in friendly contests of strength and martial prowess.
+## Key Events
+- **[[2 -  Sessions/Session 018\|Session 018]]**: The site was referenced as a location near the Jarl's Longhouse.

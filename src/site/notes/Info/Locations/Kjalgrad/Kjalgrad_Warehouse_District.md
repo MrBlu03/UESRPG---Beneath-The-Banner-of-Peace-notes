@@ -2,21 +2,14 @@
 {"dg-publish":true,"permalink":"/info/locations/kjalgrad/kjalgrad-warehouse-district/"}
 ---
 
-# Kjalgrad Warehouse District
-
 ## Description
-The Warehouse District spans the lower riverfront of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], consisting of massive timber storage facilities, cargo cranes, and loading quays. While ostensibly managing trade for the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], several key warehouses in this district were secretly co-opted to store illicit narcotics, moon sugar, forged currency, and captive ritual victims for the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult_of_Clavicus_Vile]].
+The Kjalgrad Warehouse District spans the lower riverfront of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], originally housing massive timber storage facilities, cargo cranes, and loading quays. Primarily used by the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] for trade, several warehouses (such as [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]]) were secretly co-opted to store illicit materials for the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult_of_Clavicus_Vile]]. The district was largely ruined by massive explosions and fires during a sabotage operation against the cult.
 
-## Features
-- **Heavy Timber Storage Barns**: Multi-level warehouses equipped with pulley lifts, catwalks, and locked storage cages.
-- **Cargo Docks & Mooring Posts**: Deep-water berths where cargo barges unload goods directly under armed guild supervision.
-- **Sub-Floor Smuggler Caches**: Trapdoors leading into cellar vaults and sewer canals.
+## Notable NPCs
+- **[[Info/Characters/NPCs/The_Scathing\|The_Scathing]]**: Horned Daedric manager who oversaw illicit shipments.
+- **[[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]]**: [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Caravan_Master]] contact who investigated the warehouses.
 
-## NPCs
-- **[[Info/Characters/NPCs/The_Scathing\|The_Scathing]]**: Horned Daedric manager overseeing illicit shipments.
-- **[[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Caravan_Master]]**: Warehouse overseer managing guild shipments.
-- **Warehouse Guards & Cult Lackeys**: Enforcers patrolling the district.
-
-## Notes
-- **[[2 -  Sessions/Session 023\|Session 023]]-**[[2 -  Sessions/Session 024\|Session 024]]**: The party staked out the district, discovering that [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]] was heavily guarded and storing abnormal cargo. [[Info/Characters/Party/Onasha\|Onasha]] threw a frenzy bomb into a pair of horned Daedric overseers guarding the entrance, sparking a brutal fight that exposed cult operations.
-- **[[2 -  Sessions/Session 026\|Session 026]]-**[[2 -  Sessions/Session 027\|Session 027]]**: Infiltrated warehouses in the district to sabotage cult logistics and cut off supply lines to the longhouse.
+## Key Events
+- **[[2 -  Sessions/Session 023\|Session 023]]**: [[Info/Characters/Party/Durov\|Durov]] took a routine warehouse inspection job from [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]] and discovered suspicious sealed crates containing Daedric materials, coin molds, and animal parts at [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]]. [[Info/Characters/Party/Onasha\|Onasha]] reviewed ledgers detailing transfers and temple allocations.
+- **[[2 -  Sessions/Session 026\|Session 026]]**: [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Periwyn\|Periwyn]] conducted a sabotage operation during a market protest, delivering encoded letters and setting death bell tripwire traps in the storehouses.
+- **[[2 -  Sessions/Session 027\|Session 027]]**: The traps triggered, causing massive explosions and fires that destroyed the targeted warehouses. [[Info/Characters/Party/Durov\|Durov]] and [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]] investigated the charred ruins, discovering lamp oil residue and footprints leading to a sewer grate.

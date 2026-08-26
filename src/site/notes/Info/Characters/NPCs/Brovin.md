@@ -5,13 +5,13 @@
 # Brovin
 
 ## Description
-A battle-scarred, hardy northern hunting hound belonging to the trackers of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], trained to track wounded beasts across deep snow drifts.
+A grey-furred hunting hound belonging to the trackers of [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. He is highly perceptive to unnatural danger.
 
 ## Relationships
-- **[[Info/Locations/Falderstad/Falderstad\|Falderstad]] Hunters**: Trained tracking companion.
+- **[[Info/Characters/NPCs/Svala\|Svala]]** and **[[Info/Characters/NPCs/Hoki\|Hoki]]**: Accompanies them on hunting expeditions into the forest.
 
 ## Location
-- Accompanies hunters throughout the [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]].
+- Travels with the hunters of [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
 
 ## Notes
-- **[[2 -  Sessions/Session 015\|Session 015]]**: Assisted the party and local trackers with following blood trails left by corrupted forest creatures.
+- **[[2 -  Sessions/Session 015\|Session 015]]**: Accompanied [[Info/Characters/NPCs/Svala\|Svala]], [[Info/Characters/NPCs/Hoki\|Hoki]], [[Info/Characters/Party/Onasha\|Onasha]], and [[Info/Characters/Party/Kirya\|Kirya]] on the hunt for the White Stag. He stopped cold and refused to continue upon sensing the danger and sweet rot smell of the [[Info/Locations/The Rift/Cursed_Grove\|Cursed_Grove]].

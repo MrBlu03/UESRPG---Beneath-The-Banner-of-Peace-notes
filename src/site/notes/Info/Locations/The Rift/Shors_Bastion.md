@@ -2,18 +2,11 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/shors-bastion/"}
 ---
 
-# Shor's Bastion
-
 ## Description
-A fortified redoubt and outpost protecting iron mining operations in the foothills of the Velothi Mountains.
+A fortified bastion and outpost located in the region. It is notable for its defenses and connection to regional movements.
 
-## Features
-- Stockade walls built against natural rock faces.
-- Iron ore smelters and guard quarters.
+## Notable NPCs
+- None specified.
 
-## NPCs
-- Miners
-- Guards
-
-## Notes
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Identified on regional defense maps provided by the Queen's steward.
+## Key Events
+- **[[2 -  Sessions/Session 003\|Session 003]]**: Identified as the original destination of the vampire hunter [[Info/Characters/NPCs/Wuunferth\|Wuunferth]].

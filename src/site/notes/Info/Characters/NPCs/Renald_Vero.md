@@ -5,13 +5,13 @@
 # Renald Vero
 
 ## Description
-A wealthy Imperial silk and textile merchant operating in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]'s [[Info/Locations/Kjalgrad/Grand_Market_Kjalgrad\|Grand Market]].
+A wealthy silk baron from Shornhelm in Rivenspire, High Rock. He has an office in [[Info/Lore/Windhelm\|Windhelm]] and has a history of dealing with the Lunclaire family.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Olvfrost\|Olvfrost]]**: Commercial peer in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Business associate whose father he knew.
 
 ## Location
-- Runs luxury fabric stalls in [[Info/Locations/Kjalgrad/Grand_Market_Kjalgrad\|Grand_Market_Kjalgrad]].
+- Maintains an office in [[Info/Lore/Windhelm\|Windhelm]].
 
 ## Notes
-- **[[2 -  Sessions/Session 022\|Session 022]]**: Questioned by the party regarding import routes from Cyrodiil.
+- **[[2 -  Sessions/Session 022\|Session 022]]**: Encountered by [[Info/Characters/Party/Periwyn\|Periwyn]] at a trade event in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Recognizing her family name, he offered to restart old trade connections and promised to deal with her when she visits his office in [[Info/Lore/Windhelm\|Windhelm]].

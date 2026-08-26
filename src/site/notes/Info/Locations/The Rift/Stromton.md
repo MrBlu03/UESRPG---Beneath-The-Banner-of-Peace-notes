@@ -2,16 +2,11 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/stromton/"}
 ---
 
-# Stromton
-
 ## Description
-A transit station and frontier hamlet located along the border highway connecting the Rift to eastern passes.
+A settlement situated in the Rift that serves as a travel waypoint along regional highways.
 
-## Features
-- Caravan corrals and stone watering troughs for pack horses.
+## Notable NPCs
+- None specified.
 
-## NPCs
-- Caravan Guards
-
-## Notes
-- **[[2 -  Sessions/Session 019\|Session 019]]**: Noted as a waypoint on merchant routes into [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+## Key Events
+- **[[2 -  Sessions/Session 019\|Session 019]]**: The party plotted their travel route across the region, which included Stromton as a planned stop between [[Info/Locations/The Rift/Riften\|Riften]] and [[Info/Locations/The Rift/Nimalten\|Nimalten]].

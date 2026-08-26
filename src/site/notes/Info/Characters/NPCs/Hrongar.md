@@ -5,13 +5,13 @@
 # Hrongar
 
 ## Description
-A stalwart Companion warrior who fought in the vanguard during the [[Info/Locations/The Rift/Greenwall\|Greenwall]] campaign.
+A warrior of the [[Info/Organizations/Military/Companions\|Companions]] who serves as part of the convoy personnel escorting provisions and forces.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod_Wraithbane]]**: Fellow battle-brother.
+- **[[Info/Characters/NPCs/Ralof\|Ralof]]** and **[[Info/Characters/Party/Durov\|Durov]]**: Worked together to load supplies.
 
 ## Location
-- Based at [[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone_Hall]].
+- Travels with the [[Info/Organizations/Military/Companions\|Companions]] convoy.
 
 ## Notes
-- **[[2 -  Sessions/Session 005\|Session 005]]**: Participated in perimeter watches and campfire songs at the war camp.
+- **[[2 -  Sessions/Session 005\|Session 005]]**: Worked alongside [[Info/Characters/NPCs/Ralof\|Ralof]] and [[Info/Characters/Party/Durov\|Durov]] at the stables in [[Info/Locations/The Rift/Riften\|Riften]] to pack supplies and load provisions onto the cart before the convoy set out for [[Info/Locations/The Rift/Greenwall\|Greenwall]].

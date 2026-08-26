@@ -2,19 +2,15 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/scent-of-serenity/"}
 ---
 
-# Scent of Serenity
-
 ## Description
-A well-stocked alchemy and herbalist shop in [[Info/Locations/The Rift/Riften\|Riften]] run by the skilled herbalist [[Info/Characters/NPCs/Hafjorg\|Hafjorg]] and his family.
+The Scent of Serenity is a well-stocked alchemy and herbalist shop in [[Info/Locations/The Rift/Riften\|Riften]], run by [[Info/Characters/NPCs/Alara\|Alara]] and her son [[Info/Characters/NPCs/Hafjorg\|Hafjorg]]. It features racks of botanical specimens and offers various healing potions and alchemical ingredients.
 
-## Features
-- Racks of botanical specimens, dried fungi, and distilled essences.
-- Glass alembics and bubbling cauldrons crafting standard and potent healing potions (2 HP, 6 HP, 10 HP).
+## Notable NPCs
+- **[[Info/Characters/NPCs/Alara\|Alara]]**: The skilled alchemist and owner of the shop.
+- **[[Info/Characters/NPCs/Hafjorg\|Hafjorg]]**: Alara's son, who helps run the shop.
 
-## NPCs
-- [[Info/Characters/NPCs/Hafjorg\|Hafjorg]]
-- Shop Proprietor
-
-## Notes
-- **[[2 -  Sessions/Session 001\|Session 001]]**: The party purchased healing draughts and established a long-term supply contact with [[Info/Characters/NPCs/Hafjorg\|Hafjorg]].
-- **[[2 -  Sessions/Session 003\|Session 003]]-**[[2 -  Sessions/Session 005\|Session 005]]**: [[Info/Characters/Party/Onasha\|Onasha]] procured specialized reagents and solvents for her bomb-crafting.
+## Key Events
+- **[[2 -  Sessions/Session 001\|Session 001]]**: The party visited the shop and met [[Info/Characters/NPCs/Hafjorg\|Hafjorg]], purchasing healing potions.
+- **[[2 -  Sessions/Session 003\|Session 003]]**: The party learned that [[Info/Characters/NPCs/Alara\|Alara]] had been missing for several days while herb-gathering. A worried [[Info/Characters/NPCs/Hafjorg\|Hafjorg]] offered a 200 gold reward for her safe return.
+- **[[2 -  Sessions/Session 005\|Session 005]]**: The group returned to the shop to restock before heading to [[Info/Locations/The Rift/Greenwall\|Greenwall]]. [[Info/Characters/NPCs/Alara\|Alara]] (having returned safely) offered supplies to craft firebombs, but the party declined.
+- **[[2 -  Sessions/Session 009\|Session 009]]**: [[Info/Characters/Party/Kirya\|Kirya]] visited the shop for salt. [[Info/Characters/NPCs/Alara\|Alara]] freely gave it to her, saying she needed it more.

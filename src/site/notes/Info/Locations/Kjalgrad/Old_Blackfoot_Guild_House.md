@@ -2,20 +2,15 @@
 {"dg-publish":true,"permalink":"/info/locations/kjalgrad/old-blackfoot-guild-house/"}
 ---
 
-# Old Blackfoot Guild House (Kjalgrad)
-
 ## Description
-The Old Blackfoot Guild House is an imposing stone guildhall in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] that once served as the regional headquarters for the [[Info/Organizations/Guilds/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]]. Following a bitter commercial conflict and political maneuvering orchestrated by [[Info/Characters/NPCs/Vaelin_Marr\|Vaelin_Marr]] and the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], the Black-Foot guild was exiled from the city, leaving their stately hall shuttered and neglected.
+The Old Blackfoot Guild House is an imposing, abandoned stone guildhall in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] that once served as the regional headquarters for the [[Info/Organizations/Guilds/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]]. The building has a torn banner bearing the Black-Foot crest and a front door hanging off its hinges. It now serves as a covert meeting place in its surrounding alleys.
 
-## Features
-- **Carved Black-Foot Crest**: Weathered heraldry of the Black-Foot clan above the heavy oak double doors.
-- **Dust-Covered Offices & Safe Rooms**: Empty ledger shelves, barred iron safes, and abandoned meeting rooms.
-- **Rear Courtyard**: Overgrown garden backing onto a secluded alleyway.
+## Notable NPCs
+- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Also known as Sadrith, used the abandoned hall as a base.
+- **John**: A shady informant who frequents the alleys near the guild house.
 
-## NPCs
-- **[[Info/Characters/NPCs/Hedrek_Black-Foot\|Hedrek_Black-Foot]]**: Exiled guild agent secretly meeting in the area.
-- **[[Info/Characters/NPCs/Torvald_Black-Foot\|Torvald_Black-Foot]]**: Guildmaster based in [[Info/Locations/The Rift/Riften\|Riften]] whose past influence centered here.
-
-## Notes
-- **[[2 -  Sessions/Session 020\|Session 020a]]**: [[Info/Characters/Party/Durov\|Durov]] scouted the exterior and surrounding alleys of the abandoned guild house, meeting with Black-Foot loyalists who shared intelligence on how the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] forcefully seized commercial monopoly over the city.
-- **[[2 -  Sessions/Session 026\|Session 026]]-**[[2 -  Sessions/Session 027\|Session 027]]**: Used by the party as a secondary observation perch overlooking city guard movements.
+## Key Events
+- **[[2 -  Sessions/Session 020\|Session 020]]**: Directed to the guild house by [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]]'s bounty, the party found the Dunmer target Sadrith waiting inside. Sadrith revealed himself to be [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] and enlisted their help.
+- **[[2 -  Sessions/Session 021\|Session 021]]**: The party lied to [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]], reporting they had searched the guild house but found no sign of the target.
+- **[[2 -  Sessions/Session 026\|Session 026]]**: [[Luulov\|Luulov]] brought [[Info/Characters/Party/Durov\|Durov]] to the alleys near the old guild house to meet shady informants regarding missing persons.
+- **[[2 -  Sessions/Session 027\|Session 027]]**: In the alleys near the guild house, [[Info/Characters/Party/Durov\|Durov]] and [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]] met the informant John, who handed over the journal scraps of a missing merchant.

@@ -5,14 +5,11 @@
 # Eyevea
 
 ## Description
-A legendary mystical sanctuary island originally bought from the Mad God and maintained as a haven for scholarly spellcasters and mages across Tamriel.
+A magical sanctuary location that houses the main guild hall of the Mages Guild, where dangerous artifacts are transported for safe storage.
 
-## Features
-- Floating crystalline monuments, arcane font wells, and verdant enchanted gardens.
-- High research spires holding protected magical archives.
+## Notable NPCs
+- None
 
-## NPCs
-- Archmagisters
-
-## Notes
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Referenced by visiting scholar [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]] as a vital center of arcane research regarding planar rifts and Daedric incursions in Skyrim.
+## Key Events
+- **[[3 - The Fjelhorst Chronicles/Chapter 018\|Chapter 018]]**: Gabrielle briefed the party that the dormant Harrowstorm engine core artifact was sealed in layers of wards and en route to Eyevea.
+- **[[2 -  Sessions/Session 018\|Session 018]]**: It was mentioned that the artifact from Greenwall departed for Winterhold and would eventually be transported to the main guild hall in Eyevea for safe storage.

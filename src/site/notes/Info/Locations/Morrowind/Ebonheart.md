@@ -5,15 +5,11 @@
 # Ebonheart
 
 ## Description
-A major historic port city on the southern coast of the Inner Sea in Morrowind, serving as a vital naval and political center for the Dunmer and the [[Info/Organizations/Military/Ebonheart_Pact\|Ebonheart Pact]].
+A city in Morrowind known to be a source of moon sugar for smugglers.
 
-## Features
-- Vast stone quays and shipyards welcoming merchant vessels from across Tamriel.
-- Imposing Dunmeri architecture constructed of dark volcanic stone and chitin.
+## Notable NPCs
+- None
 
-## NPCs
-- Dunmer Merchants
-- Pact Diplomats
-
-## Notes
-- **[[2 -  Sessions/Session 018\|Session 018]]-**[[2 -  Sessions/Session 020\|Session 020]]**: Ledgers and shipping manifests intercepted from [[Info/Organizations/Criminal/Camonna_Tong\|Camonna_Tong]] smugglers showed direct smuggling routes originating from Ebonheart into eastern Skyrim.
+## Key Events
+- **[[3 - The Fjelhorst Chronicles/Chapter 018\|Chapter 018]]**: Hlaalu merchants revealed their moon sugar was a side operation purchased from Ebonheart smugglers.
+- **[[2 -  Sessions/Session 018\|Session 018]]**: Prisoners confirmed they obtained their moon sugar from smugglers in Ebonheart, who bring it from there to Skyrim.

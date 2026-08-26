@@ -5,16 +5,13 @@
 # Snow-Shod Dam
 
 ## Description
-A massive stone and timber water regulation dam built across the river upstream from [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]] by [[Info/Organizations/Other/Clan_Snow-Shod\|Clan_Snow-Shod]] to divert water for agriculture.
+A massive stone and timber water regulation dam built across the river upstream from [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]] by [[Info/Organizations/Other/Clan_Snow-Shod\|Clan_Snow-Shod]] to divert water for agriculture. The dam features heavy timber sluice gates controlled by iron winch gears, a guard station to monitor flow levels, and is surrounded by wetlands and rocky trails leading into the nearby woods.
 
-## Features
-- Heavy timber sluice gates controlled by iron winch gears.
-- Surrounding wetlands and rocky trails leading into the nearby woods.
-- Guard station monitoring flow levels.
+## Notable NPCs
+- **[[Info/Characters/NPCs/Adrith_Velan\|Adrith Velan]]**: Deceased Dunmer agent of the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] who sabotaged the dam.
+- **Snow-Shod Dam Guards**: Guards stationed by [[Info/Organizations/Other/Clan_Snow-Shod\|Clan_Snow-Shod]] to protect the dam.
 
-## NPCs
-- Snow-Shod Guards
-- [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]] (deceased)
-
-## Notes
-- **[[2 -  Sessions/Session 002\|Session 002]]**: The party discovered the dam had been sabotaged by [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]] using debris and iron wedges to stoke hatred between the farmers and fishermen. [[Info/Characters/Party/Onasha\|Onasha]] swam into the frigid current to clear the obstruction, restoring water flow to the valley.
+## Key Events
+- **[[2 -  Sessions/Session 002\|Session 002]]**: The party investigated tensions in [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]] and discovered the dam had been sabotaged. They found the body of [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]], a Dunmer agent for the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]], who had blocked the flow regulators to stoke discord between the fishermen and [[Info/Organizations/Other/Clan_Snow-Shod\|Clan_Snow-Shod]]. [[Info/Characters/Party/Durov\|Durov]] recovered the body, and [[Info/Characters/Party/Onasha\|Onasha]] swam into the frigid water to clear the blockages, restoring the river's flow.
+- **[[2 -  Sessions/Session 003\|Session 003]]**: The party followed up on the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] logo found at the dam during the previous session.
+- **[[2 -  Sessions/Session 004\|Session 004]]**: The party continued their investigation into the origin of the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] logo found at the dam.

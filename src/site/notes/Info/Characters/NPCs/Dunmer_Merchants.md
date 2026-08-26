@@ -5,13 +5,15 @@
 # Dunmer Merchants
 
 ## Description
-A caravan delegation of Dunmer merchants flying [[Info/Organizations/Other/House_Hlaalu\|House Hlaalu]] banners, trading in fine silks, volcanic glass, spices, and alchemical distillations.
+A caravan of Dunmer smugglers flying the colors of [[Info/Organizations/Other/House_Hlaalu\|House_Hlaalu]]. They were secretly involved in transporting illicit goods like moon sugar and had connections to the [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Vaelin_Marr\|Vaelin_Marr]]**: Trade factor and commercial patron.
+- **[[Info/Characters/NPCs/Garen_Hlaalu\|Garen_Hlaalu]]**: Their superior who leads Hlaalu operations into Skyrim.
+- **[[Info/Characters/NPCs/Stryder\|Stryder]]**: Orchestrated the interception of their caravan.
 
 ## Location
-- Conducts business in the markets of [[Info/Locations/Falderstad/Falderstad\|Falderstad]] and [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Traveled through the northern roads near [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
 
 ## Notes
-- **[[2 -  Sessions/Session 015\|Session 015]]**: Encountered in [[Info/Locations/Falderstad/Falderstad\|Falderstad]] negotiating luxury trade agreements, providing the party with observations on unusual border checkpoints.
+- **[[2 -  Sessions/Session 015\|Session 015]]**: Intercepted by [[Info/Characters/Party/Durov\|Durov]] and [[Info/Characters/Party/Periwyn\|Periwyn]] under the pretense of a royal inspection at the behest of [[Info/Characters/NPCs/Stryder\|Stryder]]. They were discovered to be smuggling moon sugar and were captured.
+- **[[2 -  Sessions/Session 018\|Session 018]]**: Kept imprisoned in chains in the Longhall of [[Info/Locations/Falderstad/Falderstad\|Falderstad]] while preparations were made for their execution. Their ledgers, translated by [[Info/Characters/Party/Onasha\|Onasha]], revealed connections to [[Info/Characters/NPCs/Garen_Hlaalu\|Garen_Hlaalu]] and the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]].

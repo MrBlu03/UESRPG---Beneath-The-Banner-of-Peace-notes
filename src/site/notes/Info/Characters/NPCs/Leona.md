@@ -5,13 +5,14 @@
 # Leona
 
 ## Description
-A citizen of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] who provided discreet shelter during the city watch sweeps.
+A citizen of [[Info/Lore/Bruma\|Bruma]] and the mother of [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]]. She survived the Planemeld Crisis when a Daedric anchor fell into the city's market.
 
 ## Relationships
-- **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] Residents**: Neighbor in the residential quarter.
+- **[[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]]**: Son.
+- **[[Info/Characters/NPCs/Colleux\|Colleux]]**: Husband (a smith).
 
 ## Location
-- Resides in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Resides in [[Info/Lore/Bruma\|Bruma]].
 
 ## Notes
-- **[[2 -  Sessions/Session 028\|Session 028]]**: Assisted the party with street directions during the chaos following the longhouse raid.
+- **[[2 -  Sessions/Session 028\|Session 028]]**: Mentioned by [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]] while he was explaining the history of his family and the Bruma Crest to [[Info/Characters/Party/Durov\|Durov]].

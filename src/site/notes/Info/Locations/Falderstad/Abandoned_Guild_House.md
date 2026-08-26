@@ -2,17 +2,15 @@
 {"dg-publish":true,"permalink":"/info/locations/falderstad/abandoned-guild-house/"}
 ---
 
-# Abandoned Guild House (Falderstad)
+# Abandoned Guild House
 
 ## Description
-A weathered, boarded-up guildhall on the outskirts of [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. Once an active staging depot for regional mercenaries and hunters, it fell into disuse as local security collapsed.
+A former tannery situated on the northeast side of Falderstad that has fallen into severe disrepair. The building is largely derelict, with a roof that has partially collapsed under the weight of the winter snow.
 
-## Features
-- Rotting wooden timbers and overgrown cobblestone entry.
-- Dusty, abandoned main hall used occasionally by vagrants for shelter.
+## Notable NPCs
+- None
 
-## NPCs
-- Various travelers, guards, and local residents.
-
-## Notes
-- **[[2 -  Sessions/Session 015\|Session 015]]**: Investigated by the party while scouting the town's perimeter for traces of cultist movement and missing townsfolk.
+## Key Events
+- **[[2 -  Sessions/Session 015\|Session 015]]**: Durov and Periwyn arrived at the abandoned guild house, the designated meeting location for a request seeking "muscle."
+- **[[2 -  Sessions/Session 020\|Session 020]]**: The party visited the guild house during midday.
+- **[[2 -  Sessions/Session 021\|Session 021]]**: After fabricating evidence of a Dunmer conspiracy to deceive Darius Caro, the party claimed they found evidence at the abandoned guild house. Later, returning via the sewers, they emerged at the guild house and found Varran suffering from severe trauma.

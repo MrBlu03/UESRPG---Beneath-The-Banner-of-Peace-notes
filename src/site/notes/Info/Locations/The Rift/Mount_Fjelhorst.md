@@ -2,17 +2,11 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/mount-fjelhorst/"}
 ---
 
-# Mount Fjelhorst
-
 ## Description
-An iconic, snow-capped mountain peak towering over the eastern horizon of the Rift. Its name inspired the founding moniker of [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]].
+An iconic mountain peak situated in the Rift. It is known to harbor rare wildlife and dark tales of monstrous inhabitants.
 
-## Features
-- Jagged granite peaks perpetually shrouded in swirling snow and mountain clouds.
-- Ancient Nordic boundary cairns dotting the lower treeline.
+## Notable NPCs
+- None specified.
 
-## NPCs
-- Various local residents, travelers, and guards.
-
-## Notes
-- **[[2 -  Sessions/Session 003\|Session 003]]-**[[2 -  Sessions/Session 004\|Session 004]]**: The party adopted the majestic peak as the namesake for their adventuring company, symbolizing unyielding strength and northern resilience.
+## Key Events
+- **[[2 -  Sessions/Session 003\|Session 003]]**: [[Info/Characters/NPCs/Eydis\|Eydis]] shared a dark tale with the party, recounting how decades ago rare frost trolls descended from Mount Fjelhorst and ravaged [[Info/Locations/The Rift/Nimalten\|Nimalten]], claiming the life of his father.

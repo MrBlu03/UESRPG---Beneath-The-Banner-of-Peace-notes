@@ -5,16 +5,15 @@
 # Sigrid
 
 ## Description
-The unflinching, highly skilled Nord mortician overseeing the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] in [[Info/Locations/The Rift/Riften\|Riften]]. Dedicated to the sacred rites of [[Info/Lore/Arkay\|Arkay]], she conducts meticulous autopsies and defends the sanctified dead.
+The diligent caretaker and mortician of the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] in [[Info/Locations/The Rift/Riften\|Riften]]. She provides vital forensic and toxicological analysis for the city guard and the Queen's court.
 
 ## Relationships
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Relied on her forensic insight.
-- **[[Info/Characters/NPCs/Ralvard\|Ralvard]]**: Alchemical research assistant.
+- **[[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]]**: The deceased Dunmer she was tasked with examining.
 
 ## Location
-- Presides over the morgue in the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] in [[Info/Locations/The Rift/Riften\|Riften]].
+- Found in the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] in [[Info/Locations/The Rift/Riften\|Riften]].
 
 ## Notes
-- **[[2 -  Sessions/Session 002\|Session 002]]**: Examined the corpse of [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]], identifying concentrated nightshade extract and extracting botanical samples.
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Completed the detailed toxicological autopsy report for the Queen's court.
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Reported that cult infiltrators had stolen her autopsy records, prompting the party to track the thieves into the Ratway.
+- **[[2 -  Sessions/Session 002\|Session 002]]**: Accepted the corpse of [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]] from the party to study the poison.
+- **[[2 -  Sessions/Session 003\|Session 003]]**: Shared troubling autopsy findings, noting healed scar tissue and an impossibly complex poison, warning the party to tread carefully.
+- **[[2 -  Sessions/Session 012\|Session 012]]**: Tore through her shelves in panic after discovering her autopsy notes on the poisoned Dunmer were stolen without forced entry.

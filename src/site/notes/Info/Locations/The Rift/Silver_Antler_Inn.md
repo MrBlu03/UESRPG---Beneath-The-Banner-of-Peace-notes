@@ -2,19 +2,12 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/silver-antler-inn/"}
 ---
 
-# Silver Antler Inn
-
 ## Description
-A cozy wayside tavern along the eastern road through the Rift, catering to merchants and caravan guards.
+An inn and tavern located in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. It provides lodging and services for travelers and adventurers alike.
 
-## Features
-- Polished silver-tipped stag antlers above the hearth.
-- Warm taproom serving hearty stews and spiced mead.
+## Notable NPCs
+- **[[Info/Characters/NPCs/Halla\|Halla]]**: The barkeep at the Silver Antler Inn.
+- **[[Info/Locations/The Rift/Silver_Antler_Inn\|Nashu]]**: Helped the party craft materials before departing.
 
-## NPCs
-- [[Info/Characters/NPCs/Halla\|Halla]]
-- [[Info/Locations/The Rift/Silver_Antler_Inn\|Robin]]
-- [[Info/Locations/The Rift/Silver_Antler_Inn\|Nashu]]
-
-## Notes
-- **[[2 -  Sessions/Session 023b\|Session 023b]]**: The party rested here and defended the inn against a bandit raid.
+## Key Events
+- **[[2 -  Sessions/Session 023b\|Session 023b]]**: The party spent time here, with [[Info/Characters/Party/Onasha\|Onasha]] utilizing the inn to craft frenzy bombs with [[Info/Locations/The Rift/Silver_Antler_Inn\|Nashu]]'s assistance. Later, the party delivered a recovered emerald pendant to the barkeep, [[Info/Characters/NPCs/Halla\|Halla]], fulfilling a recovery objective.

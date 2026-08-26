@@ -5,13 +5,13 @@
 # Mirda
 
 ## Description
-A quiet Nord homesteader living on the forest fringe outside [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+A quiet Nord homesteader and hunter living on the forest fringe outside [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Gaius\|Gaius]]**: Neighboring homesteader.
+- **[[Info/Characters/NPCs/Runa\|Runa]]**: Fellow hunter and companion.
 
 ## Location
-- Resides near [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- Resides near the outskirts of [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
 
 ## Notes
-- **[[2 -  Sessions/Session 014\|Session 014a]]**: Provided directions to [[Info/Characters/Party/Durov\|Durov]] when he was seeking the homestead of the ex-legionnaire [[Info/Characters/NPCs/Gaius\|Gaius]].
+- **[[2 -  Sessions/Session 014\|Session 014]]**: Along with [[Info/Characters/NPCs/Runa\|Runa]], she found [[Info/Characters/Party/Durov\|Durov]] collapsed outside a cottage in the snow after he was drugged by [[Info/Characters/NPCs/Gaius\|Gaius]], saving his life.

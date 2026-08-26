@@ -5,15 +5,11 @@
 # Darnow Hollow
 
 ## Description
-A haunting, mist-shrouded estate existing within a supernatural dream-stratum, representing forgotten memories, unresolved grief, and broken vows.
+A crumbling yet regal gothic manor situated atop a hill and draped in dusk. Known as the location of an old contract connected to Periwyn's past, it exists within her visionary dream-realm.
 
-## Features
-- A crumbling gothic manor surrounded by silent, weeping willow trees.
-- Cold stone corridors where phantom figures whisper warnings of betrayal.
+## Notable NPCs
+- None
 
-## NPCs
-- [[Info/Characters/NPCs/Lady_Elaris\|The_Elderly_Woman]]
-- [[Info/Characters/NPCs/Lady_Elaris\|Lady_Elaris]]
-
-## Notes
-- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a]]**: Traversed by [[Info/Characters/Party/Periwyn\|Periwyn]] during her soul-journey, confronting spectral manifestations of despair and childhood trauma.
+## Key Events
+- **[[3 - The Fjelhorst Chronicles/Chapter 009a Memoir - She Wore Her Grief Like Silk\|Chapter 009a Memoir - She Wore Her Grief Like Silk]]**: The manor was described in Periwyn's dream as a memory that changed each time she reached for it.
+- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]**: Periwyn found herself on a familiar road leading to this old contract location during her comatose state following the Dragon Cult ritual.

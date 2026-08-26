@@ -2,21 +2,14 @@
 {"dg-publish":true,"permalink":"/info/locations/kjalgrad/barrow-of-the-oath-breaker-king/"}
 ---
 
-# Barrow of the Oath-Breaker King
-
 ## Description
-An ancient Nordic barrow and subterranean tomb complex situated in the rugged highlands south of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Over centuries, the upper Nordic tombs became connected to deeper Dwemer ruins. It serves as a mystical resting place for the legendary [[Info/Characters/NPCs/The_Oath-Breaker_King\|Oath-Breaker King]] and is occasionally used as a clandestine sanctuary by the [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] and [[Info/Characters/NPCs/Milos\|Milos]].
+The Barrow of the Oath-Breaker King is an ancient Nordic barrow and subterranean tomb complex situated in the mountains south of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. It serves as a mystical resting place for the ancient [[Info/Characters/NPCs/The_Oath-Breaker_King\|The_Oath-Breaker_King]] and functions as a hidden sanctuary for [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] and the [[Info/Organizations/Cults/Blackfeather Court\|Blackfeather Court]].
 
-## Features
-- **Nordic Stone Sarcophagi & Runestones**: Ancient carved warnings and puzzle locks preserving the king's burial chambers.
-- **Flooded Sub-Chambers**: Submerged vault rooms holding ancient relics, coins, and enchanted jewelry.
-- **Dwemer Machinery Connectors**: Lower tunnels featuring brass pipework and steam mechanisms linking the tomb to deeper underground passages.
+## Notable NPCs
+- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Also known as Milos, he operates a hidden base and alchemy lab inside the barrow.
+- **[[Info/Characters/NPCs/The_Oath-Breaker_King\|The_Oath-Breaker_King]]**: The ancient monarch whose sealed stone sarcophagus dominates the barrow's throne room.
 
-## NPCs
-- **[[Info/Characters/NPCs/The_Oath-Breaker_King\|The_Oath-Breaker_King]]**: Ancient monarch whose spirit and resting place linger within the barrow.
-- **[[Info/Characters/NPCs/The_Vestige\|Milos / The Vestige]]**: Met the party here to coordinate operations against cult networks.
-- **[[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Jango]] / [[Info/Characters/NPCs/Knave_of_Rooks\|Crows of the Blackfeather Court]]**: Roosting throughout the ruins.
-
-## Notes
-- **[[2 -  Sessions/Session 025\|Session 025]]**: The party tracked leads here, encountering [[Info/Characters/NPCs/Milos\|Milos]] who opened the heavy stone doors for them. [[Info/Characters/Party/Onasha\|Onasha]] dove into the flooded vault to retrieve an ancient ring and historic coinage, while the party examined the murals depicting the king's tragic fall.
-- **[[2 -  Sessions/Session 026\|Session 026]]-**[[2 -  Sessions/Session 028\|Session 028]]**: Utilized as a secure staging point and safehouse during the [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] resistance operations.
+## Key Events
+- **[[2 -  Sessions/Session 025\|Session 025]]**: Following a riddle and a crow guide, the party navigated a pitch-black ruin filled with traps, a lever puzzle, and a flooded corridor. They reached the throne room and met [[Info/Characters/NPCs/Milos\|Milos]] ([[Info/Characters/NPCs/The_Vestige\|The_Vestige]]), delivering a Daedric memory anchor to him. They rested in the barrow using his alchemy lab to prepare for their next mission.
+- **[[2 -  Sessions/Session 026\|Session 026]]**: The party spent the morning debriefing in the barrow before departing on their operations.
+- **[[2 -  Sessions/Session 027\|Session 027]]**: When [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] were arrested by city guards during the warehouse explosions, they were relieved that their most incriminating items—a necromancy book and a guild ledger—had been safely left behind at the barrow.

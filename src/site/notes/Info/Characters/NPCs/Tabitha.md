@@ -5,15 +5,14 @@
 # Tabitha
 
 ## Description
-A fearless, agile sewer guide and scout in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] who knows every brick, sluice gate, and secret grate beneath the city.
+A sewer guide and contact for the [[Info/Locations/Kjalgrad/Lower_Lodge\|Lower_Lodge]] resistance network in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Tarja\|Tarja]]**: Fellow resistance scout.
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Guided the party through the sewer infiltration.
+- **[[Info/Characters/NPCs/Tarja\|Tarja]]**: Fellow resistance member.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Guided her during a rescue mission.
 
 ## Location
-- Operates throughout the [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad_Sewers]].
+- Operates primarily in the [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad_Sewers]].
 
 ## Notes
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Guided [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]] through the flooded sewer tunnels directly into the cellar beneath the longhouse steward's office.
-- **[[2 -  Sessions/Session 028\|Session 028]]**: Assisted with extracting the bound captive [[Info/Characters/NPCs/Darius_Caro\|Darius Caro]] through the storm canals.
+- **[[2 -  Sessions/Session 027\|Session 027]]**: Led [[Info/Characters/Party/Periwyn\|Periwyn]] and a rescue squad through the ruined sewers beneath the Yarls Hall to a false wall behind the dungeon's evidence room. She pulled a candle sconce to open the secret passage to facilitate the jailbreak.

@@ -5,18 +5,14 @@
 # The Wounded Boar
 
 ## Description
-The premier inn and tavern of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], featuring a large roaring fireplace, sturdy pine tables, and hearty roasted game. Served as the party's primary lodging during the forest investigation.
+The premier inn and tavern of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], featuring a large roaring fireplace, sturdy pine tables, and hearty roasted game. Served as the party's primary lodging during the forest investigation. It features a roaring central stone hearth adorned with the mounted tusks of a giant forest boar, spacious second-floor rooms, and warm courtyard stables.
 
-## Features
-- A roaring central stone hearth adorned with the mounted tusks of a giant forest boar.
-- Spacious second-floor rooms overlooking the main road into the [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]].
-- Warm stables where [[Info/Characters/Party/The Horses\|The Horses]] were tended.
+## Notable NPCs
+- **[[Info/Characters/NPCs/Denskar\|Denskar]]**: A server at The Wounded Boar and contact point for local hunters.
+- **Unnamed Hunter**: A hunter who directed the party here to meet for a white stag hunt.
 
-## NPCs
-- Innkeeper
-- [[Info/Characters/NPCs/Denskar\|Denskar]]
-- [[Info/Characters/NPCs/Svala\|Svala]]
-- [[Info/Characters/NPCs/Helga_Cairn-Shield\|Helga_Cairn-Shield]]
-
-## Notes
-- **[[2 -  Sessions/Session 013\|Session 013]]-**[[2 -  Sessions/Session 017\|Session 017]]**: The party stayed here while coordinating the forest hunt, interrogating witnesses, and resting between expeditions.
+## Key Events
+- **[[2 -  Sessions/Session 013\|Session 013]]**: The party was directed to Denskar at The Wounded Boar to arrange a white stag hunt. They took lodging on the east side of town.
+- **[[2 -  Sessions/Session 014\|Session 014]]**: [[Info/Characters/Party/Durov\|Durov]] arrived looking for the rest of the Fangs and learned from [[Info/Characters/NPCs/Denskar\|Denskar]] that they had taken lodging here.
+- **[[2 -  Sessions/Session 018\|Session 018]]**: The party drank Boar's Blood Mead from The Wounded Boar during their celebration feast.
+- **[[2 -  Sessions/Session 019\|Session 019]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] checked the tavern while searching for [[Info/Characters/Party/Durov\|Durov]], but [[Info/Characters/NPCs/Denskar\|Denskar]] had not seen him.

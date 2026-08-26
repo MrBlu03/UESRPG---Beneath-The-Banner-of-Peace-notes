@@ -5,15 +5,17 @@
 # Jarl Gorm
 
 ## Description
-The elderly, revered Jarl of [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. Bedridden with severe bone rot (Rockjoint), he governed through his loyal thane [[Info/Characters/NPCs/Helga_Cairn-Shield\|Helga]] before being greatly heartened by the party's heroic triumph over the forest horror.
+Jarl Gorm is the broad-shouldered leader of [[Info/Organizations/Other/Clan_Faldar\|Clan_Faldar]] and the settlement of [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. Having suffered from a severe bout of rock joint, he was briefly bedridden, leaving much of the town's governance to his trusted huscarl. Upon his recovery, he proved to be a generous and honorable Nord ruler, respectful of ancient traditions and deeply grateful to those who defend his people.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Helga_Cairn-Shield\|Helga_Cairn-Shield]]**: His trusted shield-thane managing town defense.
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Honored the party for liberating his hold from the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]].
+- **[[Info/Characters/NPCs/Helga_Cairn-Shield\|Helga Cairn-Shield]]**: His trusted huscarl and shield-thane, who managed town affairs while he was ill.
+- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Honored the party as heroes for lifting the curse from the forest.
 
 ## Location
 - Resides in the Jarl's longhouse in [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
 
 ## Notes
-- **[[2 -  Sessions/Session 013\|Session 013]]-**[[2 -  Sessions/Session 014\|Session 014]]**: Afflicted by painful illness, he blessed the party's investigation from his sickbed.
-- **[[2 -  Sessions/Session 017\|Session 017]]-**[[2 -  Sessions/Session 018\|Session 018]]**: Received the antler trophies of the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]], officially declaring [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]] as honored heroes of [[Info/Locations/Falderstad/Falderstad\|Falderstad]] and rewarding them with gold and feast honors.
+- **[[2 -  Sessions/Session 013\|Session 013]]**: Mentioned as being too busy with clan business to see the party upon their arrival in [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- **[[2 -  Sessions/Session 014\|Session 014]]**: Confirmed by his huscarl [[Info/Characters/NPCs/Helga_Cairn-Shield\|Helga]] to be ailing with bone-rot (rock joint).
+- **[[2 -  Sessions/Session 017\|Session 017]]**: Recovered from his illness, he met the party at the market steps alongside [[Info/Characters/NPCs/Helga_Cairn-Shield\|Helga]]. He expressed immense pride and gratitude for their victory over the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]], personally paying them 500 gold each and granting them permanent use of [[Info/Locations/Falderstad/Nilans_House\|Nilan's house]].
+- **[[2 -  Sessions/Session 018\|Session 018]]**: Presided over the execution of the [[Info/Organizations/Other/House_Hlaalu\|House_Hlaalu]] smugglers. Presented [[Info/Characters/Party/Durov\|Durov]] with a Stalhrim executioner's blade for the ritual. Later, he hosted a feast in his longhouse, where he engaged in a drinking contest with [[Info/Characters/Party/Durov\|Durov]] and barely won. Directed [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle Benele]] to the party when she came seeking them.

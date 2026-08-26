@@ -5,16 +5,16 @@
 # Senya
 
 ## Description
-A gifted twin skald who travels with her sister [[Info/Characters/NPCs/Sonya\|Sonya]] across Skyrim, performing ancient ballads, heroic sagas, and commemorating the party's deeds in song.
+A gifted twin skald who travels with her sister [[Info/Characters/NPCs/Sonya\|Sonya]]. They are keepers of song and story, preserving ancient Nordic tales and performing the tagelharpa during important rituals.
 
 ## Relationships
 - **[[Info/Characters/NPCs/Sonya\|Sonya]]**: Her twin sister and musical partner.
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Sings their heroic deeds in taverns across Skyrim.
+- **[[Info/Characters/Party/Kirya\|Kirya]]**: A fellow musician who bonded with her and arranged for music lessons.
 
 ## Location
-- Performs in taverns across [[Info/Locations/The Rift/The_Rift\|The Rift]] and [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- Performs in taverns across the Rift and [[Info/Locations/Falderstad/Falderstad\|Falderstad]], such as [[The Soggy Beaver\|The Soggy Beaver]].
 
 ## Notes
-- **[[2 -  Sessions/Session 008\|Session 008]]**: Sang the ancient tragic saga of Lord [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]] and Lady [[Info/Characters/NPCs/Lagertha\|Lagertha]] at the inn before the barrow expedition.
-- **[[2 -  Sessions/Session 010\|Session 010]]**: Joined the camping retreat in the Rift, entertaining the party with traditional Nord songs.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Performed the ballad *Bonden og Kragen* in [[Info/Locations/Falderstad/Falderstad\|Falderstad]] celebrating the defeat of the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]].
+- **[[2 -  Sessions/Session 008\|Session 008]]**: Told the party the tragic tale of [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]] and [[Info/Characters/NPCs/Lagertha\|Lagertha]] at the inn.
+- **[[2 -  Sessions/Session 010\|Session 010]]**: Set up her instruments at the [[Info/Locations/The Rift/Wanderers_Rest\|Wanderers_Rest]] before the party departed.
+- **[[2 -  Sessions/Session 018\|Session 018]]**: Traveled to [[Info/Locations/Falderstad/Falderstad\|Falderstad]] for the execution ritual, chanted the ancient Nordic law (*Blood for blood...*), and agreed to stay and teach [[Info/Characters/Party/Kirya\|Kirya]] music.
