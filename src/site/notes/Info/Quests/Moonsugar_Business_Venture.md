@@ -3,20 +3,25 @@
 ---
 
 
-# Moonsugar Business Venture
+# Toren's Moon Sugar Trade Proposal
 
-**Status**: Active (Session 012)
-**Objective**: [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]'s business partnership with [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]
+## Overview
+**Status:** Completed  
+**Quest Type:** Optional  
+**Assigned Session:** [[2 -  Sessions/Session 012\|Session 012]]  
+**Completed Session:** [[2 -  Sessions/Session 013\|Session 013]]  
+**Reward:** Underworld Favor  
 
-## Key Tasks
-- [ ] Provide 500 gold investment to [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]
-- [ ] Establish moonsugar trade operations
-- [ ] Define profit-sharing arrangement
-- [ ] Navigate legal/illegal aspects of moonsugar trade
+## Objective
+Evaluate the 500-gold moon sugar smuggling venture proposed by Toren the Fence in the Riften Ratway.
 
 ## Key NPCs
-- [[Info/Characters/001 The Fangs of Fjelhorst/Durov\|Durov]]
-- [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]]
+  - "[[Info/Characters/NPCs/Toren_the_Fence\|Toren_the_Fence]]"
+  - "[[Info/Characters/Party/Durov\|Durov]]"
 
-## Notes
-*Agreement made to cut [[Info/Characters/999 NPC's/Toren_the_Fence\|Toren_the_Fence]] into moonsugar business for information and future cooperation*
+## Key Locations
+  - "[[Info/Locations/The Rift/Ratway\|Ratway]]"
+  - "[[Info/Locations/The Rift/Riften\|Riften]]"
+
+## Timeline & Progression
+- **[[2 -  Sessions/Session 012\|Session 012]]-**[[2 -  Sessions/Session 013\|Session 013]]**: The party gathered intelligence on the syndicate before declining direct involvement to maintain their royal standing.

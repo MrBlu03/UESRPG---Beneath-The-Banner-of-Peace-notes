@@ -3,18 +3,27 @@
 ---
 
 
-# Lute Acquisition
+# Kirya's Lute & Campfire Melodies
 
-**Status**: Active (Session 012)
-**Objective**: [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] seeks to obtain a lute
+## Overview
+**Status:** Completed  
+**Quest Type:** Personal  
+**Assigned Session:** [[2 -  Sessions/Session 013\|Session 013]]  
+**Completed Session:** [[2 -  Sessions/Session 013\|Session 013]]  
+**Reward:** Morale Boost, Musical Instrument  
 
-## Key Tasks
-- [ ] Research where to purchase or acquire a lute in [[Info/Locations/Riften\|Riften]]
-- [ ] Determine cost and availability
-- [ ] Complete purchase
+## Objective
+Acquire a travel lute for Kirya to play music during evening campfires on long journeys.
 
 ## Key NPCs
-- [[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]]
+  - "[[Info/Characters/Party/Kirya\|Kirya]]"
+  - "[[Info/Characters/Party/Durov\|Durov]]"
+  - "[[Info/Characters/Party/Onasha\|Onasha]]"
+  - "[[Info/Characters/Party/Periwyn\|Periwyn]]"
 
-## Notes
-*[[Info/Characters/001 The Fangs of Fjelhorst/Kirya\|Kirya]] expressed interest in acquiring a lute during Session 012*
+## Key Locations
+  - "[[Info/Locations/The Rift/Lake_Honrich\|Lake_Honrich]]"
+  - "[[Info/Locations/Falderstad/Falderstad\|Falderstad]]"
+
+## Timeline & Progression
+- **[[2 -  Sessions/Session 013\|Session 013]]**: [[Info/Characters/Party/Kirya\|Kirya]] tuned her newly acquired lute, playing soothing melodies for the party beneath the spectacular blue-green aurora.

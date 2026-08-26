@@ -3,12 +3,25 @@
 ---
 
 
-# Study Shadow Stone Powers
+# Study the Shadow Stone
 
-**Status**: Active
-**Objective**: Study [[Info/Locations/Shadow Stone\|Shadow Stone]] powers
+## Overview
+**Status:** Completed  
+**Quest Type:** Optional  
+**Assigned Session:** [[2 -  Sessions/Session 003\|Session 003]]  
+**Completed Session:** [[2 -  Sessions/Session 003\|Session 003]]  
+**Reward:** Astronomical Lore, Shadow Affinity  
 
-## Key Tasks
-- [ ] Visit the Shadow Stone location
-- [ ] Research the stone's magical properties
-- [ ] Understand potential applications or dangers
+## Objective
+Examine the ancient standing stones of the Shadow south of Riften.
+
+## Key NPCs
+  - "[[Info/Characters/Party/Onasha\|Onasha]]"
+  - "[[Info/Characters/Party/Kirya\|Kirya]]"
+
+## Key Locations
+  - "[[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]]"
+  - "[[Info/Locations/The Rift/The_Rift\|The_Rift]]"
+
+## Timeline & Progression
+- **[[2 -  Sessions/Session 003\|Session 003]]**: Investigated the magical aura of the [[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]], documenting its celestial alignment with Nocturnal.

@@ -5,51 +5,29 @@
 
 # Blackfeather Court Investigation
 
-**Status**: Resolved (Session 025) — Contact found; quest complete at this level  
-**Objective**: ~~Research the mysterious organization mentioned by the talking fox~~ — **RESOLVED**: Milos (the Argonian Vestige) found in the Barrow of the Oath Breaker King
+## Overview
+**Status:** Completed  
+**Quest Type:** Investigation  
+**Assigned Session:** [[2 -  Sessions/Session 004\|Session 004]]  
+**Completed Session:** [[2 -  Sessions/Session 026\|Session 026]]  
+**Reward:** Black Feather Relic, Planar Alliance  
 
-## Key Tasks
-- [x] ~~Research what or who the "Blackfeather Court" might be~~ - **COMPLETED**: Met [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]], founder
-- [x] ~~Look for the Talking Fox again~~ - **NO LONGER NEEDED**: Alliance formed with The Vestige directly
-- [x] ~~Solve the riddle to find the Blackfeather Court contact~~ - **COMPLETED** ([[2 -  Sessions/Session 025\|Session 025]]): Widow's River → Three Brothers → Barrow of the Oath Breaker King
-- [x] ~~Deliver the Daedric stone~~ - **COMPLETED** ([[2 -  Sessions/Session 025\|Session 025]]): Handed to Milos; confirmed as memory anchor for a skin-changer
-- [ ] Determine the meaning and purpose of the dragon language summoning scroll (Onasha possesses)
-- [ ] Identify the components mentioned in the ritual
-- [ ] Consult [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]] about his knowledge of the group
-- [ ] Consult [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]] about magical black feathers and the Court
-- [ ] Understand why [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] called [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] "little flower"
-- [ ] Investigate [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]]'s interest in [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
-- [ ] Learn more about the Crows' Wood and how it functions
-- [ ] Understand the relationship between The Vestige and Adda (if same person as Cult of Ysmir shaman)
+## Objective
+Investigate the mysterious corvid watchers, decode the Dovahzul summoning scroll, and uncover the true nature of the Crow Father.
 
 ## Key NPCs
-- [[Info/Characters/999 NPC's/Talking_Fox\|Talking_Fox]]
-- [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] (led by [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]])
-- [[Info/Characters/999 NPC's/The_Vestige\|The Vestige]] / Sadrith Indoril / The Crowfather - **NOW ALLIED**
-- [[Info/Characters/999 NPC's/Speaks-Spells-Gently\|Speaks-Spells-Gently]]
-- [[Info/Characters/999 NPC's/Archmagus_Mortgren\|Archmagus_Mortgren]]
+  - "[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]"
+  - "[[Info/Characters/NPCs/Baron_Jangleplume\|Baron_Jangleplume]]"
+  - "[[Info/Characters/NPCs/Knave_of_Rooks\|Knave_of_Rooks]]"
+  - "[[Info/Characters/NPCs/Mysterious_Crow\|Mysterious_Crow]]"
 
-## Session 020 - The Vestige Revealed
-- Party met [[Info/Characters/999 NPC's/The_Vestige\|The_Vestige]] in [[Info/Locations/Kjallgrad\|Kjalgrad]], operating under alias "Sadrith Indoril"
-- He is a **Dunmer** (or appears as one), former Fighters Guild member
-- **Hero of the Planemeld**: Infiltrated Coldharbour, defeated Molag Bal
-- Founded the [[Info/Organizations/Blackfeather Court\|Blackfeather Court]] and commands the Daedric crows
-- Currently investigating **Cult of Clavicus Vile**
-- Made alliance with [[Fangs of Fjelhorst\|Fangs of Fjelhorst]] for mutual assistance
-- Called [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] "little flower" - **reason unknown**
-- Reacted aggressively to [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] initially
+## Key Locations
+  - "[[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]]"
+  - "[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]"
+  - "[[Info/Locations/The Rift/Riften\|Riften]]"
 
-## Session 025 - The Contact Found
-- True identity revealed: **Milos**, an **Argonian** (not Dunmer)
-- True name disclosed, barrow base confirmed: [[Info/Locations/Barrow_of_the_Oath_Breaker_King\|Barrow_of_the_Oath_Breaker_King]]
-- The contact the party had been seeking since the riddle was Milos himself
-- He immediately admitted the party and offered his resources without reservation
-- Acquainted with Nordgren and Morgan (Blackfeather Court leadership)
-- The riddle is **solved**; the contact is **found**
-
-## Notes
-*The [[Info/Characters/999 NPC's/Talking_Fox\|Talking Fox]] warned that "the Blackfeather aren't known to many, their founder wishes it so"*
-
-*Session 020: The founder has revealed himself and formed an alliance with the party. His recognition of Periwyn and reaction to Onasha suggest deeper connections to the party's histories.*
-
-*Session 025: The contact quest is now complete. Milos is an Argonian Vestige — killed by a necromancer, soul imprisoned in Coldharbour. He opened the door the moment the party knocked.*
+## Timeline & Progression
+- **[[2 -  Sessions/Session 004\|Session 004]]**: [[Info/Characters/Party/Onasha\|Onasha]] discovered the first enchanted black feather in the southern woods of [[Info/Locations/The Rift/The_Rift\|The Rift]].
+- **[[2 -  Sessions/Session 007\|Session 007]]**: The [[Info/Characters/NPCs/Talking_Fox\|Talking_Fox]] translated Onasha's scroll, revealing its connection to the [[Info/Organizations/Cults/Blackfeather Court\|Blackfeather Court]].
+- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] encountered the Crow Father in [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]], receiving spiritual guidance and a protective feather.
+- **[[2 -  Sessions/Session 020\|Session 020]]-**[[2 -  Sessions/Session 026\|Session 026]]**: Discovered Sadrith Indoril was in fact [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] (the Crow Father); [[Info/Characters/Party/Kirya\|Kirya]] departed with his protective blessing.

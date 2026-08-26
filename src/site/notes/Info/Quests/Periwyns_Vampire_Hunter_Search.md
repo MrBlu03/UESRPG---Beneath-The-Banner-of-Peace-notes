@@ -3,20 +3,25 @@
 ---
 
 
-# Periwyn's Vampire Hunter Search
+# Periwyn's Armament & Silver Weapons
 
-**Status**: Active (Session 007)  
-**Target**: [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]] in [[Info/Locations/Mistwatch\|Mistwatch]]  
+## Overview
+**Status:** Completed  
+**Quest Type:** Personal  
+**Assigned Session:** [[2 -  Sessions/Session 004\|Session 004]]  
+**Completed Session:** [[2 -  Sessions/Session 004\|Session 004]]  
+**Reward:** 50 Silver Arrows, Blessed Silver Dagger  
 
-## Key Tasks
-- [x] Identify the tortured man in the keep as [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
-- [ ] Visit [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]] at Mistwatch after he recovers
-- [ ] Learn about his vampire hunting techniques
+## Objective
+Procure specialized silver weapons and alchemical wards to hunt Clan Volkihar vampires.
 
 ## Key NPCs
-- [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]]
-- [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]]
-- [[Info/Characters/999 NPC's/Hillevi\|Hillevi]]
+  - "[[Info/Characters/Party/Periwyn\|Periwyn]]"
+  - "[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]"
 
-## Notes
-*[[Info/Characters/999 NPC's/Hillevi\|Hillevi]] has taken [[Info/Characters/999 NPC's/Wuunferth\|Wuunferth]] to Mistwatch for healing*
+## Key Locations
+  - "[[Info/Locations/The Rift/The_Honed_Edge\|The_Honed_Edge]]"
+  - "[[Info/Locations/The Rift/Riften\|Riften]]"
+
+## Timeline & Progression
+- **[[2 -  Sessions/Session 004\|Session 004]]**: Purchased 50 silver arrows from [[Info/Locations/The Rift/The_Honed_Edge\|The_Honed_Edge]] and consecrated her weapons before marching to Greenwall.

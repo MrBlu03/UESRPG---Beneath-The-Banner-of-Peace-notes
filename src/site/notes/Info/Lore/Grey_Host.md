@@ -3,12 +3,12 @@
 ---
 
 
-# The Grey Host
+# Grey Host
 
 ## Basic Information
 **Type:** Vampire-Werewolf Alliance  
 **Status:** Defeated (14-15 years ago)  
-**Region:** Western Skyrim (primarily [[Info/Locations/Markarth\|Markarth]])  
+**Region:** Western Skyrim (primarily [[Info/Lore/Markarth\|Markarth]])  
 **Associated Crisis:** Dark Heart of Skyrim
 
 ## Description
@@ -34,34 +34,34 @@ Powerful Daedric artifacts used by the Grey Host in their rituals. These orbs we
 
 ### Current Status ([[2 -  Sessions/Session 018\|Session 018]])
 - Most Harrowstorm Engine Cores were retrieved and secured after the crisis
-- **One core** was taken from [[Info/Locations/Markarth\|Markarth]] and remained unaccounted for until recently
-- This missing core was discovered by [[The Fangs of Fjelhorst\|The Fangs of Fjelhorst]] at [[Info/Locations/Greenwall\|Greenwall]]
+- **One core** was taken from [[Info/Lore/Markarth\|Markarth]] and remained unaccounted for until recently
+- This missing core was discovered by [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The Fangs of Fjelhorst]] at [[Info/Locations/The Rift/Greenwall\|Greenwall]]
 - **Current state**: Dormant - without proper rituals, matrices, and energy source, it cannot activate
-- The death/energy around [[Info/Locations/Greenwall\|Greenwall]] briefly awakened it when [[Info/Characters/001 The Fangs of Fjelhorst/Periwyn\|Periwyn]] shot it
-- Has been wrapped in multiple layers of **anti-magic wards** by the [[Info/Organizations/Mages_Guild\|Mages Guild]]
-- Being transported to [[Info/Locations/Eyevea\|Eyevea]] (Mages Guild main hall) for permanent safe storage
+- The death/energy around [[Info/Locations/The Rift/Greenwall\|Greenwall]] briefly awakened it when [[Info/Characters/Party/Periwyn\|Periwyn]] shot it
+- Has been wrapped in multiple layers of **anti-magic wards** by the [[Info/Organizations/Other/Mages_Guild\|Mages Guild]]
+- Being transported to [[Info/Locations/Other Realms/Eyevea\|Eyevea]] ([[Info/Organizations/Other/Mages_Guild\|Mages Guild]] main hall) for permanent safe storage
 
 ### Danger Level
 - **Dormant**: Currently poses no immediate threat
 - **Potential**: Could theoretically be reactivated with proper knowledge and resources
-- **Containment**: Under [[Info/Organizations/Mages_Guild\|Mages Guild]] custody with magical protections
+- **Containment**: Under [[Info/Organizations/Other/Mages_Guild\|Mages Guild]] custody with magical protections
 
 ## Key Information Source
-- **[[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]**: [[Info/Organizations/Mages_Guild\|Mages Guild]] expert on Daedric artifacts who provided this intelligence
+- **[[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]]**: [[Info/Organizations/Other/Mages_Guild\|Mages Guild]] expert on Daedric artifacts who provided this intelligence
 
 ## Related NPCs
-- **[[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]]**: Delivered intelligence about the Harrowstorm Engine Core
-- **Vanus**: [[Info/Organizations/Mages_Guild\|Mages Guild]] member involved in artifact storage
+- **[[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]]**: Delivered intelligence about the Harrowstorm Engine Core
+- **Vanus**: [[Info/Organizations/Other/Mages_Guild\|Mages Guild]] member involved in artifact storage
 
 ## Related Locations
-- [[Info/Locations/Markarth\|Markarth]]: Original location of the recovered Harrowstorm Engine Core
-- [[Info/Locations/Greenwall\|Greenwall]]: Where the party discovered the dormant core
-- [[Info/Locations/Eyevea\|Eyevea]]: Final destination for secure storage
-- [[Windhelm\|Windhelm]]: Transit point for the artifact
+- [[Info/Lore/Markarth\|Markarth]]: Original location of the recovered Harrowstorm Engine Core
+- [[Info/Locations/The Rift/Greenwall\|Greenwall]]: Where the party discovered the dormant core
+- [[Info/Locations/Other Realms/Eyevea\|Eyevea]]: Final destination for secure storage
+- [[Info/Lore/Windhelm\|Windhelm]]: Transit point for the artifact
 
 ## Related Quests
-- [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]: The Coiled Serpent may have connections to Grey Host remnants
+- [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]: The [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] may have connections to Grey Host remnants
 - [[Info/Quests/Mages_Guild_Greenwall_Coordination\|Mages_Guild_Greenwall_Coordination]]: Ongoing coordination regarding the artifact
 
 ## Session References
-- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/999 NPC's/Gabrielle_Benele\|Gabrielle_Benele]] revealed the orb's identity as a Harrowstorm Engine Core
+- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]] revealed the orb's identity as a Harrowstorm Engine Core

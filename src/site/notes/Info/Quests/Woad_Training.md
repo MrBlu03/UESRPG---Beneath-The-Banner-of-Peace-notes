@@ -3,19 +3,25 @@
 ---
 
 
-# Woad Training
+# Nordic Woad & Martial Conditioning
 
-**Status**: Active (Session 012)
-**Objective**: [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] learns woad magic from [[Info/Characters/999 NPC's/Adda\|Adda]]
+## Overview
+**Status:** Completed  
+**Quest Type:** Personal  
+**Assigned Session:** [[2 -  Sessions/Session 018\|Session 018]]  
+**Completed Session:** [[2 -  Sessions/Session 018\|Session 018]]  
+**Reward:** Nordic Martial Proficiency, Cultural Respect  
 
-## Key Tasks
-- [ ] Complete woad training sessions with [[Info/Characters/999 NPC's/Adda\|Adda]]
-- [ ] Learn to apply woads for covering magical marks
-- [ ] Understand combat and diplomatic applications
+## Objective
+Undergo traditional Nordic martial rites and woad painting with the skald Sonya.
 
 ## Key NPCs
-- [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]]
-- [[Info/Characters/999 NPC's/Adda\|Adda]]
+  - "[[Info/Characters/Party/Durov\|Durov]]"
+  - "[[Info/Characters/NPCs/Sonya\|Sonya]]"
+  - "[[Info/Characters/NPCs/Torik\|Torik]]"
 
-## Notes
-*[[Info/Characters/999 NPC's/Adda\|Adda]] agreed to teach [[Info/Characters/001 The Fangs of Fjelhorst/Onasha\|Onasha]] after explaining woads can mask magical marks*
+## Key Locations
+  - "[[Info/Locations/Falderstad/Falderstad\|Falderstad]]"
+
+## Timeline & Progression
+- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/Party/Durov\|Durov]] engaged in cultural conditioning and skaldic debates, earning the respect of the local Nord veterans.
