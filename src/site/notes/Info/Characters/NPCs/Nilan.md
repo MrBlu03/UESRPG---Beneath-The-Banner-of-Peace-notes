@@ -4,15 +4,20 @@
 
 # Nilan
 
+> *"A quiet trapper whose humble homestead became the gruesome ground zero for a vampire's blood-well."*
+
 ## Description
-Nilan was a local hunter from [[Info/Locations/Falderstad/Falderstad\|Falderstad]] who survived a terrifying encounter in the frozen wilderness. He returned to town to report the incident but mysteriously vanished from his home. It was later discovered that he had been murdered and turned into a vampire thrall in his own basement by a surviving vampire from the [[Info/Locations/The Rift/Greenwall\|Greenwall]] massacre.
+A solitary Nord woodsman and trapper living on the outskirts of [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. Respected by local hunters for his tracking instincts and knowledge of mountain trails, his sudden disappearance triggered alarm across the settlement. The party subsequently uncovered that he had been abducted, murdered, and raised as a thrall by an undercover vampire agent, his cellar turned into a ritual slaughterhouse.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Helga_Cairn-Shield\|Helga Cairn-Shield]]**: The huscarl of [[Info/Locations/Falderstad/Falderstad\|Falderstad]] who directed the party to investigate his disappearance.
+- **[[Info/Characters/NPCs/Jarl_Gorm\|Jarl_Gorm]]**: Local subject of the Jarl; Gorm officially deeded Nilan's abandoned cottage to [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The Fangs]] as a reward for resolving the horror.
+- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Uncovered his murder, put his reanimated corpse to rest, and inherited his home.
 
 ## Location
-- Found dead in the hidden cellar of his home, [[Info/Locations/Falderstad/Nilans_House\|Nilan's house]], in [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- Formerly resided at [[Info/Locations/Falderstad/Nilans_House\|Nilan's House]] on the northern perimeter of [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
 
 ## Notes
-- **[[2 -  Sessions/Session 014\|Session 014]]**: Reported missing after recounting a supernatural encounter to the town guards. The party investigated his frosted, abandoned house and discovered a hidden cellar. Inside, they found Nilan's corpse bound to the wall, bruised, bloodied, and bearing vampire bite marks on his neck. The sharp scent of nightshade lingered in the air. The vampire who killed him, an arrogant survivor of [[Info/Locations/The Rift/Greenwall\|Greenwall]], boasted of turning Nilan into a thrall merely to feed while he healed. After slaying the vampire, the party gave Nilan a proper funeral pyre behind his home.
-- **[[2 -  Sessions/Session 017\|Session 017]]**: In gratitude for their heroic deeds, [[Info/Characters/NPCs/Jarl_Gorm\|Jarl Gorm]] granted the party permanent, free use of [[Info/Locations/Falderstad/Nilans_House\|Nilan's house]] as a safe haven whenever they return to [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- **[[2 -  Sessions/Session 014\|Session 014]]**: Reported missing in [[Info/Locations/Falderstad/Falderstad\|Falderstad]] alongside several hunters. The party searched his locked house, discovering blood spatters, disturbed furniture, and a concealed trapdoor leading into the root cellar.
+- **[[2 -  Sessions/Session 015\|Session 015]]**: Down in the dark cellar, the party encountered Nilan's reanimated corpse acting as an undead thrall beside a blood-drain altar. After defeating the thrall and his vampiric master, they recovered poisoned daggers and alchemical notes linking his fate to [[Info/Organizations/Cults/Clan_Volkihar\|Clan_Volkihar]].
+- **[[2 -  Sessions/Session 019\|Session 019]]**: [[Info/Characters/NPCs/Jarl_Gorm\|Jarl_Gorm]] officially granted the deed of Nilan's cleansed house to the party before their departure toward [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], providing them with a permanent base in Falderstad.
+- **[[2 -  Sessions/Session 017\|Session 017]]**: Following the hunt for [[Info/Characters/NPCs/Nohrak\|Nohrak]], the party returned to Nilan's cellar to consecrate the blood altar with holy fire, ensuring no further necromantic thralls could be raised.

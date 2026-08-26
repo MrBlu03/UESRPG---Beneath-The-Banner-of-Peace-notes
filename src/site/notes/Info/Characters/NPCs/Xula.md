@@ -8,7 +8,7 @@
 An Argonian refugee and traveler encountered along the eastern roads during regional unrest.
 
 ## Relationships
-- **[[Refugees\|Refugees]]**: Fellow traveler seeking safety.
+- **Refugees**: Fellow traveler seeking safety.
 
 ## Location
 - Travels through [[Info/Locations/The Rift/The_Rift\|The_Rift]] and [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].

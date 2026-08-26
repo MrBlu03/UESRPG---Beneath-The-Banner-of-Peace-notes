@@ -14,4 +14,4 @@ A spectral small girl with straw-colored hair who appeared in [[Info/Characters/
 - Spectral entity encountered within a grain mill in [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]].
 
 ## Notes
-- **[[Session 009a\|Session 009a]]**: Appeared in the grain mill softly humming; she warned [[Info/Characters/Party/Periwyn\|Periwyn]] about the lady in white who makes people forget their names. [[Info/Characters/Party/Periwyn\|Periwyn]] returned her lost doll to her.
+- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a]]**: Appeared in the grain mill softly humming; she warned [[Info/Characters/Party/Periwyn\|Periwyn]] about the lady in white who makes people forget their names. [[Info/Characters/Party/Periwyn\|Periwyn]] returned her lost doll to her.

@@ -4,20 +4,23 @@
 
 # Runa
 
+> *"Keep your boots laced and your axe oiled. These woods don't care who your father was."*
+
 ## Description
-A veteran hunter and well-known meat seller in the markets of [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. Hardened by countless winters, he provides both game and valuable information to those passing through the town.
+A hardy, capable, and no-nonsense Nord shieldmaiden and perimeter scout captain serving [[Info/Organizations/Other/Clan_Faldar\|Clan_Faldar]] in [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. Thoroughly acclimatized to the brutal mountain frost, Runa coordinates outer watchtowers, investigates wilderness animal mutilations, and maintains order among the town's contentious hunters and woodcutters.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]]**: Shared local folklore and historical records when questioned.
-- **[[Info/Characters/Party/Durov\|Durov]]**: Provided information regarding local Colovian settlers and rescued him from the cold.
-- **[[Info/Characters/NPCs/Mirda\|Mirda]]**: Fellow hunter who helped him rescue [[Info/Characters/Party/Durov\|Durov]].
+- **[[Info/Characters/NPCs/Jarl_Gorm\|Jarl_Gorm]]**: Loyal sentinel and scout captain under the aging Jarl.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Shared soldierly camaraderie and tactical assessments of perimeter defense strategies.
+- **[[Info/Characters/NPCs/Svala\|Svala]]**: Works closely with Master Hunter Svala to organize hunting parties and wolf sweeps.
 
 ## Location
-- Resides in [[Info/Locations/Falderstad/Falderstad\|Falderstad]] and hunts in the [[Info/Locations/The Rift/Northern_Forest\|Northern Forest]].
+- The gatehouse watchtowers and [[Info/Locations/Falderstad/The_Wounded_Boar\|The_Wounded_Boar]] tavern in [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
 
 ## Notes
-- **[[Session 014a\|Session 014a]]**: Directed [[Info/Characters/Party/Durov\|Durov]] to [[Info/Locations/Falderstad/Soggy_Beaver\|The Soggy Beaver]] tavern to find the Colovian legionnaire. Later, along with [[Info/Characters/NPCs/Mirda\|Mirda]], found a drugged [[Info/Characters/Party/Durov\|Durov]] collapsed in the snow and rescued him.
-- **[[2 -  Sessions/Session 016\|Session 016]]**: Joined [[Info/Characters/NPCs/Svala\|Svala]]'s hunting expedition into the [[Info/Locations/The Rift/Northern_Forest\|Northern Forest]]. After encountering the horrifying shrine to the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]], performed a ritual cleansing at a stream. Survived the [[Info/Characters/NPCs/Nohrak\|Skinstealer]]'s supernatural maze.
-- **[[2 -  Sessions/Session 017\|Session 017]]**: Fought bravely in the final battle against the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]], though he was severely bitten by a wolf and dragged toward the trees. Rescued by [[Info/Characters/NPCs/Ingrin\|Ingrin]] and successfully fired arrows into the beast despite his injuries. Contracted rockjoint from the bite but recovered with medical treatment.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Interviewed in the market by the Breton mage [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]] regarding the Fangs of Fjelhørst, eventually directing her to the Jarl's longhouse.
-- **[[2 -  Sessions/Session 019\|Session 019]]**: Recognized [[Info/Characters/Party/Durov\|Durov]] in the market while selling cabbage and chatted with him briefly before the party's departure.
+- **[[2 -  Sessions/Session 014\|Session 014]]**: Stationed at the primary gates of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], inspecting incoming travelers. Aided the party in securing stable space and directed them toward the Jarl's hall, warning of recent unexplained vanishings in the birch groves.
+- **[[3 - The Fjelhorst Chronicles/Chapter 014a - The Legionnaire\|Chapter 014a]]**: Patrolled the snowy logging trails outside the walls, coordinating watch posts and alerting [[Info/Characters/Party/Durov\|Durov]] to strange track patterns found near the river bend.
+- **[[2 -  Sessions/Session 016\|Session 016]]**: Assisted in mobilizing the town hunt for [[Info/Characters/NPCs/Nohrak\|The Ragged Lord]], establishing a perimeter cordon while the party and trackers pushed into the deep forest.
+- **[[2 -  Sessions/Session 017\|Session 017]]**: Maintained defensive barricades around Falderstad's perimeter during the night of [[Info/Characters/NPCs/Torik\|Torik]]'s summoning ritual, intercepting panicked wildlife and stray corrupted wolves.
+- **[[2 -  Sessions/Session 018\|Session 018]]**: Commended the party at [[Info/Locations/Falderstad/The_Wounded_Boar\|The_Wounded_Boar]] following Nohrak's demise, toasting their bravery and organizing a recovery team to retrieve fallen scouts from the woods.
+- **[[2 -  Sessions/Session 019\|Session 019]]**: Stood guard at Falderstad's south gate to see the party off, thanking them for avenging fallen scouts and securing the mountain perimeter.

@@ -15,5 +15,5 @@ A legendary Breton paladin of the [[Info/Organizations/Religious/Knights_of_Arka
 
 ## Notes
 - **[[2 -  Sessions/Session 004\|Session 004]]**: A malicious whisper taunted [[Info/Characters/Party/Periwyn\|Periwyn]] in the nightmare manor, calling her "Gareth's little stray."
-- **[[Session 009a\|Session 009a]]**: Manifested in [[Info/Characters/Party/Periwyn\|Periwyn]]'s coma vision, engaging her in a physical and philosophical duel about mercy versus vengeance, ultimately teaching her to forgive herself.
+- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a]]**: Manifested in [[Info/Characters/Party/Periwyn\|Periwyn]]'s coma vision, engaging her in a physical and philosophical duel about mercy versus vengeance, ultimately teaching her to forgive herself.
 - **[[2 -  Sessions/Session 010\|Session 010]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] sketched a drawing of him based on her visions and opened up to [[Info/Characters/Party/Onasha\|Onasha]] about having to kill him.

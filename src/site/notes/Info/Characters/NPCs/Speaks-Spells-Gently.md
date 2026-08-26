@@ -4,18 +4,22 @@
 
 # Speaks-Spells-Gently
 
+> *"Magic is merely a conversation with the fabric of the world. One must listen before one commands."*
+
 ## Description
-The scholarly and serene Argonian Court Wizard of [[Info/Locations/The Rift/Riften\|Riften]], serving [[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]] from his laboratory in [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]]. An expert in magical restoration, warding, and elemental alchemy, he is frequently consulted for matters involving planar realms and ancient magical artifacts.
+An exceptionally composed, scholarly, and articulate Argonian mystic who serves as the royal Court Wizard to [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]] in [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]]. Specializing in alteration, elemental hydrology, and ancient runic identification, Speaks-Spells-Gently offers calm, pragmatic arcane counsel to the crown, contrasting the superstitious skepticism common among Skyrim's Nords.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]**: Trusted Court Wizard and chief arcane advisor.
-- **[[Info/Characters/Party/Onasha\|Onasha]]**: Shared scholarly discussions on alchemical theory and magic.
-- **[[Info/Characters/NPCs/Adda\|Adda]]**: Fellow magical practitioner who accompanied him to assist the party.
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]**: Royal court wizard, trusted advisor on supernatural and environmental threats.
+- **[[Info/Characters/Party/Onasha\|Onasha]]**: Bonds with Onasha over shared Saxhleel heritage, alchemical theory, and Dovahzul linguistic mechanics.
+- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]]**: Regularly corresponds with the ancient Breton archmagus regarding magical anomalies and planar incursions.
 
 ## Location
-- Resides in the laboratory tower of [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]] in [[Info/Locations/The Rift/Riften\|Riften]].
+- The arcane laboratory and library in [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]] in [[Info/Locations/The Rift/Riften\|Riften]].
 
 ## Notes
-- **[[2 -  Sessions/Session 002\|Session 002]]**: Consulted by the party regarding charred paper scraps, advising that only the master mages of [[Info/Locations/Other Skyrim/Winterhold\|Winterhold]] possessed the magic required to fully reconstruct them.
-- **[[2 -  Sessions/Session 004\|Session 004]]**: Received mysterious dust samples from the party for investigation and provided valuable insight regarding the [[Info/Organizations/Cults/Blackfeather Court\|Court of Crows]] and Everglow when prompted.
-- **[[2 -  Sessions/Session 009\|Session 009]]**: Offered solemn insight regarding a sketch of a [[Info/Organizations/Cults/Dragon_Cult\|Dragon Cult]] mask, explaining its history from the Dragon War, and later accompanied [[Info/Characters/Party/Kirya\|Kirya]] to [[Info/Locations/The Rift/Kahrus_Hollow\|Khaarus Hollow]] to assist with reinforcements against [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]].
+- **[[2 -  Sessions/Session 001\|Session 001]]**: Present at [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]] during the royal audience; analyzed the hydrological reports from [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]] and provided the party with alchemical reagents to test water contamination.
+- **[[2 -  Sessions/Session 002\|Session 002]]**: Examined the poison residue and encoded documents retrieved from the corpse of [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]], identifying trace signatures of Daedric nightshade and shadow-ichor.
+- **[[2 -  Sessions/Session 003\|Session 003]]**: Consulted by the party regarding ancient Nordic wards and the unnatural magical blizzard descending upon [[Info/Locations/The Rift/Greenwall\|Fort Greenwall]], deducing that cryomancy of that scale required ancient vampiric bloodcraft.
+- **[[2 -  Sessions/Session 004\|Session 004]]**: Assisted [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]] in deciphering the necrotic warding on the frozen garrison of [[Info/Locations/Other Skyrim/Harmugstahl\|Harmugstahl]], sharing protective wards with [[Info/Characters/Party/Onasha\|Onasha]].
+- **[[2 -  Sessions/Session 009\|Session 009]]**: Consulted via courier correspondence regarding the sacred rites of [[Info/Lore/Arkay\|Arkay]] required to lay the restless spirits of [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]] and [[Info/Characters/NPCs/Lagertha\|Lagertha]] to rest.

@@ -4,16 +4,18 @@
 
 # Bjorn
 
+> *"That creature took my horse with foul green flames! I want its withered head, or its ashes scattered to the wind!"*
+
 ## Description
-A quiet Nord hunter and blacksmith who works in the Rift and the western woods. He sports a distinctive "Green Arrow" style goatee and mustache and wears studded leather and fur.
+A sturdy, blunt-spoken Nord blacksmith and hunter residing in [[Info/Locations/The Rift/Riften\|Riften]]. Operating alongside his sister [[Info/Characters/NPCs/Svana\|Svana]] at the [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty_Steel]] smithy, he is an experienced woodsman whose deep knowledge of the western wilderness led him to post a substantial bounty on a dangerous creature that incinerated his mount.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Svana\|Svana]]**: His sister, with whom he runs the [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty Steel]] forge.
-- **[[Info/Characters/NPCs/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]]**: The hagraven who killed his horse and forced him to abandon his hunting camp.
+- **[[Info/Characters/NPCs/Svana\|Svana]]**: His sister and smithing partner at Sweaty Steel.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Contracted Periwyn to hunt down the creature responsible for destroying his horse.
 
 ## Location
-- Operates [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty Steel]] in [[Info/Locations/The Rift/Riften\|Riften]] and hunts in the wilderness west of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty_Steel]] smithy in [[Info/Locations/The Rift/Riften\|Riften]].
 
 ## Notes
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Seen working alongside his sister [[Info/Characters/NPCs/Svana\|Svana]] at the [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty Steel]] forge in [[Info/Locations/The Rift/Riften\|Riften]] when [[Info/Characters/Party/Onasha\|Onasha]] came to sell a bandit's greatsword.
-- **[[2 -  Sessions/Session 023\|Session 023a]]**: Posted a high-paying bounty for a witch west of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. He met with [[Info/Characters/Party/Periwyn\|Periwyn]] at a tavern, explaining that his horse was killed by fire magic and providing her with intel and a rough map of the [[Info/Characters/NPCs/The_Witch_of_the_Woods\|witch]]'s territory and his [[Info/Locations/The Rift/Abandoned_Hunter_Camp\|abandoned camp]].
+- **[[2 -  Sessions/Session 003\|Session 003]]**: Encountered working the forge at [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty_Steel]] alongside his sister [[Info/Characters/NPCs/Svana\|Svana]], discussing weapons maintenance and the shortage of quality charcoal in the city.
+- **[[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a Periwyns witch hunt]]**: Posted a high-value bounty and provided [[Info/Characters/Party/Periwyn\|Periwyn]] with a hand-drawn map of the Western Woods after a hagraven-like entity ([[Info/Characters/NPCs/The_Witch_of_the_Woods\|The Witch of the Woods]]) incinerated his hunting mount with sorcerous fire.

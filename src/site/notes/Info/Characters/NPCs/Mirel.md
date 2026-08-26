@@ -14,4 +14,4 @@ A tragic, corrupted vampire priest who preserved his deceased family in bone jar
 - Spectral entity in [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]] and [[Info/Locations/Other Realms/Darnow_Hollow\|Darnow_Hollow]] chapel.
 
 ## Notes
-- **[[Session 009a\|Session 009a]]**: Emerged from the chapel shadows in [[Info/Characters/Party/Periwyn\|Periwyn]]'s vision, pleading for redemption, and upon defeat, collapsed into light rather than ash.
+- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a]]**: Emerged from the chapel shadows in [[Info/Characters/Party/Periwyn\|Periwyn]]'s vision, pleading for redemption, and upon defeat, collapsed into light rather than ash.

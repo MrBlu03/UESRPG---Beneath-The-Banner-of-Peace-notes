@@ -4,17 +4,20 @@
 
 # Varran
 
+> *"The coin whispers... it smells of sulfur and stone, but it spends just the same!"*
+
 ## Description
-A rogue [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Silverroad]] courier and cult agent caught smuggling enchanted brimstone-tainted gold through the markets of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. An Imperial man in his mid-50s, he operated as a buyer who flooded the city with strange coins on behalf of a mysterious entity known as the Grand Architect.
+A panicked, low-level courier and distributor for the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult_of_Clavicus_Vile]] operating in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Tasked with circulating sulfurous, counterfeit Brimstone Septims through market taverns and street dealers, he was pursued into the sewers, captured by [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The Fangs]], and subjected to intense interrogation. Severely mentally fractured by Daedric resonance, he was placed under the custody of [[Info/Characters/NPCs/The_Vestige\|The_Vestige]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Broke [[Info/Characters/NPCs/The_Vestige\|the Vestige]]'s nose during a violent interrogation before being subdued and traumatized by the Wailing Prison.
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Attempted to turn him into a double agent and confiscated his Daedric speaking stone.
-- **[[Info/Characters/NPCs/Adda\|Adda]]**: Tended to his fractured mental state after his traumatic interrogation.
+- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Interrogated him with terrifying psychic force and relocated him into the pocket realm of [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]] to prevent cult retribution.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Cornered and tackled him in the muck of the [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad_Sewers]].
+- **[[Info/Characters/NPCs/Vaelin_Marr\|Vaelin_Marr]]**: His shadowy corporate employer who used him as an expendable distributor.
 
 ## Location
-- Interrogated in the sewers beneath [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], currently recovering in the Crows' Wood.
+- Detained in protective custody within the Daedric pocket realm of [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]].
 
 ## Notes
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Followed by the party through the [[Info/Locations/Kjalgrad/Grand_Market_Kjalgrad\|Grand Market]] into the sewers, where he was caught communicating through a Daedric speaking stone. After defiantly fighting and breaking [[Info/Characters/NPCs/The_Vestige\|the Vestige]]'s nose, he was violently subdued and confessed to working for the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild of the Silverroad]], agreeing to become a double agent for [[Info/Characters/Party/Periwyn\|Periwyn]].
-- **[[2 -  Sessions/Session 021\|Session 021]]**: Suffered severe mental trauma from his brief transport into the Wailing Prison by [[Info/Characters/NPCs/The_Vestige\|the Vestige]], rendering him incapable of functioning as a double agent. While recovering under [[Info/Characters/NPCs/Adda\|Adda]]'s care in the Crows' Wood, he provided limited structural information about the guild and accompanied [[Info/Characters/Party/Periwyn\|Periwyn]] back to the sewers to safely retrieve the Daedric speaking stone.
+- **[[2 -  Sessions/Session 020\|Session 020]]**: Pursued into the [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad Sewers]] by the party after circulating counterfeit coin in the market. Cornered alongside a summoned Daedroth and captured alive with a satchel of brimstone-smelling gold.
+- **[[2 -  Sessions/Session 021\|Session 021]]**: Interrogated by [[Info/Characters/NPCs/The_Vestige\|The Vestige]] and [[Info/Characters/Party/Durov\|Durov]]; his [[Info/Findings & Items/Relics & Evidence/Daedric Speaking Stone\|Daedric Speaking Stone]] was confiscated, revealing communications with cult handlers. Traumatized and babbling, he was ushered into [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]] for safekeeping.
+- **[[2 -  Sessions/Session 023\|Session 023]]**: Documents and coin molds seized during the raid on the cult counting-house matched the exact weight and sulfurous alloy Varran had been circulating, validating his interrogation confessions.

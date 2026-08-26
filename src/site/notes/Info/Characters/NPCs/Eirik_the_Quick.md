@@ -16,7 +16,7 @@ Eirik the Quick is a famously agile and perpetually running Nord courier in [[In
 
 ## Notes
 - **[[2 -  Sessions/Session 003\|Session 003]]**: Flagged down the party in [[Info/Locations/The Rift/Riften\|Riften]] to deliver a message from the mortician [[Info/Characters/NPCs/Sigrid\|Sigrid]].
-- **[[2 -  Sessions/Session 005\|Session 005]]**: Delivered a summons to the party from [[Hjar_of_Clan_Black-Foot\|Hjar of Clan Black-Foot]] instructing them to meet at the stables.
+- **[[2 -  Sessions/Session 005\|Session 005]]**: Delivered a summons to the party from [[Info/Characters/NPCs/Hjar\|Hjar of Clan Black-Foot]] instructing them to meet at the stables.
 - **[[2 -  Sessions/Session 009\|Session 009]]**: Was briefly spotted standing still for once by [[Info/Characters/Party/Kirya\|Kirya]] outside [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil Keep]].
 - **[[2 -  Sessions/Session 010\|Session 010]]**: Effortlessly dodged [[Info/Characters/Party/Onasha\|Onasha]]'s attempt to trip him, inspiring her ongoing personal challenge to successfully trip him.
 - **[[2 -  Sessions/Session 011\|Session 011]]**: Sped past the party twice more in [[Info/Locations/The Rift/Riften\|Riften]], leaping over [[Info/Characters/Party/Onasha\|Onasha]]'s repeated attempts to trip him.

@@ -13,7 +13,7 @@ A gifted twin skald traveling with her sister [[Info/Characters/NPCs/Senya\|Seny
 - **[[Info/Characters/Party/Kirya\|Kirya]]**: Arranged to stay and teach her local instruments.
 
 ## Location
-- Performs in taverns across the Rift and [[Info/Locations/Falderstad/Falderstad\|Falderstad]], such as [[The Soggy Beaver\|The Soggy Beaver]].
+- Performs in taverns across the Rift and [[Info/Locations/Falderstad/Falderstad\|Falderstad]], such as [[Info/Locations/Falderstad/Soggy_Beaver\|The Soggy Beaver]].
 
 ## Notes
 - **[[2 -  Sessions/Session 008\|Session 008]]**: Told the party the tale of [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]] and [[Info/Characters/NPCs/Lagertha\|Lagertha]].

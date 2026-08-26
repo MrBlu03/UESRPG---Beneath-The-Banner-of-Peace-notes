@@ -8,7 +8,7 @@
 A survivor from the [[Info/Locations/The Rift/Greenwall\|Greenwall]] incident who took shelter in an overgrown hunting lodge after being severely wounded.
 
 ## Relationships
-- **[[Unknown\|Unknown]]**: A victim of the creature roaming the northern forests.
+- **Unknown**: A victim of the creature roaming the northern forests.
 
 ## Location
 - Found taking refuge in the [[Info/Locations/The Rift/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]].
