@@ -102,14 +102,14 @@
 
 ### New
 - **[[Info/Quests/The_Skin_Changer_Jarl\|The Burning of Yarls Hall]]**: [[Info/Characters/Party/Onasha\|Onasha]] set fire to the hall in revenge. The physical and political fallout of this arson must be managed.
-- **[[Info/Quests/Jean_Pierre_LaRoche_Missing\|The Mesa Lead]]**: The missing merchant's journal scraps indicate the mesa is a key location. Investigate what is happening there.
+- **[[Jean_Pierre_LaRoche_Missing\|The Mesa Lead]]**: The missing merchant's journal scraps indicate the mesa is a key location. Investigate what is happening there.
 
 ### In Progress
 - **[[Info/Quests/The_Witch_of_the_Woods\|The Hag Raven Feather]]**: [[Info/Characters/NPCs/The_Vestige\|The Vestige]] is still on route to retrieve it.
 - **[[Info/Quests/Assault_Main_Facility\|Assault the Main Facility North of Kjalgrad]]**: Ward dispelling plan (varnish or [[Info/Characters/NPCs/Father_Aldric\|Father_Aldric]]) is still in preparation.
 - **[[Info/Quests/The_Skin_Changer_Jarl\|The Skin-Changer Jarl]]**: Still on the throne inside the burning [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Yarls Hall]].
 - **[[Info/Quests/Coiled_Serpent_Conspiracy\|The Coiled Serpent / Guild Corruption]]**: Docked pay, strange gold, and corrupt officials.
-- **[[Info/Quests/Jean_Pierre_LaRoche_Missing\|Missing People]]**: [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRoche]] and other merchants remain missing.
+- **[[Jean_Pierre_LaRoche_Missing\|Missing People]]**: [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRoche]] and other merchants remain missing.
 
 ---
 
