@@ -2,28 +2,22 @@
 {"dg-publish":true,"permalink":"/info/lore/arkay/"}
 ---
 
+# Arkay (Lord of the Wheel of Life and Death)
 
-# Arkay
+## Overview
+One of the Eight/Nine Divines, **Arkay** governs the natural cycles of birth, life, and mortal death. He is the patron of morticians, consecrated burials, and the enemy of necromancy and undead abominations.
 
-## Basic Information
-- **Type**: Divine
-- **Domain**: Death, burial, and the cycle of life
-- **Status**: Divine being
+## Significance & Cults
+- **[[Info/Organizations/Religious/Knights_of_Arkay\|Knights_of_Arkay]]**: Holy chivalric order of paladins and warrior-priests sworn to protect the sanctity of life and eradicate the undead. Formerly headquartered at [[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]] where [[Info/Characters/Party/Periwyn\|Periwyn]] trained under [[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]].
+- **[[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]]**: Sacred crypts in Riften consecrated to Arkay and maintained by priestess [[Info/Characters/NPCs/Sigrid\|Sigrid]].
 
-## Description
-A divine being associated with death, burial, and the cycle of life. The god of death and burial rites.
-
-## Role in Session 8
-- [[Info/Characters/NPCs/Lagertha\|Lagertha]] did not recognize Arkay or his description
-- The spirits at the haunted lodge looked puzzled when told that the gods don't look at this place
-- Arkay's rite is being used to put the spirits to rest
-- Required components for Arkay's rite: Salt and Iron shard
-
-## Associated Organizations
-- **[[Info/Organizations/Religious/Knights_of_Arkay\|Knights of Arkay]]**: Religious order dedicated to Arkay
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Former member of the [[Info/Organizations/Religious/Knights_of_Arkay\|Knights of Arkay]]
-
-## Notes
-- The haunted lodge lies on ground where no blessing of the gods has ever taken hold
-- The divines have turned their gaze away from the lodge location
-- Arkay's rites are used to properly put spirits to rest
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 028\|Session 028]]
+- [[2 -  Sessions/Session 030\|Session 030]]
+- [[2 -  Sessions/Session 031\|Session 031]]

@@ -5,23 +5,21 @@
 # House Dres
 
 ## Overview
-- One of the Great Houses of Morrowind. They have a presence in Skyrim through merchants, ships, and armed escorts.
+One of the five Great Houses of [[Info/Lore/Morrowind\|Morrowind]], notorious across Tamriel for their massive agricultural plantations, salt rice harvests, and brutal slave labor raids into Black Marsh.
 
-## Structure
-- Great House structure.
+## Key Lore & Motivations
+- **[[Info/Characters/Party/Onasha\|Onasha]]'s Past:** Onasha was held in House Dres slavery as a child before escaping seven years ago at age nine, leaving behind her young bond-sister [[Info/Characters/NPCs/Xula\|Xula]].
+- **The Sworn Vow:** Onasha formed a sacred pact with [[Info/Characters/Party/Periwyn\|Periwyn]] to return to Morrowind and liberate Xula and fellow slaves from House Dres captivity.
 
-## Goals and Activities
-- Transporting goods and maintaining their wealth. Their ships have been seen wrecked near the Yorgrim.
+## Notable Events
+- **Ship Movements & Lockbox ([[2 -  Sessions/Session 011\|Session 011]]):** The party recovered a stolen lockbox in Riften containing ledgers linking local smugglers to House Dres merchant ships operating in northern waters.
 
-## Known Members
-- Unnamed guards and merchants.
-
-## Relationships
-- Unrest with the party, causing tension and unease ("the shadows of House Dres now on their minds").
-
-## Locations
-- **Morrowind**: Homeland.
-- **The Yorgrim (Skyrim)**: Location of wrecked House Dres ships.
-
-## Notes
-- The party acquired a lockbox linked to House Dres, prompting Torvald to investigate further. The party encountered Dunmer guards defending wagons linked to the House.
+## Session Mentions
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 016\|Session 016]]
+- [[2 -  Sessions/Session 019\|Session 019]]
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 021\|Session 021]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 029\|Session 029]]

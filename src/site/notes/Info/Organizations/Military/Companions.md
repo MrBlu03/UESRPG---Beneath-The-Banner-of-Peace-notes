@@ -2,42 +2,32 @@
 {"dg-publish":true,"permalink":"/info/organizations/military/companions/"}
 ---
 
+# The Companions (Fallowstone Hall Chapter)
 
-# Companions
+## Overview
+The legendary, ancient warrior brotherhood of Skyrim tracing their lineage to Ysgramor and the Five Hundred Companions. In [[Info/Locations/The Rift/The_Rift\|The_Rift]], they are headquartered at **[[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone Hall]]** under the leadership of Harbinger **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]]**.
 
-## Description
-The [[Info/Organizations/Military/Companions\|Companions]] are a group of Nord warriors who follow the traditions of Ysgramor. They typically operate in The Rift region and are known for their combat prowess.
+## Key Members & Associated Figures
+- **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]]**: Revered Harbinger of Fallowstone Hall.
+- **[[Info/Characters/NPCs/Beitild_the_Unwavering\|Beitild the Unwavering]] & [[Info/Characters/NPCs/Olen_the_Mer-Killer\|Olen the Mer-Killer]]**: Veteran warriors who fell in battle at Greenwall.
+- **[[Info/Characters/NPCs/Hillevi\|Hillevi]]**: Dedicated Companion healer.
 
-## Key Features
-- Nord warrior organization
-- Capable of mounting military operations
-- Based out of [[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone Hall]]
-- Experienced in combat against supernatural threats
-- Members seek glory and entrance to Sovngarde
-- Their homeland is now a frozen wasteland
-- They operate from a large mead hall
+## Operations & Notable Events
+- **Siege & Liberation of Fort Greenwall ([[2 -  Sessions/Session 003\|Session 003]] – [[2 -  Sessions/Session 007\|Session 007]]):** Mustered forces to besiege the vampire-occupied fortress of Greenwall. After suffering heavy casualties in an initial ambush, Harbinger Vigrod coordinated with the Fangs of Fjelhorst to breach the keep, eradicate the coven, and extract the Harrowstorm core.
+- **Honoring the Fallen ([[2 -  Sessions/Session 007\|Session 007]]):** Celebrated solemn victory toasts and funeral pyres for their fallen comrades across the Rift.
 
-## Known Members
-- [[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]]: Leader of a regiment near [[Info/Locations/The Rift/Greenwall\|Greenwall]]
-- [[Info/Characters/NPCs/Hillevi\|Hillevi]]: Warrior and healer who has been with the Companions for 6 years
-
-## Organization Structure
-- Members are either descendants of the original companions or recruits who follow Ysgramor's traditions
-- They maintain Nord warrior traditions and fighting styles
-- Members join seeking glory, entrance to Sovngarde, and to help people
-
-## Current Activities
-- Established a war camp near [[Info/Locations/The Rift/Greenwall\|Greenwall]] to combat the vampire threat
-- Successfully used trebuchets to attack [[Info/Locations/The Rift/Greenwall\|Greenwall]] during [[2 -  Sessions/Session 006\|Session 6]]
-- Attempting to coordinate military actions against the vampires
-
-## Key Events
-- **[[2 -  Sessions/Session 005\|Session 005]]**: Their war camp was devastated by vampires
-- Regiment under [[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]] suffered heavy losses
-- **[[2 -  Sessions/Session 006\|Session 006]]**: Provided trebuchet fire as a distraction while the party infiltrated [[Info/Locations/The Rift/Greenwall\|Greenwall]]
-- Assisted in lifting the vampire's darkness from [[Info/Locations/The Rift/Greenwall\|Greenwall]]
-
-
-## Related Locations
-- [[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone Hall]]: Their base of operations
-- [[Info/Locations/The Rift/Greenwall\|Greenwall]]: Site of their recent military campaign
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 006\|Session 006]]
+- [[2 -  Sessions/Session 007\|Session 007]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 010\|Session 010]]
+- [[2 -  Sessions/Session 010a (downtime)\|Session 010a (downtime)]]
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 017\|Session 017]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 023\|Session 023]]
+- [[2 -  Sessions/Session 024\|Session 024]]
+- [[2 -  Sessions/Session 031\|Session 031]]

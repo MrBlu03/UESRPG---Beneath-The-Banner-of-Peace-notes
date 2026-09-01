@@ -5,14 +5,18 @@
 # M'aiq the Liar
 
 ## Description
-An enigmatic, seemingly immortal wandering Khajiit who roams the roads of Tamriel offering surreal, philosophical, and humorous commentary on world affairs, taxes, and oddly specific topics like kerchiefs.
+An enigmatic, nomadic Khajiit dressed in bright orange-yellow robes who wanders the highways and wilderness of [[Skyrim\|Skyrim]]. He speaks in bizarre, humorous riddles, fourth-wall-breaking observations, and profound non-sequiturs before abruptly disappearing into the landscape.
 
 ## Relationships
-- **[[Info/Characters/Party/Kirya\|Kirya]]**: Exchanged bemused remarks on his bizarre statements during travels.
+- Unaffiliated with any political faction; encounters travelers across the roads.
 
 ## Location
-- Found randomly strolling the wilderness roads across [[Info/Locations/The Rift/The_Rift\|The Rift]] and Eastmarch.
+- Wandering roads between **[[Info/Locations/The Rift/Riften\|Riften]]**, **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]**, and the northern wilds.
 
 ## Notes
-- **[[2 -  Sessions/Session 010\|Session 010]]**: Suddenly appeared at the party's hunting camp in the forest clearing, rambling cryptically about disliking taxes and being tired, before vanishing as mysteriously as he arrived.
-- **[[2 -  Sessions/Session 013\|Session 013]]**: Encountered near midday on the harsh winter road to [[Info/Locations/Falderstad/Falderstad\|Falderstad]], wearing orange-yellow robes. He rambled to the party about kerchiefs, dark elves, and marriage being "hands in chains" before disappearing into the squall.
+- **Camp Encounter ([[2 -  Sessions/Session 010\|Session 010]]):** Appeared unannounced out of the forest at the party's stag-hunting camp, delivered cryptic remarks, and vanished without leaving tracks.
+- **Highway Ramblings ([[2 -  Sessions/Session 013\|Session 013]]):** Encountered on the snowy trail between Riften and Falderstad under hoarfrost, rambling about kerchiefs, Dark Elves, and marriage (*"hands in chains"*).
+
+## Session Mentions
+- [[2 -  Sessions/Session 010\|Session 010]]
+- [[2 -  Sessions/Session 013\|Session 013]]

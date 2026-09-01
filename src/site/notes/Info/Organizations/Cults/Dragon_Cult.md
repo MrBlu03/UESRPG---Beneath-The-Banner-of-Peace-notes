@@ -5,22 +5,16 @@
 # Dragon Cult
 
 ## Overview
-The ancient, tyrannical priesthood that ruled Skyrim during the Merethic Era in service to dragons. While long overthrown, their draugr retainers, warded barrows, and enchanted masks remain potent and active.
+The ancient First Era priesthood and dragon-worshipping ruling caste of prehistoric Skyrim, whose preserved dragon priests and draugr retainers still inhabit mountain barrows and ruins across the province.
 
-## Structure
-Hierarchical dragon priesthood led by masked Dragon Priests wielding immense Thu'um mastery and necromantic powers.
+## Key Members & Associated Figures
+- **Ancient Dragon Priests & Draugr Lords**: Slumbering guardians of ancient barrows.
 
-## Goals and Activities
-Preserving ancient dragon worship and resurrecting fallen masters.
+## Relics & Notable Events
+- **Ruins of Mount Fjelhorst ([[2 -  Sessions/Session 003\|Session 003]]):** Hunter [[Info/Characters/NPCs/Eydis\|Eydis]] recounted ancient lore of Dragon Cult ruins atop Mount Fjelhorst.
+- **Dragon Script Parchments ([[2 -  Sessions/Session 007\|Session 007]], [[2 -  Sessions/Session 009\|Session 009]]):** Ancient dragon-tongue scrolls carried by [[Info/Characters/Party/Onasha\|Onasha]] were translated by the [[Info/Characters/NPCs/Talking_Fox\|Talking_Fox]], hinting at dragon-era destinies.
 
-## Known Members
-- [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]]: Ancient warlord draugr entombed beneath the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]].
-
-## Relationships
-- Ancient adversaries of free mortals.
-
-## Locations
-- [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]], [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]]
-
-## Notes
-- **[[2 -  Sessions/Session 008\|Session 008]]-**[[2 -  Sessions/Session 009\|Session 009]]**: The party battled draugr in the barrow beneath the haunted lodge, recovering an authentic Dragon Cult mask.
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]

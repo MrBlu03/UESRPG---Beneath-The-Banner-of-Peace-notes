@@ -2,19 +2,13 @@
 {"dg-publish":true,"permalink":"/info/lore/sithis/"}
 ---
 
-# Sithis
+# Sithis (The Dread Father / The Void)
 
 ## Overview
-The primordial Force of Chaos, Entropy, and the Void, revered as the Dark Father by the Dark Brotherhood and the Saxhleel of Black Marsh.
+The primordial cosmic embodiment of Chaos, change, and the Void. Worshipped by the [[Info/Organizations/Criminal/Dark_Brotherhood\|Dark_Brotherhood]] and reverenced by the Saxhleel of the [[Info/Organizations/Other/Blacktongue_Tribe\|Blacktongue_Tribe]].
 
 ## Significance
-Underlies the religious practices of the Blacktongue Tribe and the sacred contracts of the Dark Brotherhood.
+- Invoked during Black Sacrament assassination rituals and revered by Shadowscales such as [[Info/Characters/NPCs/Milos\|Milos]].
 
-## Connections
-- [[Info/Organizations/Criminal/Dark_Brotherhood\|Dark_Brotherhood]]
-- [[Info/Organizations/Other/Blacktongue_Tribe\|Blacktongue_Tribe]]
-- [[Info/Characters/Party/Onasha\|Onasha]]
-- [[Info/Characters/NPCs/Milos\|Milos]]
-
-## Notes
-- Recorded in campaign journals and historical treatises consulted by [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]].
+## Session Mentions
+- [[2 -  Sessions/Session 006\|Session 006]]

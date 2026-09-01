@@ -2,18 +2,18 @@
 {"dg-publish":true,"permalink":"/info/lore/bruma/"}
 ---
 
-# Bruma
+# Bruma (County Bruma)
 
 ## Overview
-A mountainous Colovian city situated in northern Cyrodiil near the Skyrim border in the Jerall Mountains.
+The northernmost city in [[Info/Lore/Cyrodiil\|Cyrodiil]], nestled high in the Jerall Mountains near the southern border of Skyrim. It features distinct Nordic-Colovian architecture and culture.
 
-## Significance
-Homeland of the noble Colovian house whose two-headed eagle crest is borne upon Durov's shield.
+## Key Figures & Lineage
+- **[[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]]**: Hails from Bruma, carrying a shield emblazoned with the eagle **Crest of Bruma**; son of blacksmith [[Info/Characters/NPCs/Colleux\|Colleux]] and [[Info/Characters/NPCs/Leona\|Leona]].
+- **Legion Veterans**: Connected to [[Info/Characters/Party/Durov\|Durov]]'s amnesiac memories of mountain garrison campaigns.
 
-## Connections
-- [[Info/Lore/Cyrodiil\|Cyrodiil]]
-- [[Info/Characters/Party/Durov\|Durov]]
-- [[Info/Organizations/Military/Imperial_Legion\|Imperial_Legion]]
-
-## Notes
-- Recorded in campaign journals and historical treatises consulted by [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]].
+## Session Mentions
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 023\|Session 023]]
+- [[2 -  Sessions/Session 028\|Session 028]]

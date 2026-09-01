@@ -5,22 +5,10 @@
 # House Indoril
 
 ## Overview
-- One of the Great Houses of Morrowind.
+The deeply orthodox, pious Great House of [[Info/Lore/Morrowind\|Morrowind]] intimately entwined with the Tribunal Temple, holding ancestral authority over sacred sites and traditional Dunmer customs.
 
-## Structure
-- Great House structure.
+## Associated Figures & Cover Identities
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige (Sadrith Indoril)]]**: Adopted the noble surname Indoril as his disguise in Kjalgrad to move discreetly through high-society and merchant circles.
 
-## Goals and Activities
-- Unknown.
-
-## Known Members
-- **[[Info/Characters/NPCs/The_Vestige\|Sadrith Indoril]]**: A man encountered by the party seated at a table amidst maps and notes. However, the party suspects this name is merely an alias and does not truly belong to him.
-
-## Relationships
-- Unknown.
-
-## Locations
-- **Morrowind**: Homeland.
-
-## Notes
-- Mentioned briefly in relation to a mysterious man using the name [[Info/Characters/NPCs/The_Vestige\|Sadrith Indoril]].
+## Session Mentions
+- [[2 -  Sessions/Session 020\|Session 020]]

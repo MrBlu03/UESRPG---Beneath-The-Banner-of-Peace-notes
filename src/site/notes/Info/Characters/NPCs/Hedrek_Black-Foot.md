@@ -5,14 +5,17 @@
 # Hedrek Black-Foot
 
 ## Description
-A representative of the exiled [[Info/Organizations/Guilds/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]]. Following his guild's ouster from [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] by the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], he operates from the shadows.
+A representative of the exiled [[Info/Organizations/Guilds/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Silla_Fenmark\|Silla_Fenmark]]**: His partner in the exiled guild's operations.
-- **[[Info/Characters/Party/Durov\|Durov]]**: Hired him to investigate their rivals.
+- **[[Info/Characters/NPCs/Silla_Fenmark\|Silla_Fenmark]]**: Fellow representative of the displaced Black-Foot merchants.
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige / Sadrith Indoril]]**: Allowed Sadrith to utilize the abandoned Black-Foot guildhouse as a safehouse.
 
 ## Location
-- Operates out of a counting-room above a warehouse near [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]'s outer market.
+- **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]** (Grand Market and Old Blackfoot Merchants Guild House).
 
 ## Notes
-- **[[2 -  Sessions/Session 020\|Session 020a]]**: Intercepted [[Info/Characters/Party/Durov\|Durov]] in the [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] market and led him to a secret counting-room. Along with [[Info/Characters/NPCs/Silla_Fenmark\|Silla_Fenmark]], he revealed how the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] forcefully ousted them and hired [[Info/Characters/Party/Durov\|Durov]] to observe the rival guild's unnatural rise to prosperity.
+- **Guild Inquiries ([[2 -  Sessions/Session 020\|Session 020]]):** Encountered alongside [[Info/Characters/NPCs/Silla_Fenmark\|Silla_Fenmark]] near the market, providing background regarding the displacement of their guild and the squatter presence of Sadrith in their old guild premises.
+
+## Session Mentions
+- [[2 -  Sessions/Session 020\|Session 020]]

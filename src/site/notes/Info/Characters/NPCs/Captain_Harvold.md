@@ -5,16 +5,22 @@
 # Captain Harvold
 
 ## Description
-The steadfast guard captain of [[Info/Locations/The Rift/Riften\|Riften]] barracks. He maintains order in the city and coordinates with mercenaries to handle threats that stretch beyond the guard's typical duties.
+The dutiful and seasoned captain of the [[Info/Locations/The Rift/Riften\|Riften]] City Guard, stationed at the main barracks and city jail. He is a pragmatic military officer who respects effective adventurers and maintains law and order across the city.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]**: Serves her directly, advising the party to report significant findings to her.
-- **[[Info/Characters/NPCs/Alaric\|Alaric]]**: The bandit he took into custody.
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Serves as her city guard captain in Riften.
+- **[[Info/Characters/NPCs/Sigrid\|Sigrid]]**: Coordinates with the city mortician at the Hall of the Dead regarding deceased victims and forensic investigations.
+- **The Fangs of Fjelhorst**: Frequently works with the party, receiving prisoners, paying bounties, and facilitating dungeon interrogations.
 
 ## Location
-- Commands from the city barracks and jail in [[Info/Locations/The Rift/Riften\|Riften]].
+- Guard Barracks, Jail, and City Gates in **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 001\|Session 001]]**: Took the captured bandit [[Info/Characters/NPCs/Alaric\|Alaric]] into custody, paid the party's bounty, and urged them to report the suspicious serpent mark directly to the Queen.
-- **[[2 -  Sessions/Session 002\|Session 002]]**: Directed the party to bring the corpse of [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]] to the morgue.
-- **[[2 -  Sessions/Session 011\|Session 011]]**: Offered free drinks at the [[Info/Locations/The Rift/Amber_Keg\|Amber_Keg]] to the party if they could successfully interrogate the captured Dunmer smuggler in the dungeons.
+- **Bandit Bounty & Serpent Seal ([[2 -  Sessions/Session 001\|Session 001]]):** Took captured highwayman [[Info/Characters/NPCs/Alaric\|Alaric]] into custody, paid the party's bounty, and recognized the dangerous implications of the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]] wax seal, urging the party to report directly to Queen Freidr.
+- **Corpse Intake ([[2 -  Sessions/Session 002\|Session 002]]):** Recognized the name of murdered merchant [[Info/Characters/NPCs/Adrith_Velan\|Adrith Velan]] when his corpse was recovered from the dam, immediately routing the body to [[Info/Characters/NPCs/Sigrid\|Sigrid]] at the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall of the Dead]] for autopsy.
+- **Dungeon Interrogation ([[2 -  Sessions/Session 011\|Session 011]]):** Facilitated the party's access to dungeon prisoners for interrogation, offering to buy them drinks at the [[Info/Locations/The Rift/Amber_Keg\|Amber Keg]] in recognition of their assistance.
+
+## Session Mentions
+- [[2 -  Sessions/Session 001\|Session 001]]
+- [[2 -  Sessions/Session 002\|Session 002]]
+- [[2 -  Sessions/Session 011\|Session 011]]

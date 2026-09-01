@@ -2,40 +2,40 @@
 {"dg-publish":true,"permalink":"/info/characters/np-cs/the-vestige/"}
 ---
 
-# The Vestige (Sadrith Indoril / Crow Father)
-
-> *"A shadow cast across two worlds—patron of the Blackfeather Court, wanderer of Oblivion, and dismantler of Daedric conspiracies."*
+# The Vestige (Crowfather / Sadrith Indoril)
 
 ## Description
-The Vestige is an extraordinary, legendary entity operating across Tamriel and Oblivion. Bound to planar courts and revered by the [[Info/Organizations/Cults/Blackfeather Court\|Blackfeather Court]] as the enigmatic Crow Father, he walks the mortal realm under the identity of the Dunmer Sadrith Indoril. Wielding profound magical mastery, ancient planar authority, and deadly precision, he works from the shadows to unravel Daedric plots—specifically countering the manipulations of [[Info/Lore/Clavicus_Vile\|Clavicus Vile]], [[Info/Lore/Molag_Bal\|Molag Bal]], and [[Info/Organizations/Cults/Clan_Volkihar\|Clan Volkihar]]. Though enigmatic and demanding, he acts as an indispensable patron, mentor, and battle ally to [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The Fangs of Fjelhorst]].
-
-*(Note: The Vestige / Sadrith Indoril is completely separate from his Argonian operative and egg-brother [[Info/Characters/NPCs/Milos\|Milos]].)*
+A legendary 112-year-old Dunmer hero of the Planemeld who once traversed Coldharbour and fought Molag Bal. Because his soul remains anchored in Coldharbour, he is a soul-shorn **Vestige**—effectively immortal, re-materializing whenever slain. Known in occult circles as the **Crowfather**, he commands a murder of independent Daedric crows former to Nocturnal. In [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], he adopted the alias **Sadrith Indoril** and partnered with Dark Brotherhood assassin [[Info/Characters/NPCs/Milos\|Milos]] to dismantle the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Milos\|Milos]]**: Trusted Argonian operative, assassin, and shadow ally who coordinates intelligence and covert strikes.
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Shares an intricate mentor-student dynamic shaped by visions; calls her "little flower," guided her in necromantic philosophy, and sternly demands noble accountability for her crusader oaths.
-- **[[Info/Characters/Party/Kirya\|Kirya]]**: Gifted her an enchanted protective black feather and bid her a fond farewell when she departed [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
-- **[[Info/Characters/Party/Durov\|Durov]]**: Fought shoulder-to-shoulder in the [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad Sewers]] against a rampaging Daedroth; trusts his martial prowess and pragmatic judgment.
-- **[[Info/Characters/Party/Onasha\|Onasha]]**: Provided arcane guidance regarding planar rifts, Dovahzul translations, and Daedric memory anchors.
-- **[[Info/Characters/NPCs/Baron_Jangleplume\|Baron_Jangleplume]]**: High-ranking aristocrat and feathered envoy within his corvid court.
-- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]]**: Maintains contact with the ancient Breton archmagus regarding apocalyptic prophecies and vampire bloodlines.
+- **[[Info/Characters/NPCs/Milos\|Milos]]**: Argonian Dark Brotherhood assassin and trusted field partner in regional covert operations.
+- **The Fangs of Fjelhorst**: Forged a pact of mutual aid, providing safehouses, tactics, and magic tinctures.
+- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]] & [[Info/Characters/NPCs/Adda\|Adda]]**: Maintains active arcane correspondence via birds and portals.
+- **[[Info/Characters/NPCs/Baron_Jangleplume\|Baron_Jangleplume]]**: Commander of the Blackfeather Court crow emissaries.
 
 ## Location
-- Operates from hidden bases including the [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]], ancient Dwemer ruins outside [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], and the planar pocket realm of [[Info/Locations/Other Realms/Crows_Wood\|Crow's Wood]].
+- **[[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]]**, **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**, and the Dwemer facility at **[[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 004\|Session 004]]**: First tied to the campaign lore through the mysterious black feathers recovered by [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Kirya\|Kirya]]'s background, linked to [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]]'s research into the [[Info/Organizations/Cults/Blackfeather Court\|Blackfeather Court]] and the realms of [[Info/Lore/Nocturnal\|Nocturnal]].
-- **[[2 -  Sessions/Session 010\|Session 010]]**: Manifested cryptically in [[Info/Characters/Party/Periwyn\|Periwyn]]'s coma visions following the haunted lodge ordeal as the "Crow Father," establishing a psychic connection that spurred the party's investigation into corvid omens.
-- **[[2 -  Sessions/Session 014\|Session 014]]**: Corvid watchers observed the party near [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. A large black crow spoke in the voice of the stranger in black, confirming the Crow Father's watchful gaze and leaving enchanted feathers of protection.
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Confronted the party under his Dunmer guise as Sadrith Indoril in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. After being challenged by [[Info/Characters/Party/Kirya\|Kirya]], he shed his disguise to reveal his true identity as the Crow Father / Vestige. Entered a formal alliance with [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The Fangs]], brutally interrogated the cultist [[Info/Characters/NPCs/Varran\|Varran]] in the sewers, and slew a summoned Daedroth alongside [[Info/Characters/Party/Durov\|Durov]].
-- **[[2 -  Sessions/Session 021\|Session 021]]**: Met with the party at [[Info/Locations/Kjalgrad/Frost_Gate_Hall\|Frost Gate Hall]], analyzed the seized [[Info/Findings & Items/Relics & Evidence/Daedric Speaking Stone\|Daedric Speaking Stone]], confirmed its Oblivion connection to [[Info/Lore/Clavicus_Vile\|Clavicus_Vile]], and safely transported the traumatized [[Info/Characters/NPCs/Varran\|Varran]] into [[Info/Locations/Other Realms/Crows_Wood\|Crow's Wood]].
-- **[[2 -  Sessions/Session 022\|Session 022]]**: Instructed the party to infiltrate the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild of the Silverroad]] while he mobilized his network of crows to monitor guildmaster [[Info/Characters/NPCs/Vaelin_Marr\|Vaelin Marr]].
-- **[[2 -  Sessions/Session 023\|Session 023]]**: Dispatched a crow carrying a riddle-inscribed parchment (*"Seek the knot where stone weeps; seek the knowledge of dust and dried ink"*) directing the party toward his hideout at the [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]].
-- **[[2 -  Sessions/Session 023b\|Session 023b]]**: Maintained communications with the party's scouts, linking the secret coordinates seized from Marr's office with the cult's underground logistics trail.
-- **[[2 -  Sessions/Session 025\|Session 025]]**: Welcomed the party to the Barrow of the Oath-Breaker King alongside [[Info/Characters/NPCs/Milos\|Milos]]. Analyzed the stolen Daedric stone, confirming it served as a memory anchor for a mimicry Daedra that had replaced the Jarl of Kjalgrad, and opened his alchemical workshop to the party.
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Returned battered and bloodied from an exhaustive reconnaissance of the cult's main facility north of the city. Agreed to personally journey west to obtain a hagraven feather from [[Info/Characters/NPCs/The_Witch_of_the_Woods\|The Witch of the Woods]] for a ward-dissolving varnish. Bid farewell to [[Info/Characters/Party/Kirya\|Kirya]], instructing her to keep her protective black feather safe.
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Traveled across the rugged western crags to secure the hagraven feather while the party assaulted the mesa and uncovered cult tunnels.
-- **[[2 -  Sessions/Session 028\|Session 028]]**: Emerged from the shadows near the burning [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]] to secure the captured Dremora steward [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]], escorting the prisoner down into the sewer safehouse.
-- **[[2 -  Sessions/Session 029\|Session 029]]**: Awakened [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Periwyn\|Periwyn]] when Darius Caro regained consciousness. Conducted a calculated interrogation and held an earnest discussion with [[Info/Characters/Party/Periwyn\|Periwyn]] about mastering one's hatred and the burden of duty.
-- **[[2 -  Sessions/Session 030\|Session 030]]**: Sheltered the party in an abandoned Dwemer ruin; guided [[Info/Characters/Party/Periwyn\|Periwyn]] to a frozen lake to instruct her in the ethics and practical mechanics of necromantic energy; concocted the hagraven-feather ward-dissolving varnish; sharply reprimanded [[Info/Characters/Party/Periwyn\|Periwyn]] that as a knight of the Circle and noble scion, she cannot shirk moral accountability.
-- **[[2 -  Sessions/Session 031\|Session 031]]**: Applied the hagraven-feather varnish to dissolve the arcane wards sealing the cult facility's secondary blast doors. Guided the party through steam-belching Dwemer ventilation shafts into the Central Ritual Chamber. While the party engaged [[Info/Characters/NPCs/The_Xivilai\|The Xivilai]] and rescued captives including [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]], the Vestige single-handedly slaughtered cultist reinforcements in the adjoining hall. Debriefed the party after the counterfeit coin ritual was dismantled.
+- **Identity Revealed & Sewer Deal ([[2 -  Sessions/Session 020\|Session 020]], [[2 -  Sessions/Session 021\|Session 021]]):** Tracked by the party under a false bounty placed by steward [[Info/Characters/NPCs/Darius_Caro\|Darius Caro]]; revealed his true identity as The Vestige in the old Black-Foot guildhouse. Assisted the party in the sewers against Daedric beasts and turned distributor [[Info/Characters/NPCs/Varran\|Varran]] into an asset.
+- **Memory Stone & Infiltration Strategy ([[2 -  Sessions/Session 025\|Session 025]]):** Analyzed the heated [[Info/Findings & Items/Relics & Evidence/Dark Runic Stone\|Dark Runic Stone]], confirming the true Jarl of Kjalgrad was dead and replaced by a mimicry Daedra.
+- **Securing Darius Caro ([[2 -  Sessions/Session 028\|Session 028]]):** Emerged from the forest to secure the defeated Scaafin steward Darius Caro after his escape attempt.
+- **Road Reflections with Durov ([[2 -  Sessions/Session 030\|Session 030]]):** Shared deep discussions with [[Info/Characters/Party/Durov\|Durov]] covering his 112-year lifespan, his soul's nature in Coldharbour, fighting Marjon the vampire 18 years prior in Eastmarch, and the ethics of resurrection.
+- **Assault on the Cult Facility ([[2 -  Sessions/Session 031\|Session 031]]):** Dissolved the potent secondary entrance wards with his hagraven-feather tincture, navigated the party through Dwemer ventilation shafts, cleared an entire adjoining hall of cultists single-handedly, secured the rescued captives, and dispatched messenger crows to summon healer mages for the injured priest of Stendarr.
+
+## Session Mentions
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 010\|Session 010]]
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 021\|Session 021]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 023\|Session 023]]
+- [[2 -  Sessions/Session 023b\|Session 023b]]
+- [[2 -  Sessions/Session 025\|Session 025]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]
+- [[2 -  Sessions/Session 028\|Session 028]]
+- [[2 -  Sessions/Session 029\|Session 029]]
+- [[2 -  Sessions/Session 030\|Session 030]]
+- [[2 -  Sessions/Session 031\|Session 031]]

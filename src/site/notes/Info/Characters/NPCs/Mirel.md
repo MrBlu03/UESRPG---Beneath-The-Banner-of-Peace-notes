@@ -5,13 +5,16 @@
 # Mirel
 
 ## Description
-A tragic, corrupted vampire priest who preserved his deceased family in bone jars, seeking redemption in the afterlife.
+A sorrowful, penitent vampire priest who appeared within [[Info/Characters/Party/Periwyn\|Periwyn]]'s spiritual dreamscape at [[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]].
 
 ## Relationships
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Confronted [[Info/Characters/Party/Periwyn\|Periwyn]] in her dream vision.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Encountered within the dreamscape during Periwyn's inner trial of conscience and grief.
 
 ## Location
-- Spectral entity in [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]] and [[Info/Locations/Other Realms/Darnow_Hollow\|Darnow_Hollow]] chapel.
+- Dream vision of **[[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a]]**: Emerged from the chapel shadows in [[Info/Characters/Party/Periwyn\|Periwyn]]'s vision, pleading for redemption, and upon defeat, collapsed into light rather than ash.
+- **Visions of Redemption ([[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]):** Appeared seeking spiritual absolution rather than bloodlust, challenging Periwyn's perception of undead and the boundary between vengeance, justice, and mercy.
+
+## Session Mentions
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]

@@ -5,13 +5,16 @@
 # Anise
 
 ## Description
-The chief librarian in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], responsible for overseeing the scribes and scholars who work in the archives.
+- No recorded appearance, personality, or traits documented in campaign session notes to date.
 
 ## Relationships
-- **Kjalgrad Residents**: Serves as the chief librarian for the local scholars and scribes.
+- No recorded relationships in campaign session notes to date.
 
 ## Location
-- Found in the library in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Unknown.
 
 ## Notes
-- **[[2 -  Sessions/Session 026\|Session 026]]**: She was present in the library, where she quickly shushed the scribes and scholars when their conversations rose above an acceptable volume.
+- This individual has not yet appeared or been mentioned in the campaign session logs.
+
+## Session Mentions
+- None recorded

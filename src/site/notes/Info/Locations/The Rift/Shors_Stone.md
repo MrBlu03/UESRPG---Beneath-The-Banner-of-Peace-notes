@@ -2,11 +2,21 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/shors-stone/"}
 ---
 
+# Shor's Stone
+
+## Overview
+A historic mining settlement and crossroad village nestled at the southern base of the Velothi Mountains in northern [[Info/Locations/The Rift/The_Rift\|The_Rift]].
+
 ## Description
-A mining village situated in the Rift, lying on the route between Kjalgrad and Riften.
+A small, industrious mountain community built around the rich Redbelly iron and ebony mine, featuring a central blacksmith forge, miners' bunks, and wayfarer taverns.
 
-## Notable NPCs
-- None specified.
+## Key Inhabitants & Associated Figures
+- **Miners & Blacksmiths**: Extract and process iron and ebony ore.
 
-## Key Events
-- **[[2 -  Sessions/Session 019\|Session 019]]**: The party discussed travel plans and marked Shor's Stone as a waypoint on their proposed route from [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] to [[Info/Locations/The Rift/Riften\|Riften]].
+## Notable Events
+- **Travel Route Waystation ([[2 -  Sessions/Session 019\|Session 019]]):** Listed as a key transit stop along the planned overland highway connecting Kjalgrad, Riften, and western Skyrim.
+
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 019\|Session 019]]

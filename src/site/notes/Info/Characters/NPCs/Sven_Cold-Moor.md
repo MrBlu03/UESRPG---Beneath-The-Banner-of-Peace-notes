@@ -5,16 +5,20 @@
 # Sven Cold-Moor
 
 ## Description
-An ancient Nord of [[Info/Organizations/Other/Clan_Cold-Moor\|Clan_Cold-Moor]] who walked into a barrow in grief after the murder of his beloved [[Info/Characters/NPCs/Lagertha\|Lagertha]]. He became an undead draugr controlled by a Dragon Priest, capable of wielding the Thu'um.
+An ancient warrior of [[Info/Organizations/Other/Clan_Cold-Moor\|Clan Cold-Moor]] from centuries past who loved [[Info/Characters/NPCs/Lagertha\|Lagertha]] of Clan Red-Grain. Following the tragic murder of his beloved, Sven walked into the barrow in overwhelming grief, praying to be laid to rest. Instead, an unholy curse trapped his soul within an undead draugr body clad in rusted, mangled iron armor with piercing, glowing blue eyes.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Lagertha\|Lagertha]]**: His beloved, whose murder drove him into the barrow and whose spirit shielded him.
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Whom he abducted to use as a ritual sacrifice.
+- **[[Info/Characters/NPCs/Lagertha\|Lagertha]]**: His eternal love from Clan Red-Grain, whose lingering spirit protected him from complete draugr degeneration.
+- **The Fangs of Fjelhorst**: Consecrated his burial barrow and laid his soul to rest.
 
 ## Location
-- Entombed in the barrow beneath the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]].
+- Master bedroom and burial mound at the **[[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted Hunting Lodge]]** near **[[Info/Locations/The Rift/Kahrus_Hollow\|Kahru's Hollow]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 008\|Session 008]]**: Exploded the lodge door inward as a draugr with glowing blue eyes, demanded the party leave, but relented until morning. 
-- **[[2 -  Sessions/Session 009\|Session 009]]**: Betrayed the party by using the Thu'um (*'Faas. Ru. Maar.'*) to petrify them, abducted [[Info/Characters/Party/Periwyn\|Periwyn]], and was finally laid to rest in a sarcophagus alongside [[Info/Characters/NPCs/Lagertha\|Lagertha]] after the party broke the Dragon Priest's control over him.
-- **[[2 -  Sessions/Session 010\|Session 010]]**: The party officially completed the contract after laying him and [[Info/Characters/NPCs/Lagertha\|Lagertha]] to rest.
+- **Encounter at the Lodge ([[2 -  Sessions/Session 008\|Session 008]]):** Burst into the hunting lodge but did not attack, moving a heavy master bedroom wardrobe to reveal his ancient journal excerpt and pointing to the well where Lagertha's remains lay alongside a small lockbox he requested be burned.
+- **Lifting the Curse ([[2 -  Sessions/Session 009\|Session 009]], [[2 -  Sessions/Session 010\|Session 010]]):** The party consecrated the burial grounds with holy water and sacred ash, laying Sven to rest in the same grave beside [[Info/Characters/NPCs/Lagertha\|Lagertha]] with her necklace, peacefully releasing both spirits from centuries of agony.
+
+## Session Mentions
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 010\|Session 010]]

@@ -4,19 +4,39 @@
 
 # The Rift
 
+## Overview
+The southeastern hold of [[Skyrim\|Skyrim]], characterized by its golden autumn birch forests, rich waterways, and the expansive [[Info/Locations/The Rift/Lake_Honrich\|Lake_Honrich]]. Governed from [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]] in [[Info/Locations/The Rift/Riften\|Riften]] by **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**.
+
 ## Description
-The Rift is one of the Old Holds of southeastern Skyrim, renowned for its golden autumn birch forests, fertile river valleys, and the vast expanse of [[Info/Locations/The Rift/Lake_Honrich\|Lake_Honrich]]. Ruled by [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]] from the fortified capital of [[Info/Locations/The Rift/Riften\|Riften]], the hold controls critical trade corridors connecting Skyrim with Morrowind and Cyrodiil. The region features ancient strongholds, snowy peaks like [[Info/Locations/The Rift/Mount_Fjelhorst\|Mount_Fjelhorst]], and a history deeply tied to the old jarls and the Three Banners War.
+A temperate, golden-hued realm framed by the Jerall Mountains to the south and the Velothi Mountains to the east. Renowned for rich fisheries, timber logging, apiculture, hunting, and ancient Nordic barrows.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Ruler of The Rift, seated in [[Info/Locations/The Rift/Riften\|Riften]].
-- **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]]**: Harbinger of the [[Info/Organizations/Military/Companions\|Companions]], active in the region.
-- **[[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir Stormcrown]]**: Harbinger of the [[Info/Organizations/Religious/Cult_of_Ysmir\|Cult_of_Ysmir]].
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Sovereign ruler of the hold.
+- **[[The_Companions\|The_Companions]] & [[Info/Organizations/Religious/Cult_of_Ysmir\|Cult_of_Ysmir]]**: Historic martial and religious orders.
+- **The Fangs of Fjelhorst**: Royal champions of the Rift.
 
-## Key Events
-- **[[2 -  Sessions/Session 001\|Session 001]]**: The campaign began here with the party investigating a regional water crisis between [[Info/Organizations/Other/Clan_Snow-Shod\|Clan_Snow-Shod]] and [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]].
-- **[[2 -  Sessions/Session 004\|Session 004]]**: The Queen tasked the party with investigating a growing silence across the hold's outposts.
-- **[[2 -  Sessions/Session 006\|Session 006]]**: The party liberated [[Info/Locations/The Rift/Greenwall\|Greenwall]], a major fort in the hold, from an unnatural magical blizzard.
-- **[[2 -  Sessions/Session 013\|Session 013]]**: The party departed the central valleys of the Rift, embarking on a long journey to [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
-- **[[2 -  Sessions/Session 015\|Session 015]]**: The party conducted an inspection of Dunmer merchants on the roads of the Rift.
-- **[[2 -  Sessions/Session 023\|Session 023]]**: [[Info/Characters/NPCs/Vaelin_Marr\|Vaelin_Marr]] produced trade agreements offering priority placement on trade routes through the Rift.
-- **[[2 -  Sessions/Session 025\|Session 025]]**: The party studied old surveyor's texts and sagas of the Rift to map out the location of ancient standing stones and barrows.
+## Notable Events
+- **Campaigns of the Fangs ([[2 -  Sessions/Session 001\|Session 001]] – [[2 -  Sessions/Session 013\|Session 013]]):** Hosted the primary adventures of the party, including the Treva's Bend investigation, the liberation of Fort Greenwall, the cleansing of the Haunted Hunting Lodge, and the defense of Riften's docks.
+
+## Session Mentions
+- [[2 -  Sessions/Session 001\|Session 001]]
+- [[2 -  Sessions/Session 002\|Session 002]]
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 006\|Session 006]]
+- [[2 -  Sessions/Session 007\|Session 007]]
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 010\|Session 010]]
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 013\|Session 013]]
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 019\|Session 019]]
+- [[2 -  Sessions/Session 023\|Session 023]]
+- [[2 -  Sessions/Session 023b\|Session 023b]]
+- [[2 -  Sessions/Session 025\|Session 025]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]

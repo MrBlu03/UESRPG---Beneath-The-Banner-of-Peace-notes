@@ -3,6 +3,7 @@
 ---
 
 
+
 # On the Early Jarls of the Rift
 
 _A damaged chronicle attributed to Brother Vethran of [[Info/Locations/The Rift/Riften\|Riften]]

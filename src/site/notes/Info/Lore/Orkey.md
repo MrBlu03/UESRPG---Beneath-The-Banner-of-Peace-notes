@@ -2,18 +2,13 @@
 {"dg-publish":true,"permalink":"/info/lore/orkey/"}
 ---
 
-# Orkey
+# Orkey (Old Knocker)
 
 ## Overview
-Orkey (Old Knocker) is the Nordic god of death, mortality, and winter gloom, often conflated with [[Info/Lore/Arkay\|Arkay]] or [[Info/Lore/Malacath\|Malacath]] in ancient mythologies.
+The ancient Nordic god of trials, winter hardship, and shortened lifespans, historically viewed as an adversarial deity testing the resilience of men.
 
-## Significance
-Ancient Nords believed Orkey stole their long lifespans through trickery, making him a feared and appeased figure in funerary lore and winter solstices.
+## Cultural Lore
+- Invoked in ancient skald sagas regarding the bitter winter cold, bone rot diseases, and the fortitude needed to survive northern blizzards.
 
-## Connections
-- [[Info/Lore/Arkay\|Arkay]]
-- [[Info/Lore/Malacath\|Malacath]]
-- [[Info/Characters/Party/Periwyn\|Periwyn]]
-
-## Notes
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Mentioned during theological debates between [[Info/Characters/Party/Periwyn\|Periwyn]] and northern scholars discussing the divergence between Imperial [[Info/Lore/Arkay\|Arkay]] devotion and ancient Nordic death gods.
+## Session Mentions
+- [[2 -  Sessions/Session 018\|Session 018]]

@@ -5,15 +5,21 @@
 # Sigrid
 
 ## Description
-The diligent caretaker and mortician of the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] in [[Info/Locations/The Rift/Riften\|Riften]]. She provides vital forensic and toxicological analysis for the city guard and the Queen's court.
+The devoted, methodical mortician and caretaker of the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall of the Dead]] in [[Info/Locations/The Rift/Riften\|Riften]]. She is skilled in post-mortem examination, embalming, and identifying arcane toxins and wound patterns.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]]**: The deceased Dunmer she was tasked with examining.
+- **[[Info/Characters/NPCs/Captain_Harvold\|Captain Harvold]]**: Receives victims from city guard investigations.
+- **[[Info/Characters/NPCs/Ralvard\|Ralvard]]**: Consults the master alchemist on complex toxicological compounds.
+- **The Fangs of Fjelhorst**: Collaborated closely during murder investigations in the Rift.
 
 ## Location
-- Found in the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] in [[Info/Locations/The Rift/Riften\|Riften]].
+- **[[Info/Locations/The Rift/Hall_of_the_Dead\|Hall of the Dead]]** in **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 002\|Session 002]]**: Accepted the corpse of [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]] from the party to study the poison.
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Shared troubling autopsy findings, noting healed scar tissue and an impossibly complex poison, warning the party to tread carefully.
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Tore through her shelves in panic after discovering her autopsy notes on the poisoned Dunmer were stolen without forced entry.
+- **Autopsy of Adrith Velan ([[2 -  Sessions/Session 002\|Session 002]], [[2 -  Sessions/Session 003\|Session 003]]):** Received the poisoned body of Dunmer merchant [[Info/Characters/NPCs/Adrith_Velan\|Adrith Velan]], discovering post-mortem dragging marks and identifying an exotic poison laced with vampire dust, shadow ichor, and twilight venom from Oblivion.
+- **Catacomb Theft ([[2 -  Sessions/Session 012\|Session 012]]):** Distraught when cultists set a diversionary fire in the Ratway to break into the Hall of the Dead, stealing both Adrith Velan's corpse and all of her documented autopsy records.
+
+## Session Mentions
+- [[2 -  Sessions/Session 002\|Session 002]]
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 012\|Session 012]]

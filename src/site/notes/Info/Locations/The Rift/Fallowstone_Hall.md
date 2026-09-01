@@ -4,11 +4,20 @@
 
 # Fallowstone Hall
 
+## Overview
+The legendary, ancient guildhall and sovereign fortress of **[[The_Companions\|The Companions]]** in [[Info/Locations/The Rift/The_Rift\|The_Rift]], serving as their regional seat of martial honor, ancient tradition, and weapon training under Harbinger [[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]].
+
 ## Description
-The revered ancestral sanctuary and headquarters of the [[Info/Organizations/Military/Companions\|Companions]] in the Rift, located in the hills northeast of [[Info/Locations/The Rift/Riften\|Riften]]. It features a massive stone mead hall adorned with dragon bones and ancient Nordic battle trophies, as well as a sacred vault storing ancestral relics and weapons forged in honor of Ysgramor.
+A massive stone and timber mead hall built against the mountain rock, housing extensive armories, trophy halls, sleeping quarters, and ancestral shrines.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]]**: Harbinger of the [[Info/Organizations/Military/Companions\|Companions]] at Fallowstone Hall.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]]**: Revered Harbinger of Fallowstone Hall.
+- **[[Info/Characters/NPCs/Beitild_the_Unwavering\|Beitild]] & [[Info/Characters/NPCs/Olen_the_Mer-Killer\|Olen]]**: Renowned Companion warriors hailing from the hall.
 
-## Key Events
-- **[[2 -  Sessions/Session 003\|Session 003]]**: It was mentioned that the [[Info/Organizations/Military/Companions\|Companions]] of Fallowstone Hall, led by Harbinger [[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]], had established a war camp nearby to rescue the town of [[Info/Locations/The Rift/Greenwall\|Greenwall]] from mysterious vampire threats.
+## Notable Events
+- **Mustering for Greenwall ([[2 -  Sessions/Session 003\|Session 003]], [[2 -  Sessions/Session 005\|Session 005]]):** Harbinger Vigrod mustered the Companions to march against the vampire coven occupying Greenwall, spearheading the regional defense against supernatural incursions.
+
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 005\|Session 005]]

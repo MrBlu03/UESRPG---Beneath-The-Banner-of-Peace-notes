@@ -2,27 +2,25 @@
 {"dg-publish":true,"permalink":"/info/quests/the-witch-of-the-woods/"}
 ---
 
+# The Witch of the Woods
 
-# Periwyn's Solo Witch Hunt
+## Quest Log Summary
+[[Info/Characters/Party/Periwyn\|Periwyn]] undertook a solo morning bounty from the Kjalgrad blacksmith to eliminate a terrifying beast attacking travelers and horses in the western woods, discovering the creature was a sentient Hagraven.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Personal  
-**Assigned Session:** [[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a]]  
-**Completed Session:** [[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a]]  
-**Reward:** Hagraven Feathers, Alchemical Reagents, Spiritual Purity  
+## Objectives & Progression
+- [x] Take the beast bounty from the blacksmith in Kjalgrad ([[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a Periwyns witch hunt]]).
+- [x] Track horse carcasses and feathers into the [[Info/Locations/The Rift/Western_Woods\|Western_Woods]] ([[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a Periwyns witch hunt]]).
+- [x] Locate the warded [[Info/Locations/The Rift/Witchs_Clearing\|Witchs_Clearing]] and confront [[Info/Quests/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]] ([[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a Periwyns witch hunt]]).
+- [x] Parley with the Hagraven and negotiate a monthly food and supply offering in exchange for sparing travelers and respecting territorial boundaries ([[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a Periwyns witch hunt]]).
 
-## Objective
-Track down and destroy the corrupted hagraven coven terrorizing the western borderlands.
+## Key Participants & Factions
+- **[[Info/Characters/Party/Periwyn\|Periwyn Lunclaire]]**
+- **[[Info/Quests/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]]**: Hagraven of the western woods.
 
-## Key NPCs
-  - "[[Info/Characters/Party/Periwyn\|Periwyn]]"
-  - "[[Info/Quests/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]]"
+## Locations Visited
+- [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]
+- [[Info/Locations/The Rift/Western_Woods\|Western_Woods]]
+- [[Info/Locations/The Rift/Witchs_Clearing\|Witchs_Clearing]]
 
-## Key Locations
-  - "[[Info/Locations/The Rift/Western_Woods\|Western_Woods]]"
-  - "[[Info/Locations/The Rift/Witchs_Clearing\|Witchs_Clearing]]"
-  - "[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] ventured alone into the [[Info/Locations/The Rift/Western_Woods\|Western_Woods]], dismantled dark sacrificial totems, and slew [[Info/Quests/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]] in holy combat.
+## Session Mentions
+- [[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a Periwyns witch hunt]]

@@ -2,16 +2,20 @@
 {"dg-publish":true,"permalink":"/info/characters/np-cs/knave-of-rooks/"}
 ---
 
-# The Knave of Rooks
+# Knave of Rooks
 
 ## Description
-A clever, feathered courier and trickster noble of the [[Info/Organizations/Cults/Blackfeather Court\|Blackfeather_Court]], known for speaking in rhyming riddles and assessing the wits of mortals.
+A talking Daedric crow and feathered courtier of the [[Blackfeather_Court\|Blackfeather Court]] hailing from [[Evergloam\|Evergloam]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Baron_Jangleplume\|Baron_Jangleplume]]**: Fellow corvid noble.
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige / Crowfather]]**: Serves among the murder of Daedric crows answering to the Vestige.
+- **[[Info/Characters/NPCs/Baron_Jangleplume\|Baron Jangleplume]]**: Fellow avian noble within the Blackfeather hierarchy.
 
 ## Location
-- Perches atop stone monuments in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] and [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]].
+- **[[Evergloam\|Evergloam]]** and **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 023\|Session 023]]**: Landed lightly on a sill and delivered a small message from its unseen master, directing the party with a riddle to seek the knowledge of dust and dried ink.
+- **Crow Intelligence ([[2 -  Sessions/Session 023\|Session 023]]):** Manifested as an emissary of the Blackfeather Court, assisting with reconnaissance and message delivery between planar allies.
+
+## Session Mentions
+- [[2 -  Sessions/Session 023\|Session 023]]

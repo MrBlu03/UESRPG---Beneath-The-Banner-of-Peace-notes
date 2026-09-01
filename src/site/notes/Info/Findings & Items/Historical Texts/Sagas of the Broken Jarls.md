@@ -3,6 +3,7 @@
 ---
 
 
+
 # Sagas of the Broken Jarls
 
 _Collected and translated by Thjorik of [[Info/Locations/The Rift/Shors_Stone\|Shor's Stone]] Skald-Elder of the Rift

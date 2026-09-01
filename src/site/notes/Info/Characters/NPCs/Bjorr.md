@@ -5,16 +5,19 @@
 # Bjorr
 
 ## Description
-A broad-shouldered woodsman and experienced trapper from [[Info/Locations/Falderstad/Falderstad\|Falderstad]], known for his rune-carved axe. He joined the tracking contingent to hunt down the [[Info/Characters/NPCs/Nohrak\|Skinstealer]], only to fall victim to the creature's supernatural snare in the [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]].
+A sturdy Nord woodsman and tracker from [[Info/Locations/Falderstad/Falderstad\|Falderstad]] who volunteered to join [[Info/Characters/NPCs/Svala\|Svala]]'s hunting expedition into the cursed Northern Forest.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Torik\|Torik]]**: Hunting companion in the tracking group from [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
-- **[[Info/Characters/NPCs/Svala\|Svala]]**: Fellow tracker and hunt organizer.
-- **[[Info/Characters/NPCs/Hoki\|Hoki]]**: A young hunter who looked up to him.
+- **[[Info/Characters/NPCs/Svala\|Svala]], [[Info/Characters/NPCs/Torik\|Torik]], [[Info/Characters/NPCs/Ingrin\|Ingrin]], [[Info/Characters/NPCs/Alma\|Alma]], [[Info/Characters/NPCs/Runa\|Runa]]**: Fellow expedition hunters on the hunt for the Skinstealer.
+- **[[Info/Characters/NPCs/Hoki\|Hoki]]**: Young boy in Falderstad who was deeply affected upon learning of Bjorr's death.
 
 ## Location
-- Formerly resided in [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]** and the **[[Info/Locations/The Rift/Northern_Forest\|Northern Forest]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 016\|Session 016]]**: Joined [[Info/Characters/NPCs/Svala\|Svala]]'s hunting band to track the [[Info/Characters/NPCs/Nohrak\|Skinstealer]] in the [[Info/Locations/The Rift/Northern_Forest\|Northern Forest]]. During the group's retreat through a supernatural maze, he was snatched from the group and killed by the creature, his throat cut and his body left suspended from a branch as a grim totem.
-- **[[2 -  Sessions/Session 017\|Session 017]]**: His face was found carved into a wooden totem left hanging by the [[Info/Characters/NPCs/Nohrak\|Skinstealer]] to mock the party and hunters.
+- **The Skinstealer's Ambush & Death ([[2 -  Sessions/Session 016\|Session 016]]):** While the hunting party was trapped in the [[Info/Characters/NPCs/Nohrak\|Skinstealer]]'s supernatural labyrinth, Bjorr vanished with a snap and muffled shout. His frozen body was discovered suspended from the tree branches with his throat slit—the first fatality among the hunting party.
+- **Grotesque Totems ([[2 -  Sessions/Session 017\|Session 017]]):** When the hunters returned to confront the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]], they found Bjorr's likeness carved into dark ritual totems alongside the party members' faces.
+
+## Session Mentions
+- [[2 -  Sessions/Session 016\|Session 016]]
+- [[2 -  Sessions/Session 017\|Session 017]]

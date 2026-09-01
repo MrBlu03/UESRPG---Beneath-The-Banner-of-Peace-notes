@@ -4,14 +4,19 @@
 
 # Snow-Shod Estate
 
+## Overview
+The sprawling, wealthy ancestral estate, manor, and farmlands of **Clan Snow-Shod**, located along the banks of the Treva River in [[Info/Locations/The Rift/The_Rift\|The_Rift]].
+
 ## Description
-The prosperous ancestral manor, farmsteads, and fertile agricultural lands owned by [[Info/Organizations/Other/Clan_Snow-Shod\|Clan_Snow-Shod]] in the river valley west of [[Info/Locations/The Rift/Riften\|Riften]]. The estate features sprawling wheat fields, windmill grain mills, apple orchards, and a fortified Nord manor house with private guard towers.
+An extensive agricultural property featuring a grand Nordic timber manor, extensive grain fields, livestock barns, and private docks along the river.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Ingvar_Snow-shod\|Ingvar Snow-Shod]]**: Patriarch of the clan (implied).
-- **Estate Workers**: Agricultural workers tending the fields and orchards.
+## Key Inhabitants & Associated Figures
+- **Clan Snow-Shod**: Prominent, wealthy Nord clan of the Rift.
 
-## Key Events
-- **[[2 -  Sessions/Session 001\|Session 001]]**: The party was summoned by [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]] to investigate a bitter feud between the proud farmers of the estate and the fishermen of [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]] downstream, caused by low river water levels.
-- **[[2 -  Sessions/Session 002\|Session 002]]**: [[Info/Characters/NPCs/Alderman_Torgir\|Alderman_Torgir]] of [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]] confirmed to the party that [[Info/Organizations/Other/Clan_Snow-Shod\|Clan_Snow-Shod]] had turned the river against them by constructing a dam upstream.
-- **[[2 -  Sessions/Session 003\|Session 003]]**: The party continued to deal with the fallout of the local tensions between the estate's farmers and the fishermen.
+## Notable Events
+- **The River Dispute ([[2 -  Sessions/Session 001\|Session 001]], [[2 -  Sessions/Session 002\|Session 002]]):** Accused by [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]] of deliberately withholding river water; the party's investigation proved the stoppage was caused by external sabotage rather than clan hostility.
+
+## Session Mentions
+- [[2 -  Sessions/Session 001\|Session 001]]
+- [[2 -  Sessions/Session 002\|Session 002]]
+- [[2 -  Sessions/Session 003\|Session 003]]

@@ -5,22 +5,13 @@
 # Clan Red-Grain
 
 ## Overview
-- A Nordic clan known primarily through the tragic tale of [[Info/Characters/NPCs/Lagertha\|Lagertha]] and [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven Cold-Moor]].
+An ancient First Era agricultural Nord clan in [[Info/Locations/The Rift/The_Rift\|The_Rift]] whose ancestral village in [[Info/Locations/The Rift/Kahrus_Hollow\|Kahrus_Hollow]] was destroyed during a violent feud with Clan Cold-Moor.
 
-## Structure
-- Traditional Nordic Clan structure.
+## Key Members & Associated Figures
+- **[[Info/Characters/NPCs/Lagertha\|Lagertha]]**: Beloved maiden of Clan Red-Grain whose murder bound her soul to the well at the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]].
 
-## Goals and Activities
-- Unknown.
+## Notable Events
+- **Redemption & Funeral Pyre ([[2 -  Sessions/Session 008\|Session 008]], [[2 -  Sessions/Session 009\|Session 009]]):** Lagertha's floral bone necklace was recovered by the party, and her soul was laid to rest alongside [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]] in a sacred funeral pyre.
 
-## Known Members
-- **[[Info/Characters/NPCs/Lagertha\|Lagertha]]**: Historically loved [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]] of [[Info/Organizations/Other/Clan_Cold-Moor\|Clan Cold-Moor]]. When the love was deemed shameful, she was flayed alive and thrown in the village well.
-
-## Relationships
-- **[[Info/Organizations/Other/Clan_Cold-Moor\|Clan Cold-Moor]]**: Enemies. The forbidden love between [[Info/Characters/NPCs/Lagertha\|Lagertha]] and [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]] led to the demise of [[Info/Characters/NPCs/Lagertha\|Lagertha]] and subsequently all of [[Info/Organizations/Other/Clan_Cold-Moor\|Clan Cold-Moor]].
-
-## Locations
-- Unknown.
-
-## Notes
-- Featured in a local song/tale kept by the skald twins [[Info/Characters/NPCs/Senya\|Senya]] and [[Info/Characters/NPCs/Sonya\|Sonya]].
+## Session Mentions
+- [[2 -  Sessions/Session 008\|Session 008]]

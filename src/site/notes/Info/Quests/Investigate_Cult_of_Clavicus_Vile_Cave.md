@@ -2,29 +2,24 @@
 {"dg-publish":true,"permalink":"/info/quests/investigate-cult-of-clavicus-vile-cave/"}
 ---
 
+# Investigate Cult of Clavicus Vile Cave
 
-# Investigate the Cult of Clavicus Vile
+## Quest Log Summary
+Early inquiries into Daedric bargain cults in the southern woods converged with major discoveries in Eastmarch, confirming that the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult_of_Clavicus_Vile]] was operating subterranean mints within Dwemer ruins north of Kjalgrad.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Investigation  
-**Assigned Session:** [[2 -  Sessions/Session 020\|Session 020]]  
-**Completed Session:** [[2 -  Sessions/Session 024\|Session 024]]  
-**Reward:** Daedric Speaking Stone, Brimstone Coins  
+## Objectives & Progression
+- [x] Gather initial reports of Daedric cave activity south of Riften ([[2 -  Sessions/Session 003\|Session 003]]).
+- [x] Connect cult activity to tainted brimstone currency in Kjalgrad ([[2 -  Sessions/Session 020\|Session 020]]).
+- [x] Discover the cult's primary subterranean base in the ruins of [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]] ([[2 -  Sessions/Session 025\|Session 025]], [[2 -  Sessions/Session 029\|Session 029]]).
+- [x] Raid the complex, execute the cult leadership, and liberate the hostages ([[2 -  Sessions/Session 031\|Session 031]]).
 
-## Objective
-Track the clandestine cult cells operating throughout Kjalgrad worshipping Clavicus Vile.
+## Key Participants & Factions
+- **The Fangs of Fjelhorst**: [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Kirya\|Kirya]], [[Info/Characters/Party/Onasha\|Onasha]], [[Info/Characters/Party/Periwyn\|Periwyn]].
+- **[[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult_of_Clavicus_Vile]]**: [[Info/Characters/NPCs/The_Xivilai\|The_Xivilai]], [[Info/Characters/NPCs/The_Scathing\|The_Scathing]].
 
-## Key NPCs
-  - "[[Info/Characters/NPCs/Varran\|Varran]]"
-  - "[[Info/Characters/Party/Periwyn\|Periwyn]]"
-  - "[[Info/Characters/Party/Onasha\|Onasha]]"
+## Locations Visited
+- [[Info/Locations/The Rift/Abandoned_Cave_South_of_Riften\|Abandoned_Cave_South_of_Riften]]
+- [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]]
 
-## Key Locations
-  - "[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]"
-  - "[[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]]"
-  - "[[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Captured courier [[Info/Characters/NPCs/Varran\|Varran]], confiscating a Daedric speaking stone and Brimstone coins.
-- **[[2 -  Sessions/Session 024\|Session 024]]**: Exposed the cult's sacrificial altars and counterfeiting network beneath [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]].
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]], [[2 -  Sessions/Session 020\|Session 020]], [[2 -  Sessions/Session 025\|Session 025]], [[2 -  Sessions/Session 028\|Session 028]], [[2 -  Sessions/Session 029\|Session 029]], [[2 -  Sessions/Session 031\|Session 031]]

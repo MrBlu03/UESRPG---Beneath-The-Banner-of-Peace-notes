@@ -2,13 +2,22 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/sweaty-steel/"}
 ---
 
+# Sweaty Steel
+
+## Overview
+A bustling, prominent blacksmith shop and forge located in the artisan district of [[Info/Locations/The Rift/Riften\|Riften]], owned and managed by the sibling blacksmiths [[Info/Characters/NPCs/Bjorn\|Bjorn]] and [[Info/Characters/NPCs/Svana\|Svana]].
+
 ## Description
-Sweaty Steel is a bustling blacksmith workshop and armory in [[Info/Locations/The Rift/Riften\|Riften]], run by the siblings [[Info/Characters/NPCs/Svana\|Svana]] and [[Info/Characters/NPCs/Bjorn\|Bjorn]]. It echoes constantly with the ring of hammer on anvil and features racks of steel, iron swords, and armor.
+A roaring, smoke-filled smithy featuring dual anvil stations, weapon racks, armor repair benches, and a large outdoor cooling trough.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Svana\|Svana]]**: Co-owner and blacksmith.
-- **[[Info/Characters/NPCs/Bjorn\|Bjorn]]**: Co-owner and blacksmith.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Bjorn\|Bjorn]] & [[Info/Characters/NPCs/Svana\|Svana]]**: Master blacksmiths and proprietors.
+- **The Fangs of Fjelhorst**: Frequent customers for weapon purchases, weapon sharpening, and armor maintenance.
 
-## Key Events
-- **[[2 -  Sessions/Session 003\|Session 003]]**: [[Info/Characters/Party/Onasha\|Onasha]] led the group here and sold a bandit's greatsword. They asked [[Info/Characters/NPCs/Svana\|Svana]] about [[Info/Characters/NPCs/Alara\|Alara]], and Svana expressed deep concern that the old alchemist had been missing for two nights.
-- **[[2 -  Sessions/Session 011\|Session 011]]**: The party stopped at the forge for equipment. [[Info/Characters/Party/Kirya\|Kirya]] purchased a short sword and [[Info/Characters/Party/Durov\|Durov]] took netch leather armor. Outside the shop, [[Info/Characters/Party/Onasha\|Onasha]] attempted to trip the courier [[Info/Characters/NPCs/Eirik_the_Quick\|Eirik_the_Quick]] as he ran past, but failed spectacularly as he leaped over her.
+## Notable Events
+- **Bandit Blades & Inquiries ([[2 -  Sessions/Session 003\|Session 003]]):** [[Info/Characters/Party/Onasha\|Onasha]] sold a captured bandit greatsword to Svana and gathered information on alchemist Alara's foraging habits.
+- **Gear Upgrades ([[2 -  Sessions/Session 011\|Session 011]]):** [[Info/Characters/Party/Kirya\|Kirya]] purchased a finely crafted short sword before departing on harbor security operations.
+
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 011\|Session 011]]

@@ -5,15 +5,17 @@
 # Brooding Corner Patron
 
 ## Description
-A respected Dunmer who frequents the dark corners of the [[Info/Locations/The Rift/Riften\|Riften]] Ratway. He serves as an underworld contact and broker.
+A respected, sharp-eyed Dunmer outlaw who frequents the shadowy corner alcoves of [[The_Ragged_Flagon\|The Ragged Flagon]] beneath [[Info/Locations/The Rift/Riften\|Riften]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Yannick_the_Brawler\|Yannick_the_Brawler]]**: Silenced him with a mere whistle.
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Entered into a binding favor obligation with him.
-- **[[Info/Characters/NPCs/Toren_the_Fence\|Toren_the_Fence]]**: Directed the party to him.
+- **[[Info/Characters/NPCs/Yannick_the_Brawler\|Yannick the Brawler]]**: Respected by Yannick, whom he commanded to stand down with a simple whistle.
+- **[[Info/Characters/NPCs/Toren_the_Fence\|Toren the Fence]]**: Directed the party to Toren for black market dealings.
 
 ## Location
-- Frequents the taverns and alcoves of the [[Info/Locations/The Rift/Riften\|Riften]] Ratway.
+- **[[The_Ragged_Flagon\|The Ragged Flagon]]** in the **[[Info/Locations/The Rift/Ratway\|Ratway]]**, **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 012\|Session 012]]**: He intervened when the drunk [[Info/Characters/NPCs/Yannick_the_Brawler\|Yannick_the_Brawler]] was loudly blaming guards for recent fires, stopping him with a whistle. He then provided detailed information about the fires to the party and directed them to [[Info/Characters/NPCs/Toren_the_Fence\|Toren_the_Fence]]. In exchange for his information, he secured a one-month favor obligation from [[Info/Characters/Party/Periwyn\|Periwyn]].
+- **Brawl Intervention & Underworld Intel ([[2 -  Sessions/Session 012\|Session 012]]):** Whistled to stop a violent tavern escalation between [[Info/Characters/NPCs/Yannick_the_Brawler\|Yannick the Brawler]] and the party. When questioned by [[Info/Characters/Party/Kirya\|Kirya]] about the recent swelling in the tavern's population, he explained that many outlaws had recently fled to Riften from [[Info/Lore/Windhelm\|Windhelm]], where heavy authority crackdowns had disrupted their operations.
+
+## Session Mentions
+- [[2 -  Sessions/Session 012\|Session 012]]

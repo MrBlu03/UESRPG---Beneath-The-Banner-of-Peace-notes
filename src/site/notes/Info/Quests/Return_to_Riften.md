@@ -2,27 +2,25 @@
 {"dg-publish":true,"permalink":"/info/quests/return-to-riften/"}
 ---
 
+# Return to Riften
 
-# Report Bandit Ambush to Mistveil Keep
+## Quest Log Summary
+Following extended campaigns at Fort Greenwall and across the Rift frontier, the party returned to [[Info/Locations/The Rift/Riften\|Riften]] to deliver reports, present captured trophies, and receive royal compensation from [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]].
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Main  
-**Assigned Session:** [[2 -  Sessions/Session 001\|Session 001]]  
-**Completed Session:** [[2 -  Sessions/Session 001\|Session 001]]  
-**Reward:** 50 gold bounty, Royal Audience  
+## Objectives & Progression
+- [x] Return from Fort Greenwall to Riften with the vampire commander's severed head ([[2 -  Sessions/Session 007\|Session 007]]).
+- [x] Deliver report to Queen Freidr at [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]] and receive 250 gold each ([[2 -  Sessions/Session 007\|Session 007]]).
+- [x] Report back to Riften after resolving the Haunted Lodge contract ([[2 -  Sessions/Session 010\|Session 010]]).
+- [x] Receive new royal dispatches directing the party to Falderstad ([[2 -  Sessions/Session 012\|Session 012]], [[2 -  Sessions/Session 013\|Session 013]]).
 
-## Objective
-Deliver the captured bandit leader Alaric to Captain Harvold and present the Coiled Serpent seal to Queen Freidr.
+## Key Participants & Factions
+- **The Fangs of Fjelhorst**: [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Kirya\|Kirya]], [[Info/Characters/Party/Onasha\|Onasha]], [[Info/Characters/Party/Periwyn\|Periwyn]].
+- **Court of Riften**: [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]], [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]].
 
-## Key NPCs
-  - "[[Info/Characters/NPCs/Captain_Harvold\|Captain_Harvold]]"
-  - "[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]"
-  - "[[Info/Characters/NPCs/Alaric\|Alaric]]"
+## Locations Visited
+- [[Info/Locations/The Rift/Greenwall\|Greenwall]]
+- [[Info/Locations/The Rift/Riften\|Riften]]
+- [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]]
 
-## Key Locations
-  - "[[Info/Locations/The Rift/Riften\|Riften]]"
-  - "[[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 001\|Session 001]]**: Delivered [[Info/Characters/NPCs/Alaric\|Alaric]] into custody, collected the bounty, and secured the Queen's backing for a wider investigation.
+## Session Mentions
+- [[2 -  Sessions/Session 007\|Session 007]], [[2 -  Sessions/Session 010\|Session 010]], [[2 -  Sessions/Session 012\|Session 012]]

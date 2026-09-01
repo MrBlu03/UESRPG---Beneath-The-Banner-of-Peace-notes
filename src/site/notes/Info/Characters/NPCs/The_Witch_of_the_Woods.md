@@ -5,17 +5,19 @@
 # The Witch of the Woods
 
 ## Description
-A monstrous hagraven-like creature, a fusion of hag and bird covered in raven feathers with sharp claws and a gigantic nose. She is highly territorial, uses powerful frost magic, and demands fresh human hearts, eyeballs, and gems to grow her power.
+A formidable hagraven-like entity—a monstrous fusion of crone and predatory raven with black feathers, sharp claws, and powerful mastery over frost and fire magic. Highly territorial, she claimed the dense western woods outside [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
 
 ## Relationships
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Brokered a truce with the witch, ending her attacks on hunters in exchange for monthly offerings of spell components.
-- **[[Info/Characters/NPCs/Bjorn_Hunter\|Bjorn_Hunter]]**: A hunter whose horse was killed by the witch.
-- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Sent to retrieve a feather from her.
+- **[[Info/Characters/NPCs/Bjorn_Hunter\|Bjorn]]**: Attacked his horse with fire magic, prompting the city bounty.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Parleyed and negotiated a formal truce regarding territorial boundaries and resource offerings.
 
 ## Location
-- Resides in a clearing in the [[Info/Locations/The Rift/Western_Woods\|Western_Woods]] west of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Secluded **[[Info/Locations/The Rift/Witchs_Clearing\|Witch's Clearing]]** in the western wilderness of **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a]]**: Attacked [[Info/Characters/Party/Periwyn\|Periwyn]] with frost bolts before [[Info/Characters/Party/Periwyn\|Periwyn]] called for a parlay. Negotiated a tentative truce to cease attacking hunters in exchange for monthly deliveries of magical components.
-- **[[2 -  Sessions/Session 026\|Session 026]]**: [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] went overnight to retrieve a feather from her in order to brew a ward-dissolving varnish.
-- **[[2 -  Sessions/Session 027\|Session 027]]**: [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] was still on route to retrieve her feather.
+- **Bounty Investigation & Negotiation ([[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a Periwyns witch hunt]]):** Tracked to her clearing by [[Info/Characters/Party/Periwyn\|Periwyn]] following reports of horse attacks. Rather than engaging in a fight to the death, [[Info/Characters/Party/Periwyn\|Periwyn]] negotiated a peaceful truce where local hunters agreed to deliver monthly offerings in exchange for safe passage through the outer forests.
+
+## Session Mentions
+- [[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a Periwyns witch hunt]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]

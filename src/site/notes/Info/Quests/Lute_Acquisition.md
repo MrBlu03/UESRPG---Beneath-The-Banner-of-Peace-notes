@@ -2,28 +2,24 @@
 {"dg-publish":true,"permalink":"/info/quests/lute-acquisition/"}
 ---
 
+# Lute Acquisition & Bardic Training
 
-# Kirya's Lute & Campfire Melodies
+## Quest Log Summary
+Desiring to preserve ancient lore and inspire her companions through music, [[Info/Characters/Party/Kirya\|Kirya]] sought out finely crafted instruments and trained under traveling skalds in the Rift.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Personal  
-**Assigned Session:** [[2 -  Sessions/Session 013\|Session 013]]  
-**Completed Session:** [[2 -  Sessions/Session 013\|Session 013]]  
-**Reward:** Morale Boost, Musical Instrument  
+## Objectives & Progression
+- [x] Listen to and learn ancient Nord ballads from twin skalds [[Info/Characters/NPCs/Senya\|Senya]] and [[Info/Characters/NPCs/Sonya\|Sonya]] ([[2 -  Sessions/Session 008\|Session 008]]).
+- [x] Acquire a quality travel lute in Riften ([[2 -  Sessions/Session 009\|Session 009]], [[2 -  Sessions/Session 010\|Session 010]]).
+- [x] Practice and perform songs around campfires and taverns with the party ([[2 -  Sessions/Session 010\|Session 010]], [[2 -  Sessions/Session 013\|Session 013]]).
 
-## Objective
-Acquire a travel lute for Kirya to play music during evening campfires on long journeys.
+## Key Participants & Factions
+- **[[Info/Characters/Party/Kirya\|Kirya Ma'Tael]]**
+- **Skalds**: [[Info/Characters/NPCs/Senya\|Senya]], [[Info/Characters/NPCs/Sonya\|Sonya]].
 
-## Key NPCs
-  - "[[Info/Characters/Party/Kirya\|Kirya]]"
-  - "[[Info/Characters/Party/Durov\|Durov]]"
-  - "[[Info/Characters/Party/Onasha\|Onasha]]"
-  - "[[Info/Characters/Party/Periwyn\|Periwyn]]"
+## Locations Visited
+- [[Info/Locations/The Rift/Sleeping_Stag\|Sleeping_Stag]]
+- [[Info/Locations/The Rift/Wanderers_Rest\|Wanderers_Rest]]
+- [[Info/Locations/The Rift/Riften\|Riften]]
 
-## Key Locations
-  - "[[Info/Locations/The Rift/Lake_Honrich\|Lake_Honrich]]"
-  - "[[Info/Locations/Falderstad/Falderstad\|Falderstad]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 013\|Session 013]]**: [[Info/Characters/Party/Kirya\|Kirya]] tuned her newly acquired lute, playing soothing melodies for the party beneath the spectacular blue-green aurora.
+## Session Mentions
+- [[2 -  Sessions/Session 008\|Session 008]], [[2 -  Sessions/Session 009\|Session 009]], [[2 -  Sessions/Session 010\|Session 010]]

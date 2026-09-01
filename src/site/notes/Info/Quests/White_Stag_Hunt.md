@@ -2,28 +2,24 @@
 {"dg-publish":true,"permalink":"/info/quests/white-stag-hunt/"}
 ---
 
+# White Stag Hunt
 
-# The Legend of the White Stag
+## Quest Log Summary
+The party joined innkeeper [[Info/Characters/NPCs/Bjorin\|Bjorin]] and huntress [[Info/Characters/NPCs/Astrid\|Astrid]] on a multi-day hunting and tracking expedition into the eastern autumn forests of the Rift.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Main  
-**Assigned Session:** [[2 -  Sessions/Session 014\|Session 014]]  
-**Completed Session:** [[2 -  Sessions/Session 015\|Session 015]]  
-**Reward:** Corrupted Stag Antlers (95 gold), Trophy Pelts  
+## Objectives & Progression
+- [x] Set up base at the [[Info/Locations/The Rift/Abandoned_Hunter_Camp\|Abandoned_Hunter_Camp]] east of Riften ([[2 -  Sessions/Session 010\|Session 010]]).
+- [x] Set small-game traps and track wild game through the woods ([[2 -  Sessions/Session 010\|Session 010]]).
+- [x] Track a prized stag across the ridges; [[Info/Characters/Party/Onasha\|Onasha]] brings it down with precision archery ([[2 -  Sessions/Session 010\|Session 010]]).
+- [x] Harvest antlers worth 100 gold and return safely to Riften ([[2 -  Sessions/Session 010\|Session 010]]).
 
-## Objective
-Track the legendary white stag through the Falderstad wilderness to understand its corruption.
+## Key Participants & Factions
+- **[[Info/Characters/Party/Onasha\|Onasha]]**, [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Kirya\|Kirya]], [[Info/Characters/Party/Periwyn\|Periwyn]].
+- **Hunters**: [[Info/Characters/NPCs/Bjorin\|Bjorin]], [[Info/Characters/NPCs/Astrid\|Astrid]].
 
-## Key NPCs
-  - "[[Info/Characters/Party/Kirya\|Kirya]]"
-  - "[[Info/Characters/Party/Onasha\|Onasha]]"
-  - "[[Info/Characters/NPCs/Hoki\|Hoki]]"
-  - "[[Info/Characters/NPCs/Denskar\|Denskar]]"
+## Locations Visited
+- [[Info/Locations/The Rift/Abandoned_Hunter_Camp\|Abandoned_Hunter_Camp]]
+- [[Info/Locations/The Rift/The_Rift\|The_Rift]]
 
-## Key Locations
-  - "[[Info/Locations/Falderstad/Falderstad\|Falderstad]]"
-  - "[[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 014\|Session 014]]-**[[2 -  Sessions/Session 015\|Session 015]]**: Followed the beast through northern thickets; witnessed its death sigh and geometric blood markings before harvesting its valuable antlers.
+## Session Mentions
+- [[2 -  Sessions/Session 010\|Session 010]], [[2 -  Sessions/Session 013\|Session 013]], [[2 -  Sessions/Session 015\|Session 015]]

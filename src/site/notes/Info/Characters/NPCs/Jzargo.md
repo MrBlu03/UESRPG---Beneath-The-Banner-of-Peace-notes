@@ -5,14 +5,18 @@
 # J'zargo
 
 ## Description
-An exceptionally talented, confident, and ambitious Khajiit spellcaster from the College of [[Info/Locations/Other Skyrim/Winterhold\|Winterhold]]. He maintains close ties with traveling Baandari and values intellect, magical mastery, and loyalty.
+A talented Khajiit mage, traveler, and the closest personal friend and confidant of [[Info/Characters/Party/Kirya\|Kirya]].
 
 ## Relationships
-- **[[Info/Characters/Party/Kirya\|Kirya]]**: Trusted friend, mentor, and fellow Khajiit traveler.
+- **[[Info/Characters/Party/Kirya\|Kirya]]**: Best friend who shares deep loyalty and correspondence; assists her in her personal quest to find her missing sister.
 
 ## Location
-- Studies at the [[Info/Locations/Other Skyrim/Winterhold\|College of Winterhold]]; travels widely and was recently in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Travels across **[[Skyrim\|Skyrim]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Sent a detailed letter to [[Info/Characters/Party/Kirya\|Kirya]] sharing news from [[Info/Locations/Other Skyrim/Winterhold\|Winterhold]] that was full of riddles and half-truths, leaving her visibly frustrated.
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Met with [[Info/Characters/Party/Kirya\|Kirya]] past midday in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] with prepared horses, delivering a time-sensitive lead on her missing sister and escorting her out of the city.
+- **Correspondence ([[2 -  Sessions/Session 018\|Session 018]]):** Sent a personal letter to [[Info/Characters/Party/Kirya\|Kirya]] during her stay in Falderstad.
+- **Sister Lead Dispatch ([[2 -  Sessions/Session 026\|Session 026]]):** Arrived on horseback outside the barrow ruin near Kjalgrad with urgent, time-sensitive intelligence concerning [[Info/Characters/Party/Kirya\|Kirya]]'s missing sister, riding east alongside Kirya to track the lead.
+
+## Session Mentions
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 026\|Session 026]]

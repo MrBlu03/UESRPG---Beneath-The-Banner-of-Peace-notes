@@ -5,14 +5,17 @@
 # Tabitha
 
 ## Description
-A sewer guide and contact for the [[Info/Locations/Kjalgrad/Lower_Lodge\|Lower_Lodge]] resistance network in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+A stealthy and capable guide within the [[Info/Locations/Kjalgrad/Lower_Lodge\|Lower Lodge]] network who knows the intricate, crumbling sewer tunnels beneath [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Tarja\|Tarja]]**: Fellow resistance member.
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Guided her during a rescue mission.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Guided Periwyn and the Lower Lodge strike team through the secret subterranean passages.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Coordinated entry through the secret door behind the candle sconce into the evidence room.
 
 ## Location
-- Operates primarily in the [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad_Sewers]].
+- Subterranean hideouts of the **[[Info/Locations/Kjalgrad/Lower_Lodge\|Lower Lodge]]** beneath **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Led [[Info/Characters/Party/Periwyn\|Periwyn]] and a rescue squad through the ruined sewers beneath the Yarls Hall to a false wall behind the dungeon's evidence room. She pulled a candle sconce to open the secret passage to facilitate the jailbreak.
+- **The Longhouse Jailbreak ([[2 -  Sessions/Session 027\|Session 027]]):** Led [[Info/Characters/Party/Periwyn\|Periwyn]] and the rescue squad through the flooded sewer tunnels beneath the [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]], operating a hidden candle-sconce mechanism that swung open a false wall into the evidence room to execute [[Info/Characters/Party/Onasha\|Onasha]]'s jailbreak.
+
+## Session Mentions
+- [[2 -  Sessions/Session 027\|Session 027]]

@@ -5,13 +5,16 @@
 # Hilldis
 
 ## Description
-The owner and blacksmith of [[Info/Locations/The Rift/The_Honed_Edge\|The_Honed_Edge]] in [[Info/Locations/The Rift/Riften\|Riften]], located a few houses down from [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]]. She sells weapons and offers discounts to those braving the vampire threats at [[Info/Locations/The Rift/Greenwall\|Greenwall]].
+A master Nord blacksmith and armorer in [[Info/Locations/The Rift/Riften\|Riften]], proprietor of **[[Info/Locations/The Rift/The_Honed_Edge\|The Honed Edge]]** smithy located near Mistveil Keep.
 
 ## Relationships
-- **[[Info/Characters/Party/Kirya\|Kirya]]** and **[[Info/Characters/Party/Onasha\|Onasha]]**: Sold them bundles of silver arrows.
+- **The Fangs of Fjelhorst**: Supplied high-grade silver ammunition to the party.
 
 ## Location
-- Runs [[Info/Locations/The Rift/The_Honed_Edge\|The_Honed_Edge]] blacksmith shop in [[Info/Locations/The Rift/Riften\|Riften]].
+- **[[Info/Locations/The Rift/The_Honed_Edge\|The Honed Edge]]** in **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 004\|Session 004]]**: Sold silver arrows to the party at a discount. She shared that during the early First Era, her ancestral clan owned a castle off the coast of Haafingar that was besieged and captured by [[Info/Organizations/Cults/Clan_Volkihar\|Clan_Volkihar]] vampires, forcing the survivors to flee to the Reach.
+- **Silver Munitions & Clan Lore ([[2 -  Sessions/Session 004\|Session 004]]):** Sold 100 specialized silver arrows at a discount to [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Kirya\|Kirya]] for their expedition against the undead at [[Info/Locations/The Rift/Greenwall\|Greenwall]]. Shared historical clan lore recounting how her First Era ancestors lost their coastal castle in Haafingar to an assault by [[Info/Organizations/Cults/Clan_Volkihar\|Clan Volkihar]] vampires, forcing the surviving clan to resettle in the mountains of the Reach.
+
+## Session Mentions
+- [[2 -  Sessions/Session 004\|Session 004]]

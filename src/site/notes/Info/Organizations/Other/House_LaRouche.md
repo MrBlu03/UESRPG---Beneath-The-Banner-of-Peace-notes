@@ -5,23 +5,16 @@
 # House LaRouche
 
 ## Overview
-- A noble house associated with merchants, well-dressed and upper-class.
+A flamboyant, wealthy aristocratic Breton merchant house in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] dominating luxury silk imports, fine garments, and high-fashion tailoring across Eastmarch.
 
-## Structure
-- Noble House structure.
+## Key Members & Associated Figures
+- **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre_LaRouche]]**: *Marquis of the Sapphire Coast, Baron of the Nine Looms, and Patriarch of House LaRouche*.
+- **[[Info/Characters/NPCs/Lady_Elaine\|Lady_Elaine]]**: His poised, aristocratic wife.
 
-## Goals and Activities
-- Mercantile pursuits, primarily dealing in silk.
+## Notable Events
+- **Missing Patriarch & Rescue ([[2 -  Sessions/Session 026\|Session 026]], [[2 -  Sessions/Session 031\|Session 031]]):** Lady Elaine reported Jean-Pierre missing during the market protests; the party discovered him held in a mystical trance at the [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]] cult altar and revived him with smelling salts.
 
-## Known Members
-- **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]]**: A silk merchant who went missing for nearly a week after attending the Jarl's gathering.
-- **Wife of Jean-Pierre**: Interacted with the party, expressing grief over her missing husband despite her refined nature.
-
-## Relationships
-- Connected to the upper class and invited to the Jarl's gatherings.
-
-## Locations
-- Currently maintaining a presence in the region where the Jarl resides (likely [[Info/Locations/The Rift/Riften\|Riften]]).
-
-## Notes
-- The party learned about Jean-Pierre's disappearance in Chapter 026.
+## Session Mentions
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]
+- [[2 -  Sessions/Session 031\|Session 031]]

@@ -5,22 +5,11 @@
 # House Tharn
 
 ## Overview
-- A powerful Cyrodiilic family. They have a high standing on the Elder Council in the Empire.
+The ancient, ambitious, and politically ruthless Imperial noble dynasty of Cyrodiil, legendary for producing high-ranking battlemages, chancellors, and master political schemers.
 
-## Structure
-- Imperial Noble House structure.
+## Key Lore & Historical Significance
+- **Planemeld Lore ([[2 -  Sessions/Session 006\|Session 006]], [[2 -  Sessions/Session 020\|Session 020]]):** Referenced in historical analyses of Imperial politics, the collapse of the Empire, and dark occult pacts surrounding the Planemeld.
 
-## Goals and Activities
-- Influencing Imperial politics.
-
-## Known Members
-- Unknown.
-
-## Relationships
-- Holds significant power in Cyrodiil.
-
-## Locations
-- **Cyrodiil**: Homeland.
-
-## Notes
-- In Chapter 006, the party discovered that four cloaked "nobles" who paid for a week in advance and vanished had used the name Tharn as an alias. [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] recognized the name as belonging exclusively to the powerful Cyrodiilic family, confirming the nobles were using aliases.
+## Session Mentions
+- [[2 -  Sessions/Session 006\|Session 006]]
+- [[2 -  Sessions/Session 020\|Session 020]]

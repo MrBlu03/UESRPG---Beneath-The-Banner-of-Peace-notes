@@ -5,13 +5,16 @@
 # Marjon
 
 ## Description
-A powerful vampire whose brood or clan is likely responsible for the recent vampire activity in the region, including the Greenwald incident.
+An ancient vampire lord of great infamy in [[Info/Lore/Eastmarch\|Eastmarch]]. Approximately 17–18 years prior, he was hunted and combated by [[Info/Characters/NPCs/The_Vestige\|The Vestige]]. His lingering brood and vampiric bloodline remain the foundational threat behind modern undead activity in the region.
 
 ## Relationships
-- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Fought against him in the past.
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige]]**: Fought a climactic battle against him in Eastmarch nearly two decades ago.
 
 ## Location
-- Originally encountered in [[Info/Lore/Eastmarch\|Eastmarch]]. Current whereabouts are unknown.
+- **[[Info/Lore/Eastmarch\|Eastmarch]]**
 
 ## Notes
-- **[[2 -  Sessions/Session 030\|Session 030]]**: [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] recounted to [[Info/Characters/Party/Durov\|Durov]] that he fought Marjon approximately 17-18 years ago in [[Info/Lore/Eastmarch\|Eastmarch]]. While Marjon hasn't been seen since, [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] noted his status is still "up in the air."
+- **The Brood's Legacy ([[2 -  Sessions/Session 030\|Session 030]]):** During a candid discussion on the road with [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/NPCs/The_Vestige\|The Vestige]] confirmed that current regional vampire operations (including the assault on Greenwall) stem from Marjon's surviving brood, noting that although Marjon had not been sighted in years, his true demise remained uncertain.
+
+## Session Mentions
+- [[2 -  Sessions/Session 030\|Session 030]]

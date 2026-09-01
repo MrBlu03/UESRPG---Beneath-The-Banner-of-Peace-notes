@@ -2,18 +2,17 @@
 {"dg-publish":true,"permalink":"/info/lore/windhelm/"}
 ---
 
-# Windhelm
+# Windhelm (City of Kings)
 
 ## Overview
-The ancient City of Kings and capital of Eastmarch, founded by Ysgramor and the Five Hundred Companions in the Merethic Era.
+The historic capital of [[Info/Lore/Eastmarch\|Eastmarch]] and the oldest continuously inhabited city in Skyrim, founded by Ysgramor along the White River.
 
-## Significance
-The royal seat of the High King and capital of the Ebonheart Pact in Skyrim.
+## Commerce & Underworld
+- **Mercantile Offices**: Commercial center for high-society silk barons like [[Info/Characters/NPCs/Renald_Vero\|Renald_Vero]].
+- **Underworld Displacements**: Rigorous city guard purges in Windhelm forced displaced thieves and smugglers to flee south into the [[Info/Locations/The Rift/Ratway\|Ratway]] of Riften.
 
-## Connections
-- [[Info/Lore/Eastmarch\|Eastmarch]]
-- [[Info/Organizations/Military/Companions\|Companions]]
-- [[Info/Organizations/Military/Ebonheart_Pact\|Ebonheart_Pact]]
-
-## Notes
-- Recorded in campaign journals and historical treatises consulted by [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]].
+## Session Mentions
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 028\|Session 028]]

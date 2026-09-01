@@ -4,13 +4,19 @@
 
 # The Ragged Flagon
 
+## Overview
+The infamous subterranean tavern and central gathering hall situated in the reservoir vaults of the [[Info/Locations/The Rift/Ratway\|Ratway]] beneath [[Info/Locations/The Rift/Riften\|Riften]].
+
 ## Description
-A notoriously damp, subterranean tavern situated in the heart of the [[Info/Locations/The Rift/Riften\|Riften]] [[Info/Locations/The Rift/Ratway\|Ratway]], built around a sunken reservoir. It features a sunken taproom with wooden walkways suspended over murky green water and flickering torchlight illuminating rough-hewn stone booths where clandestine contracts are sealed.
+A low-ceilinged, damp stone tavern built around a murky subterranean water pool, featuring rough timber benches, a rickety bar, and shadowy alcoves for covert negotiations.
 
-## Notable NPCs
-- **Barkeep**: Directed the party towards a donation box and confirmed fire locations.
-- **[[Info/Characters/NPCs/Brooding_Corner_Patron\|Brooding Corner Patron]]**: Enigmatic information broker who demanded a blood contract for his truth.
-- **[[Info/Characters/NPCs/Yannick_the_Brawler\|Yannick the Brawler]]**: Drunk patron who loudly blamed guards for the fires.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Yannick_the_Brawler\|Yannick_the_Brawler]]**: Loud, belligerent regular who causes drunken disturbances.
+- **[[Info/Characters/NPCs/Brooding_Corner_Patron\|Brooding_Corner_Patron]]**: Influential Dunmer who maintains order from the shadows.
+- **[[Info/Characters/NPCs/Toren_the_Fence\|Toren_the_Fence]]**: Operates black market trades nearby.
 
-## Key Events
-- **[[2 -  Sessions/Session 012\|Session 012]]**: The party arrived here while investigating mysterious fires in the [[Info/Locations/The Rift/Ratway\|Ratway]]. [[Info/Characters/Party/Durov\|Durov]] placed food in the donation box. The party negotiated with a [[Info/Characters/NPCs/Brooding_Corner_Patron\|masked patron]] who revealed that arsonists bore Daedric runes, the blaze was fed by more than oil, and a serpent mark blackened an archway. The patron also explained that the recent influx of outlaws was due to them fleeing Windhelm.
+## Notable Events
+- **Confrontation & Inquiries ([[2 -  Sessions/Session 012\|Session 012]]):** The party visited the tavern while tracking arsonists; [[Info/Characters/NPCs/Yannick_the_Brawler\|Yannick_the_Brawler]] loudly blamed city guards before faltering under [[Info/Characters/Party/Onasha\|Onasha]]'s gaze and being silenced by the Brooding Dunmer Patron, who directed the party to Toren.
+
+## Session Mentions
+- [[2 -  Sessions/Session 012\|Session 012]]

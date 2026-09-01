@@ -2,13 +2,24 @@
 {"dg-publish":true,"permalink":"/info/locations/falderstad/nilans-house/"}
 ---
 
+# Nilan's House
+
+## Overview
+A sturdy, comfortable timber cottage and hunter's lodge on the northern perimeter of [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. Formerly owned by the hunter [[Info/Characters/NPCs/Nilan\|Nilan]], it was granted in full and permanent deed to **The Fangs of Fjelhorst** by [[Info/Characters/NPCs/Jarl_Gorm\|Jarl Gorm]] as a reward for slaying the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]].
+
 ## Description
-A modest timber cabin on the forest verge of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], originally belonging to the master tracker [[Info/Characters/NPCs/Nilan\|Nilan]]. After Nilan's death, the house was granted to [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]] as a permanent safe haven by the Jarl. The cabin features hunting trophy racks and a cold hearth, with a basement that was once used for storage.
+A two-story Nordic timber lodge featuring a stone hearth on the main floor, mounted hunting trophies, cozy bunks, and a concealed stone basement beneath a floor trapdoor.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Nilan\|Nilan]]**: The former owner and master tracker who fell victim to the [[Info/Characters/NPCs/Nohrak\|Skinstealer]].
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Nilan\|Nilan]]**: Former owner who was captured and enthralled in the basement.
+- **The Fangs of Fjelhorst ([[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Kirya\|Kirya]], [[Info/Characters/Party/Onasha\|Onasha]], [[Info/Characters/Party/Periwyn\|Periwyn]])**: Current legal owners using the property as their regional base.
 
-## Key Events
-- **[[2 -  Sessions/Session 014\|Session 014]]**: The party investigated the cabin, found an interrupted meal, and retrieved hunting trophies. They burned [[Info/Characters/NPCs/Nilan\|Nilan]]'s body in a pyre behind the house. [[Info/Characters/NPCs/Helga_Cairn-Shield\|Helga_Cairn-Shield]] permitted them to use the house temporarily. [[Info/Characters/Party/Periwyn\|Periwyn]] conducted a necromancy lesson in the basement and left an emotional letter there.
-- **[[2 -  Sessions/Session 015\|Session 015]]**: The party slept in the house. [[Info/Characters/Party/Onasha\|Onasha]] discovered [[Info/Characters/Party/Periwyn\|Periwyn]]'s letter in the basement, leading to a confrontation about Periwyn's emotional state affecting her combat readiness.
-- **[[2 -  Sessions/Session 017\|Session 017]]**: In gratitude for their heroic actions, [[Info/Characters/NPCs/Jarl_Gorm\|Jarl_Gorm]] granted the party permanent free use of Nilan's house as their home in [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+## Notable Events
+- **Discovery of the Vampire Thrall ([[2 -  Sessions/Session 014\|Session 014]]):** The party breached the concealed cellar to find Nilan's corpse bound to the wall and interrogated the wounded [[Info/Characters/NPCs/Vampire_Survivor\|Vampire_Survivor]]. Nilan was given an honorable cremation behind the cottage.
+- **Awarding the Deed ([[2 -  Sessions/Session 017\|Session 017]]):** Following the defeat of the Ragged Lord, Jarl Gorm rewarded the party with perpetual free ownership of the house, where they celebrated and rested before traveling onward.
+
+## Session Mentions
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 017\|Session 017]]
+- [[2 -  Sessions/Session 018\|Session 018]]

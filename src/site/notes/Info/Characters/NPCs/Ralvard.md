@@ -5,13 +5,16 @@
 # Ralvard
 
 ## Description
-A meticulous and highly skilled alchemical scholar in [[Info/Locations/The Rift/Riften\|Riften]] who assists the mortuary in analyzing complex poisons and venoms.
+A master alchemist and toxicologist in [[Info/Locations/The Rift/Riften\|Riften]] who assists city authorities with complex chemical and arcane forensics.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Sigrid\|Sigrid]]**: Mortician partner who supplies him with autopsy samples.
+- **[[Info/Characters/NPCs/Sigrid\|Sigrid]]**: Collaborated with the city mortician to analyze toxicological samples from murder victims.
 
 ## Location
-- Works in the laboratory of the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] in [[Info/Locations/The Rift/Riften\|Riften]].
+- Alchemy laboratory in **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Analyzed a blood sample from [[Info/Characters/NPCs/Adrith_Velan\|Adrith Velan]], identifying a potent nightshade poison masked by exotic ingredients like vampire dust, shadow ichor, and twilight poison.
+- **Poison Analysis ([[2 -  Sessions/Session 003\|Session 003]]):** Examined blood and tissue samples from the deceased [[Info/Characters/NPCs/Adrith_Velan\|Adrith Velan]], identifying an exotic cocktail of rare Oblivion-harvested ingredients including Twilight venom and shadow ichor.
+
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]

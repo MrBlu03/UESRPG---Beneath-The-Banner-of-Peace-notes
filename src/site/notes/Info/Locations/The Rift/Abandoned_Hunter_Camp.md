@@ -2,11 +2,21 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/abandoned-hunter-camp/"}
 ---
 
+# Abandoned Hunter Camp
+
+## Overview
+A cleared wilderness campsite situated several hours east of [[Info/Locations/The Rift/Riften\|Riften]] amidst the dense autumn woodlands, frequently utilized by local hunters and tracking expeditions.
+
 ## Description
-An abandoned hunter camp located in the [[Info/Locations/The Rift/Western_Woods\|western woods]] outside [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. It was the camp of [[Info/Characters/NPCs/Bjorn_Hunter\|Bjorn]] before his horse was attacked by magic.
+A sheltered forest clearing equipped with a central stone firepit, log benches, drying racks for pelts, and natural windbreaks provided by towering evergreens.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Bjorn_Hunter\|Bjorn]]**: A local hunter with a distinctive goatee and mustache who was forced to abandon his camp here.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Bjorin\|Bjorin]] & [[Info/Characters/NPCs/Astrid\|Astrid]]**: Led hunting parties and stag-tracking expeditions here.
+- **The Fangs of Fjelhorst**: Camped here during wilderness downtime.
+- **[[Info/Characters/NPCs/Maiq_the_Liar\|M'aiq the Liar]]**: Enigmatic traveler who visited the camp unannounced.
 
-## Key Events
-- **[[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] investigated the camp while tracking the [[Info/Quests/The_Witch_of_the_Woods\|witch of the woods]]. She found an iron short sword, a hunting bow, dried provisions, and small game trap materials, before tracking humanoid footprints northeast to a [[Info/Locations/The Rift/Witchs_Clearing\|clearing]].
+## Notable Events
+- **The Stag Hunt & M'aiq Encounter ([[2 -  Sessions/Session 010\|Session 010]]):** The party joined Bjorin and Astrid for a multi-day hunting expedition; [[Info/Characters/Party/Onasha\|Onasha]] successfully brought down a prized stag, claiming antlers worth 100 gold, while [[Info/Characters/NPCs/Maiq_the_Liar\|M'aiq the Liar]] appeared from the trees to deliver bizarre riddles before vanishing into the wilderness.
+
+## Session Mentions
+- [[2 -  Sessions/Session 010\|Session 010]]

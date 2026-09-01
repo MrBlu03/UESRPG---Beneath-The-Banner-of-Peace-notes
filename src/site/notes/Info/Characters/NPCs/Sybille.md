@@ -5,13 +5,16 @@
 # Sybille
 
 ## Description
-A spectral small girl with straw-colored hair who appeared in [[Info/Characters/Party/Periwyn\|Periwyn]]'s dream vision, serving as a poignant symbol of lost innocence in the face of vampirism.
+A small girl with straw-colored hair who manifested within [[Info/Characters/Party/Periwyn\|Periwyn]]'s traumatic dream vision at a pastoral grain mill.
 
 ## Relationships
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Interacted with her in a spectral vision, returning her belongings.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Returned her lost child's doll during Periwyn's inner emotional journey.
 
 ## Location
-- Spectral entity encountered within a grain mill in [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]].
+- Dream vision of the countryside grain mill.
 
 ## Notes
-- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a]]**: Appeared in the grain mill softly humming; she warned [[Info/Characters/Party/Periwyn\|Periwyn]] about the lady in white who makes people forget their names. [[Info/Characters/Party/Periwyn\|Periwyn]] returned her lost doll to her.
+- **The Doll Returned ([[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]):** Encountered inside the mill during Periwyn's slumber; [[Info/Characters/Party/Periwyn\|Periwyn]] handed back a child's doll that had belonged to her, representing an emotional step toward confronting past grief.
+
+## Session Mentions
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]

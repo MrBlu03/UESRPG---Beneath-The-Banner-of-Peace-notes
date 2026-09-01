@@ -4,12 +4,18 @@
 
 # Harmugstahl
 
+## Overview
+An ancient, fortified military keep nestled within the craggy mountains of western Skyrim, utilized by royal garrisons to monitor regional frontiers.
+
 ## Description
-A military garrison and training ground for Riften's scouts.
+A stout, multi-level stone fortress featuring thick defensive ramparts, barracks, armories, and subterranean cellars.
 
-## Notable NPCs
-- None
+## Key Inhabitants & Associated Figures
+- **Royal Garrison**: Stationed troops under royal command.
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Dispatched the party to investigate the fortress after it went completely silent.
 
-## Key Events
-- **[[3 - The Fjelhorst Chronicles/Chapter 004\|Chapter 004]]**: The garrison had gone silent three nights prior. Scouts sent to investigate never returned, and a hunter reported an eerie stillness before being found dead frozen from the inside out. The party visited the keep and found it eerily lifeless with undisturbed snow and a severed, frozen hand in the courtyard well.
-- **[[2 -  Sessions/Session 004\|Session 004]]**: The party investigated the eerily frozen keep, finding soldiers and objects frozen solid. They encountered mysterious voices, a frostbitten hand, and a trail of black feathers. They uncovered a logbook from the frozen overseer, a cracked mirror reflecting a Khajiit figure, and two symbols etched into the ground: the Coiled Serpent and a variation of the Clan Volkihar symbol.
+## Notable Events
+- **The Harmugstahl Investigation ([[2 -  Sessions/Session 004\|Session 004]]):** Summoned by Queen Freidr, the party investigated the unexplained silence and supernatural freezing at the keep, uncovering early evidence of [[Info/Organizations/Cults/Clan_Volkihar\|Clan Volkihar]] vampire incursions and earning a 400 gold bounty.
+
+## Session Mentions
+- [[2 -  Sessions/Session 004\|Session 004]]

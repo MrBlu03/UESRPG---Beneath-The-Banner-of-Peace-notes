@@ -2,28 +2,24 @@
 {"dg-publish":true,"permalink":"/info/quests/stryder-s-favor/"}
 ---
 
+# Stryder's Favor
 
-# Stryder's Favor: The Dunmer Caravan
+## Quest Log Summary
+In [[Info/Locations/Falderstad/Falderstad\|Falderstad]], the mysterious traveler [[Info/Characters/NPCs/Stryder\|Stryder]] approached the party for discreet aid, coordinating movements near the abandoned tannery before abruptly disappearing.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Main  
-**Assigned Session:** [[2 -  Sessions/Session 015\|Session 015]]  
-**Completed Session:** [[2 -  Sessions/Session 015\|Session 015]]  
-**Reward:** 150 gold, Cartel Smuggler Evidence  
+## Objectives & Progression
+- [x] Meet Stryder at the [[Info/Locations/Falderstad/Abandoned_Guild_House\|Abandoned_Guild_House]] in Falderstad ([[2 -  Sessions/Session 014\|Session 014]]).
+- [x] Exchange coded messages and ensure the perimeter is clear of watchers ([[2 -  Sessions/Session 014\|Session 014]]).
+- [x] Complete the covert liaison before Stryder's sudden departure ([[2 -  Sessions/Session 015\|Session 015]]).
 
-## Objective
-Intercept a suspicious Dunmer merchant caravan outside Falderstad to uncover illicit contraband.
+## Key Participants & Factions
+- **The Fangs of Fjelhorst**: [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Kirya\|Kirya]], [[Info/Characters/Party/Onasha\|Onasha]], [[Info/Characters/Party/Periwyn\|Periwyn]].
+- **NPCs**: [[Info/Characters/NPCs/Stryder\|Stryder]], [[Info/Characters/NPCs/Hooded_Figure\|Hooded_Figure]].
 
-## Key NPCs
-  - "[[Info/Characters/NPCs/Stryder\|Stryder]]"
-  - "[[Info/Characters/Party/Durov\|Durov]]"
-  - "[[Info/Characters/Party/Periwyn\|Periwyn]]"
-  - "[[Info/Characters/NPCs/Hooded_Figure\|Hooded_Figure]]"
+## Locations Visited
+- [[Info/Locations/Falderstad/Falderstad\|Falderstad]]
+- [[Info/Locations/Falderstad/Abandoned_Guild_House\|Abandoned_Guild_House]]
 
-## Key Locations
-  - "[[Info/Locations/Falderstad/Falderstad\|Falderstad]]"
-  - "[[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 015\|Session 015]]**: [[Info/Characters/Party/Durov\|Durov]] and [[Info/Characters/Party/Periwyn\|Periwyn]] intercepted the caravan under royal authority, uncovered moonsugar and forged transit papers, and eliminated corrupt guards.
+## Session Mentions
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 015\|Session 015]]

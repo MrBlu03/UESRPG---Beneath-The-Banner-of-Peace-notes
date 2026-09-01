@@ -5,22 +5,13 @@
 # Daggerfall Covenant
 
 ## Overview
-The northwestern alliance of Bretons, Redguards, and Orcs led by High King Emeric, seeking to restore the Second Empire.
+The northwestern alliance of the Second Era uniting the Breton kingdoms of High Rock, the Redguards of Hammerfell, and the Orcs of Orsinium during the Three Banners War.
 
-## Structure
-Feudal monarchy and military council centered in Wayrest.
+## Key Heraldry & Lore
+- **Lion Insignia**: Represents High King Emeric and the Breton nobility within historical alliance relics.
 
-## Goals and Activities
-Restoring trade, imperial stability, and claiming the imperial throne.
+## Notable Events
+- **Alliance Relic Lore ([[2 -  Sessions/Session 023\|Session 023]]):** Referenced alongside the Ebonheart Pact and Aldmeri Dominion during the arcane examination of tripartite alliance medals.
 
-## Known Members
-- [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]] (historical advisor to Emeric).
-
-## Relationships
-- Ancestral ties to [[Info/Characters/Party/Periwyn\|Periwyn]]'s Breton heritage.
-
-## Locations
-- High Rock and Hammerfell.
-
-## Notes
-- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a]]-**[[2 -  Sessions/Session 023\|Session 023]]**: Referenced in connection with High King Emeric and Breton chivalric orders.
+## Session Mentions
+- [[2 -  Sessions/Session 023\|Session 023]]

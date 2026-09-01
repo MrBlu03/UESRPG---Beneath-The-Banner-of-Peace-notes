@@ -5,21 +5,26 @@
 # Eirik the Quick
 
 ## Description
-Eirik the Quick is a famously agile and perpetually running Nord courier in [[Info/Locations/The Rift/Riften\|Riften]]. Renowned for his rapid reflexes, he darts back and forth across the city carrying messages with constant energetic movement.
+A remarkably spry, nimble, and perpetually sprinting Nord city courier. Known across the Rift for delivering messages at breakneck speed, he rarely stops moving, darting between city streets, holds, and taverns.
 
 ## Relationships
-- **[[Info/Characters/Party/Onasha\|Onasha]]**: Subject of a recurring, humorous rivalry wherein [[Info/Characters/Party/Onasha\|Onasha]] repeatedly attempts to trip him as he runs by.
-- **[[Info/Characters/NPCs/Sigrid\|Sigrid]]**: Delivered messages on her behalf.
+- **[[Info/Characters/NPCs/Sigrid\|Sigrid]]**: Delivered urgent forensic autopsy notes from the mortician to the adventuring party.
+- **[[Info/Characters/Party/Onasha\|Onasha]]**: Became the target of Onasha's recurring personal challenge (*"Trip Eirik the Quick"*), leading to a comedic series of evasion stunts across multiple holds.
 
 ## Location
-- Usually found sprinting through the streets of [[Info/Locations/The Rift/Riften\|Riften]].
+- Streets of **[[Info/Locations/The Rift/Riften\|Riften]]** and **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Flagged down the party in [[Info/Locations/The Rift/Riften\|Riften]] to deliver a message from the mortician [[Info/Characters/NPCs/Sigrid\|Sigrid]].
-- **[[2 -  Sessions/Session 005\|Session 005]]**: Delivered a summons to the party from [[Info/Characters/NPCs/Hjar\|Hjar of Clan Black-Foot]] instructing them to meet at the stables.
-- **[[2 -  Sessions/Session 009\|Session 009]]**: Was briefly spotted standing still for once by [[Info/Characters/Party/Kirya\|Kirya]] outside [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil Keep]].
-- **[[2 -  Sessions/Session 010\|Session 010]]**: Effortlessly dodged [[Info/Characters/Party/Onasha\|Onasha]]'s attempt to trip him, inspiring her ongoing personal challenge to successfully trip him.
-- **[[2 -  Sessions/Session 011\|Session 011]]**: Sped past the party twice more in [[Info/Locations/The Rift/Riften\|Riften]], leaping over [[Info/Characters/Party/Onasha\|Onasha]]'s repeated attempts to trip him.
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Vaulted over another of [[Info/Characters/Party/Onasha\|Onasha]]'s failed trip attempts outside the war room.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Delivered a letter from the College of [[Info/Locations/Other Skyrim/Winterhold\|Winterhold]] to the party. He was finally successfully tripped by [[Info/Characters/Party/Onasha\|Onasha]]'s tail, though he blamed a rock and fled in confusion.
-- **[[2 -  Sessions/Session 019\|Session 019]]**: His delivered letter prompted further discussion among the party.
+- **Message Dispatch ([[2 -  Sessions/Session 003\|Session 003]]):** Flagged down the party in Riften square to deliver a crucial dispatch from mortician [[Info/Characters/NPCs/Sigrid\|Sigrid]] regarding the poisoned Dunmer autopsy.
+- **The Tripping Rivalry ([[2 -  Sessions/Session 010\|Session 010]], [[2 -  Sessions/Session 011\|Session 011]], [[2 -  Sessions/Session 012\|Session 012]]):** Continuously dodged, vaulted over, and evaded [[Info/Characters/Party/Onasha\|Onasha]]'s repeated attempts to trip him as he sprinted past in Riften.
+- **The Tumble in Falderstad ([[2 -  Sessions/Session 018\|Session 018]]):** After numerous failed attempts across multiple sessions, [[Info/Characters/Party/Onasha\|Onasha]] finally succeeded in tripping him in Falderstad, completing her long-running personal challenge.
+
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 010\|Session 010]]
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 019\|Session 019]]

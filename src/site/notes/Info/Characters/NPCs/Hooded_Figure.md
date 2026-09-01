@@ -5,16 +5,22 @@
 # Hooded Figure
 
 ## Description
-A mysterious individual with high court connections who wears a raven-black cowl. The figure is associated with the [[Info/Organizations/Cults/Blackfeather Court\|Blackfeather Court]] and has a chilling, mocking demeanor.
+An enigmatic, cloaked individual who repeatedly manifests at pivotal moments and secluded doorways across Skyrim. Claiming to be *"no one of consequence,"* the figure speaks with mocking composure and possesses intricate connections to shadowy syndicates, high courts, and the [[Blackfeather_Court\|Blackfeather Court]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Stryder\|Stryder]]**: Accompanied him during illicit trade negotiations.
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Uttered words that struck a deep, unsettling chord with her.
+- **[[Info/Characters/NPCs/Stryder\|Stryder]]**: Accompanied Stryder during clandestine encounters in Falderstad.
+- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Connected through the wider network of planar agents and crow emissaries.
+- **[[Info/Characters/Party/Kirya\|Kirya]]**: Sighted by Kirya operating covertly along the wilderness treeline outside Kjalgrad.
 
 ## Location
-- Often appears unpredictably, having been seen in illicit basement meetings and the treeline outside cities.
+- Seen across **[[Info/Locations/The Rift/Riften\|Riften]]**, **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]**, and the outskirts of **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 011\|Session 011]]**: Entered [[Info/Characters/NPCs/Torvald_Black-Foot\|Torvald_Black-Foot]]'s hall dripping with rain during a job proposal.
-- **[[2 -  Sessions/Session 015\|Session 015]]**: Accompanied [[Info/Characters/NPCs/Stryder\|Stryder]] during negotiations, claimed to be "no one of consequence," and shockingly told [[Info/Characters/Party/Periwyn\|Periwyn]] "Good girl," making her freeze as the voice matched a figure from her dreams.
-- **[[2 -  Sessions/Session 023\|Session 023]]**: Was spotted by [[Info/Characters/Party/Kirya\|Kirya]] in the treeline outside the city, accompanied by crows, prompting the party to investigate the forest.
+- **Riften Manifestation ([[2 -  Sessions/Session 011\|Session 011]]):** Entered dripping wet from the rain, associated with clandestine meetings.
+- **Falderstad Confrontation ([[2 -  Sessions/Session 015\|Session 015]]):** Appeared alongside [[Info/Characters/NPCs/Stryder\|Stryder]] in Falderstad. When [[Info/Characters/Party/Durov\|Durov]] blocked the stairs demanding a name, the figure mocked him, claimed to be nobody of consequence, and boasted of connections in high courts.
+- **Treeline Watcher ([[2 -  Sessions/Session 023\|Session 023]]):** Spotted by [[Info/Characters/Party/Kirya\|Kirya]] in the forest perimeter outside Kjalgrad, linked to contacts with the [[Blackfeather_Court\|Blackfeather Court]].
+
+## Session Mentions
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 023\|Session 023]]

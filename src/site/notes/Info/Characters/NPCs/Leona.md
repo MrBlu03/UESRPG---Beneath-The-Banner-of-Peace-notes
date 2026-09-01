@@ -5,14 +5,17 @@
 # Leona
 
 ## Description
-A citizen of [[Info/Lore/Bruma\|Bruma]] and the mother of [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]]. She survived the Planemeld Crisis when a Daedric anchor fell into the city's market.
+A Colovian woman living in [[Info/Lore/Bruma\|Bruma]], Cyrodiil. She is the mother of [[Info/Characters/NPCs/Captain_Irlav\|Captain Irlav]] and wife to blacksmith [[Info/Characters/NPCs/Colleux\|Colleux]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]]**: Son.
-- **[[Info/Characters/NPCs/Colleux\|Colleux]]**: Husband (a smith).
+- **[[Info/Characters/NPCs/Captain_Irlav\|Captain Irlav]]**: Her son, who serves as a guard officer in Skyrim.
+- **[[Info/Characters/NPCs/Colleux\|Colleux]]**: Her husband in Bruma.
 
 ## Location
-- Resides in [[Info/Lore/Bruma\|Bruma]].
+- **[[Info/Lore/Bruma\|Bruma]]**, **[[Info/Lore/Cyrodiil\|Cyrodiil]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 028\|Session 028]]**: Mentioned by [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]] while he was explaining the history of his family and the Bruma Crest to [[Info/Characters/Party/Durov\|Durov]].
+- **Family Lineage Recalled ([[2 -  Sessions/Session 028\|Session 028]]):** Recalled by [[Info/Characters/NPCs/Captain_Irlav\|Captain Irlav]] during a night ride with [[Info/Characters/Party/Durov\|Durov]], describing his mother and their family home in Bruma during the Planemeld crisis.
+
+## Session Mentions
+- [[2 -  Sessions/Session 028\|Session 028]]

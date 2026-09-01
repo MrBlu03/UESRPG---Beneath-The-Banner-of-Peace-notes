@@ -2,17 +2,23 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/companions-war-camp/"}
 ---
 
+# Companions War Camp
+
+## Overview
+The fortified military encampment and forward siege command post established by Harbinger [[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]] outside the walls of [[Info/Locations/The Rift/Greenwall\|Greenwall]] to contain the supernatural vampire blizzard.
+
 ## Description
-The Companions War Camp was a fortified temporary encampment established south of [[Info/Locations/The Rift/Greenwall\|Greenwall]] by the [[Info/Organizations/Military/Companions\|Companions]] of [[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone_Hall]]. Led by Harbinger [[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod_Wraithbane]], it was set up to investigate the unnatural ice wall surrounding the town and rescue its people. The camp was devastated by a massive vampire ambush.
+A battle-scarred encampment of heavy canvas pavilions, supply wagons, palisade barricades, and trebuchets overlooking the frozen perimeter of Greenwall fortress.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod_Wraithbane]]**: Harbinger of the Companions, leader of the camp.
-- **[[Info/Characters/NPCs/Beitild_the_Unwavering\|Beitild_the_Unwavering]]**: Companion warrior who died defending the camp.
-- **[[Info/Characters/NPCs/Olen_the_Mer-Killer\|Olen_the_Mer-Killer]]**: Companion warrior who died at the camp.
-- **[[Info/Characters/NPCs/Hillevi\|Hillevi]]**: A Companions healer who tended to survivors.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]]**: Supreme commander of the siege forces.
+- **[[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir Stormcrown]]**: Harbinger of the Cult of Ysmir leading auxiliary warriors.
+- **The Fangs of Fjelhorst**: Coordinated breach tactics and tunnel infiltration from the camp.
 
-## Key Events
-- **[[2 -  Sessions/Session 003\|Session 003]]**: The camp was first mentioned by [[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir_Stormcrown]] as being established by [[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod_Wraithbane]] to deal with the situation at [[Info/Locations/The Rift/Greenwall\|Greenwall]].
-- **[[2 -  Sessions/Session 005\|Session 005]]**: The party arrived at the camp to find it a bloody ruin after a [[Info/Organizations/Cults/Clan_Volkihar\|Clan_Volkihar]] vampire ambush, reducing the hundred soldiers to only five battered survivors.
-- **[[2 -  Sessions/Session 006\|Session 006]]**: The party rested at the camp while planning their infiltration of [[Info/Locations/The Rift/Greenwall\|Greenwall]]. They observed bats scouting the area and witnessed the sunrise burning the remaining vampires.
-- **[[2 -  Sessions/Session 007\|Session 007]]**: The party passed the war camp and found the still-smoking funeral pyres of [[Info/Characters/NPCs/Olen_the_Mer-Killer\|Olen_the_Mer-Killer]] and [[Info/Characters/NPCs/Beitild_the_Unwavering\|Beitild_the_Unwavering]].
+## Notable Events
+- **Arrival of the Relief Column ([[2 -  Sessions/Session 005\|Session 005]]):** The party arrived to find the camp decimated after a surprise vampire ambush reduced 100 soldiers to five battered veterans.
+- **The Siege & Breach ([[2 -  Sessions/Session 006\|Session 006]]):** Staged trebuchet bombardments and feint assaults to draw out vampire scouts while the party entered the fortress through the ancient Three Banners War smuggling tunnels.
+
+## Session Mentions
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 006\|Session 006]]

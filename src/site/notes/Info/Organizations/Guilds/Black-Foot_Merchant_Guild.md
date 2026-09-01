@@ -2,30 +2,22 @@
 {"dg-publish":true,"permalink":"/info/organizations/guilds/black-foot-merchant-guild/"}
 ---
 
-
 # Black-Foot Merchant Guild
 
-## Description
-The [[Info/Organizations/Guilds/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]] is a prominent merchant organization in [[Info/Locations/The Rift/Riften\|Riften]], named after and led by [[Info/Characters/NPCs/Torvald_Black-Foot\|Torvald Black-Foot]]. The guild previously operated in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] but has since departed that city.
+## Overview
+A historic, respected Nord merchant guild and trading association led by **Clan Black-Foot**, historically managing overland trade circuits across Riften, Eastmarch, and the southern passes.
 
-## Key Members
-- [[Info/Characters/NPCs/Torvald_Black-Foot\|Torvald Black-Foot]]: merchant, family owns the guild
-- [[Info/Characters/NPCs/Hjar\|Hjar]]: merchant 
+## Key Members & Associated Figures
+- **[[Info/Characters/NPCs/Torvald_Black-Foot\|Torvald_Black-Foot]]**: Patriarch of Clan Black-Foot in Riften.
+- **[[Info/Characters/NPCs/Hedrek_Black-Foot\|Hedrek_Black-Foot]] & [[Info/Characters/NPCs/Silla_Fenmark\|Silla_Fenmark]]**: Guild representatives in Kjalgrad.
+- **[[Info/Characters/NPCs/Hjar\|Hjar]]**: Clan warrior who assisted supply logistics.
 
-## Activities
-- Trade and commerce in [[Info/Locations/The Rift/Riften\|Riften]]
+## Operations & Notable Events
+- **Riften Trade Protection ([[2 -  Sessions/Session 001\|Session 001]], [[2 -  Sessions/Session 011\|Session 011]]):** Torvald hired the party to protect Argonian dock workers from Camonna Tong harassment and recover a stolen lockbox.
+- **Exile & Resistance in Kjalgrad ([[2 -  Sessions/Session 020\|Session 020]], [[2 -  Sessions/Session 030\|Session 030]]):** Ousted from Kjalgrad by the aggressive monopoly of the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]; allied with the party to observe guild corruption and supported the city-wide worker strikes.
 
-## Areas of Operation
-- Based in [[Info/Locations/The Rift/Riften\|Riften]]
-- **Formerly**: [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] (guild house now abandoned)
-
-## Kjalgrad Departure
-The guild formerly maintained a presence in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] but left the city at some point:
-- Their former guild house is now abandoned ([[Info/Locations/Kjalgrad/Old_Blackfoot_Guild_House\|Blackfoot_Guild_House_Kjalgrad]])
-- Building has fallen into disrepair (torn banner, boarded windows, door off hinges)
-- [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] uses the abandoned building as an investigation base
-- Timing of departure may coincide with [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]]'s rise to power
-- Reasons for leaving [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] are unknown (possibly pushed out by competition)
-
-## Session References
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Abandoned guild house in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] used by [[Info/Characters/NPCs/The_Vestige\|The_Vestige]]
+## Session Mentions
+- [[2 -  Sessions/Session 001\|Session 001]]
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 030\|Session 030]]
+- [[2 -  Sessions/Session 031\|Session 031]]

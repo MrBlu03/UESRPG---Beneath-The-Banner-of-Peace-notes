@@ -5,14 +5,18 @@
 # Alaric
 
 ## Description
-A mercenary bandit leader who was hired by the mysterious [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] organization to blockade the southern road near [[Info/Locations/The Rift/Riften\|Riften]].
+A highwayman and mercenary who operated in a bandit gang ambushing travelers along the road between [[Info/Locations/The Rift/Riften\|Riften]] and [[Info/Locations/The Rift/Trevas_Bend\|Treva's Bend]].
 
 ## Relationships
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Defeated his squad and caved in the skull of one of his men with her warhammer.
-- **[[Info/Characters/NPCs/Captain_Harvold\|Captain_Harvold]]**: Took Alaric into custody in [[Info/Locations/The Rift/Riften\|Riften]].
+- **[[Info/Characters/NPCs/Captain_Harvold\|Captain Harvold]]**: Riften guard captain who took him into custody and awarded the party's bounty.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Defeated his gang and captured him after slaying his bandit leader.
 
 ## Location
-- Imprisoned in the custody of [[Info/Characters/NPCs/Captain_Harvold\|Captain_Harvold]] in [[Info/Locations/The Rift/Riften\|Riften]].
+- Guard Barracks and Dungeons in **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 001\|Session 001]]**: Surrendered to the party after his squad was routed on the road south of [[Info/Locations/The Rift/Riften\|Riften]]. Revealed that they were hired not for gold, but specifically to block the road, carrying instructions sealed with the wax mark of the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]]. He was taken to [[Info/Locations/The Rift/Riften\|Riften]] and handed over to [[Info/Characters/NPCs/Captain_Harvold\|Captain_Harvold]].
+- **Road Ambush & Surrender ([[2 -  Sessions/Session 001\|Session 001]]):** The sole surviving member of an ambush along the southern road to [[Info/Locations/The Rift/Trevas_Bend\|Treva's Bend]]. Upon surrendering to [[Info/Characters/Party/Periwyn\|Periwyn]], he confessed that they had not attacked for common robbery, but had been specifically hired to blockade the route.
+- **The Coiled Serpent Connection:** Carried written orders marked with a distinctive wax seal of a [[Info/Lore/Coiled_Serpent\|Coiled Serpent]], providing the first evidence of a coordinated conspiracy in the Rift.
+
+## Session Mentions
+- [[2 -  Sessions/Session 001\|Session 001]]

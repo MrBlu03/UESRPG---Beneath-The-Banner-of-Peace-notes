@@ -2,28 +2,25 @@
 {"dg-publish":true,"permalink":"/info/quests/harmugstahl-investigation/"}
 ---
 
+# Harmugstahl Investigation
 
-# Harmugstahl & The Volkihar Blizzard
+## Quest Log Summary
+Queen Freidr dispatched the party to investigate the eerie, prolonged silence from the fortified garrison of [[Info/Locations/Other Skyrim/Harmugstahl\|Harmugstahl]] in western Skyrim, where reports suggested unnatural frost had engulfed the fortress.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Investigation  
-**Assigned Session:** [[2 -  Sessions/Session 004\|Session 004]]  
-**Completed Session:** [[2 -  Sessions/Session 004\|Session 004]]  
-**Reward:** Frozen Logbook, Silver Weapons  
+## Objectives & Progression
+- [x] Receive royal investigation commission from Queen Freidr ([[2 -  Sessions/Session 002\|Session 002]]).
+- [x] Journey to the frontier keep and assess garrison status ([[2 -  Sessions/Session 003\|Session 003]]).
+- [x] Uncover evidence of supernatural freezing and vampire reconnaissance ([[2 -  Sessions/Session 003\|Session 003]], [[2 -  Sessions/Session 004\|Session 004]]).
+- [x] Report findings to Queen Freidr and receive 400 gold reward from Rigi ([[2 -  Sessions/Session 004\|Session 004]]).
 
-## Objective
-Investigate the unnatural magical blizzard encircling Fort Greenwall and its connection to Clan Volkihar.
+## Key Participants & Factions
+- **The Fangs of Fjelhorst**: [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Kirya\|Kirya]], [[Info/Characters/Party/Onasha\|Onasha]], [[Info/Characters/Party/Periwyn\|Periwyn]].
+- **Court of Riften**: [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]], Rigi.
 
-## Key NPCs
-  - "[[Info/Characters/Party/Periwyn\|Periwyn]]"
-  - "[[Info/Characters/NPCs/Sigrid\|Sigrid]]"
-  - "[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]"
+## Locations Visited
+- [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]]
+- [[Info/Locations/Other Skyrim/Harmugstahl\|Harmugstahl]]
+- [[Info/Locations/The Rift/Riften\|Riften]]
 
-## Key Locations
-  - "[[Info/Locations/Other Skyrim/Harmugstahl\|Harmugstahl]]"
-  - "[[Info/Lore/The_Reach\|The_Reach]]"
-  - "[[Info/Locations/The Rift/Greenwall\|Greenwall]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 004\|Session 004]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] identified the unnatural frost as the signature of [[Info/Organizations/Cults/Clan_Volkihar\|Clan_Volkihar]]; retrieved the frozen commander logbook and prepared 50 silver arrows.
+## Session Mentions
+- [[2 -  Sessions/Session 002\|Session 002]], [[2 -  Sessions/Session 003\|Session 003]], [[2 -  Sessions/Session 004\|Session 004]]

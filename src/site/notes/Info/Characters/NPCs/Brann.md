@@ -5,13 +5,16 @@
 # Brann
 
 ## Description
-The head chef of a kitchen in [[Info/Locations/The Rift/Riften\|Riften]] who prepares food provisions for the destitute inhabitants of the Ratway.
+The head chef of the royal kitchens at [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil Keep]] in [[Info/Locations/The Rift/Riften\|Riften]], serving the court of [[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]].
 
 ## Relationships
-- **[[Info/Characters/Party/Durov\|Durov]]**: Handed him a large basket of food to carry to the Ratway.
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Serves as royal head chef in the palace of Mistveil Keep.
 
 ## Location
-- Works in a kitchen in [[Info/Locations/The Rift/Riften\|Riften]].
+- Kitchens of **[[Info/Locations/The Rift/Mistveil_Keep\|Mistveil Keep]]** in **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Provided a large basket containing bread, cheese, and ham to [[Info/Characters/Party/Durov\|Durov]] to deliver to the inhabitants of the [[Info/Locations/The Rift/Ratway\|Ratway]].
+- **Ratway Provisions ([[2 -  Sessions/Session 012\|Session 012]]):** Prepared a large, generous basket of provisions (fresh bread, artisan cheese, and cured ham) for the adventuring party to offer as a diplomatic gift to the inhabitants of the [[Info/Locations/The Rift/Ratway\|Ratway]] when they sought an audience with [[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn the Ancient]].
+
+## Session Mentions
+- [[2 -  Sessions/Session 012\|Session 012]]

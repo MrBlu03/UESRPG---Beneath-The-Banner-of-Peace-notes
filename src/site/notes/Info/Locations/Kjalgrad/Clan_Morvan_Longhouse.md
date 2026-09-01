@@ -2,19 +2,27 @@
 {"dg-publish":true,"permalink":"/info/locations/kjalgrad/clan-morvan-longhouse/"}
 ---
 
-# Clan Morvan Longhouse
+# Clan Morvan Longhouse (Yarls Hall)
+
+## Overview
+The massive, carved timber longhouse and seat of municipal governance for Clan Morvan in the Upper District of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Nominally the seat of the Jarl, it was secretly subverted by the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]], with the true Jarl slain and replaced by a mimicry Daedra, and the steward [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]] revealed as an undercover Scaafin.
 
 ## Description
-The Clan Morvan Longhouse is the massive timber and stone seat of government in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], perched atop the highest elevation of the city. It serves as the primary residence and court of the Jarl of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], housing the council chambers, treasury, administrative archives, and private guard quarters. The steward's office contains secret compartments used by the false steward to conceal dark pacts, and subterranean cells exist beneath the barracks.
+A grand Nordic timber hall featuring towering carved pillars, a central fire trench, private upper residential quarters, municipal administrative offices, and secure basement dungeons connected to the city sewer network via concealed passages.
 
-## Notable NPCs
-- **[[Info/Organizations/Other/Clan_Morvan\|Jarl of Kjalgrad]]**: The ostensible ruler of Kjalgrad, suspected to be a skin-changer.
-- **[[Info/Characters/NPCs/Darius_Caro\|Darius Caro]]**: The corrupt steward who wielded true power, secretly a Dremora serving the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult_of_Clavicus_Vile]].
-- **[[Info/Characters/NPCs/Captain_Irlav\|Captain Irlav]]**: Commander of the longhouse guard.
+## Key Inhabitants & Associated Figures
+- **The Jarl (Clan Morvan)**: Replaced by an aggressive mimicry Daedra anchored by a dark runic stone.
+- **[[Info/Characters/NPCs/Darius_Caro\|Darius Caro]]**: Corrupt steward and disguised Scaafin cult agent.
+- **[[Info/Characters/NPCs/Vaelin_Marr\|Vaelin Marr]]**: Attends high-society functions and directs civic policies.
 
-## Key Events
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Mentioned as the location of the Jarl's court, where the party was directed by [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]].
-- **[[2 -  Sessions/Session 020\|Session 020]]**: The party was summoned here by [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]], who hired them to silence a Dunmer agitator.
-- **[[2 -  Sessions/Session 021\|Session 021]]**: The party returned to deliver a forged letter to [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]] to protect [[Info/Characters/NPCs/The_Vestige\|The_Vestige]].
-- **[[2 -  Sessions/Session 027\|Session 027]]**: [[Info/Characters/Party/Onasha\|Onasha]] was imprisoned and tortured in the dungeon beneath the Longhouse by [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]]. A rescue squad led by [[Info/Characters/NPCs/Tabitha\|Tabitha]] and [[Info/Characters/Party/Periwyn\|Periwyn]] broke into the evidence room via a false wall in the sewers. During the escape, [[Info/Characters/Party/Onasha\|Onasha]] threw a flame bomb, setting the main corridors ablaze.
-- **[[2 -  Sessions/Session 028\|Session 028]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] breached the steward's office in the burning Longhouse, defeating [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]]'s guards and knocking him unconscious, revealing his true Dremora form.
+## Notable Events
+- **The Trade Gala Infiltration ([[2 -  Sessions/Session 022\|Session 022]]):** Hosted an elite trade event; [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] attended as guests, while [[Info/Characters/Party/Kirya\|Kirya]] infiltrated through the sewer grates into the Jarl's private chambers, recovering the bloody fur cloak and heated [[Info/Findings & Items/Relics & Evidence/Dark Runic Stone\|Dark Runic Stone]].
+- **The Dungeon Jailbreak ([[2 -  Sessions/Session 027\|Session 027]]):** [[Info/Characters/Party/Periwyn\|Periwyn]], [[Info/Characters/NPCs/Tabitha\|Tabitha]], and a Lower Lodge strike team breached the dungeon evidence room via a false candle-sconce wall, freeing [[Info/Characters/Party/Onasha\|Onasha]] and sparking a blaze that spread through the hall.
+- **Longhouse Ambush & Steward Unmasking ([[2 -  Sessions/Session 028\|Session 028]]):** [[Info/Characters/Party/Periwyn\|Periwyn]], [[Info/Characters/Party/Onasha\|Onasha]], and [[Info/Characters/NPCs/Milos\|Milos]] ambushed [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]] in his private office, dispelling his illusion with *Sunbeam* and capturing the Scaafin alive.
+
+## Session Mentions
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 021\|Session 021]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 027\|Session 027]]
+- [[2 -  Sessions/Session 028\|Session 028]]

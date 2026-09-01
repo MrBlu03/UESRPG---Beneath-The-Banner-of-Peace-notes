@@ -2,26 +2,22 @@
 {"dg-publish":true,"permalink":"/info/organizations/military/lunclaire-company/"}
 ---
 
-# Lunclaire Company
+# Lunclaire Company (House Lunclaire)
 
 ## Overview
-The ancestral knightly company and martial retinue of House Lunclaire, dedicated to chivalric virtue and the eradication of undead abominations.
+The prestigious, wealthy aristocratic merchant consortium and trading empire hailing from High Rock, historically directing expansive overland silk, timber, and wine commerce across High Rock, Hammerfell, and Skyrim.
 
-## Structure
-Feudal knightly order led by house champions and consecrated paladins.
+## Key Members & Associated Figures
+- **[[Info/Characters/Party/Periwyn\|Periwyn Lunclaire]]**: Scion of House Lunclaire.
+- **[[Info/Characters/NPCs/Renald_Vero\|Renald_Vero]]**: High Rock silk baron and longtime Lunclaire trade associate.
+- **[[Info/Characters/NPCs/Olvfrost\|Olvfrost]]**: Nord timber magnate allied in regional lumber supply lines.
 
-## Goals and Activities
-Defending sacred tombs, upholding knightly vows, and cleansing dark magic.
+## Operations & Notable Events
+- **Restarting the Trade Empire ([[2 -  Sessions/Session 022\|Session 022]]):** [[Info/Characters/Party/Periwyn\|Periwyn]] utilized her prestigious Lunclaire heritage to gain entry to the elite trade gala in Kjalgrad, negotiating exclusive lumber routes with [[Info/Characters/NPCs/Olvfrost\|Olvfrost]] and securing silk trade agreements with [[Info/Characters/NPCs/Renald_Vero\|Renald_Vero]].
 
-## Known Members
-- [[Info/Characters/Party/Periwyn\|Periwyn]]: Knight paladin carrying the family crest.
-- [[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]]: Ancestral mentor.
-
-## Relationships
-- Bound by sacred oath to the [[Info/Organizations/Religious/Knights_of_Arkay\|Order of Arkay]].
-
-## Locations
-- [[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]], [[Info/Lore/High_Rock\|High_Rock]]
-
-## Notes
-- **[[2 -  Sessions/Session 023\|Session 023]]**: Mentioned in family records and heraldic inquiries regarding [[Info/Characters/Party/Periwyn\|Periwyn]]'s noble heritage.
+## Session Mentions
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 023\|Session 023]]

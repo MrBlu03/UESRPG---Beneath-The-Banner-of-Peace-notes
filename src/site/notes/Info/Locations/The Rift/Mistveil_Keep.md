@@ -4,15 +4,25 @@
 
 # Mistveil Keep
 
+## Overview
+The imposing stone castle and sovereign seat of royal power in [[Info/Locations/The Rift/Riften\|Riften]], commanding the southeastern defenses of Skyrim. It is the residence and court of **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]** and her chief advisor, **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]]**.
+
 ## Description
-Mistveil Keep is the fortified palace and royal seat of power in [[Info/Locations/The Rift/Riften\|Riften]], serving as the residence and administrative center for [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]] and her court. It features a grand stone throne room adorned with banners of the Rift, a tower laboratory, heavily guarded barracks, and a subterranean dungeon complex beneath the keep.
+A formidable stone keep featuring a grand throne room, royal audience chambers, arcane laboratories, strategic war rooms, guard barracks, and extensive subterranean vaults.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Ruler of The Rift.
-- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]]**: Visiting mage tracking down dark magic.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Sovereign ruler of Riften.
+- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]]**: Royal court mage and scholar.
+- **[[Info/Characters/NPCs/Captain_Harvold\|Captain Harvold]]**: Commander of the city guard.
+- **[[Info/Characters/NPCs/Brann\|Brann]]**: Head chef of the royal kitchens.
 
-## Key Events
-- **[[2 -  Sessions/Session 001\|Session 001]]**: [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]] were summoned here and received their initial quest from [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]] to investigate the water dispute at [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]].
-- **[[2 -  Sessions/Session 002\|Session 002]]**: The party reported back with [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]]'s journal, receiving royal gold and a warning of deepening unrest.
-- **[[2 -  Sessions/Session 004\|Session 004]]**: The party overheard a conversation between [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]] and [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]] regarding prophecy. The Queen then tasked the party with investigating [[Info/Locations/Other Skyrim/Harmugstahl\|Harmugstahl]].
-- **[[2 -  Sessions/Session 012\|Session 012]]**: The Queen and [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]] delivered crucial intelligence to the party, granted them broad investigative authority across the hold, and asked them to investigate Ratway fires.
+## Notable Events
+- **Royal Summons & Missions ([[2 -  Sessions/Session 001\|Session 001]], [[2 -  Sessions/Session 004\|Session 004]], [[2 -  Sessions/Session 012\|Session 012]]):** Queen Freidr summoned the party to investigate the Snow-Shod water dispute, the Harmugstahl silence, and the Greenwall vampire invasion.
+- **Naming the Fangs of Fjelhorst ([[2 -  Sessions/Session 004\|Session 004]], [[2 -  Sessions/Session 007\|Session 007]]):** Bestowed the party with their official royal title, writs of authority, and rewards following their victories.
+
+## Session Mentions
+- [[2 -  Sessions/Session 001\|Session 001]]
+- [[2 -  Sessions/Session 002\|Session 002]]
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 012\|Session 012]]

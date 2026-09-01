@@ -4,12 +4,19 @@
 
 # Ebonheart
 
+## Overview
+The historic coastal capital and major port city of mainland [[Info/Lore/Morrowind\|Morrowind]], acting as the administrative seat of the [[Info/Organizations/Military/Ebonheart_Pact\|Ebonheart Pact]].
+
 ## Description
-A city in Morrowind known to be a source of moon sugar for smugglers.
+A grand stone city and harbor bustling with Great House diplomacy, merchant vessels, and cross-provincial caravans connecting Morrowind with Skyrim and Black Marsh.
 
-## Notable NPCs
-- None
+## Key Inhabitants & Associated Figures
+- **Great House Merchants & Smugglers**: Source of trade caravans and illicit border contraband.
 
-## Key Events
-- **[[3 - The Fjelhorst Chronicles/Chapter 018\|Chapter 018]]**: Hlaalu merchants revealed their moon sugar was a side operation purchased from Ebonheart smugglers.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Prisoners confirmed they obtained their moon sugar from smugglers in Ebonheart, who bring it from there to Skyrim.
+## Notable Events
+- **Smuggling Origin Revealed ([[2 -  Sessions/Session 018\|Session 018]]):** Interrogations of captured Dunmer smugglers in Falderstad revealed that their illicit supply network originated in Ebonheart, funneling forged goods and tainted materials across the mountain passes into Skyrim.
+- **Alliance Lore ([[2 -  Sessions/Session 023\|Session 023]]):** Referenced in historical analyses of the tripartite alliances during the Planemeld era.
+
+## Session Mentions
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 023\|Session 023]]

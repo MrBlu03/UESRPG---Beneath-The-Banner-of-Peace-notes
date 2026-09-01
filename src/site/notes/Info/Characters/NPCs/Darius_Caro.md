@@ -5,21 +5,27 @@
 # Darius Caro
 
 ## Description
-A cunning Scaafin/Dremora infiltrator who murdered and impersonated the Jarl's true steward in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Operating under a mortal guise, he orchestrated illicit warehouse shipments, forged administrative writs, contracted the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]], and prepared mass sacrificial rituals for the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]].
+The corrupt, calculating steward of the Jarl of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], operating from the [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]]. He held vast administrative control over the city, accepting bribes, subverting the guard, and coordinating with shadowy syndicates. In [[2 -  Sessions/Session 028\|Session 028]], his true form was exposed: he is a shape-shifting **Dremora** (specifically a **Scaafin**-like Daedric infiltrator serving the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]]).
 
 ## Relationships
-- **[[Info/Organizations/Other/Clan_Morvan\|Clan_Morvan]]**: Deceived the Jarl by posing as his trusted steward.
-- **[[Info/Characters/NPCs/Vaelin_Marr\|Vaelin_Marr]]**: Coordinated corrupt commercial monopolies and trade clearances.
-- **[[Info/Organizations/Criminal/Camonna_Tong\|Camonna_Tong]]**: Hired Dunmer assassins and enforcers to eliminate political rivals and the party.
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Primary adversaries who exposed his true Daedric identity.
-- **[[Info/Characters/NPCs/Milos\|Milos]]**: Interrogated and bound him during the sewer raid.
+- **[[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]]**: True masters and patrons whom he secretly serves in Eastmarch.
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige / Sadrith Indoril]]**: Placed a bounty to assassinate or capture Sadrith to suppress investigations into Daedric dealings.
+- **[[Info/Characters/Party/Onasha\|Onasha]]**: Paid the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]] to kidnap her and subjected her to torture in the Longhouse dungeon.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Defeated and battered him in his office and the sewers, using *Sunbeam* magic to scorch through his Daedric protective wards.
+- **[[Info/Characters/NPCs/Milos\|Milos]]**: Dark Brotherhood assassin who assisted the party in capturing and interrogating him.
 
 ## Location
-- Formerly resided in the [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]]; captured and held near [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan Mesa]].
+- Formerly the **[[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]]** in **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
+- Captured and detained at the **[[Info/Locations/Kjalgrad/Altan_Mesa\|Main Facility Ruin]]** under guard of [[Info/Characters/NPCs/The_Vestige\|The Vestige]].
 
 ## Notes
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Met the party at the [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]], offering them a bounty to hunt down a troublesome Dunmer named Sadrith on behalf of the Jarl.
-- **[[2 -  Sessions/Session 021\|Session 021]]**: Paid the party 800 gold each for their fabricated evidence regarding the Dunmer bounty, directing them to bring their forged letter to [[Info/Characters/NPCs/Vaelin_Marr\|Vaelin Marr]].
-- **[[2 -  Sessions/Session 022\|Session 022]]**: Was observed secretly speaking with [[Info/Characters/NPCs/Vaelin_Marr\|Vaelin Marr]] by the party.
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Personally interrogated and tortured a captured [[Info/Characters/Party/Onasha\|Onasha]] in the dungeons of the [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]], admitting he hired the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]] to capture her. Fled his office when the longhouse caught fire during her rescue.
-- **[[2 -  Sessions/Session 028\|Session 028]]**: Ambushed in his office by [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]]. When knocked unconscious, his mortal illusion broke, revealing his true Scaafin/Dremora form. Bound and interrogated in the [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad Sewers]], he confessed to hiring the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]] due to "mutual interest." Attempted to escape but was subdued and secured by [[Info/Characters/NPCs/Milos\|Milos]].
+- **Bounty Contract on Sadrith ([[2 -  Sessions/Session 020\|Session 020]]):** Summoned the party to the longhouse and offered a contract to eliminate "Sadrith" under false claims of harassment, attempting to use the party as pawns to eliminate the Vestige.
+- **Dungeon Torture & Confession ([[2 -  Sessions/Session 027\|Session 027]]):** Personally taunted and ordered the torture of [[Info/Characters/Party/Onasha\|Onasha]] in the dungeons, admitting he had funded the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]] to abduct her.
+- **Assault, Transformation & Interrogation ([[2 -  Sessions/Session 028\|Session 028]]):** When his office was stormed by [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] as the hall burned, he was knocked unconscious, causing his disguise spell to collapse and revealing his true horned Scaafin form. Interrogated in the sewers, he confessed that he hired the Camonna Tong because of mutual interests to destroy the meddling party. After a failed escape attempt in the forest, he was subdued by Periwyn and turned over to [[Info/Characters/NPCs/The_Vestige\|The Vestige]].
+
+## Session Mentions
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 021\|Session 021]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 027\|Session 027]]
+- [[2 -  Sessions/Session 028\|Session 028]]

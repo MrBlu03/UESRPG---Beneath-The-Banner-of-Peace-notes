@@ -5,13 +5,17 @@
 # Hrovald
 
 ## Description
-A stablemaster in the Rift who handles royal steeds. He is meticulous in his duties and ensures that travelers are properly equipped for the road.
+The royal stable master of the city stables outside [[Info/Locations/The Rift/Riften\|Riften]], serving under the authority of [[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]**: Royal employer who personally oversaw his work.
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Manages the royal mounts and stables under her direct orders.
+- **The Fangs of Fjelhorst**: Prepared and assigned sturdy warhorses to the party for their northern mission.
 
 ## Location
-- Usually found tending the stables along the highway in [[Info/Locations/The Rift/The_Rift\|The Rift]].
+- City Stables outside **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 013\|Session 013]]**: Assisted the party with horse selection, choosing finer stock such as Rimefang, Sunsnow, Mossback, and Ashen under the direct supervision of [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]].
+- **Royal Horse Assignment ([[2 -  Sessions/Session 013\|Session 013]]):** Attended to Queen Freidr as she personally gifted the party high-quality horses (including Mossback and others) to ensure her royal envoys were properly equipped for their journey to Falderstad.
+
+## Session Mentions
+- [[2 -  Sessions/Session 013\|Session 013]]

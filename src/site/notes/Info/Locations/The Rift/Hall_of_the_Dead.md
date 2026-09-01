@@ -2,14 +2,23 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/hall-of-the-dead/"}
 ---
 
+# Hall of the Dead (Riften)
+
+## Overview
+The solemn, sacred mortuary and subterranean crypt of [[Info/Locations/The Rift/Riften\|Riften]], consecrated to Arkay and maintained by the diligent mortician and priestess [[Info/Characters/NPCs/Sigrid\|Sigrid]].
+
 ## Description
-The Hall of the Dead in [[Info/Locations/The Rift/Riften\|Riften]] serves as the city's morgue, mortuary, and consecrated crypts. Overseen by the mortician [[Info/Characters/NPCs/Sigrid\|Sigrid]], it contains cool stone tables for autopsies and extensive catacombs holding generations of citizens.
+A cool, subterranean stone complex featuring embalming slabs, forensic study desks, alcoves for funerary urns, and deep catacombs extending beneath the city walls.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Sigrid\|Sigrid]]**: The mortician and caretaker of the dead who conducts autopsies and prepares bodies.
-- **[[Info/Characters/NPCs/Ralvard\|Ralvard]]**: Assisted Sigrid in toxicological studies.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Sigrid\|Sigrid]]**: Head mortician and caretaker of the crypts.
+- **[[Info/Characters/NPCs/Ralvard\|Ralvard]]**: Master toxicologist consulted on poison forensics.
 
-## Key Events
-- **[[2 -  Sessions/Session 002\|Session 002]]**: The party brought the poisoned corpse of [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]] here for examination by [[Info/Characters/NPCs/Sigrid\|Sigrid]], who agreed to study the poison.
-- **[[2 -  Sessions/Session 003\|Session 003]]**: [[Info/Characters/NPCs/Sigrid\|Sigrid]] summoned the party back to share her troubling findings from her toxicological study of the Dunmer's body.
-- **[[2 -  Sessions/Session 012\|Session 012]]**: A distraction fire in the nearby Warrens allowed cult thieves to infiltrate the Hall of the Dead. The thieves stole both the corpse of the poisoned Dunmer and [[Info/Characters/NPCs/Sigrid\|Sigrid]]'s autopsy notes to cover their tracks.
+## Notable Events
+- **Forensic Examination of Adrith Velan ([[2 -  Sessions/Session 002\|Session 002]], [[2 -  Sessions/Session 003\|Session 003]]):** Received the body of Dunmer merchant [[Info/Characters/NPCs/Adrith_Velan\|Adrith Velan]], uncovering post-mortem drag marks and isolating rare Oblivion-harvested toxins including Twilight venom and shadow ichor.
+- **Catacomb Theft & Arson ([[2 -  Sessions/Session 012\|Session 012]]):** Infiltrated by three masked cultists who ignited a diversionary blaze in the adjoining Ratway to break into the vaults, stealing Adrith Velan's corpse and Sigrid's confidential autopsy ledgers.
+
+## Session Mentions
+- [[2 -  Sessions/Session 002\|Session 002]]
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 012\|Session 012]]

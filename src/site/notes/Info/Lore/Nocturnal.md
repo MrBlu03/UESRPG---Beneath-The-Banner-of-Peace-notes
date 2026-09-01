@@ -2,35 +2,17 @@
 {"dg-publish":true,"permalink":"/info/lore/nocturnal/"}
 ---
 
+# Nocturnal (Mistress of Shadows and Mystery)
 
-# Nocturnal
+## Overview
+The Daedric Prince of shadow, stealth, night, and esoteric luck. Sovereign ruler of the twilight realm of [[Evergloam\|Evergloam]].
 
-## Basic Information
-**Type:** Daedric Prince  
-**Sphere:** Night, Darkness, Shadows, Luck, Thieves  
-**Realm:** Evergloam (Oblivion)  
-**Status:** Active (immortal)
+## Associations in Skyrim
+- **[[Info/Organizations/Cults/Blackfeather Court\|Blackfeather Court]]**: The society of talking crows residing in Evergloam and pocket realms like [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]], serving the Crowfather / [[Info/Characters/NPCs/The_Vestige\|The_Vestige]].
+- **[[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]]**: Ancient celestial stone in the Rift radiating her subtle stealth blessings.
 
-## Description
-Nocturnal is one of the Daedric Princes, the powerful beings who rule over their own realms of Oblivion. She is associated with night, shadows, darkness, and luck. Thieves and those who operate in shadows often pay homage to her.
-
-## Associated Creatures
-
-### Daedric Crows ([[2 -  Sessions/Session 018\|Session 018]])
-According to [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]]:
-- Nocturnal is associated with **Daedric crows**
-- These crows are immortal, teleporting creatures that can speak
-- They are described as "curious creatures"
-- **[[Info/Characters/NPCs/Baron_Jangleplume\|Baron Jangleplume]]** is one such Daedric crow
-- The crows are known for mischievous behavior
-
-## Organizations
-- **[[Info/Organizations/Cults/Blackfeather Court\|Blackfeather Court]]**: An organization connected to crows and possibly to Nocturnal
-- **Thieves Guild**: Traditional worshippers of Nocturnal (not yet encountered in campaign)
-
-## Related NPCs
-- **[[Info/Characters/NPCs/Baron_Jangleplume\|Baron Jangleplume]]**: Daedric crow associated with Nocturnal
-- **[[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]]**: Provided information about Nocturnal's association with the crows
-
-## Session References
-- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]] identified the Daedric crows as being associated with Nocturnal
+## Session Mentions
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 030\|Session 030]]

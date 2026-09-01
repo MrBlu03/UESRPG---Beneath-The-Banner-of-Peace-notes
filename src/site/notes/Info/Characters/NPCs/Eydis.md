@@ -5,18 +5,22 @@
 # Eydis
 
 ## Description
-Eydis is a name associated with two seemingly conflicting identities in the party's journey: a rugged male hunter who prowled the southern woods, and the resilient barkeep of [[Info/Locations/The Rift/Sleeping_Stag\|The Sleeping Stag]] inn. The hunter's father was killed by frost trolls from [[Info/Locations/The Rift/Mount_Fjelhorst\|Mount Fjelhorst]] during a raid on [[Info/Locations/The Rift/Nimalten\|Nimalten]]. Despite reports of the hunter's supernatural death, the name Eydis later belonged to the innkeeper who provided the party with shelter and information.
+A rugged Nord huntress and bartender at [[Info/Locations/The Rift/Sleeping_Stag\|The Sleeping Stag]] tavern in [[Info/Locations/The Rift/Riften\|Riften]]. Seasoned in the wilderness, she possesses keen knowledge of the forests, wildlife, and local history around the Rift.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Alara\|Alara]]**: The hunter Eydis sold meat to Alara before she went missing in the woods.
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Benefited from both the hunter's scouting information and the innkeeper's hospitality.
+- **[[Info/Locations/The Rift/Sleeping_Stag\|The Sleeping Stag]]**: Tends bar and serves patrons at the tavern.
 
 ## Location
-- Encountered in the southern woods near [[Info/Locations/The Rift/Riften\|Riften]] (as a hunter).
-- Manages [[Info/Locations/The Rift/Sleeping_Stag\|The Sleeping Stag]] inn (as a barkeep).
+- **[[Info/Locations/The Rift/Sleeping_Stag\|The Sleeping Stag]]** and the **Southern Woods** of **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Encountered as a rugged male hunter hauling an elk carcass. Shared that he sold meat to [[Info/Characters/NPCs/Alara\|Alara]] and warned the party about frost trolls from [[Info/Locations/The Rift/Mount_Fjelhorst\|Mount Fjelhorst]] that killed his father decades ago in [[Info/Locations/The Rift/Nimalten\|Nimalten]].
-- **[[2 -  Sessions/Session 004\|Session 004]]**: [[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]] reported that the hunter Eydis had investigated the silenced [[Info/Locations/Other Skyrim/Harmugstahl\|Harmugstahl]] garrison and was later found dead in his home—frozen from the inside out despite no signs of struggle.
-- **[[2 -  Sessions/Session 008\|Session 008]]**: Encountered as the bartender at [[Info/Locations/The Rift/Sleeping_Stag\|The Sleeping Stag]]. Mentioned that there used to be a whole village in the area around the haunted hunting lodge, dating back to the First Empire.
-- **[[2 -  Sessions/Session 009\|Session 009]]**: As the innkeeper, willingly joined in [[Info/Characters/Party/Kirya\|Kirya]]'s prank on [[Info/Characters/NPCs/Hadvar\|Hadvar]], fetching a bowl of water to make him wet himself.
+- **Wilderness Warnings ([[2 -  Sessions/Session 003\|Session 003]]):** Encountered hauling an elk carcass, warning the party of wolf packs, sabercat dens, and the historical presence of Frost Trolls wandering down from [[Info/Locations/The Rift/Mount_Fjelhorst\|Mount Fjelhorst]].
+- **Scouting Reports ([[2 -  Sessions/Session 004\|Session 004]]):** Provided observations regarding eerie stillness and anomalous conditions along the eastern roads.
+- **Lodge Lore ([[2 -  Sessions/Session 008\|Session 008]]):** While tending bar at The Sleeping Stag, she shared history regarding the old abandoned village located near the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted Hunting Lodge]].
+- **Hospitality ([[2 -  Sessions/Session 009\|Session 009]]):** Aided the party upon their return from the hunting lodge with refreshments and water.
+
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]

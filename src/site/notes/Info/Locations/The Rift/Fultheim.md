@@ -2,11 +2,19 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/fultheim/"}
 ---
 
+# Fultheim
+
+## Overview
+A rural trading hamlet and crossroad settlement situated in [[Info/Locations/The Rift/The_Rift\|The_Rift]] near trade routes leading toward Morrowind.
+
 ## Description
-A peaceful settlement located in the Rift. It contains a local market where discreet transactions sometimes occur.
+A modest collection of timber farmsteads, wayside inns, and an open market plaza serving overland caravans and local agrarians.
 
-## Notable NPCs
-- None specified.
+## Key Inhabitants & Associated Figures
+- **Caravan Traders & Smugglers**: Utilize the settlement for discreet rendezvous and cargo exchanges.
 
-## Key Events
-- **[[2 -  Sessions/Session 018\|Session 018]]**: A meeting took place in the market between Hlaalu merchants smuggling moon sugar and a man resembling a Temple Guard smelling of sulfur, who provided them with a ledger to transport south to [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+## Notable Events
+- **The Smuggler Contact ([[2 -  Sessions/Session 018\|Session 018]]):** Interrogated Dunmer smugglers in Falderstad confessed that an enigmatic operative disguised as a Temple Guard—smelling heavily of volcanic sulfur—met them in the Fultheim market to deliver ciphered ledgers and illicit contraband.
+
+## Session Mentions
+- [[2 -  Sessions/Session 018\|Session 018]]

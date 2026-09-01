@@ -5,22 +5,13 @@
 # Fighters Guild
 
 ## Overview
-The continent-wide chartered mercenary guild sanctioned by the Empire to provide professional protection, monster eradication, and security contracts across Tamriel.
+The empire-wide chartered mercenary and martial training guild providing contracted physical protection, bounty hunting, and monster slaying services across Tamriel.
 
-## Structure
-Chartered halls overseen by local Stewards answering to the Guildmaster in Cyrodiil.
+## Key Members & Associated Figures
+- **Guild Wardens & Mercenaries**: Contracted sellswords throughout Tamriel.
 
-## Goals and Activities
-Providing honorable mercenary employment and enforcing legal bounty contracts.
+## Operations & Notable Events
+- **Mercenary Competition ([[2 -  Sessions/Session 020\|Session 020]]):** Referenced by merchant guilds and city administrators in Kjalgrad when evaluating private security contracts alongside independent sellswords.
 
-## Known Members
-- Local guild mercenaries across Skyrim.
-
-## Relationships
-- Professional cooperation with hold guards and adventuring companies.
-
-## Locations
-- Major cities across Skyrim.
-
-## Notes
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Consulted by the party for local bounty listings and mercenary contracts.
+## Session Mentions
+- [[2 -  Sessions/Session 020\|Session 020]]

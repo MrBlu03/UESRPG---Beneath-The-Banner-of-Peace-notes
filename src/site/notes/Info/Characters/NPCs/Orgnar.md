@@ -5,16 +5,21 @@
 # Orgnar
 
 ## Description
-Orgnar is the gruff, stout, and professional Nord innkeeper of [[Info/Locations/Kjalgrad/Frost_Gate_Hall\|Frost Gate Hall]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Behind his stern demeanor lies a warm heart and fierce loyalty to honest travelers.
+The professional, hospitable, and composed Nord innkeeper of **[[Info/Locations/Kjalgrad/Frost_Gate_Hall\|Frost Gate Hall]]** in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. He takes great pride in running a clean, welcoming establishment and serving hearty traditional meals, particularly his famous Kjalgrad Sweet Pork.
 
 ## Relationships
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Hosted the party as guests and provided their meals.
+- **The Fangs of Fjelhorst**: Hosted the party during their stay in Kjalgrad, providing lodgings and meals.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Shared a warm rapport with Durov, eventually gifting him his personal recipe for sweet pork.
 
 ## Location
-- Runs the taproom at [[Info/Locations/Kjalgrad/Frost_Gate_Hall\|Frost Gate Hall]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- **[[Info/Locations/Kjalgrad/Frost_Gate_Hall\|Frost Gate Hall]]** in **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 019\|Session 019]]**: Welcomed the party to [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] with a cool, professional appraising demeanor.
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Served [[Info/Characters/Party/Durov\|Durov]] a meal of Kjallgrad Sweet Pork in the corner of the tavern.
-- **[[2 -  Sessions/Session 021\|Session 021]]**: Directed a searching party member toward [[Info/Characters/Party/Durov\|Durov]]'s unarmored figure in the common room without hesitation.
-- **[[2 -  Sessions/Session 024\|Session 024]]**: Prepared a breakfast of roasted vegetables for [[Info/Characters/Party/Kirya\|Kirya]] and [[Info/Characters/Party/Onasha\|Onasha]], and refused a joking offer from [[Info/Characters/Party/Durov\|Durov]] to pay with brimstone gold.
+- **Hospitality & Sweet Pork ([[2 -  Sessions/Session 019\|Session 019]], [[2 -  Sessions/Session 020\|Session 020]], [[2 -  Sessions/Session 024\|Session 024]]):** Welcomed the party to Kjalgrad, serving them roasted vegetables and signature sweet pork dishes while managing the bustling tavern.
+- **Farewell & The Recipe ([[2 -  Sessions/Session 030\|Session 030]]):** Shared an emotional farewell with [[Info/Characters/Party/Durov\|Durov]] as civil unrest erupted in Kjalgrad, gifting Durov his prized sweet pork recipe before leaving the inn to join the workers' protests.
+
+## Session Mentions
+- [[2 -  Sessions/Session 019\|Session 019]]
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 021\|Session 021]]
+- [[2 -  Sessions/Session 024\|Session 024]]

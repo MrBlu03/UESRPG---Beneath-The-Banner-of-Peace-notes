@@ -5,15 +5,17 @@
 # Boran
 
 ## Description
-A seasoned, grunting Nord master armorer in [[Info/Locations/The Rift/Riften\|Riften]], proprietor of [[Info/Locations/The Rift/Borans_Bulwarks\|Boran's Bulwarks]]. A practical craftsman who specializes in sturdy reinforced armaments and cold weather gear.
+A merchant, outfitter, and leatherworker in [[Info/Locations/The Rift/Riften\|Riften]] who operates **[[Info/Locations/The Rift/Borans_Bulwarks\|Boran's Bulwarks]]**, specializing in furs, heavy winter wear, and protective garments.
 
 ## Relationships
-- **[[Info/Characters/Party/Durov\|Durov]]**: Regular customer who consulted him on shield reinforcement.
-- **[[Info/Characters/Party/Kirya\|Kirya]]**: Provided her with scrap iron and winter cloaks for the party.
+- **The Fangs of Fjelhorst**: Supplied the party with heavy winter cloaks and bought raw pelt harvest from them.
 
 ## Location
-- Operates [[Info/Locations/The Rift/Borans_Bulwarks\|Boran's Bulwarks]] in [[Info/Locations/The Rift/Riften\|Riften]].
+- **[[Info/Locations/The Rift/Borans_Bulwarks\|Boran's Bulwarks]]** in **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 009\|Session 009]]**: Freely offered [[Info/Characters/Party/Kirya\|Kirya]] iron shards from a bucket of scrap when she requested materials for [[Info/Lore/Arkay\|Arkay]]'s rite, though he refused to let her take the entire bucket.
-- **[[2 -  Sessions/Session 013\|Session 013]]**: Sold three discounted bear cloaks and processed the sale of 110 gold worth of bear pelts for the party as they prepared for their harsh winter journey to [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- **Winter Outfitting ([[2 -  Sessions/Session 013\|Session 013]]):** As winter set in and the Rift's waterways froze, the party visited his shop to purchase three insulated bear-fur cloaks (discounted to 75 gold each) and sold him 110 gold worth of processed bear furs to fund their journey north to Falderstad.
+
+## Session Mentions
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 013\|Session 013]]

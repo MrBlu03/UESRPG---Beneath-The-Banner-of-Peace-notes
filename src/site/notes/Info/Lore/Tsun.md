@@ -2,18 +2,13 @@
 {"dg-publish":true,"permalink":"/info/lore/tsun/"}
 ---
 
-# Tsun
+# Tsun (God of Trials and Martial Strength)
 
 ## Overview
-Tsun is the ancient Nordic God of Trials and Martial Strength. As the shield-thane of [[Info/Lore/Shor\|Shor]], he guards the Whalebone Bridge leading into the Hall of Valor in Sovngarde.
+The ancient Nordic god of physical strength, trials, and warrior fortitude, serving as the guardian of the Whalebone Bridge in [[Info/Lore/Sovngarde\|Sovngarde]].
 
 ## Significance
-Warriors invoke Tsun's name before trial-by-combat, honor duels, and mortal struggles to prove their valor in the eyes of the gods.
+- Revered by frontline warriors and gladiators as the patron of fair combat, tests of endurance, and martial supremacy.
 
-## Connections
-- [[Info/Lore/Shor\|Shor]]
-- [[Info/Characters/Party/Durov\|Durov]]
-- [[Info/Lore/Sovngarde\|Sovngarde]]
-
-## Notes
-- **[[2 -  Sessions/Session 020\|Session 020a]]**: Invoked in martial oaths during fierce underground combat in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] as warriors proved their mettle against Daedric beasts.
+## Session Mentions
+- [[2 -  Sessions/Session 020\|Session 020]]

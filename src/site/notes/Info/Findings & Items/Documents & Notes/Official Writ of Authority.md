@@ -3,6 +3,7 @@
 ---
 
 
+
 # By Word of Queen Freidr the Patient
 
 Matriarch of [[Info/Organizations/Other/Clan_Volng\|Clan Volng]], Jarl of [[Info/Locations/The Rift/Riften\|Riften]], Queen of the Rift,

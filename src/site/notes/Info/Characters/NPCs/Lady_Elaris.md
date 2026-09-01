@@ -5,13 +5,17 @@
 # Lady Elaris
 
 ## Description
-A tragic spectral noblewoman encountered within the mist-bound dream-manor of [[Info/Locations/Other Realms/Darnow_Hollow\|Darnow Hollow]]. She exudes a seductive but dangerous aura of grief and vengeance.
+A predatory, seductive, and ancient vampire noble who manifested within [[Info/Characters/Party/Periwyn\|Periwyn]]'s traumatic dreamscape. She glides weightlessly like a silken phantom without sound or footprint, seeking not merely to kill but to seduce Periwyn into surrendering to necrotic darkness and eternal undeath.
 
 ## Relationships
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Attempted to seduce and corrupt her in a visionary soul-journey.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Attempted to claim Periwyn's soul in the dreamscape by exploiting her guilt, grief, and childhood necromantic trauma.
+- **[[Info/Characters/NPCs/Sir_Gareth\|Sir Gareth]]**: Repelled and banished by the radiant divine spirit of Periwyn's former mentor.
 
 ## Location
-- Lingers in the spectral stratum of [[Info/Locations/Other Realms/Darnow_Hollow\|Darnow_Hollow]].
+- The corrupted chapel of roses at **[[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]]** within Periwyn's slumber.
 
 ## Notes
-- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a]]**: Appeared in [[Info/Characters/Party/Periwyn\|Periwyn]]'s comatose vision at the manor, sitting on a throne of withered roses. She attempted to seduce [[Info/Characters/Party/Periwyn\|Periwyn]] into darkness through combat, scarring her face, before being obliterated by a Mysterious Cloaked Figure.
+- **Battle in Periwyn's Dream ([[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]):** Taunted [[Info/Characters/Party/Periwyn\|Periwyn]] with memories of her past (*"You're already mine. That little girl with dirt on her hands whispering spells over cold flesh"*). Lunged with lethal claws before being struck in the thigh by Periwyn's warhammer. When she prepared a fatal strike, the spirit of [[Info/Characters/NPCs/Sir_Gareth\|Sir Gareth]] intervened, repelling her with divine light and casting her back onto her throne of dying roses.
+
+## Session Mentions
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]

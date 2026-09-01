@@ -5,13 +5,16 @@
 # Olgierd
 
 ## Description
-A rural woodcutter and farmer who operates a small hut near the haunted woodland edge.
+A cautious, plainspoken Nord farmer living in a secluded homestead near the woodland edge east of [[Info/Locations/The Rift/Riften\|Riften]], along the road toward the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted Hunting Lodge]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Lagertha\|Lagertha]]**: Haunted by her weeping spirit near the lodge well.
+- **Local Farmers**: Tends livestock on the eastern boundary of the Rift.
 
 ## Location
-- Works in the rural clearings of [[Info/Locations/The Rift/The_Rift\|The Rift]].
+- Small farmhouse east of **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 008\|Session 008]]**: Warned the party about vanished livestock (his goat) and hearing the weeping and laughing voice of [[Info/Characters/NPCs/Lagertha\|Lagertha]] near the haunted hunting lodge well.
+- **Haunted Woods Warning ([[2 -  Sessions/Session 008\|Session 008]]):** Warned the adventuring party about the cursed grounds ahead, explaining that his goat had recently vanished into the dense woods near the lodge and reporting that he had heard eerie weeping sounds carrying from the lodge's well at night.
+
+## Session Mentions
+- [[2 -  Sessions/Session 008\|Session 008]]

@@ -4,20 +4,19 @@
 
 # The Oath-Breaker King
 
-> *"Restless bones beneath cracked stone—an ancient tyrant whose forgotten barrow now shields the living."*
-
 ## Description
-An ancient, long-dead Nordic chieftain from the First Era who violated sacred blood-oaths to his clan and was entombed in disgrace deep within the mountain crags north of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. While his restless spirit and draugr retainers once guarded the cursed crypt, the barrow was cleansed and repurposed by [[Info/Characters/NPCs/The_Vestige\|The Vestige]] and [[Info/Characters/NPCs/Milos\|Milos]] as the primary covert operations base for the resistance.
+An ancient Nordic king from the First Era whose cursed, immortal remains rest sealed inside a massive stone sarcophagus within the grand central throne room of his mountain barrow.
 
 ## Relationships
-- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Cleansed the inner sanctum of the ancient barrow, transforming the royal burial vault into an alchemical workshop and intelligence redoubt.
-- **[[Info/Characters/NPCs/Milos\|Milos]]**: Uses the tomb's dry sarcophagi and hidden escape chutes as an assassin's safehouse.
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige / Milos]]**: The Vestige utilizes his barrow throne room as an impenetrable base of operations.
 
 ## Location
-- The subterranean tomb of the [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]] in the mountains northwest of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Grand Throne Room in the **[[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]]** outside **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 023\|Session 023]]**: Discovered by the party following the riddle delivered by a [[Info/Organizations/Cults/Blackfeather Court\|Blackfeather Court]] crow (*"Seek the knot where stone weeps; seek the knowledge of dust and dried ink"*).
-- **[[2 -  Sessions/Session 025\|Session 025]]**: The party entered the barrow, navigating its ancient carved sarcophagi and runic seals to meet [[Info/Characters/NPCs/Milos\|Milos]] and [[Info/Characters/NPCs/The_Vestige\|The_Vestige]], using the crypt's warding stones to mask their alchemical research.
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Served as the primary staging area and briefing room where the party, [[Info/Characters/NPCs/The_Vestige\|The_Vestige]], and resistance leaders coordinated the dual warehouse arson strikes in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
-- **[[2 -  Sessions/Session 027\|Session 027]]**: The barrow's concealed stone chamber served as a secure rallying point for [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Periwyn\|Periwyn]] while evading search patrols following the longhouse arson.
+- **Sanctuary in the Barrow ([[2 -  Sessions/Session 025\|Session 025]], [[2 -  Sessions/Session 026\|Session 026]], [[2 -  Sessions/Session 027\|Session 027]]):** The sealed sarcophagus of the Oath-Breaker King anchors the subterranean haven where the party and [[Info/Characters/NPCs/Milos\|Milos]] rested, conducted necromantic study, and planned the infiltration of the cult's main facility.
+
+## Session Mentions
+- [[2 -  Sessions/Session 025\|Session 025]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]

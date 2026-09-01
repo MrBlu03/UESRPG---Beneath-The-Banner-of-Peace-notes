@@ -2,11 +2,21 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/shors-bastion/"}
 ---
 
+# Shor's Bastion
+
+## Overview
+An ancient, fortified mountain redoubt and observation watchpost situated high in the Velothi Mountains overlooking the pass near [[Info/Locations/The Rift/Shors_Stone\|Shor's Stone]].
+
 ## Description
-A fortified bastion and outpost located in the region. It is notable for its defenses and connection to regional movements.
+A rugged stone fortification perched on a high ridge, commanding expansive views of the mountain borders between Skyrim and Morrowind.
 
-## Notable NPCs
-- None specified.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Wuunferth\|Wuunferth]]**: Veteran vampire hunter who initially operated from the bastion while tracking undead bloodlines.
 
-## Key Events
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Identified as the original destination of the vampire hunter [[Info/Characters/NPCs/Wuunferth\|Wuunferth]].
+## Notable Events
+- **The Vampire Hunter's Trail ([[2 -  Sessions/Session 003\|Session 003]]):** Identified as the original staging post where [[Info/Characters/NPCs/Wuunferth\|Wuunferth]] was based before he was trapped by the blizzard at Greenwall.
+
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 019\|Session 019]]

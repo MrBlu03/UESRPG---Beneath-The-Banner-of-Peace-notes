@@ -2,11 +2,19 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/shadow-stone/"}
 ---
 
+# Shadow Stone
+
+## Overview
+An ancient, magically resonant standing stone carved with the celestial constellation of the Shadow, situated in the southern woods of [[Info/Locations/The Rift/The_Rift\|The_Rift]].
+
 ## Description
-An ancient relic standing stone located in the region, possessing special powers. It dates back to the time when Nords first settled in Skyrim.
+A monolithic weathered granite obelisk inscribed with glowing ancient celestial runes, radiating subtle illusions and shadow magic that grant travelers enhanced stealth and concealment.
 
-## Notable NPCs
-- None specified.
+## Key Inhabitants & Associated Figures
+- **Ancient Astrologers & Mystics**: Historic creators of the standing stone.
 
-## Key Events
-- **[[2 -  Sessions/Session 003\|Session 003]]**: The party learned about the Shadow Stone and noted it as a point of interest to investigate for its ancient powers.
+## Notable Events
+- **Landmark Lore ([[2 -  Sessions/Session 003\|Session 003]]):** Noted by hunters and herbalists as a prominent mystical landmark along the southern foraging trails near Riften.
+
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]

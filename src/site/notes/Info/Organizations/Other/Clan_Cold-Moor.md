@@ -5,23 +5,16 @@
 # Clan Cold-Moor
 
 ## Overview
-- An ancient clan from The Rift, historically involved in a tragic blood feud with [[Info/Organizations/Other/Clan_Red-Grain\|Clan Red-Grain]]. The original clan was wiped out in a single night.
+An ancient, proud Nord clan in [[Info/Locations/The Rift/The_Rift\|The_Rift]] whose ancestral history was shadowed by a tragic clan feud with Clan Red-Grain and the cursed barrow of [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]].
 
-## Structure
-- Traditional Nordic Clan structure.
+## Key Members & Associated Figures
+- **[[Info/Characters/NPCs/Hadvar\|Hadvar]]**: Modern Cold-Moor noble who inherited the ancestral hunting lodge.
+- **[[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]]**: Ancient warrior cursed to rise as a draugr following the murder of Lagertha.
 
-## Goals and Activities
-- Currently unknown; historically focused on survival and feuding.
+## Notable Events
+- **Cleansing the Ancient Curse ([[2 -  Sessions/Session 008\|Session 008]] – [[2 -  Sessions/Session 010\|Session 010]]):** Hadvar commissioned the party to cleanse the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]]; the party recovered Lagertha's necklace and laid Sven's spirit to rest beside his beloved.
 
-## Known Members
-- **[[Info/Characters/NPCs/Hadvar\|Hadvar]] of Clan Cold-Moor**: A finely dressed, out-of-place client encountered by the party in a [[Info/Locations/The Rift/Riften\|Riften]] inn.
-- **[[Info/Characters/NPCs/Sven_Cold-Moor\|Sven Cold-Moor]]**: A historical figure of the clan who loved [[Info/Characters/NPCs/Lagertha\|Lagertha]] of [[Info/Organizations/Other/Clan_Red-Grain\|Clan Red-Grain]], leading to tragedy.
-
-## Relationships
-- **[[Info/Organizations/Other/Clan_Red-Grain\|Clan Red-Grain]]**: Fierce historical enemies. After their love was deemed shameful, [[Info/Characters/NPCs/Lagertha\|Lagertha]] of [[Info/Organizations/Other/Clan_Red-Grain\|Clan Red-Grain]] was killed, and [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]] walked into a barrow, after which the entire clan was found dead.
-
-## Locations
-- **The Lodge of Clan Cold-Moor**: Mentioned as a location in the chronicles.
-
-## Notes
-- The tragic tale of [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]] and [[Info/Characters/NPCs/Lagertha\|Lagertha]] was told by the twin skalds, [[Info/Characters/NPCs/Senya\|Senya]] and [[Info/Characters/NPCs/Sonya\|Sonya]].
+## Session Mentions
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 010\|Session 010]]

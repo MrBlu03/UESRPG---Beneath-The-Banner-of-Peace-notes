@@ -5,14 +5,17 @@
 # Thrysnr the Unsullied
 
 ## Description
-A vampire of [[Info/Organizations/Cults/Clan_Volkihar\|Clan_Volkihar]] blood. Unlike most of the clan, he was not turned by Harkon or his court, but was instead sired by the powerful vampire [[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn_the_Ancient]].
+An ancient, powerful vampire turned by [[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn the Ancient]], carrying [[Info/Organizations/Cults/Clan_Volkihar\|Clan Volkihar]] blood. He commanded the vampire occupation and blood-scrying ritual at [[Info/Locations/The Rift/Greenwall\|Greenwall]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn_the_Ancient]]**: His sire, a powerful vampire thought dead for twenty years.
-- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]]**: Studied his severed head.
+- **[[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn the Ancient]]**: His sire and master who broke away from Harkon's court.
+- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]]**: Identified his severed head through arcane forensics in Riften.
 
 ## Location
-- His severed head was kept and studied by [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]] in [[Info/Locations/The Rift/Riften\|Riften]].
+- Central Keep of **[[Info/Locations/The Rift/Greenwall\|Greenwall]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 012\|Session 012]]**: [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]] presented his findings on Thrysnr's severed head, revealing his lineage to [[Info/Organizations/Cults/Clan_Volkihar\|Clan_Volkihar]] and identifying [[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn_the_Ancient]] as his sire.
+- **Decapitation & Lineage Analysis ([[2 -  Sessions/Session 006\|Session 006]], [[2 -  Sessions/Session 012\|Session 012]]):** Slain and decapitated during the storming of Greenwall. In Session 012, Archmagus Mortgren analyzed his severed head, revealing he had been turned by Majorn the Ancient during the Planemeld era.
+
+## Session Mentions
+- [[2 -  Sessions/Session 012\|Session 012]]

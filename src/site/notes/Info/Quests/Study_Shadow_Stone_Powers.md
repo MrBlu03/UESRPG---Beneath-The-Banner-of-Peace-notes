@@ -2,26 +2,22 @@
 {"dg-publish":true,"permalink":"/info/quests/study-shadow-stone-powers/"}
 ---
 
+# Study Shadow Stone Powers
 
-# Study the Shadow Stone
+## Quest Log Summary
+While traversing the southern forests of the Rift, the party investigated the ancient constellation markings on the [[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]] to understand its magical blessings.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Optional  
-**Assigned Session:** [[2 -  Sessions/Session 003\|Session 003]]  
-**Completed Session:** [[2 -  Sessions/Session 003\|Session 003]]  
-**Reward:** Astronomical Lore, Shadow Affinity  
+## Objectives & Progression
+- [x] Locate the [[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]] in the southern woods ([[2 -  Sessions/Session 003\|Session 003]]).
+- [x] Examine celestial carvings and detect magical resonance ([[2 -  Sessions/Session 003\|Session 003]]).
+- [x] Record runic patterns in party journals ([[2 -  Sessions/Session 003\|Session 003]]).
 
-## Objective
-Examine the ancient standing stones of the Shadow south of Riften.
+## Key Participants & Factions
+- **The Fangs of Fjelhorst**: [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Kirya\|Kirya]], [[Info/Characters/Party/Onasha\|Onasha]], [[Info/Characters/Party/Periwyn\|Periwyn]].
 
-## Key NPCs
-  - "[[Info/Characters/Party/Onasha\|Onasha]]"
-  - "[[Info/Characters/Party/Kirya\|Kirya]]"
+## Locations Visited
+- [[Southern_Woods\|Southern_Woods]]
+- [[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]]
 
-## Key Locations
-  - "[[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]]"
-  - "[[Info/Locations/The Rift/The_Rift\|The_Rift]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Investigated the magical aura of the [[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]], documenting its celestial alignment with Nocturnal.
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]

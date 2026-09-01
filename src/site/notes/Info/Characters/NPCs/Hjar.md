@@ -2,17 +2,22 @@
 {"dg-publish":true,"permalink":"/info/characters/np-cs/hjar/"}
 ---
 
-# Hjar of Clan Black-Foot
+# Hjar
 
 ## Description
-A gruff but reliable logistics factor and convoy leader for the [[Info/Organizations/Guilds/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]] in [[Info/Locations/The Rift/Riften\|Riften]]. He manages caravan supplies, pack wagons, and coordinates dangerous transport routes across the Rift.
+A dependable Nord warrior of Clan Black-Foot who assisted in military supply and caravan operations in the Rift.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Torvald_Black-Foot\|Torvald_Black-Foot]]**: Brother and fellow guild member.
+- **[[Info/Characters/NPCs/Bjorin\|Bjorin]]**: Worked alongside the innkeeper at the Riften stables to organize logistics.
+- **The Expedition Force**: Marched with the relief caravan departing Riften toward Greenwall.
 
 ## Location
-- Manages warehouse docks and caravan staging areas in [[Info/Locations/The Rift/Riften\|Riften]].
+- **[[Info/Locations/The Rift/Riften\|Riften]]** and **[[Info/Locations/The Rift/Greenwall\|Greenwall]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 005\|Session 005]]**: Waited for the party at the [[Info/Locations/The Rift/Riften\|Riften]] stables and served as the leader for the provision convoy traveling to [[Info/Locations/The Rift/Greenwall\|Greenwall]], coordinating with the [[Info/Organizations/Military/Companions\|Companions]] and the [[Info/Organizations/Religious/Cult_of_Ysmir\|Cult of Ysmir]].
-- **[[2 -  Sessions/Session 007\|Session 007]]**: Met the party at the edge of the woods following the [[Info/Locations/The Rift/Greenwall\|Greenwall]] incident, providing them with travel rations and asking them to tell his brother [[Info/Characters/NPCs/Torvald_Black-Foot\|Torvald Black-Foot]] that he still owed him a bottle of mead.
+- **Expedition Supply Logistics ([[2 -  Sessions/Session 005\|Session 005]]):** Met the party and Companions at the Riften stables, overseeing the loading of provisions and equipment for the march to Greenwall.
+- **Relief Presence ([[2 -  Sessions/Session 007\|Session 007]]):** Present following the successful liberation of Greenwall fortress from vampire forces.
+
+## Session Mentions
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 007\|Session 007]]

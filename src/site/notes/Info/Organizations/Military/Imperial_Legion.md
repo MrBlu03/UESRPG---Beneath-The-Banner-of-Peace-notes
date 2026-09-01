@@ -5,23 +5,15 @@
 # Imperial Legion
 
 ## Overview
-The disciplined, heavy infantry military arm of Cyrodiil. Following the collapse of the Second Empire, veteran legionnaires and shattered units scattered across Tamriel.
+The disciplined, professional military legions of the Ruby Throne and Cyrodiil, maintaining garrison fortresses, standard armor marks, and veteran ranks across Tamriel.
 
-## Structure
-Cohorts, centuries, and legions commanded by Legates and Tribunes.
+## Key Members & Associated Figures
+- **[[Info/Characters/NPCs/Gaius\|Gaius]]**: Retired Colovian legionnaire living in Falderstad.
+- **[[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]]**: Imperial officer from Bruma in Silverroad service.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Carries Legion veteran discipline and amnesia regarding past campaigns.
 
-## Goals and Activities
-Enforcing Cyrodilic law, military discipline, and protecting provincial highways.
+## Notable Events
+- **Veteran Inquiries in Falderstad ([[2 -  Sessions/Session 014\|Session 014]]):** [[Info/Characters/Party/Durov\|Durov]] tracked down veteran [[Info/Characters/NPCs/Gaius\|Gaius]] over mead, sharing recognition of garrison crests from the Bruma region during past crises.
 
-## Known Members
-- [[Info/Characters/NPCs/Gaius\|Gaius]]: Veteran legionnaire residing near [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
-- [[Info/Characters/Party/Durov\|Durov]]: Carries an Imperial legionnaire identification tag.
-
-## Relationships
-- Deeply connected to [[Info/Characters/Party/Durov\|Durov]]'s forgotten past and military background.
-
-## Locations
-- [[Info/Lore/Cyrodiil\|Cyrodiil]], [[Info/Lore/Bruma\|Bruma]], [[Info/Locations/Falderstad/Falderstad\|Falderstad]]
-
-## Notes
-- **[[2 -  Sessions/Session 014\|Session 014a]]-**[[2 -  Sessions/Session 015\|Session 015]]**: [[Info/Characters/Party/Durov\|Durov]] tracked down the ex-legionnaire [[Info/Characters/NPCs/Gaius\|Gaius]], recovering an Imperial Legion tag that triggered fragmented memories of his lost past.
+## Session Mentions
+- [[2 -  Sessions/Session 014\|Session 014]]

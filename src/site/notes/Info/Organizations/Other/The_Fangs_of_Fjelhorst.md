@@ -2,22 +2,32 @@
 {"dg-publish":true,"permalink":"/info/organizations/other/the-fangs-of-fjelhorst/"}
 ---
 
-
 # The Fangs of Fjelhorst
 
 ## Overview
-The Fangs of Fjelhorst is the renowned adventuring company and mercenary band formed in [[Info/Locations/The Rift/Riften\|Riften]] under royal commission from [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]. Named in honor of the towering, snow-capped [[Info/Locations/The Rift/Mount_Fjelhorst\|Mount_Fjelhorst]], the company rose from resolving local hold disputes to exposing provincial conspiracies, vanquishing ancient horrors, and liberating cities from Daedric plots.
+The celebrated adventuring company and royal champions composed of **[[Info/Characters/Party/Durov\|Durov]]**, **[[Info/Characters/Party/Kirya\|Kirya Ma'Tael]]**, **[[Info/Characters/Party/Onasha\|Onasha]]**, and **[[Info/Characters/Party/Periwyn\|Periwyn Lunclaire]]**. Bestowed with royal writs of authority by **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]** of Riften, they are named in honor of the towering peak [[Info/Locations/The Rift/Mount_Fjelhorst\|Mount_Fjelhorst]].
 
-## Members
-- **[[Info/Characters/Party/Durov\|Durov]]**: Heavy vanguard, shield-bearer, and Colovian warrior.
-- **[[Info/Characters/Party/Kirya\|Kirya]]**: Khajiit scout, sharpshooter, and Baandari rogue (departed in Session 026).
-- **[[Info/Characters/Party/Onasha\|Onasha]]**: Argonian chemist, alchemist, and shadow toxicologist of the [[Info/Organizations/Other/Blacktongue_Tribe\|Blacktongue_Tribe]].
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Breton paladin, warhammer crusader of House Lunclaire, and necromantic scholar.
-- **[[Info/Characters/Party/The Horses\|The Horses]]**: Company warhorses—[[Info/Characters/Party/The Horses#Rimefang\|Rimefang]], [[Info/Characters/Party/The Horses#Sunsnow\|Sunsnow]], [[Info/Characters/Party/The Horses#Mossback\|Mossback]], and [[Info/Characters/Party/The Horses#Ashen\|Ashen]].
+## Party Members
+- **[[Info/Characters/Party/Durov\|Durov]]**: Heavy frontline warrior & Colovian veteran tank.
+- **[[Info/Characters/Party/Kirya\|Kirya Ma'Tael]]**: Khajiit wilderness scout, precision archer, and skald.
+- **[[Info/Characters/Party/Onasha\|Onasha]]**: Saxhleel master sniper, alchemist, and survivalist.
+- **[[Info/Characters/Party/Periwyn\|Periwyn Lunclaire]]**: Breton battlemage, Lunclaire scion, and scholar.
+- **[[Info/Characters/Party/The Horses\|The Horses]]**: Royal warhorses *Mossback*, *Ashen*, and *Rimefang*.
 
-## Major Accomplishments
-- **Resolution of the Water Dispute ([[2 -  Sessions/Session 001\|Session 001]]-**[[2 -  Sessions/Session 002\|Session 002]]**)**: Cleared the sabotage at the [[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod_Dam]], reconciling [[Info/Organizations/Other/Clan_Snow-Shod\|Clan_Snow-Shod]] with [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]].
-- **Relief of Fort Greenwall ([[2 -  Sessions/Session 005\|Session 005]]-**[[2 -  Sessions/Session 007\|Session 007]]**)**: Marched with Harbinger [[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod_Wraithbane]] and the [[Info/Organizations/Military/Companions\|Companions]] to purge vampire corruption.
-- **Cleansing of the Haunted Lodge ([[2 -  Sessions/Session 008\|Session 008]]-**[[2 -  Sessions/Session 009\|Session 009]]**)**: Slain the draugr Lord [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]] and laid [[Info/Characters/NPCs/Lagertha\|Lagertha]] to rest.
-- **Defeat of the Ragged Lord ([[2 -  Sessions/Session 014\|Session 014]]-**[[2 -  Sessions/Session 017\|Session 017]]**)**: Hunted and destroyed [[Info/Characters/NPCs/Nohrak\|Nohrak]] in the [[Info/Locations/The Rift/Cursed_Grove\|Cursed_Grove]], liberating [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
-- **Liberation of Kjalgrad ([[2 -  Sessions/Session 020\|Session 020]]-**[[2 -  Sessions/Session 031\|Session 031]]**)**: Exposed the Daedric impostor [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]], dismantled the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult_of_Clavicus_Vile]], and shattered their ritual stronghold at [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]].
+## Major Achievements
+- Resolved the Snow-Shod water stoppage crisis and exposed the assassin Adrith Velan.
+- Stormed and liberated Fort Greenwall from the Volkihar vampire coven, recovering the Harrowstorm Core.
+- Consecrated the Haunted Hunting Lodge, putting the spirits of Lagertha and Sven to rest.
+- Slew the Daedric beast Nohrak (The Ragged Lord) in the Northern Forest of Falderstad.
+- Infiltrated Kjalgrad, exposed the Daedric mimicry Jarl and Scaafin steward Darius Caro, and destroyed the counterfeit coin mint at Altan Mesa.
+
+## Session Mentions
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 007\|Session 007]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 013\|Session 013]]
+- [[2 -  Sessions/Session 017\|Session 017]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 025\|Session 025]]
+- [[2 -  Sessions/Session 031\|Session 031]]

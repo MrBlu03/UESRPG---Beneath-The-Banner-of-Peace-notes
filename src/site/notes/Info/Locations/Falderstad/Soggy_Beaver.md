@@ -4,17 +4,24 @@
 
 # The Soggy Beaver
 
+## Overview
+A popular, boisterous tavern and inn located in the market quarter of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], owned and operated by the jovial Nord barkeep [[Info/Characters/NPCs/Bjalfi\|Bjalfi]].
+
 ## Description
-The Soggy Beaver is a rowdy, low-ceilinged dive tavern in the lower quarter of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], popular among loggers, fur trappers, and river workers. It features a smoky interior smelling of cheap ale, fried fish, and wet wool. It is a popular hub for underground rumors, dice games, and raw gossip.
+A warm, bustling wooden hall filled with heavy timber benches, a large central hearth, and private side tables where locals, hunters, and travelers gather for drinks, dice, and storytelling.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Bjalfi\|Bjalfi]]**: The owner and bartender of The Soggy Beaver.
-- **[[Info/Locations/Falderstad/Falderstad\|Elsa]]**: A server at the tavern.
-- **[[Info/Characters/NPCs/Gaius\|Gaius]]**: An ex-Legionnaire Colovian who drank here.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Bjalfi\|Bjalfi]]**: The friendly, well-connected proprietor and bartender.
+- **Elsa**: Attentive tavern server.
+- **[[Info/Characters/NPCs/Senya\|Senya]] & [[Info/Characters/NPCs/Sonya\|Sonya]]**: Visiting twin skalds who performed traditional songs and sagas here.
 
-## Key Events
-- **[[2 -  Sessions/Session 014\|Session 014]]**: [[Info/Characters/Party/Durov\|Durov]] visited looking for a Colovian named [[Info/Characters/NPCs/Gaius\|Gaius]] and received an [[Info/Organizations/Military/Imperial_Legion\|Imperial_Legion]] tag from [[Info/Characters/NPCs/Bjalfi\|Bjalfi]].
-- **[[2 -  Sessions/Session 015\|Session 015]]**: The Fangs reunited here to compare notes on the [[Info/Characters/NPCs/Nohrak\|Skin-stealer]] and convinced [[Info/Characters/NPCs/Bjalfi\|Bjalfi]] to spread the word to rally hunters for a dawn attack.
-- **[[2 -  Sessions/Session 017\|Session 017]]**: During the celebration of the beast's defeat, [[Info/Characters/NPCs/Torik\|Torik]] gave [[Info/Characters/Party/Onasha\|Onasha]] a carved antler charm outside the tavern.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/Party/Durov\|Durov]] and [[Info/Characters/Party/Kirya\|Kirya]] came to listen to the Skald twins [[Info/Characters/NPCs/Senya\|Senya]] and [[Info/Characters/NPCs/Sonya\|Sonja]] perform traditional Nordic songs.
-- **[[2 -  Sessions/Session 019\|Session 019]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] searched the tavern while trying to find [[Info/Characters/Party/Durov\|Durov]], but [[Info/Characters/NPCs/Bjalfi\|Bjalfi]] had not seen him.
+## Notable Events
+- **Investigative Inquiries ([[2 -  Sessions/Session 014\|Session 014]]):** [[Info/Characters/Party/Durov\|Durov]] visited the tavern to track down Colovian veteran [[Info/Characters/NPCs/Gaius\|Gaius]], receiving direction and an Imperial identification tag from Bjalfi.
+- **Rallying the Hunt ([[2 -  Sessions/Session 015\|Session 015]]):** The party met under a dim lamp to compare intelligence on the forest creature, using the tavern to spread word of the dawn monster hunt.
+- **Skald Performances & Jam Session ([[2 -  Sessions/Session 018\|Session 018]]):** Twin skalds Senya and Sonya performed *"Bonden og Kragen"*, after which [[Info/Characters/Party/Kirya\|Kirya]] joined them with her lute for an instrumental performance.
+
+## Session Mentions
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 019\|Session 019]]

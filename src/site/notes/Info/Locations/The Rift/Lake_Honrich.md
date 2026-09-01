@@ -4,11 +4,18 @@
 
 # Lake Honrich
 
+## Overview
+The expansive, cold freshwater lake at the geographic heart of [[Info/Locations/The Rift/The_Rift\|The_Rift]], with the city of [[Info/Locations/The Rift/Riften\|Riften]] situated prominently upon its eastern shores.
+
 ## Description
-A vast, scenic freshwater lake occupying the center of the Rift, known for its heavy fogs and winter ice groans.
+A vast lake surrounded by golden birch groves, misty bays, and mountain ridges, featuring active fisheries and boat channels connecting the docks of Riften to outlying estates.
 
-## Notable NPCs
-None specific to this location.
+## Key Inhabitants & Associated Figures
+- **Riften Fishermen & Dockworkers**: Operate trading skiffs across the waters.
+- **The Fangs of Fjelhorst**: Traveled along its northern banks.
 
-## Key Events
-- **[[2 -  Sessions/Session 013\|Session 013]]**: While traveling from [[Info/Locations/The Rift/Riften\|Riften]] to [[Info/Locations/Falderstad/Falderstad\|Falderstad]], the party camped near the lake. Heavy fog from the lake dampened their gear. By late afternoon of their fourth day of travel, they heard the ice of the lake groan in the distance.
+## Notable Events
+- **Winter Transit & Ice Fog ([[2 -  Sessions/Session 013\|Session 013]]):** The party rode along the frozen shores of Lake Honrich during their winter journey from Riften to Falderstad, enduring heavy lake fog and hoarfrost.
+
+## Session Mentions
+- [[2 -  Sessions/Session 013\|Session 013]]

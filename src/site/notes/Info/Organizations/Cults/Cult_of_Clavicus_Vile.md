@@ -5,24 +5,21 @@
 # Cult of Clavicus Vile
 
 ## Overview
-A dangerous Daedric cult devoted to [[Info/Lore/Clavicus_Vile\|Clavicus Vile]], the Prince of Bargains and Wishes. The cult specializes in Faustian bargains, soul entrapment, political infiltration, and dark summoning rituals.
+A sinister Daedric cult devoted to **Clavicus Vile** (Prince of Bargains, Wishes, and Deceit). Operating behind the scenes in Kjalgrad, the cult utilized mimicry Daedra and dark soul-anchoring rituals to replace civic leaders and mint counterfeit currency.
 
-## Structure
-Directed by powerful Daedric entities (Dremora and Scaafin) posing as mortal advisors, supported by corrupt merchant benefactors and fanatical acolytes.
+## Key Members & Associated Figures
+- **[[Info/Characters/NPCs/The_Xivilai\|The_Xivilai]]**: High Daedric commander leading the counterfeit ritual.
+- **[[Info/Characters/NPCs/The_Scathing\|The_Scathing]]**: Horned mimicry Daedra overseer.
+- **[[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]]**: Scaafin infiltrator serving as the Jarl's steward.
 
-## Goals and Activities
-Harvesting mortal souls through deceptively worded contracts and preparing mass sacrificial rituals at [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]] to claim the city of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+## Operations & Notable Events
+- **Civic Replacement & Tainted Gold ([[2 -  Sessions/Session 024\|Session 024]] – [[2 -  Sessions/Session 028\|Session 028]]):** Murdered and replaced the Jarl of Kjalgrad with a mimicry Daedra anchored by a dark runic stone, and operated [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]] to circulate brimstone coins.
+- **Destruction of the Mint ([[2 -  Sessions/Session 031\|Session 031]]):** The party breached the Dwemer complex at [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]], executed [[Info/Characters/NPCs/The_Xivilai\|The_Xivilai]], and freed abducted citizens whose life energy powered the vanishing coin ritual.
 
-## Known Members
-- [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]]: Scaafin who replaced the Jarl's true steward.
-- [[Info/Characters/NPCs/The_Scathing\|The_Scathing]]: Daedric manager in the warehouse district.
-
-## Relationships
-- Bitter enemies of [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]] and honest hold authorities.
-
-## Locations
-- [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]], [[Info/Locations/Kjalgrad/Kjalgrad_Warehouse_District\|Kjalgrad_Warehouse_District]], [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]]
-
-## Notes
-- **[[2 -  Sessions/Session 020\|Session 020]]-**[[2 -  Sessions/Session 028\|Session 028]]**: The party exposed their deep infiltration of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]'s government, culminating in the raid on the steward's office.
-- **[[2 -  Sessions/Session 030\|Session 030]]-**[[2 -  Sessions/Session 031\|Session 031]]**: The party stormed their primary ritual complex at [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]], defeating their Daedric champions.
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 025\|Session 025]]
+- [[2 -  Sessions/Session 028\|Session 028]]
+- [[2 -  Sessions/Session 029\|Session 029]]
+- [[2 -  Sessions/Session 031\|Session 031]]

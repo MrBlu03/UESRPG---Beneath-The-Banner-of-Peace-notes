@@ -5,22 +5,16 @@
 # Grey Host
 
 ## Overview
-A terrifying ancient legion of vampires, werewolves, and necromancers that conquered vast swathes of Tamriel in the First Era, bound by dark blood pacts.
+An ancient, apocalyptic First Era army composed of pureblood vampires, werewolves, and dark necromancers who bound their souls in dark pacts to conquer western Tamriel and unleash **Harrowstorms**.
 
-## Structure
-Military legions commanded by undead warlords and ancient vampire nobility.
+## Arcane Relics & Lore
+- **Harrowstorm Engine Cores**: Dark artifacts engineered by the Grey Host to reap mortal souls and generate unnatural eclipses and blizzards.
 
-## Goals and Activities
-Harvesting souls and reclaiming ancient strongholds across Skyrim.
+## Notable Events
+- **Harrowstorm Core Identification ([[2 -  Sessions/Session 018\|Session 018]]):** Antiquarian [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]] of the Mages Guild analyzed the ritual orb recovered by the party at Greenwall, confirming it was an authentic **Harrowstorm Engine Core** forged by the ancient Grey Host, and arranged its transport to [[Info/Locations/Other Realms/Eyevea\|Eyevea]].
 
-## Known Members
-- Undead warlords and blood-knights.
-
-## Relationships
-- Ancient enemies of the [[Info/Organizations/Military/Companions\|Companions]] and mortal kingdoms.
-
-## Locations
-- Ancient battlefields and mountain barrows.
-
-## Notes
-- **[[2 -  Sessions/Session 007\|Session 007]]-**[[2 -  Sessions/Session 018\|Session 018]]**: The party discovered evidence connecting recent undead uprisings and monster attacks to remnants of the Grey Host.
+## Session Mentions
+- [[2 -  Sessions/Session 007\|Session 007]]
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 018\|Session 018]]

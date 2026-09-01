@@ -2,18 +2,22 @@
 {"dg-publish":true,"permalink":"/info/characters/np-cs/hadvar/"}
 ---
 
-# Hadvar of Clan Cold-Moor
+# Hadvar
 
 ## Description
-A finely dressed but cowardly Nord clansman of [[Info/Organizations/Other/Clan_Cold-Moor\|Clan Cold-Moor]] who recently inherited a haunted ancestral property. He is often found drinking heavily to cope with the frightening realities of his inheritance and is not accustomed to the dangers of adventuring.
+A wealthy, pretentious, and frequently heavily intoxicated nobleman of [[Info/Organizations/Other/Clan_Cold-Moor\|Clan Cold-Moor]]. He recently inherited his clan's ancestral hunting lodge east of [[Info/Locations/The Rift/Riften\|Riften]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]]**: Distant ancestral forebear whose spirit haunted his property.
-- **[[Info/Characters/Party/Durov\|Durov]]**: Hired mercenary who successfully intimidated him into doubling a contract payout.
+- **[[Info/Organizations/Other/Clan_Cold-Moor\|Clan Cold-Moor]]**: Scion of the prominent Rift noble clan.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Thoroughly intimidated by Durov into doubling the party's contract reward.
 
 ## Location
-- Usually found drinking at [[Info/Locations/The Rift/Sleeping_Stag\|The Sleeping Stag]] inn in [[Info/Locations/The Rift/Riften\|Riften]].
+- **[[Info/Locations/The Rift/Sleeping_Stag\|The Sleeping Stag]]** tavern in **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 008\|Session 008]]**: Met with the party at [[Info/Locations/The Rift/Sleeping_Stag\|The Sleeping Stag]] while heavily drinking. He offered them 200 gold and some basement loot to clear out the restless spirits at his newly acquired ancestral lodge near [[Info/Locations/The Rift/Kahrus_Hollow\|Khaarus Hollow]], drawing a notoriously horrendous map of its location.
-- **[[2 -  Sessions/Session 009\|Session 009]]**: Found completely inebriated at the exact same tavern table upon the party's return. He immediately yielded when [[Info/Characters/Party/Durov\|Durov]] intimidated him for a higher reward, handing over 400 gold for each party member before passing out and being pranked with a bowl of warm water by the party.
+- **Lodge Contract Commission ([[2 -  Sessions/Session 008\|Session 008]]):** Met the party at The Sleeping Stag, lounging drunkenly with boots on a chair, and offered a 200 gold bounty to purge the ghosts haunting his newly acquired hunting lodge near Kahru's Hollow, providing a horribly drawn map.
+- **Double Bounty & Blackout ([[2 -  Sessions/Session 009\|Session 009]]):** When the party returned after consecrating the grounds and freeing the spirits of [[Info/Characters/NPCs/Lagertha\|Lagertha]] and [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]], [[Info/Characters/Party/Durov\|Durov]] pressured the terrified, drunk noble into paying double the bounty (400 gold each), after which Hadvar completely passed out drunk.
+
+## Session Mentions
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]

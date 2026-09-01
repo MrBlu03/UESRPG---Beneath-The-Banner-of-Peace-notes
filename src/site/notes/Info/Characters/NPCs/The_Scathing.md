@@ -5,15 +5,19 @@
 # The Scathing
 
 ## Description
-A tall, horned, humanoid Daedra who served as the manager of illicit operations and sacrificial cargo at [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]]. Openly declared itself a servant of [[Info/Lore/Clavicus_Vile\|Clavicus_Vile]].
+A sinister, shape-shifting **mimicry Daedra** in service to the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]]. Capable of stealing human forms through dark memory anchors, it possesses total, innate immunity to all mind-altering magic, illusions, and charm spells.
 
 ## Relationships
-- **[[Info/Lore/Clavicus_Vile\|Clavicus_Vile]]**: Its Daedric master.
-- **[[Info/Characters/Party/Durov\|Durov]]**: Was waved at by the creature during its escape.
+- **[[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]]**: Operative in the cult's economic and political takeover of Kjalgrad.
+- **[[Info/Characters/NPCs/Milos\|Milos]]**: Recognized by Milos during intelligence evaluations of cult infiltrators.
 
 ## Location
-- Stationed at [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], current whereabouts unknown after escaping.
+- Warehouse district and market alleys of **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 024\|Session 024]]**: Bargained for its freedom in exchange for letting the party search the warehouse. It proved immune to mind-altering magic (including [[Info/Characters/Party/Kirya\|Kirya]]'s Calm and [[Info/Characters/Party/Onasha\|Onasha]]'s frenzy bomb) and calmly walked out of the warehouse, waving at [[Info/Characters/Party/Durov\|Durov]], abandoning its armor, bronze sword, and a horn.
-- **[[2 -  Sessions/Session 025\|Session 025]]**: Confirmed as a mimicry Daedra associated with the skin-changers working alongside the cult, whose immunity to mind-altering magic is a trait of its kind.
+- **Warehouse Encounter ([[2 -  Sessions/Session 024\|Session 024]]):** Encountered during warehouse scouting; demonstrated complete immunity to enchantment and charm magic before gesturing toward contacts in the shadows.
+- **Daedric Infiltration Lore ([[2 -  Sessions/Session 025\|Session 025]]):** [[Info/Characters/NPCs/Milos\|Milos]] confirmed that The Scathing belongs to the same breed of mimicry Daedra that used dark runic stones to replace civic leaders in Kjalgrad.
+
+## Session Mentions
+- [[2 -  Sessions/Session 024\|Session 024]]
+- [[2 -  Sessions/Session 025\|Session 025]]

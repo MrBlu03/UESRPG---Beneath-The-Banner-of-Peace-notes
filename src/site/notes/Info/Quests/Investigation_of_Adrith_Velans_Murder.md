@@ -2,32 +2,25 @@
 {"dg-publish":true,"permalink":"/info/quests/investigation-of-adrith-velans-murder/"}
 ---
 
-
 # Investigation of Adrith Velan's Murder
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Investigation  
-**Assigned Session:** [[2 -  Sessions/Session 002\|Session 002]]  
-**Completed Session:** [[2 -  Sessions/Session 012\|Session 012]]  
-**Reward:** Autopsy Report Evidence, 200 gold  
+## Quest Log Summary
+Following the discovery of Dunmer agent [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]]'s corpse near the sabotaged Snow-Shod Dam, the party assisted priestess [[Info/Characters/NPCs/Sigrid\|Sigrid]] in conducting a forensic autopsy, uncovering Oblivion toxins before cultists raided the mortuary to steal the body.
 
-## Objective
-Investigate the poisoned corpse of the dam saboteur Adrith Velan, secure the priestess's autopsy report, and track down who stole it in the Ratway.
+## Objectives & Progression
+- [x] Transport Adrith Velan's corpse to the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] in Riften ([[2 -  Sessions/Session 002\|Session 002]]).
+- [x] Assist Sigrid with toxicological study, identifying Twilight venom ([[2 -  Sessions/Session 002\|Session 002]], [[2 -  Sessions/Session 003\|Session 003]]).
+- [x] Intercept burnt paper fragments revealing his role as a Coiled Serpent courier ([[2 -  Sessions/Session 002\|Session 002]]).
+- [x] Investigate the diversionary Ratway fire and catacomb burglary where cultists stole the corpse and autopsy records ([[2 -  Sessions/Session 012\|Session 012]]).
 
-## Key NPCs
-  - "[[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]]"
-  - "[[Info/Characters/NPCs/Sigrid\|Sigrid]]"
-  - "[[Info/Characters/NPCs/Toren_the_Fence\|Toren_the_Fence]]"
-  - "[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]"
+## Key Participants & Factions
+- **The Fangs of Fjelhorst**: [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Kirya\|Kirya]], [[Info/Characters/Party/Onasha\|Onasha]], [[Info/Characters/Party/Periwyn\|Periwyn]].
+- **NPCs**: [[Info/Characters/NPCs/Sigrid\|Sigrid]], [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]], [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]].
 
-## Key Locations
-  - "[[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod_Dam]]"
-  - "[[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]]"
-  - "[[Info/Locations/The Rift/Ratway\|Ratway]]"
-  - "[[Info/Locations/The Rift/Riften\|Riften]]"
+## Locations Visited
+- [[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod_Dam]]
+- [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]]
+- [[The_Ratway\|The_Ratway]]
 
-## Timeline & Progression
-- **[[2 -  Sessions/Session 002\|Session 002]]**: Discovered [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]]'s body in the river; [[Info/Characters/Party/Onasha\|Onasha]] crushed the skull to prevent necromancy and recovered diary scraps.
-- **[[2 -  Sessions/Session 003\|Session 003]]**: [[Info/Characters/NPCs/Sigrid\|Sigrid]] performed an autopsy at the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]], confirming specialized poison and surgical incision marks.
-- **[[2 -  Sessions/Session 012\|Session 012]]**: The autopsy report was stolen from the temple; [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]] descended into the [[Info/Locations/The Rift/Ratway\|Ratway]], recovering the report and uncovering cult ties.
+## Session Mentions
+- [[2 -  Sessions/Session 002\|Session 002]], [[2 -  Sessions/Session 003\|Session 003]], [[2 -  Sessions/Session 004\|Session 004]], [[2 -  Sessions/Session 012\|Session 012]]

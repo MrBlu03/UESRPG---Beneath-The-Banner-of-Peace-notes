@@ -5,13 +5,17 @@
 # Nordgren
 
 ## Description
-An individual acquainted with the leadership of the [[Blackfeather_Court\|Blackfeather_Court]], specifically [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] and Morgan.
+An influential occult figure and senior associate within the broader intelligence network of the [[Blackfeather_Court\|Blackfeather Court]] and planar researchers operating across Skyrim.
 
 ## Relationships
-- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Acquaintance.
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige]]**: Longtime acquaintance and contact within regional covert operations.
+- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]]**: Allied in occult scholarship and strategic intelligence.
 
 ## Location
-- Unknown.
+- **[[Skyrim\|Skyrim]]**
 
 ## Notes
-- **[[2 -  Sessions/Session 025\|Session 025]]**: Mentioned as being an acquaintance of [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] and part of the [[Blackfeather_Court\|Blackfeather_Court]] leadership circle alongside Morgan.
+- **Network Recognition ([[2 -  Sessions/Session 025\|Session 025]]):** Referenced by [[Info/Characters/NPCs/The_Vestige\|The Vestige]] during discussions inside the Barrow of the Oath Breaker King as a senior peer within their intelligence network.
+
+## Session Mentions
+- [[2 -  Sessions/Session 025\|Session 025]]

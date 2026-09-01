@@ -2,26 +2,23 @@
 {"dg-publish":true,"permalink":"/info/quests/onashas-eirik-challenge/"}
 ---
 
+# Onasha's Eirik Challenge
 
-# Onasha's Rivalry with Eirik the Quick
+## Quest Log Summary
+Following repeated boastful and patronizing remarks by the arrogant sellsword [[Info/Characters/NPCs/Eirik_the_Quick\|Eirik_the_Quick]], [[Info/Characters/Party/Onasha\|Onasha]] made it her ongoing personal mission to trip, outmaneuver, and humiliate him whenever their paths crossed.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Personal  
-**Assigned Session:** [[2 -  Sessions/Session 010\|Session 010]]  
-**Completed Session:** [[2 -  Sessions/Session 011\|Session 011]]  
-**Reward:** Acrobatic Respect, Comic Relief  
+## Objectives & Progression
+- [x] First tripping attempt outside the Riften marketplace ([[2 -  Sessions/Session 003\|Session 003]]).
+- [x] Second tripping attempt during weapon outfitting at Sweaty Steel ([[2 -  Sessions/Session 011\|Session 011]]).
+- [x] Humiliate Eirik during town banter in Falderstad ([[2 -  Sessions/Session 018\|Session 018]]).
+- [ ] Successfully engineer the ultimate public tumble.
 
-## Objective
-Successfully trip the notoriously elusive Companion acrobat Eirik the Quick.
+## Key Participants & Factions
+- **[[Info/Characters/Party/Onasha\|Onasha]]**
+- **[[Info/Characters/NPCs/Eirik_the_Quick\|Eirik_the_Quick]]**
 
-## Key NPCs
-  - "[[Info/Characters/Party/Onasha\|Onasha]]"
-  - "[[Info/Characters/NPCs/Eirik_the_Quick\|Eirik_the_Quick]]"
+## Locations Visited
+- [[Info/Locations/The Rift/Riften\|Riften]], [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty_Steel]], [[Info/Locations/Falderstad/Falderstad\|Falderstad]]
 
-## Key Locations
-  - "[[Info/Locations/The Rift/The_Rift\|The_Rift]]"
-  - "[[Info/Locations/The Rift/Riften\|Riften]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 010\|Session 010]]-**[[2 -  Sessions/Session 011\|Session 011]]**: [[Info/Characters/Party/Onasha\|Onasha]] made three valiant attempts to trip [[Info/Characters/NPCs/Eirik_the_Quick\|Eirik_the_Quick]], concluding with mutual laughter and camaraderie.
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]], [[2 -  Sessions/Session 011\|Session 011]], [[2 -  Sessions/Session 018\|Session 018]]

@@ -4,18 +4,18 @@
 
 # Lady Elaine
 
-> *"My husband is many things—eccentric, proud, and in love with his looms—but he would never leave his silks to freeze in the square. Find him!"*
-
 ## Description
-A poised, sharp-witted, and elegant Breton noblewoman of high standing. The devoted wife of the silk merchant [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]], she carries herself with unmistakable aristocratic dignity, arriving with a fine walking cane, tailored frock, and an uncompromising will to secure her husband's return amidst the growing unrest of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+A dignified, posh, and well-dressed older Breton noblewoman of high standing in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], who carries an elegant cane and wears a fine frock. She is the wife of the prominent silk merchant [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre_LaRouche]]**: Her husband (**His Illustrious Magnificence Jean-Pierre LaRouche, Marquis of the Sapphire Coast, Baron of the Nine Looms, Keeper of the Royal Cocoon Seals, and Patriarch of House LaRouche**).
-- **[[Info/Characters/Party/Durov\|Durov]]**: Lodged her official missing person complaint with Durov during the public market strike, impressed by his respectful attentiveness and ability to record her husband's full titles.
-- **[[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]]**: Pressured the guard captain to deploy search patrols to find her husband.
+- **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]]**: Her eccentric aristocratic husband, Patriarch of House LaRouche.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Lodged a formal missing person report with Durov during the city market protests.
 
 ## Location
-- Lodging in the upper aristocratic suites of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Upper District and Market in **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Approached [[Info/Characters/Party/Durov\|Durov]] and [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]] during the market square protest to officially report that her husband, Jean-Pierre, had gone missing over a week prior following the Jarl's banquet. She reported that his market stall stood frozen over with valuable silks abandoned—a clear sign of foul play, as he would never voluntarily abandon his wares.
+- **Missing Husband Report ([[2 -  Sessions/Session 026\|Session 026]]):** Approached [[Info/Characters/Party/Durov\|Durov]] at the market protest to report the disappearance of her husband, *His Illustrious Magnificence Jean-Pierre LaRouche*. She explained he had been acting strangely absent-minded since the Jarl's banquet over a week before and had vanished leaving his market silk stall standing and frozen over, knowing he would never abandon his precious silks voluntarily.
+
+## Session Mentions
+- [[2 -  Sessions/Session 026\|Session 026]]

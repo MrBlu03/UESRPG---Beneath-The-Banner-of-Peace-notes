@@ -5,15 +5,20 @@
 # Denskar
 
 ## Description
-Denskar is a worker and server at [[Info/Locations/Falderstad/The_Wounded_Boar\|The Wounded Boar]] inn in [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. He acts as a local contact point for hunters and travelers staying in the city.
+A server and employee at **[[Info/Locations/Falderstad/The_Wounded_Boar\|The Wounded Boar]]** tavern in [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
 
 ## Relationships
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Directed to him by a hunter on the road, and later asked him for information regarding missing party members.
+- **[[Info/Locations/Falderstad/The_Wounded_Boar\|The Wounded Boar]] Staff**: Works food service and front-of-house logistics at the tavern.
 
 ## Location
-- Frequents and works at [[Info/Locations/Falderstad/The_Wounded_Boar\|The Wounded Boar]] in [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- **[[Info/Locations/Falderstad/The_Wounded_Boar\|The Wounded Boar]]** in **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 013\|Session 013]]**: The party was directed to meet at [[Info/Locations/Falderstad/The_Wounded_Boar\|The Wounded Boar]] through Denskar to arrange a hunt for a white stag.
-- **[[2 -  Sessions/Session 014\|Session 014]]**: Spoke to [[Info/Characters/Party/Durov\|Durov]] upon his arrival in [[Info/Locations/Falderstad/Falderstad\|Falderstad]], informing him that the rest of the Fangs had taken lodging on the east side of town.
-- **[[2 -  Sessions/Session 019\|Session 019]]**: Questioned by [[Info/Characters/Party/Periwyn\|Periwyn]] when she was searching for a missing [[Info/Characters/Party/Durov\|Durov]] the morning after a night of heavy drinking, but he had no information to provide.
+- **Hunting Contact ([[2 -  Sessions/Session 013\|Session 013]]):** Identified as the local tavern contact for hunting opportunities (including rumors of the rare white stag).
+- **Party Logistics ([[2 -  Sessions/Session 014\|Session 014]]):** Relayed information to [[Info/Characters/Party/Durov\|Durov]] regarding the lodging arrangements made by the Fangs of Fjelhorst on the north side of town.
+- **Tavern Service ([[2 -  Sessions/Session 019\|Session 019]]):** Continued serving meals and drinks at The Wounded Boar during the party's stay in Falderstad.
+
+## Session Mentions
+- [[2 -  Sessions/Session 013\|Session 013]]
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 019\|Session 019]]

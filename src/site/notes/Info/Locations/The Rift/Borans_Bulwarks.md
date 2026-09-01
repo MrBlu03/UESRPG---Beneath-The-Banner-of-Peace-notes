@@ -4,12 +4,18 @@
 
 # Boran's Bulwarks
 
+## Overview
+A premier outfitter, leatherworking workshop, and defensive armory located in the marketplace of [[Info/Locations/The Rift/Riften\|Riften]], owned and operated by the merchant [[Info/Characters/NPCs/Boran\|Boran]].
+
 ## Description
-A specialized heavy armory and shield-making shop in [[Info/Locations/The Rift/Riften\|Riften]], owned and operated by the veteran Nord armorer [[Info/Characters/NPCs/Boran\|Boran]]. It features heavy anvils dedicated to shaping plate armor and reinforced kite shields, as well as displays of custom bossed roundshields and reinforced tower shields.
+A sturdy timber shop displaying racks of cured hides, studded leather jerkins, reinforced shields, travel packs, and insulated winter garments.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Boran\|Boran]]**: The veteran Nord armorer who owns and operates the shop.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Boran\|Boran]]**: Master armorer and merchant.
+- **The Fangs of Fjelhorst**: Outfitted themselves with cold-weather gear here.
 
-## Key Events
-- **[[2 -  Sessions/Session 009\|Session 009]]**: [[Info/Characters/Party/Kirya\|Kirya]] visited the shop to acquire iron shards for [[Info/Lore/Arkay\|Arkay]]'s rite, and [[Info/Characters/NPCs/Boran\|Boran]] offered her three pieces from a bucket of scrap freely.
-- **[[2 -  Sessions/Session 013\|Session 013]]**: Before departing [[Info/Locations/The Rift/Riften\|Riften]], the party visited the shop to purchase warmer cloaks from [[Info/Characters/NPCs/Boran\|Boran]]. They bought three bear cloaks and sold some pelts to pool their coin.
+## Notable Events
+- **Winter Expedition Outfitting ([[2 -  Sessions/Session 013\|Session 013]]):** Preparing for their journey north to Falderstad, the party visited the shop to purchase three insulated heavy bear-fur cloaks for 75 gold each, selling surplus raw furs to fund the expedition.
+
+## Session Mentions
+- [[2 -  Sessions/Session 013\|Session 013]]

@@ -2,62 +2,85 @@
 {"dg-publish":true,"permalink":"/info/characters/party/periwyn/"}
 ---
 
-
-# Periwyn
-
-![Screenshot798.png](/img/user/Z%20-%20other%20bullshit/Z%20-%20Image%20Assets/Screenshot798.png)
+# Periwyn (Periwyn Lunclaire)
 
 ## Overview
-- **Player:** Player Character
+- **Player:** Periwyn Lunclaire
 - **Race:** Breton
-- **Class:** Paladin of [[Info/Lore/Arkay\|Arkay]] / Warhammer Crusader / Necromantic Scholar
-- **Background:** House Lunclaire / [[Info/Organizations/Religious/Knights_of_Arkay\|Knights of the Circle]] (Militant Arm of the [[Info/Organizations/Religious/Knights_of_Arkay\|Order of Arkay]])
-- **Status:** Active ([[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The Fangs of Fjelhorst]])
+- **Class:** Battlemage / Knight / Esoteric Necromancer
+- **Background:** Scion of the prestigious Lunclaire merchant family from High Rock. Former squire of the Knights of the Order of Arkay at Arkayfell, where she lost her left ear in a vampire attack and mercy-killed her infected mentor, [[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]]. Carries deep psychological trauma, processed through sketching in her personal journal.
 
-## Description
-Periwyn is a fierce, complex Breton knight, paladin, and crusader of [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]. Hailing from the noble lineage of House Lunclaire and trained within the [[Info/Organizations/Religious/Knights_of_Arkay\|Knights of the Circle]], she is driven by a sacred, burning hatred of vampires following the horrific loss of her family during the *Night of Crimson Tears*. Wielding a crushing two-handed warhammer and holy spells of [[Info/Lore/Arkay\|Arkay]], she walked a perilous path—studying forbidden necromantic texts under [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]] to understand, control, and ultimately cleanse the dark powers of death.
+## Personality Traits
+- **Scholarly & Inquisitive:** Voracious student of magical theory, runes, and esoteric arts, pursuing magical bounties over mundane coin.
+- **Complex Grief & Guilt:** Haunted by nightmares of her deceased twin brother, Sir Gareth, and the Daedric Prince Malacath. Keeps a pressed periwinkle flower in her journal as a memorial.
+- **Artistic Chronicler:** Continually sketches portraits of NPCs, architectural ruins, maps, and battle aftermaths in her journal.
+- **Protective & Dedicated:** Formed a sworn mutual-aid pact with [[Info/Characters/Party/Onasha\|Onasha]] to rescue slaves in Morrowind in exchange for aid with her own vengeance quests.
 
-## Background & Personal Tragedy
-- Born into House Lunclaire of [[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]] in High Rock.
-- Her family and mentor, [[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]], were slaughtered or turned during the tragic *Night of Crimson Tears*. Periwyn was forced to personally slay her vampire-turned mentor, leaving her carrying immense grief, rage, and guilt.
-- Wears an ancestral silver medallion with a moonstone that matches the pommel of her dagger.
-- In [[2 -  Sessions/Session 009\|Session 009]]/009a, after being captured in a Dragon Priest ritual and falling into a three-day mystical slumber in [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]], she confronted the spectral spirit of [[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]], finding forgiveness and resolving to forge her own destiny rather than being enslaved by vengeance or Daedric fate.
-- Began formal necromantic studies under [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]] in [[2 -  Sessions/Session 012a\|Session 012a]], mastering bone preservation and death detection to turn dark magic against the undead.
+## Abilities and Skills
+- **Martial Prowess:** Wields Sir Gareth's heavy warhammer and dual swords with deadly proficiency, executing crushing blows and defensive parries.
+- **Destruction & Sun Magic:** Channels *Sunbeam* and lightning spells, using radiant magic to burn through Daedric wards.
+- **Formal Necromancy:** Trained under royal court mage [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]]; masters bone wards, death-pulse detection, and corpse dissection from conjured ancient tomes.
+- **Diplomacy & Trade Negotiation:** Leverages her aristocratic Lunclaire heritage to negotiate high-tier commerce contracts with trade barons ([[Info/Characters/NPCs/Renald_Vero\|Renald_Vero]], [[Info/Characters/NPCs/Olvfrost\|Olvfrost]]) and negotiate truces with monsters ([[Info/Quests/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]]).
 
-## Personality & Inner Struggle
-- **Relentless Fury:** Channels profound grief into disciplined, devastating combat power.
-- **Moral Complexity:** Struggles with the temptation of dark power (including recurring visions of [[Info/Lore/Malacath\|Malacath]]), but consistently uses her abilities to protect the living and sanctify the dead.
-- **Artistic Healing:** Processes trauma and visionary memories through detailed charcoal sketches and journals.
-- **Fierce Loyalty:** Uncompromising in defending her [[Info/Organizations/Military/Companions\|companions]], often leading the frontline charge.
+## Inventory
+- **[[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]]'s Warhammer** (inherited from her mentor).
+- Black leather necromancy grimoire gifted by [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]].
+- Personal leatherbound journal containing sketches, maps, and a pressed periwinkle flower.
+- Spellbook of *Jack of Trades* (3rd level Alteration/Utility).
+- Alchemical supplies, paralysis bombs, and insulated bear-fur cloak.
 
-## Abilities & Magic
-- **Warhammer Mastery:** Crushing two-handed blunt strikes capable of smashing armored foes, draugr lords, and Daedric monstrosities.
-- **Solar & Holy Spells ([[Info/Lore/Arkay\|Arkay]]):**
-  - *Sunbeam / Holy Radiance:* Blasts of searing divine light that scorch undead, vampires, and Daedra.
-  - *Healing Touch:* Curative magic restoring herself and wounded allies.
-- **Necromantic Insight ([[Info/Characters/NPCs/Archmagus_Mortgren\|Mortgren]]'s Teachings):**
-  - *Death Magic Detection:* Senses death residues, concealed crypts, and undead curses.
-  - *Anatomical Bone Preservation:* Prepares and boils skeletal remains for ritual warding.
+## Goals
+- **Short-Term:** Master formal necromantic arts and assist the party in destroying the Cult of Clavicus Vile.
+- **Long-Term:** Overcome her nightmares and guilt, avenge her mentor, and restore the Lunclaire merchant empire.
 
-## Mount
-- **[[Info/Characters/Party/The Horses#Ashen\|Ashen]]**: A fiery, coal-black mare with a stark white streak across her muzzle. Headstrong, fierce, and fearless, mirroring Periwyn's channeled fury and unyielding will.
+## Relationships
+- **[[Info/Characters/Party/Onasha\|Onasha]]**: Core companion in the Fangs of Fjelhorst; allied in a sworn mutual-aid pact where Periwyn pledged to help Onasha free Xula and slaves in Morrowind.
+- **[[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Kirya\|Kirya]]**: Trusted companions in the Fangs of Fjelhorst.
+- **[[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]]**: Beloved former knight-mentor whose spiritual absolution brought her inner peace.
+- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]]**: Court mage of Riften who serves as her secret necromantic instructor.
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige]]**: Planar mentor figure who tested her resolve and provided guidance on the burden of knighthood.
 
-## Key Session Events
-- **[[2 -  Sessions/Session 001\|Session 001]]**: Crushed the bandit squad of [[Info/Characters/NPCs/Alaric\|Alaric]] with her warhammer on the road south of [[Info/Locations/The Rift/Riften\|Riften]].
-- **[[2 -  Sessions/Session 004\|Session 004]]**: Provided critical historical lore on [[Info/Organizations/Cults/Clan_Volkihar\|Clan_Volkihar]] and Lord Harkon's blood covenants.
-- **[[2 -  Sessions/Session 006\|Session 006]]-**[[2 -  Sessions/Session 007\|Session 007]]**: Touched the dark Crimson Orb in the [[Info/Locations/The Rift/Greenwall\|Greenwall]] tunnels, receiving visions of undead werewolves and [[Info/Lore/Malacath\|Malacath]]'s throne of skulls. Attempted a necromantic rite on a fallen bird, creating friction with [[Info/Characters/Party/Kirya\|Kirya]].
-- **[[2 -  Sessions/Session 009\|Session 009]]**: Captured by the draugr Lord [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]] beneath the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]]; rescued by the party and placed in the care of [[Info/Characters/NPCs/Adda\|Adda]] while comatose.
-- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a]]**: Experienced a visionary soul-journey through [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]] and [[Info/Locations/Other Realms/Darnow_Hollow\|Darnow_Hollow]]. Confronted [[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]], granted him peace, received a black feather from an enigmatic figure, and resolved to write her own story.
-- **[[2 -  Sessions/Session 010\|Session 010]]**: Awakened at the [[Info/Locations/The Rift/Hall_of_Ysmir\|Hall_of_Ysmir]] in [[Info/Locations/The Rift/Riften\|Riften]]; processed her trauma through charcoal sketching during the camping retreat.
-- **[[2 -  Sessions/Session 011\|Session 011]]**: Healed herself and [[Info/Characters/Party/Durov\|Durov]] from severe burns after leaping through the burning cabin of the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna_Tong]] smuggler ship.
-- **[[2 -  Sessions/Session 012a\|Session 012a]]**: Began formal necromantic studies with [[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]], receiving his first instructional grimoire.
-- **[[2 -  Sessions/Session 013\|Session 013]]**: Bonded with her mare [[Ashen\|Ashen]] and meditated for three hours at an ancient roadside cairn to connect with ancestral spirits.
-- **[[2 -  Sessions/Session 014\|Session 014]]**: Detected death magic beneath the bedroom rug in [[Info/Locations/Falderstad/Nilans_House\|Nilans_House]], uncovering the hidden cellar; conducted Exercise 3 of [[Info/Characters/NPCs/Archmagus_Mortgren\|Mortgren]]'s lessons.
-- **[[2 -  Sessions/Session 015\|Session 015]]**: Intercepted a Dunmer caravan with [[Info/Characters/Party/Durov\|Durov]], breaking the neck of an attacking guard; met the mysterious Hooded Figure in the woods.
-- **[[2 -  Sessions/Session 017\|Session 017]]**: Faced the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]] in the [[Info/Locations/The Rift/Cursed_Grove\|Cursed_Grove]]. When the stag skull split to reveal a scarred face whispering *'End it'*, delivered the crushing final blow with her warhammer.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Boiled fox bones according to [[Info/Characters/NPCs/Archmagus_Mortgren\|Mortgren]]'s treatise to craft defensive wards; debated theology with visiting scholars.
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Confiscated a Daedric speaking stone and Brimstone coins from the captured courier [[Info/Characters/NPCs/Varran\|Varran]].
-- **[[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a]]**: Embarked on a solo witch hunt into the [[Info/Locations/The Rift/Western_Woods\|Western_Woods]], tracking down and destroying [[Info/Quests/The_Witch_of_the_Woods\|The_Witch_of_the_Woods]] and her dark hagraven coven.
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Kicked open the door to Steward [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]]'s office in the longhouse, executing a paralyzed guard and knocking Caro unconscious with a pommel strike.
-- **[[2 -  Sessions/Session 028\|Session 028]]**: Cast *Sunbeam* in the sewers to scorch the Dremora steward into confessing. Shared her backstory with [[Info/Characters/Party/Onasha\|Onasha]] regarding her vow to the [[Info/Organizations/Religious/Knights_of_Arkay\|Knights of Arkay]].
-- **[[2 -  Sessions/Session 030\|Session 030]]-**[[2 -  Sessions/Session 031\|Session 031]]**: Led the righteous charge into [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]], wielding sun magic and her warhammer to crush cult champions and defeat the [[Info/Characters/NPCs/The_Xivilai\|Xivilai]].
+## Achievements
+- Severed the right arm of the Daedric Ragged Lord during the climactic boss battle in the Cursed Grove.
+- Broke through the Scaafin disguise of steward [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]] with *Sunbeam* magic in the longhouse.
+- Negotiated a successful territorial truce with the formidable [[Info/Quests/The_Witch_of_the_Woods\|Witch of the Woods]].
+- Secured high-value trade agreements for lumber and silk with regional barons.
+
+## Session Mentions
+- [[2 -  Sessions/Session 001\|Session 001]]
+- [[2 -  Sessions/Session 002\|Session 002]]
+- [[2 -  Sessions/Session 002a (downtime)\|Session 002a (downtime)]]
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 006\|Session 006]]
+- [[2 -  Sessions/Session 007\|Session 007]]
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 010\|Session 010]]
+- [[2 -  Sessions/Session 010a (downtime)\|Session 010a (downtime)]]
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 012a\|Session 012a]]
+- [[2 -  Sessions/Session 013\|Session 013]]
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 016\|Session 016]]
+- [[2 -  Sessions/Session 017\|Session 017]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 019\|Session 019]]
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 021\|Session 021]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 023\|Session 023]]
+- [[2 -  Sessions/Session 023a Periwyns witch hunt\|Session 023a Periwyns witch hunt]]
+- [[2 -  Sessions/Session 023b\|Session 023b]]
+- [[2 -  Sessions/Session 024\|Session 024]]
+- [[2 -  Sessions/Session 025\|Session 025]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]
+- [[2 -  Sessions/Session 028\|Session 028]]
+- [[2 -  Sessions/Session 029\|Session 029]]
+- [[2 -  Sessions/Session 030\|Session 030]]
+- [[2 -  Sessions/Session 031\|Session 031]]

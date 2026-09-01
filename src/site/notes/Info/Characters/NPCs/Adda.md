@@ -4,28 +4,34 @@
 
 # Adda
 
-> *"May the breath of Kyne steady your heart, child. The road is cruel, but the hearth always remembers."*
-
 ## Description
-A compassionate, gentle, and spiritually grounded priestess and healer affiliated with the [[Info/Organizations/Religious/Cult_of_Ysmir\|Cult_of_Ysmir]] at [[Info/Locations/The Rift/Hall_of_Ysmir\|Ysmir's Hall]] in [[Info/Locations/The Rift/Riften\|Riften]]. Highly skilled in herbal remedies, poultices, and traditional Nordic spiritual rites, Adda became an emotional anchor and medic for the party, offering sanctuary, warm broth, and spiritual guidance during their darkest trials.
+A young Nord shaman of the [[Info/Organizations/Religious/Cult_of_Ysmir\|Cult of Ysmir]] in [[Info/Locations/The Rift/Riften\|Riften]], who assumes leadership at the [[Info/Locations/The Rift/Hall_of_Ysmir\|Hall of Ysmir]] when [[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir Stormcrown]] is away. She is blindfolded, wears a headdress adorned with antlers and feathers, and has mystical runes marked along her arms. Adda possesses profound prophetic vision and mystic perception, delivering cryptic yet exact insights into people, curses, and spirits.
 
 ## Relationships
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Tended to Periwyn with maternal devotion throughout her three-day coma following the haunted lodge trauma, reading scriptures by her bedside.
-- **[[Info/Characters/Party/Durov\|Durov]]**: Appreciated Durov's stoic loyalty and regularly prepared restorative balms for his battlefield bruises.
-- **[[Info/Characters/Party/Kirya\|Kirya]]**: Provided a comforting presence and listening ear during Kirya's bouts of homesickness and grief over her lost sister.
-- **[[Info/Characters/Party/Onasha\|Onasha]]**: Assisted Onasha with drying medicinal roots and respected her alchemical prowess.
-- **[[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir_Stormcrown]]**: Serves alongside the towering cult leader, balancing his booming martial zeal with quiet restorative mercy.
+- **[[Info/Organizations/Religious/Cult_of_Ysmir\|Cult of Ysmir]]**: Spiritual leader and shaman at the Hall of Ysmir in Riften.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Experienced prophetic visions of Periwyn long before they met, seeing a future shadowed by violence and pursuit. Adda recognized Periwyn as the merchant's daughter and knows her deepest necromantic secrets, giving her word to keep them confidential.
+- **[[Info/Characters/Party/Kirya\|Kirya]]**: Offered quiet comfort regarding Kirya's lost sister (*"Your sister will come. When she can."*).
+- **[[Info/Characters/Party/Onasha\|Onasha]]**: Explained that the [[Info/Characters/NPCs/Talking_Fox\|talking fox]] is a nature spirit drawn to Onasha's path, and received a returned study book from Onasha before departing Riften.
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige / Sadrith Indoril]]**: A companion and ally of the Vestige.
+- **[[Info/Characters/NPCs/Varran\|Varran]]**: Provided care and healing for the traumatized Imperial in the Crows' Wood.
 
 ## Location
-- Tends the sick and maintains the hearth at [[Info/Locations/The Rift/Hall_of_Ysmir\|Hall_of_Ysmir]] in [[Info/Locations/The Rift/Riften\|Riften]].
+- Formerly resided at the **[[Info/Locations/The Rift/Hall_of_Ysmir\|Hall of Ysmir]]** in **[[Info/Locations/The Rift/Riften\|Riften]]**.
+- Departed Riften for a sacred site in **[[Info/Lore/Eastmarch\|Eastmarch]]** ([[2 -  Sessions/Session 013\|Session 013]]).
+- Later located in the **[[Info/Locations/Other Realms/Crows_Wood\|Crows' Wood]]** tending to [[Info/Characters/NPCs/Varran\|Varran]] alongside [[Info/Characters/NPCs/The_Vestige\|The Vestige]] ([[2 -  Sessions/Session 021\|Session 021]]).
 
 ## Notes
-- **[[2 -  Sessions/Session 008\|Session 008]]**: Welcomed the party to [[Info/Locations/The Rift/Hall_of_Ysmir\|Hall_of_Ysmir]], providing travel provisions, blessing their blades, and preparing cots for their departure to the haunted lodge.
-- **[[2 -  Sessions/Session 009\|Session 009]]**: Received the battered party upon their harrowing return from the Cold-Moor lodge, immediately establishing a triage clinic in the hall.
-- **[[2 -  Sessions/Session 010\|Session 010]]**: Sat bedside through [[Info/Characters/Party/Periwyn\|Periwyn]]'s three-day coma, changing cold compresses and praying over her. When Periwyn awakened, Adda made cryptic remarks about "feathers" that matched Periwyn's dream visions of the Crow Father.
-- **[[2 -  Sessions/Session 010a (downtime)\|Session 010a (downtime)]]**: Prepared field kits and restorative draughts for the party while sharing folklore regarding ancient dragon shrines in the eastern mountains.
-- **[[2 -  Sessions/Session 011\|Session 011]]**: Provided soothing teas and salves to the party ahead of their infiltration of the [[Info/Locations/The Rift/Riften\|Riften]] docks, praying for their safe passage through the underworld.
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Tended to injured commoners caught in the [[Info/Locations/The Rift/Ratway\|Ratway]] fires, urging [[Info/Characters/Party/Durov\|Durov]] to carry food provisions into the warrens to calm public panic.
-- **[[2 -  Sessions/Session 013\|Session 013]]**: Bid the party a tearful farewell as they mounted their royal steeds for [[Info/Locations/Falderstad/Falderstad\|Falderstad]], gifting them consecrated talismans of Kyne for the winter trail.
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Referenced during discussions in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] regarding the spreading influence of the [[Info/Organizations/Cults/Blackfeather Court\|Blackfeather Court]], recalling her earlier prophetic words regarding corvid omens.
-- **[[2 -  Sessions/Session 021\|Session 021]]**: Sent written blessings and herbal requisitions to the party via merchant couriers arriving from the Rift.
+- **Lodge Curse Insights ([[2 -  Sessions/Session 008\|Session 008]]):** Identified that the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted Hunting Lodge]] rested on ancient, disturbed, and unblessed ground, advising that the spirits bound by agony and rage could be reasoned with through mercy and understanding.
+- **Mask Inspection ([[2 -  Sessions/Session 010\|Session 010]] / [[2 -  Sessions/Session 010a (downtime)\|Session 010a (downtime)]]):** Examined the ancient Dragon Priest mask recovered from the lodge, verifying that its magic was inert and powerless.
+- **Prophetic Sight:** Speaks with uncanny foreknowledge regarding events, curses, and personal histories without needing prior introductions.
+
+## Session Mentions
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 010\|Session 010]]
+- [[2 -  Sessions/Session 010a (downtime)\|Session 010a (downtime)]]
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 013\|Session 013]]
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 021\|Session 021]]

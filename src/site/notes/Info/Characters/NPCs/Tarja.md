@@ -2,20 +2,23 @@
 {"dg-publish":true,"permalink":"/info/characters/np-cs/tarja/"}
 ---
 
-# Tarja (Strider)
+# Tarja (Taria)
 
 ## Description
-A key resistance coordinator and sewer contact for the [[Info/Organizations/Criminal/Lower_Lodge_Network\|Lower_Lodge_Network]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. She organizes strikes and rescue missions against the corrupt forces controlling the city.
+A resolute, tactical leader within the **[[Info/Locations/Kjalgrad/Lower_Lodge\|Lower Lodge]]** underground network in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. She directs local resistance, labor strikes, and covert operations against the oppressive commercial dominance of the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild of the Silverroad]].
 
 ## Relationships
-- **[[Info/Characters/Party/Onasha\|Onasha]]**: Communicated with her to coordinate the warehouse sabotage.
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Assisted her with the rescue mission for [[Info/Characters/Party/Onasha\|Onasha]].
-- **[[Info/Characters/NPCs/Tabitha\|Tabitha]]**: Fellow network member who helped guide the rescue squad.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]] & [[Info/Characters/Party/Onasha\|Onasha]]**: Partnered on city sabotage operations and coordinated emergency rescues.
+- **[[Info/Characters/NPCs/Tabitha\|Tabitha]]**: Relies on Tabitha as her subterranean scout and guide.
 
 ## Location
-- Operates out of the [[Info/Locations/Kjalgrad/Lower_Lodge\|Lower_Lodge]] in the sewers of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Subterranean hideout of the **[[Info/Locations/Kjalgrad/Lower_Lodge\|Lower Lodge]]** in the sewers beneath **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 024\|Session 024]]**: Mentioned as the contact name ("Strider") for safe harbor in the city sewers for freed workers.
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Briefed [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Periwyn\|Periwyn]] on the protest operation, provided them with tools and encrypted letters, and coordinated the strike on the warehouses.
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Listened to [[Info/Characters/Party/Periwyn\|Periwyn]]'s panicked report of [[Info/Characters/Party/Onasha\|Onasha]]'s capture, provided a magicka potion, and immediately gathered a rescue team led by [[Info/Characters/NPCs/Tabitha\|Tabitha]].
+- **Market Strike & Warehouse Sabotage Briefing ([[2 -  Sessions/Session 026\|Session 026]]):** Briefed [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] on a planned market strike designed to lure city guards away from the warehouse quarter, providing encrypted orders and sabotage plans to burn the Silverroad warehouses.
+- **Coordinating the Longhouse Jailbreak ([[2 -  Sessions/Session 027\|Session 027]]):** Following Onasha's capture, she regrouped with Periwyn at the sewer hideout, supplied her with a magicka potion, and mobilized a strike team led by [[Info/Characters/NPCs/Tabitha\|Tabitha]] to breach the dungeon evidence room and liberate Onasha.
+
+## Session Mentions
+- [[2 -  Sessions/Session 024\|Session 024]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]

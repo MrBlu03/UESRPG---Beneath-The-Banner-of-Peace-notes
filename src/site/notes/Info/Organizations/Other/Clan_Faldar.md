@@ -5,23 +5,17 @@
 # Clan Faldar
 
 ## Overview
-- A Nordic clan situated in the Rift, dwelling in the stronghold of Faldarstad.
-- Their banners are green and silver, marked boldly with a stag's head.
+The historic founding Nord clan of **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]** (*Faldar's Stead*), deeply associated with ancestral fortifications, hunting customs, and frontier traditions across eastern Skyrim.
 
-## Structure
-- Traditional Nordic Clan structure.
+## Key Lineage & Settlements
+- **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]**: The primary fortified settlement founded by the clan lineage.
+- **[[Info/Characters/NPCs/Jarl_Gorm\|Jarl_Gorm]]**: Presides over the traditional seat of the region.
 
-## Goals and Activities
-- Maintain and defend their stronghold of Faldarstad.
+## Notable Events
+- **Preservation of Nordic Traditions ([[2 -  Sessions/Session 018\|Session 018]]):** The clan's ancestral laws and traditional execution ceremonies (*holmgang*) continue to govern justice in Falderstad.
 
-## Known Members
-- Unknown.
-
-## Relationships
-- Unknown.
-
-## Locations
-- **Faldarstad**: The stronghold of the clan. A wide valley settlement with longhouses, lodges, and hides drying on racks. It sits by a river's curve, defended by log palisades and timber towers.
-
-## Notes
-- The party approached Faldarstad in Chapter 013, noticing the busy life inside the palisades.
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 013\|Session 013]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 023b\|Session 023b]]

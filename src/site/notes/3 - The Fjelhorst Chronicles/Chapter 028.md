@@ -7,7 +7,7 @@
 
 **Turdas, 11th of Evening Star, 2E 600 (continued)**
 
-Night had long since claimed [[Info/Locations/Kjalgrad/Kjalgrad\|Kjallgrad]].
+Night had long since claimed Kjallgrad.
 
 Smoke still drifted above the rooftops where the Guild's warehouses had burned, though the flames themselves had begun to surrender to weary hands bearing snow and water. The city did not yet know whether it had survived a riot, an accident, or the opening stroke of some greater calamity. Rumours travelled more swiftly than any rider, and before dawn each would wear a different face.
 
@@ -15,11 +15,11 @@ Yet while the townsfolk looked toward the blackened skyline, other fires burned 
 
 ---
 
-The door to [[Info/Characters/NPCs/Darius_Caro\|Steward Darius Caro]]'s office did not open.
+The door to Steward Darius Caro's office did not open.
 
 It burst inward.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]]'s boot shattered the latch, and before the broken timber had struck the floor, [[Info/Characters/Party/Onasha\|Onasha]]'s arm was already in motion.
+Periwyn's boot shattered the latch, and before the broken timber had struck the floor, Onasha's arm was already in motion.
 
 The small glass bomb sailed through the doorway.
 
@@ -31,7 +31,7 @@ A pale cloud.
 
 The man froze where he stood, every limb held fast by unseen force.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] wasted not a heartbeat.
+Periwyn wasted not a heartbeat.
 
 Steel flashed once.
 
@@ -41,17 +41,17 @@ By the time the enchantment had fully seized the guard, an arm, a leg, and at la
 
 The second guard recovered more quickly.
 
-His blade bit across [[Info/Characters/Party/Periwyn\|Periwyn]]'s arm, forcing her backward before she could finish him.
+His blade bit across Periwyn's arm, forcing her backward before she could finish him.
 
-[[Info/Characters/Party/Onasha\|Onasha]] answered with fire.
+Onasha answered with fire.
 
-Her bomb struck the steward's desk in an eruption of flame, setting papers alight and forcing [[Info/Characters/NPCs/Darius_Caro\|Darius Caro]] stumbling behind his chair, his robes briefly consumed by dancing tongues of orange before he smothered them beneath his cloak.
+Her bomb struck the steward's desk in an eruption of flame, setting papers alight and forcing Darius Caro stumbling behind his chair, his robes briefly consumed by dancing tongues of orange before he smothered them beneath his cloak.
 
 Firebolts answered in return.
 
 One shattered against the wall.
 
-Another scorched the air where [[Info/Characters/Party/Periwyn\|Periwyn]] had stood only an instant before as she swallowed a healing draught and threw herself once more into the fight.
+Another scorched the air where Periwyn had stood only an instant before as she swallowed a healing draught and threw herself once more into the fight.
 
 The remaining guard met her charge.
 
@@ -83,7 +83,7 @@ Anything that might unravel the tangled knot surrounding the Silver Road and its
 
 Yet before either woman could reach the scattered papers, movement came from behind the steward's overturned desk.
 
-[[Info/Characters/NPCs/Darius_Caro\|Darius Caro]] still lived.
+Darius Caro still lived.
 
 Though scarcely as the man they had known.
 
@@ -93,7 +93,7 @@ Curved horns encircled his brow.
 
 His eyes burned with an unnatural light that reflected neither flame nor torch.
 
-For a fleeting moment [[Info/Characters/Party/Periwyn\|Periwyn]] thought of the Skaafin's severed horn she had carried through the snows only days before.
+For a fleeting moment Periwyn thought of the Skaafin's severed horn she had carried through the snows only days before.
 
 There was enough likeness to chill the blood.
 
@@ -101,7 +101,7 @@ She struck without hesitation.
 
 The creature caught her sword in one hand.
 
-Then, as though lifting a child, raised [[Info/Characters/Party/Periwyn\|Periwyn]] bodily from the floor.
+Then, as though lifting a child, raised Periwyn bodily from the floor.
 
 His voice remained strangely calm.
 
@@ -115,11 +115,11 @@ Who guided them?
 
 Neither woman answered.
 
-Instead [[Info/Characters/Party/Onasha\|Onasha]] demanded answers of her own while desperately trying to pry [[Info/Characters/Party/Periwyn\|Periwyn]] free.
+Instead Onasha demanded answers of her own while desperately trying to pry Periwyn free.
 
 The creature merely smiled.
 
-Only when [[Info/Characters/Party/Onasha\|Onasha]] succeeded in wrenching [[Info/Characters/Party/Periwyn\|Periwyn]] from his grasp did it lunge forward once more.
+Only when Onasha succeeded in wrenching Periwyn from his grasp did it lunge forward once more.
 
 It never reached them.
 
@@ -129,7 +129,7 @@ Cold air rushed into the chamber.
 
 Someone came hurtling through the window.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] reacted by instinct alone.
+Periwyn reacted by instinct alone.
 
 Her sword met the intruder before his feet found the floor, sending him crashing across the steward's desk.
 
@@ -143,9 +143,9 @@ A mask.
 
 Upon one shoulder rested the unmistakable black hand.
 
-[[Info/Characters/Party/Onasha\|Onasha]] recognized it before a word was spoken.
+Onasha recognized it before a word was spoken.
 
-The [[Info/Organizations/Criminal/Dark_Brotherhood\|Dark Brotherhood]].
+The Dark Brotherhood.
 
 The assassin had come for the steward.
 
@@ -153,7 +153,7 @@ Alive.
 
 He was to be taken somewhere beyond the city for questioning.
 
-[[Info/Characters/Party/Onasha\|Onasha]]'s resolve faltered for the first time that night.
+Onasha's resolve faltered for the first time that night.
 
 She pleaded—not for Caro's life, but that he not be delivered into the hands awaiting him elsewhere.
 
@@ -161,7 +161,7 @@ Whatever memories stirred behind her eyes, they proved enough.
 
 After a long silence, the assassin inclined his head.
 
-Without another word, all three seized the struggling captive and disappeared into the hidden roads beneath [[Info/Locations/Kjalgrad/Kjalgrad\|Kjallgrad]].
+Without another word, all three seized the struggling captive and disappeared into the hidden roads beneath Kjallgrad.
 
 ---
 
@@ -175,11 +175,11 @@ The answers came slowly.
 
 Too slowly.
 
-When [[Info/Characters/Party/Onasha\|Onasha]] finally lost patience and drove her dagger toward his chest, a shimmering ward sprang into existence scarcely a finger's breadth before the blade.
+When Onasha finally lost patience and drove her dagger toward his chest, a shimmering ward sprang into existence scarcely a finger's breadth before the blade.
 
 Steel glanced harmlessly aside.
 
-The assassin, meanwhile, noticed [[Info/Characters/Party/Periwyn\|Periwyn]]'s growing frustration as exhaustion dulled her command of magic.
+The assassin, meanwhile, noticed Periwyn's growing frustration as exhaustion dulled her command of magic.
 
 Without ceremony he handed her one of his own potions.
 
@@ -197,21 +197,21 @@ His composure cracked.
 
 The confession came.
 
-He admitted employing the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]].
+He admitted employing the Camonna Tong.
 
 Slaves had been required.
 
-[[Info/Characters/Party/Onasha\|Onasha]] had asked too many questions.
+Onasha had asked too many questions.
 
 The Dunmer had become equally troublesome.
 
 Removing them had served everyone's interests.
 
-The words had scarcely left his lips before [[Info/Characters/Party/Onasha\|Onasha]]'s dagger opened a deep line across his cheek.
+The words had scarcely left his lips before Onasha's dagger opened a deep line across his cheek.
 
 Blood mingled with burned flesh.
 
-Whatever face [[Info/Characters/NPCs/Darius_Caro\|Darius Caro]] once possessed would never again be whole.
+Whatever face Darius Caro once possessed would never again be whole.
 
 They bound him once more.
 
@@ -227,7 +227,7 @@ Whether from pain or humiliation, none cared to ask.
 
 ---
 
-Far from the city, where smoke could no longer be smelled and only the stars watched from above, [[Info/Characters/Party/Durov\|Durov]] and [[Info/Characters/NPCs/Captain_Irlav\|Captain Irlav]] rode north through the silent forests.
+Far from the city, where smoke could no longer be smelled and only the stars watched from above, Durov and Captain Irlav rode north through the silent forests.
 
 The roads were little more than pale ribbons beneath the moon.
 
@@ -237,7 +237,7 @@ For a time they travelled without haste.
 
 Conversation wandered where the path itself wandered.
 
-[[Info/Characters/Party/Durov\|Durov]] asked about the eagle worked into [[Info/Characters/NPCs/Captain_Irlav\|Irlav]]'s crest.
+Durov asked about the eagle worked into Irlav's crest.
 
 The captain smiled faintly.
 
@@ -249,17 +249,17 @@ Older than many kingdoms.
 
 It had flown over battlefields from Cyrodiil to Skyrim through wars most men remembered only in songs.
 
-Then [[Info/Characters/Party/Durov\|Durov]] spoke of the dream.
+Then Durov spoke of the dream.
 
 The chains.
 
 The endless darkness.
 
-[[Info/Characters/NPCs/Captain_Irlav\|Irlav]]'s expression grew solemn.
+Irlav's expression grew solemn.
 
 Those had not been ordinary chains.
 
-They had belonged to one of [[Info/Lore/Molag_Bal\|Molag Bal]]'s Great Anchors, the terrible engines by which the Prince of Domination had once sought to drag Nirn into Coldharbour during the Planemeld.
+They had belonged to one of Molag Bal's Great Anchors, the terrible engines by which the Prince of Domination had once sought to drag Nirn into Coldharbour during the Planemeld.
 
 Even after all these years, veterans still dreamed of them.
 
@@ -273,7 +273,7 @@ Each man found his own thoughts.
 
 Eventually the trees gave way.
 
-Before them rose the [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan Mesa]].
+Before them rose the Altan Mesa.
 
 Even beneath the darkness its presence dominated the land.
 
@@ -283,11 +283,11 @@ The excavations continued still.
 
 The earth itself had been opened.
 
-Though night concealed much, [[Info/Characters/Party/Durov\|Durov]] spotted two lesser entrances exactly where [[Info/Characters/NPCs/The_Vestige\|the Vestige]] had described them.
+Though night concealed much, Durov spotted two lesser entrances exactly where the Vestige had described them.
 
 Both shimmered faintly beneath invisible wards.
 
-[[Info/Characters/NPCs/Captain_Irlav\|Irlav]] approached the great entrance.
+Irlav approached the great entrance.
 
 Rather than speak, he simply presented the ouroboros emblem.
 
@@ -305,7 +305,7 @@ The deeper they walked, the more the ruin resembled neither fortress nor tomb bu
 
 Guards stood at nearly every crossing.
 
-[[Info/Characters/Party/Durov\|Durov]] counted them idly as they passed.
+Durov counted them idly as they passed.
 
 By the time they reached Lord Marr's chamber, he had lost count somewhere beyond twenty.
 
@@ -319,7 +319,7 @@ Crates stood packed.
 
 The machinery of withdrawal had begun before the city itself realized it had been abandoned.
 
-[[Info/Locations/Kjalgrad/Kjalgrad\|Kjallgrad]], he declared, had ceased to justify the effort required to control it.
+Kjallgrad, he declared, had ceased to justify the effort required to control it.
 
 The powers above him had reached their conclusion.
 
@@ -327,7 +327,7 @@ By the following evening, they would be gone.
 
 One final task remained.
 
-The [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]] had shown an unusual interest in his affairs.
+The Camonna Tong had shown an unusual interest in his affairs.
 
 Their abandoned camp had recently been discovered.
 
@@ -335,13 +335,13 @@ He wished to know why they had fled, where they had gone, and whether they ought
 
 Another man would accompany them.
 
-[[Info/Characters/NPCs/Proventus\|Proventus]].
+Proventus.
 
 The fellow arrived shortly thereafter.
 
 He marched with almost painful stiffness, each step measured as though drilled upon a parade ground.
 
-[[Info/Characters/Party/Durov\|Durov]] watched him for several moments.
+Durov watched him for several moments.
 
 Then reached out, seized the man by the front of his cuirass, and gave him a firm shake.
 
@@ -355,9 +355,9 @@ Whatever tomorrow held would be met on full stomachs.
 
 ---
 
-Meanwhile the long road beneath [[Info/Locations/Kjalgrad/Kjalgrad\|Kjallgrad]] finally ended.
+Meanwhile the long road beneath Kjallgrad finally ended.
 
-The assassin, [[Info/Characters/Party/Periwyn\|Periwyn]], and [[Info/Characters/Party/Onasha\|Onasha]] emerged from the hidden tunnels into the dark wilderness beyond the city.
+The assassin, Periwyn, and Onasha emerged from the hidden tunnels into the dark wilderness beyond the city.
 
 Only then did fate remind them how easily victory slipped away.
 
@@ -369,7 +369,7 @@ Every blow suffered by their captive...
 
 Little by little, his bindings had loosened.
 
-[[Info/Characters/Party/Onasha\|Onasha]] noticed first.
+Onasha noticed first.
 
 A heartbeat too late.
 
@@ -377,17 +377,17 @@ Caro twisted violently.
 
 Fire blossomed from his hands.
 
-The spell exploded against [[Info/Characters/Party/Periwyn\|Periwyn]] and the assassin.
+The spell exploded against Periwyn and the assassin.
 
 The masked Argonian was hurled backward, flames racing across his cloak.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] scarcely seemed to notice.
+Periwyn scarcely seemed to notice.
 
-Before the creature could rise again she and [[Info/Characters/Party/Onasha\|Onasha]] threw themselves upon him together.
+Before the creature could rise again she and Onasha threw themselves upon him together.
 
 He struggled fiercely.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] answered with blunt certainty.
+Periwyn answered with blunt certainty.
 
 Once.
 
@@ -399,17 +399,17 @@ Only then did the steward finally cease resisting.
 
 It was at that moment another figure emerged quietly from between the trees.
 
-[[Info/Characters/NPCs/The_Vestige\|The Vestige]].
+The Vestige.
 
 He surveyed the scene only briefly.
 
 Then looked toward the unconscious captive.
 
-_"Well struck,"_ he observed to [[Info/Characters/Party/Periwyn\|Periwyn]].
+_"Well struck,"_ he observed to Periwyn.
 
 _"I should have done no differently."_
 
-Only then did he notice [[Info/Characters/Party/Onasha\|Onasha]].
+Only then did he notice Onasha.
 
 The Argonian stood rigid despite the cold.
 
@@ -433,17 +433,17 @@ _"When he wakes, we begin again."_
 
 While the assassin treated the burns upon his back with salves and bitter-smelling poultices, the forest settled once more into silence.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] sat apart from the others.
+Periwyn and Onasha sat apart from the others.
 
 For some time neither spoke.
 
-At last [[Info/Characters/Party/Onasha\|Onasha]] broke the stillness.
+At last Onasha broke the stillness.
 
 She confessed that she did not know how one simply continued.
 
 How one could sit beside a man bearing the face of those who had stolen so much from her people.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] listened.
+Periwyn listened.
 
 Then answered without haste.
 
@@ -463,7 +463,7 @@ The other, discipline.
 
 The winter wind carried their words away into the dark pines.
 
-Nearby, bound to his chair and watched by [[Info/Characters/NPCs/The_Vestige\|the Vestige]] alone, the steward slept uneasily.
+Nearby, bound to his chair and watched by the Vestige alone, the steward slept uneasily.
 
 For the longest night had not yet reached its deepest hour.
 

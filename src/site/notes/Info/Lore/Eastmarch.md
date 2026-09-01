@@ -5,15 +5,13 @@
 # Eastmarch
 
 ## Overview
-One of the Old Holds of eastern Skyrim, centered around the historic capital of Windhelm and fertile geothermal sulfur pools.
+The eastern hold of [[Skyrim\|Skyrim]], characterized by hot springs, volcanic tundra, and jagged mountain ridges. Governed from the ancient port capital of [[Info/Lore/Windhelm\|Windhelm]].
 
-## Significance
-Seat of Jorunn the Skald-King and a vital military ally of The Rift during the Three Banners War.
+## Campaign Setting
+- **The Kjalgrad Crisis**: Setting for the campaign in Eastmarch, featuring the mining city of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]], and the cult complex at [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]].
 
-## Connections
-- [[Info/Lore/Windhelm\|Windhelm]]
-- [[Info/Organizations/Military/Ebonheart_Pact\|Ebonheart_Pact]]
-- [[Info/Characters/NPCs/Adda\|Adda]]
-
-## Notes
-- Recorded in campaign journals and historical treatises consulted by [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]].
+## Session Mentions
+- [[2 -  Sessions/Session 006\|Session 006]]
+- [[2 -  Sessions/Session 013\|Session 013]]
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 030\|Session 030]]

@@ -2,25 +2,16 @@
 {"dg-publish":true,"permalink":"/info/organizations/military/aldmeri-dominion/"}
 ---
 
-# Aldmeri Dominion
+# Aldmeri Dominion (First Dominion)
 
 ## Overview
-The alliance of Altmer, Bosmer, and Khajiit vying for continental control during the Three Banners War of the Second Era.
+The powerful southern alliance of the First Era comprising the Altmer of the Summerset Isles, the Bosmer of Valenwood, and the Khajiit of Elsweyr, formed during the Three Banners War.
 
-## Structure
-Led by Queen Ayrenn and the Thalmor council.
+## Key Heraldry & Lore
+- **Eagle Insignia**: Represents the High Elven leadership within historical tripartite alliance relics.
 
-## Goals and Activities
-Claiming the Ruby Throne of Cyrodiil and uniting Tamriel under elven leadership.
+## Notable Events
+- **Alliance Heraldry Analysis ([[2 -  Sessions/Session 023\|Session 023]]):** Referenced during the historical evaluation of Three Banners War relics and ceremonial coins displaying the tripartite factions that held the line during the Planemeld.
 
-## Known Members
-- Diplomatic emissaries and spies.
-
-## Relationships
-- Major geopolitical belligerent in the Three Banners War.
-
-## Locations
-- Southern Tamriel.
-
-## Notes
-- **[[2 -  Sessions/Session 023\|Session 023]]**: Mentioned in international trade ledgers and political treatises.
+## Session Mentions
+- [[2 -  Sessions/Session 023\|Session 023]]

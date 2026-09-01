@@ -5,16 +5,12 @@
 # High Rock
 
 ## Overview
-The northwestern feudal homeland of the Bretons and Orcs of Orsinium, characterized by walled kingdoms and chivalric knightly orders.
+The northwestern province of Tamriel, homeland of the Bretons and Orcs (Orsinium). Governed through feudal kingdoms, noble trading houses, and chivalric knightly orders.
 
-## Significance
-Ancestral homeland of Periwyn, House Lunclaire, and the Knights of the Circle.
+## Character Connections
+- **[[Info/Characters/Party/Periwyn\|Periwyn Lunclaire]]**: Scion of the prestigious [[Info/Organizations/Military/Lunclaire_Company\|Lunclaire_Company]] merchant empire based in Shornhelm (Rivenspire).
+- **Merchant Nobility**: Origin of [[Info/Organizations/Other/House_LaRouche\|House_LaRouche]], silk baron [[Info/Characters/NPCs/Renald_Vero\|Renald_Vero]], and the [[Info/Organizations/Religious/Knights_of_Arkay\|Knights_of_Arkay]] sanctuary at [[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]].
 
-## Connections
-- [[Info/Organizations/Military/Daggerfall_Covenant\|Daggerfall_Covenant]]
-- [[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]]
-- [[Info/Characters/Party/Periwyn\|Periwyn]]
-- [[Info/Organizations/Religious/Knights_of_Arkay\|Knights_of_Arkay]]
-
-## Notes
-- Recorded in campaign journals and historical treatises consulted by [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]].
+## Session Mentions
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 022\|Session 022]]

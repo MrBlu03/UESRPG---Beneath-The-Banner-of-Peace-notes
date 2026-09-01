@@ -2,14 +2,27 @@
 {"dg-publish":true,"permalink":"/info/locations/kjalgrad/barrow-of-the-oath-breaker-king/"}
 ---
 
+# Barrow of the Oath-Breaker King
+
+## Overview
+A secluded, ancient Nordic barrow hidden in the mountain forests outside [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. The resting place of the First Era monarch [[Info/Characters/NPCs/The_Oath-Breaker_King\|The_Oath-Breaker_King]], its grand central throne room was converted into an impenetrable clandestine headquarters by [[Info/Characters/NPCs/The_Vestige\|The Vestige]] and Dark Brotherhood assassin [[Info/Characters/NPCs/Milos\|Milos]].
+
 ## Description
-The Barrow of the Oath-Breaker King is an ancient Nordic barrow and subterranean tomb complex situated in the mountains south of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. It serves as a mystical resting place for the ancient [[Info/Characters/NPCs/The_Oath-Breaker_King\|The_Oath-Breaker_King]] and functions as a hidden sanctuary for [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] and the [[Info/Organizations/Cults/Blackfeather Court\|Blackfeather Court]].
+A snow-draped tomb entrance leading into a grand stone throne room dominated by a massive, sealed granite sarcophagus. Equipped with bedrolls, study desks, alchemical stations, and secure side corridors.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Also known as Milos, he operates a hidden base and alchemy lab inside the barrow.
-- **[[Info/Characters/NPCs/The_Oath-Breaker_King\|The_Oath-Breaker_King]]**: The ancient monarch whose sealed stone sarcophagus dominates the barrow's throne room.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Planar master operative using the barrow as his operational haven.
+- **[[Info/Characters/NPCs/Milos\|Milos]]**: Argonian assassin stationed here as a field partner and scout.
+- **[[Info/Characters/NPCs/The_Oath-Breaker_King\|The_Oath-Breaker_King]]**: Ancient monarch sealed within the central sarcophagus.
+- **The Fangs of Fjelhorst**: Used the barrow as a safehouse and training redoubt.
 
-## Key Events
-- **[[2 -  Sessions/Session 025\|Session 025]]**: Following a riddle and a crow guide, the party navigated a pitch-black ruin filled with traps, a lever puzzle, and a flooded corridor. They reached the throne room and met [[Info/Characters/NPCs/Milos\|Milos]] ([[Info/Characters/NPCs/The_Vestige\|The_Vestige]]), delivering a Daedric memory anchor to him. They rested in the barrow using his alchemy lab to prepare for their next mission.
-- **[[2 -  Sessions/Session 026\|Session 026]]**: The party spent the morning debriefing in the barrow before departing on their operations.
-- **[[2 -  Sessions/Session 027\|Session 027]]**: When [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] were arrested by city guards during the warehouse explosions, they were relieved that their most incriminating items—a necromancy book and a guild ledger—had been safely left behind at the barrow.
+## Notable Events
+- **Sanctuary & Stealth Training ([[2 -  Sessions/Session 025\|Session 025]]):** The party arrived following the riddle of the crows. [[Info/Characters/NPCs/Milos\|Milos]] welcomed them, analyzed the heated [[Info/Findings & Items/Relics & Evidence/Dark Runic Stone\|Dark Runic Stone]], and conducted two days of intensive stealth blade training with [[Info/Characters/Party/Kirya\|Kirya]].
+- **Tactical Briefings & Rest ([[2 -  Sessions/Session 026\|Session 026]], [[2 -  Sessions/Session 027\|Session 027]]):** Provided secure refuge for [[Info/Characters/Party/Periwyn\|Periwyn]] to study necromancy and for the party to recover between city strikes and the longhouse jailbreak.
+
+## Session Mentions
+- [[2 -  Sessions/Session 025\|Session 025]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]
+- [[2 -  Sessions/Session 029\|Session 029]]
+- [[2 -  Sessions/Session 030\|Session 030]]

@@ -2,13 +2,19 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/the-three-brothers/"}
 ---
 
-# The Three Brothers (Standing Stones)
+# The Three Brothers
+
+## Overview
+Three ancient, heavily weathered standing stones situated atop a rocky ridge above the [[Info/Locations/The Rift/Widows_River\|Widow's River]] south of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
 
 ## Description
-A triad of weathered, ancient standing stones located in the mountains near the Widow's River. Etched with barely-visible carvings, including what might be a crown, they are steeped in old Nordic legends of three warrior brothers who sealed an oath-breaking king away in a nearby barrow. 
+A trio of monolithic granite markers with eroded ancient runes, referenced in historical texts such as *On the Early Years of the Rift* as a guidepost to ancient First Era tombs.
 
-## Notable NPCs
-- None
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]] & [[Info/Characters/NPCs/Milos\|Milos]]**: Their hidden barrow lies just beyond the stones.
 
-## Key Events
-- **[[2 -  Sessions/Session 025\|Session 025]]**: The party navigated to the stones after decoding a riddle to find their Blackfeather Court contact. Kirya's scouting instincts helped them find the path to the stones, where a magical crow led them to the nearby barrow of the Oath Breaker King.
+## Notable Events
+- **The Blackfeather Riddle ([[2 -  Sessions/Session 025\|Session 025]]):** The party deciphered the riddle of the crows by following the frozen Widow's River and finding the Three Brothers stones, which guided them directly to the entrance of the [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]].
+
+## Session Mentions
+- [[2 -  Sessions/Session 025\|Session 025]]

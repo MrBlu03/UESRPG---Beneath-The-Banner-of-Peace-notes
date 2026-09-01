@@ -4,20 +4,21 @@
 
 # Varran
 
-> *"The coin whispers... it smells of sulfur and stone, but it spends just the same!"*
-
 ## Description
-A panicked, low-level courier and distributor for the [[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult_of_Clavicus_Vile]] operating in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Tasked with circulating sulfurous, counterfeit Brimstone Septims through market taverns and street dealers, he was pursued into the sewers, captured by [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The Fangs]], and subjected to intense interrogation. Severely mentally fractured by Daedric resonance, he was placed under the custody of [[Info/Characters/NPCs/The_Vestige\|The_Vestige]].
+An Imperial courier and smuggler employed by the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild of the Silverroad]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] to distribute tainted, brimstone-scented gold coins.
 
 ## Relationships
-- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Interrogated him with terrifying psychic force and relocated him into the pocket realm of [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]] to prevent cult retribution.
-- **[[Info/Characters/Party/Durov\|Durov]]**: Cornered and tackled him in the muck of the [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad_Sewers]].
-- **[[Info/Characters/NPCs/Vaelin_Marr\|Vaelin_Marr]]**: His shadowy corporate employer who used him as an expendable distributor.
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige / Crowfather]] & [[Info/Characters/NPCs/Adda\|Adda]]**: Taken under their protection in the Crows' Wood to recover from severe psychological trauma.
+- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Convinced him to turn against the syndicate as a double agent.
 
 ## Location
-- Detained in protective custody within the Daedric pocket realm of [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]].
+- Sewers of **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**; later recovering in the **[[Info/Locations/Other Realms/Crows_Wood\|Crows' Wood]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Pursued into the [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad Sewers]] by the party after circulating counterfeit coin in the market. Cornered alongside a summoned Daedroth and captured alive with a satchel of brimstone-smelling gold.
-- **[[2 -  Sessions/Session 021\|Session 021]]**: Interrogated by [[Info/Characters/NPCs/The_Vestige\|The Vestige]] and [[Info/Characters/Party/Durov\|Durov]]; his [[Info/Findings & Items/Relics & Evidence/Daedric Speaking Stone\|Daedric Speaking Stone]] was confiscated, revealing communications with cult handlers. Traumatized and babbling, he was ushered into [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]] for safekeeping.
-- **[[2 -  Sessions/Session 023\|Session 023]]**: Documents and coin molds seized during the raid on the cult counting-house matched the exact weight and sulfurous alloy Varran had been circulating, validating his interrogation confessions.
+- **Sewer Ambush & Speaking Stone ([[2 -  Sessions/Session 020\|Session 020]]):** Tracked into the Kjalgrad sewers while communicating with a shadowy humanoid projection via a Daedric speaking stone. Subdued after a confrontation with a Daedric crocodile beast and agreed to act as a double agent.
+- **Trauma & Recovery in Crows' Wood ([[2 -  Sessions/Session 021\|Session 021]]):** Left severely traumatized and unable to continue espionage; relocated to the Crows' Wood where Shaman [[Info/Characters/NPCs/Adda\|Adda]] and [[Info/Characters/NPCs/The_Vestige\|The Vestige]] provided medical and spiritual care.
+
+## Session Mentions
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 021\|Session 021]]
+- [[2 -  Sessions/Session 023\|Session 023]]

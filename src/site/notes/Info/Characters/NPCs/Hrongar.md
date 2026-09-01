@@ -5,13 +5,16 @@
 # Hrongar
 
 ## Description
-A warrior of the [[Info/Organizations/Military/Companions\|Companions]] who serves as part of the convoy personnel escorting provisions and forces.
+A stalwart Nord warrior who joined the relief caravan and military march organized from [[Info/Locations/The Rift/Riften\|Riften]] toward [[Info/Locations/The Rift/Greenwall\|Greenwall]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Ralof\|Ralof]]** and **[[Info/Characters/Party/Durov\|Durov]]**: Worked together to load supplies.
+- **[[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir Stormcrown]] & [[The_Companions\|The Companions]]**: Marched in the military supply detachment sent to relieve Greenwall fortress.
 
 ## Location
-- Travels with the [[Info/Organizations/Military/Companions\|Companions]] convoy.
+- **[[Info/Locations/The Rift/Riften\|Riften]]** and the mountain roads to **[[Info/Locations/The Rift/Greenwall\|Greenwall]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 005\|Session 005]]**: Worked alongside [[Info/Characters/NPCs/Ralof\|Ralof]] and [[Info/Characters/Party/Durov\|Durov]] at the stables in [[Info/Locations/The Rift/Riften\|Riften]] to pack supplies and load provisions onto the cart before the convoy set out for [[Info/Locations/The Rift/Greenwall\|Greenwall]].
+- **Caravan March ([[2 -  Sessions/Session 005\|Session 005]]):** Assisted with weapons and trail logistics as part of the expeditionary force marching from Riften to Greenwall.
+
+## Session Mentions
+- [[2 -  Sessions/Session 005\|Session 005]]

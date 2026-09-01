@@ -4,12 +4,12 @@
 
 ## Act I - The Hollow Village
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] found herself once again on the road to an old contract — one she had taken years ago.
+Periwyn found herself once again on the road to an old contract — one she had taken years ago.
 
 The path wound through a valley cupped in the grey arms of the Wrothgarian Mountains, shrouded in a fog like a dying breath that refused to leave the lungs of the world. Her boots struck the muddy stone with a dull thud. No birdsong. No rustling creatures. Only the wind — and even that seemed to hesitate here.
 
 Atop a hill to the north, half-draped in the veil of dusk, stood a manor: crumbling, regal, and wrong. Like a memory that changed each time she reached for it.  
-A crooked sign, nailed to a dead tree, read **[[Info/Locations/Other Realms/Darnow_Hollow\|Darnow Hollow]]**.  
+A crooked sign, nailed to a dead tree, read **Darnow Hollow**.  
 The letters were faded. Like everything else.
 
 ---
@@ -27,22 +27,22 @@ An old woman emerged from a narrow alley, hunched beneath a shawl black as mourn
 
 "You're late," she said. "But the Hollow's always patient."
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] blinked, disoriented. The last thing she remembered were the flickers of ritual in [[Info/Locations/The Rift/Kahrus_Hollow\|Kahru's Hollow]] — whispers, a circle of runes — and then... this.
+Periwyn blinked, disoriented. The last thing she remembered were the flickers of ritual in Kahru's Hollow — whispers, a circle of runes — and then... this.
 
 "What are you talking about?"
 
-"You're a knight of [[Info/Lore/Arkay\|Arkay]], aren't you? Here for the vampire?" The old woman's voice was even, distant, like she was reciting a line read a thousand times.
+"You're a knight of Arkay, aren't you? Here for the vampire?" The old woman's voice was even, distant, like she was reciting a line read a thousand times.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] glanced down at herself. The armor. The sword. She hadn't worn them in years.  
+Periwyn glanced down at herself. The armor. The sword. She hadn't worn them in years.  
 "…Yes?"
 
 "Your god doesn't walk here anymore," the woman murmured. "We're outside His shadow now. Some hollows are too deep for prayer."
 
-That gave [[Info/Characters/Party/Periwyn\|Periwyn]] pause. She felt it, too — the **absence**. Like a cathedral with no altar, a hymn with no voice. Did [[Info/Lore/Arkay\|Arkay]] truly abandon this place? Like He had abandoned her family?
+That gave Periwyn pause. She felt it, too — the **absence**. Like a cathedral with no altar, a hymn with no voice. Did Arkay truly abandon this place? Like He had abandoned her family?
 
 "Either way," the woman said, lowering herself to sit outside her door, "feel free to look around. Do the job you came here to do."
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] gave a solemn nod, and turned toward the heart of the hollow.
+Periwyn gave a solemn nod, and turned toward the heart of the hollow.
 
 ---
 
@@ -52,7 +52,7 @@ But two structures caught her eye: the **barn**, and the **grain mill**.
 
 ---
 
-The barn looked ordinary from afar, but up close, the door told a different story — **split down the middle**, as though raked by enormous claws. [[Info/Characters/Party/Periwyn\|Periwyn]] drew her sword and stepped inside, heart steady.
+The barn looked ordinary from afar, but up close, the door told a different story — **split down the middle**, as though raked by enormous claws. Periwyn drew her sword and stepped inside, heart steady.
 
 It was quiet. Still.
 
@@ -68,19 +68,19 @@ She picked it up carefully, brushing the dust away, and tied it to her belt.
 
 The grain mill hummed with a soft voice — a child's voice.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] crept to the door and peered in.
+Periwyn crept to the door and peered in.
 
 A little girl stood inside, straw-blonde hair tangled at her shoulders, a wooden sword clutched in both hands. She was humming something tuneless, soft and trembling.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] stepped in slowly, lowering her voice. "Hey there. What are you doing out here?"
+Periwyn stepped in slowly, lowering her voice. "Hey there. What are you doing out here?"
 
 The girl startled, but didn't run. "I was hiding," she said, stumbling over the words. "Are… are you the one who forgets?"
 
-"What?" [[Info/Characters/Party/Periwyn\|Periwyn]] asked gently.
+"What?" Periwyn asked gently.
 
 "Mama said the Lady takes your sadness away. But she took Mama too…"
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] knelt beside her. "Who are you talking about?"
+Periwyn knelt beside her. "Who are you talking about?"
 
 "The Lady. She lives in the manor now. She wears white… and walks like she's still dreaming. She smells like those pretty flowers."
 
@@ -88,15 +88,15 @@ The girl startled, but didn't run. "I was hiding," she said, stumbling over the 
 
 "She asks you for your name," the girl whispered. "But if you answer, you forget it. She lives in the chapel now. The one with the broken bell."
 
-[[Info/Characters/Party/Periwyn\|Periwyn]]'s eyes fell to the doll tied at her belt. The girl's eyes widened.
+Periwyn's eyes fell to the doll tied at her belt. The girl's eyes widened.
 
 "That's mine. My Mama gave it to me before…" Her voice trailed off.
 
-"This one's yours?" [[Info/Characters/Party/Periwyn\|Periwyn]] said softly, and untied it. "Here. It belongs with you."
+"This one's yours?" Periwyn said softly, and untied it. "Here. It belongs with you."
 
 The girl took it, clutching it tight.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] placed a hand on her knee. "I wish I could promise I'll bring your mother back. But that's not something anyone can do. What I _can_ promise is this: I'll stop her. That Lady. I'll do all I can."
+Periwyn placed a hand on her knee. "I wish I could promise I'll bring your mother back. But that's not something anyone can do. What I _can_ promise is this: I'll stop her. That Lady. I'll do all I can."
 
 She brushed the girl's hair back and tucked it gently behind her ear.
 
@@ -106,9 +106,9 @@ The girl nodded, eyes wide.
 
 "What's your name?"
 
-"…[[Info/Characters/NPCs/Sybille\|Sybille]]," she whispered. "Thank you for bringing her back."
+"…Sybille," she whispered. "Thank you for bringing her back."
 
-"You're welcome, [[Info/Characters/NPCs/Sybille\|Sybille]]. I'm [[Info/Characters/Party/Periwyn\|Periwyn]]."
+"You're welcome, Sybille. I'm Periwyn."
 
 She gave the girl's shoulder a reassuring squeeze, stood up, and turned toward the broken chapel.
 
@@ -135,7 +135,7 @@ And there it was — the Chapel of Stendarr, rising from the woods like a wound 
 
 Just left of the doorway, two gravestones waited.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] froze.
+Periwyn froze.
 
 **Cerulian and Sapphirelle Lunclaire.**  
 Her parents.
@@ -155,7 +155,7 @@ Inside, the once-hallowed air had gone still and stagnant — like breath trappe
 
 The altar had been defaced — Stendarr's sigil carved over. But beneath the desecration, faintly scratched into the stone, was something older. Something she had once carved with her own blade.
 
-**[[Info/Lore/Arkay\|Arkay]]'s seal.**  
+**Arkay's seal.**  
 Her seal.
 
 She had made it.  
@@ -165,7 +165,7 @@ At the far end of the nave, behind the pulpit, a lone figure knelt in silence. P
 
 ---
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] approached cautiously, each step silent. But the shadows behind the altar moved first. They pulled away from the stone like a burial shroud, detaching, thickening — until they took the shape of a man.
+Periwyn approached cautiously, each step silent. But the shadows behind the altar moved first. They pulled away from the stone like a burial shroud, detaching, thickening — until they took the shape of a man.
 
 A man she knew.
 
@@ -173,9 +173,9 @@ Clad in the broken remnants of silver-trimmed armor, helm in hand. His left eye 
 
 "**You've come a long way, little flower,**" he said.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] stopped cold.
+Periwyn stopped cold.
 
-**[[Info/Characters/NPCs/Sir_Gareth\|Sir Gareth]].**
+**Sir Gareth.**
 
 But not as he was. An echo, a specter — formed from this place, or from her own guilt.
 
@@ -196,7 +196,7 @@ He lifted his hammer. And swung.
 
 ---
 
-"Wait—no!" [[Info/Characters/Party/Periwyn\|Periwyn]] gasped.
+"Wait—no!" Periwyn gasped.
 
 She dove aside, too late.
 
@@ -211,7 +211,7 @@ She landed hard. Gasping.
 He raised the hammer again.  
 "But can you lay her to rest?"
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] scrambled to her feet. "Monsters like her don't _deserve_ rest."
+Periwyn scrambled to her feet. "Monsters like her don't _deserve_ rest."
 
 The second strike crashed into her side.
 
@@ -221,17 +221,17 @@ He circled her now. "I watched you become the finest among us... and the most _a
 
 "_Maybe they did!_" she shouted back.
 
-"But you gave your heart to vengeance. Not [[Info/Lore/Arkay\|Arkay]]. Not mercy. Not even to _me_."
+"But you gave your heart to vengeance. Not Arkay. Not mercy. Not even to _me_."
 
-[[Info/Characters/Party/Periwyn\|Periwyn]]'s voice shook. "How could I give my heart to a god who never gave me anything?"
+Periwyn's voice shook. "How could I give my heart to a god who never gave me anything?"
 
-"[[Info/Lore/Arkay\|Arkay]] teaches mercy," Gareth bellowed. "Because every creature we hunt was once _human_."
+"Arkay teaches mercy," Gareth bellowed. "Because every creature we hunt was once _human_."
 
 He stepped forward, eyes blazing.
 
 "What if your parents hadn't turned feral? What if they had resisted? Would you have killed them anyway?"
 
-"I—I didn't kill them," [[Info/Characters/Party/Periwyn\|Periwyn]] said, jaw clenched. "_You_ did. I was a child. Crying. Watching."
+"I—I didn't kill them," Periwyn said, jaw clenched. "_You_ did. I was a child. Crying. Watching."
 
 "And now?" Gareth asked. "What if they were here today — sane, speaking your name, remembering who you were? Would you see them as people... or as prey?"
 
@@ -247,7 +247,7 @@ She couldn't answer.
 
 Another swing.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] caught it on her blade this time — no more retreat. No more running.
+Periwyn caught it on her blade this time — no more retreat. No more running.
 
 "You begged me!" she cried. "I gave you mercy. I didn't want to see you become like _them_!"
 
@@ -257,19 +257,19 @@ Another swing.
 
 "Isn't there?" Gareth said. "Even in Arkayfel, they kept knowledge from us. There were texts on purebloods regaining mortality. On others who fed on animals — not people."
 
-"People like [[Info/Organizations/Other/House_Ravenwatch\|House Ravenwatch]]," he added. "We told you. You _never listened_."
+"People like House Ravenwatch," he added. "We told you. You _never listened_."
 
 The chapel began to shake. The walls shifted, reforming.
 
 **Arkayfel.**  
 That day. That room.  
-[[Info/Characters/Party/Periwyn\|Periwyn]] kneeling beside Gareth's broken body.
+Periwyn kneeling beside Gareth's broken body.
 
 "You remember _what_ you did," said the apparition, watching his own death, "but not _why_."
 
 He raised the hammer one last time.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] blocked — and he stopped.
+Periwyn blocked — and he stopped.
 
 Their weapons locked in midair.
 
@@ -277,7 +277,7 @@ Then Gareth dropped his warhammer, and spread his arms wide.
 
 "Was it mercy?" he asked. "Or just… escape?"
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] drew a blade from her belt. Not her sword. Her brother's dagger. Always with her.
+Periwyn drew a blade from her belt. Not her sword. Her brother's dagger. Always with her.
 
 She raised it.
 
@@ -305,7 +305,7 @@ At her feet lay his warhammer. Reforged. Clean. Her burden, now a gift.
 
 ---
 
-From the chapel's far corner, another figure stepped forward. Pale. Drained. Wrapped in the torn remains of [[Info/Lore/Arkay\|Arkay]]'s robes.
+From the chapel's far corner, another figure stepped forward. Pale. Drained. Wrapped in the torn remains of Arkay's robes.
 
 He did not bare fangs. He did not hiss.
 
@@ -317,7 +317,7 @@ A holy symbol dangled from one hand — burned and blackened. His eyes were sunk
 
 "I kept them alive," he murmured. "My family. In jars. In bone. In memory. She offered me the power to remember without pain. I said yes. But now… I don't feel anything at all."
 
-On the altar, a black soul gem pulsed with veined light. Its whisper crawled up [[Info/Characters/Party/Periwyn\|Periwyn]]'s spine.
+On the altar, a black soul gem pulsed with veined light. Its whisper crawled up Periwyn's spine.
 
 **Sanctification.**  
 She remembered.  
@@ -332,11 +332,11 @@ Stopped.
 
 "Look me in the eye," she growled, "and tell me you're not a monster."
 
-"I haven't fed," the man said, his voice trembling. "She drank _my_ blood. And when I woke, I was _this_. I tried. I begged. But [[Info/Lore/Arkay\|Arkay]]… he didn't want me."
+"I haven't fed," the man said, his voice trembling. "She drank _my_ blood. And when I woke, I was _this_. I tried. I begged. But Arkay… he didn't want me."
 
 "Please," he whispered. "_Mercy_."
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] clenched her jaw. Her face twisted with disgust — but not at him. At herself.
+Periwyn clenched her jaw. Her face twisted with disgust — but not at him. At herself.
 
 She threw the hammer aside.
 
@@ -356,7 +356,7 @@ The man — _Mirel_ — collapsed, not to ash, but to _light_.
 
 Reality shifted once more.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] now stood on the winding path to the manor atop the cliff.
+Periwyn now stood on the winding path to the manor atop the cliff.
 
 The air reeked of salt and rot. The once-grand estate loomed ahead, half-sunken into the rock, as if trying to bury itself. Ivy draped the decaying facade, but even nature couldn't mask the scent of old blood that clung to the wind. Something foul lived there—but it wore grace like perfume.
 
@@ -368,17 +368,17 @@ Inside, the manor whispered of ghosts. The foyer stretched out before her: marbl
 
 ---
 
-[[Info/Characters/NPCs/Lady_Elaris\|Lady Elaris]] sat at the far end of the ballroom, framed by wilted roses and candlelight. She did not rise. She didn't need to.
+Lady Elaris sat at the far end of the ballroom, framed by wilted roses and candlelight. She did not rise. She didn't need to.
 
-Pale, resplendent, robed in silks that draped like mourning veils, she studied [[Info/Characters/Party/Periwyn\|Periwyn]] with eyes that saw far too much.
+Pale, resplendent, robed in silks that draped like mourning veils, she studied Periwyn with eyes that saw far too much.
 
 "You've touched the Void, haven't you?" Her voice was soft as smoke, sweet with rot. "I can smell it on your skin. That velvet decay where names blur and shame softens. I've tasted it too. It leaves a hunger no mortal could ever fill."
 
 She floated down the stairs like a sigh. Soundless. Weightless. The scent of roses trailed behind her—crushed, wilting, blood-red.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] stepped back, hand at her sword. Not yet drawn. Her eyes flickered with something between dread and defiance.
+Periwyn stepped back, hand at her sword. Not yet drawn. Her eyes flickered with something between dread and defiance.
 
-Elaris drifted close. Her fingers traced the air near [[Info/Characters/Party/Periwyn\|Periwyn]]'s skin—never quite touching, yet somehow already there.
+Elaris drifted close. Her fingers traced the air near Periwyn's skin—never quite touching, yet somehow already there.
 
 "All that rage… wrapped in steel," she whispered, voice hot against her ear. "What are you protecting, darling? Or is it just easier than feeling anything at all?"
 
@@ -390,25 +390,25 @@ She moved like a lover, not a predator. This wasn't a battle—it was a seductio
 
 They danced. They dueled. Claws met blade in a rhythm older than memory.
 
-At one point, Elaris swept [[Info/Characters/Party/Periwyn\|Periwyn]]'s legs, bringing her to the floor with a flourish.
+At one point, Elaris swept Periwyn's legs, bringing her to the floor with a flourish.
 
 "Going down so soon?" she purred, licking the blood from her lip. "Get up. This isn't a fight. This is foreplay."
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] rose, breath heaving. "What do you want from me?"
+Periwyn rose, breath heaving. "What do you want from me?"
 
 "I want you to let go," said Elaris. "Let me ruin you properly. Gently, if you like… but not kindly."
 
-A strike landed. [[Info/Characters/Party/Periwyn\|Periwyn]] reeled.
+A strike landed. Periwyn reeled.
 
 "I could make you whole, you know?" Elaris crooned. "But first, I'd have to break you right."
 
-"There's nothing you could give me that would make me whole," [[Info/Characters/Party/Periwyn\|Periwyn]] spat. "What made me whole died years ago. I had to bury it. You don't get to take more from me."
+"There's nothing you could give me that would make me whole," Periwyn spat. "What made me whole died years ago. I had to bury it. You don't get to take more from me."
 
 She swung her warhammer, connecting hard with Elaris' skull. The vampire staggered, blood trailing down her temple.
 
 "Oh, you wound me," she smiled. "No, truly. Right here—just above the ribs. The heart, was it? How romantic."
 
-She lunged, claws slicing across [[Info/Characters/Party/Periwyn\|Periwyn]]'s cheek.
+She lunged, claws slicing across Periwyn's cheek.
 
 "You're already mine," she whispered. "That little girl with dirt on her hands, whispering spells over cold flesh? That was the beginning. I'm just the ending."
 
@@ -416,13 +416,13 @@ Another blow sent Elaris crashing to the ground.
 
 "Stay," she hissed, biting her lip through the pain. "Let the dead rest. Let your gods rot. Be beautiful with me."
 
-A clawed hand struck [[Info/Characters/Party/Periwyn\|Periwyn]]'s neck. The world spun. Her weapon skittered out of reach.
+A clawed hand struck Periwyn's neck. The world spun. Her weapon skittered out of reach.
 
 Elaris descended slowly, like a rose petal falling on a tomb.
 
-She knelt beside her, bloody-gloved hand brushing [[Info/Characters/Party/Periwyn\|Periwyn]]'s mouth, thumb lingering too long.
+She knelt beside her, bloody-gloved hand brushing Periwyn's mouth, thumb lingering too long.
 
-"You don't hate me," Elaris whispered. "You hate that I'm right. You ache for something to surrender to. Older than [[Info/Lore/Arkay\|Arkay]]. Wilder than duty. I could make it stop, [[Info/Characters/Party/Periwyn\|Periwyn]]."
+"You don't hate me," Elaris whispered. "You hate that I'm right. You ache for something to surrender to. Older than Arkay. Wilder than duty. I could make it stop, Periwyn."
 
 Her lips hovered over hers.
 
@@ -430,7 +430,7 @@ Her lips hovered over hers.
 
 ---
 
-"Should've stayed in Oblivion," [[Info/Characters/Party/Periwyn\|Periwyn]] growled.
+"Should've stayed in Oblivion," Periwyn growled.
 
 Her hand shot toward her belt—but before the dagger met flesh, _every candle in the room flared to life_. Light poured in, divine and golden, peeling back the shadows like skin from bone.
 
@@ -446,7 +446,7 @@ Elaris screamed. "NO! She is MINE!"
 
 She lunged. But with a wave of radiant power, Gareth struck her back to her throne of thorns.
 
-He knelt beside [[Info/Characters/Party/Periwyn\|Periwyn]], as he had once done in the ruins of Northpoint.
+He knelt beside Periwyn, as he had once done in the ruins of Northpoint.
 
 Now she was the broken one.
 
@@ -483,7 +483,7 @@ Every candle went out. The air turned still.
 
 Even the manor seemed to forget it existed.
 
-From the threshold behind [[Info/Characters/Party/Periwyn\|Periwyn]], a figure emerged.
+From the threshold behind Periwyn, a figure emerged.
 
 Cloaked in a black that swallowed thought. Shadows parted before him like reverent servants. Only his eyes were visible—catching the moonlight like glass knives.
 
@@ -502,7 +502,7 @@ Just... _unmade_.
 
 ---
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] staggered to her feet, blood slick on her skin. She patched herself up as best she could.
+Periwyn staggered to her feet, blood slick on her skin. She patched herself up as best she could.
 
 And looked at the figure still standing there, quiet and absolute.
 
@@ -538,11 +538,11 @@ Then silence.
 
 A figure stepped between the trees. Or rather, the shadows rearranged around him. His form was half-real, as if reality had smudged trying to describe him.
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] tensed. "What are you?"
+Periwyn tensed. "What are you?"
 
 "Me?" the stranger said, his voice low, gravel-dry. "No one of consequence. Just a simple n'wah making my way through Tamriel, same as you."
 
-He looked around the forest with a glimmer of amusement. "Lovely, isn't it? [[Info/Locations/Other Realms/Crows_Wood\|Crow's Wood]]. Used to belong to [[Info/Lore/Nocturnal\|Nocturnal]]. Now? Mine. A fixer-upper, if you will. No scrying. No praying. Just the birds… and the echo."
+He looked around the forest with a glimmer of amusement. "Lovely, isn't it? Crow's Wood. Used to belong to Nocturnal. Now? Mine. A fixer-upper, if you will. No scrying. No praying. Just the birds… and the echo."
 
 He stepped closer, hands tucked in his cloak as if mildly cold. But the air wasn't cold. It just _was_.
 
@@ -560,7 +560,7 @@ He paused, then went on.
 
 He turned to face her directly.
 
-"So what's your plan now, [[Info/Characters/Party/Periwyn\|Periwyn]] Lunclaire?"
+"So what's your plan now, Periwyn Lunclaire?"
 
 "I don't know," she admitted. "My life was built around… everything I didn't do back there. And now I don't know."
 
@@ -578,7 +578,7 @@ From his cloak, he drew a long, black feather, humming faintly with energy. The 
 He offered it to her like it was nothing. She took it.
 
 And the moment her fingers closed around it, a vision struck:  
-[[Info/Lore/Malacath\|Malacath]]'s tusked mask — fractured, not broken. Like something had tried to shatter it… but hadn't finished the job.
+Malacath's tusked mask — fractured, not broken. Like something had tried to shatter it… but hadn't finished the job.
 
 "If you wake," the stranger said, "keep it. Might keep _you_ next time. If not… well. I recycle."
 
@@ -588,7 +588,7 @@ He folded his arms, gaze thoughtful.
 
 He stepped closer. The stars blinked.
 
-"I'll be watching you, [[Info/Characters/Party/Periwyn\|Periwyn]] Lunclaire. I take great interest in anything involving the Princes. But heed this— gods, listen to me. _'Heed this.'_ By Azura, I sound like a guild mage."
+"I'll be watching you, Periwyn Lunclaire. I take great interest in anything involving the Princes. But heed this— gods, listen to me. _'Heed this.'_ By Azura, I sound like a guild mage."
 
 His voice dropped, more personal now.
 
@@ -612,9 +612,9 @@ The world shifted.
 
 She now sat at a table, teacup in hand. The water inside shimmered dark as ink.
 
-"Tell me about your [[Info/Organizations/Military/Companions\|companions]]," he said, reclining casually. "The Argonian I mostly know. But the others? It's unlike you to travel with people. What makes _them_ so special?"
+"Tell me about your companions," he said, reclining casually. "The Argonian I mostly know. But the others? It's unlike you to travel with people. What makes _them_ so special?"
 
-[[Info/Characters/Party/Periwyn\|Periwyn]] took a sip. "The Colovian makes a bloody good meat shield. The cat steals things. Stabs things. Saved me more times than I'd like to admit." She shrugged. "They're useful. Don't tell them I said that."
+Periwyn took a sip. "The Colovian makes a bloody good meat shield. The cat steals things. Stabs things. Saved me more times than I'd like to admit." She shrugged. "They're useful. Don't tell them I said that."
 
 He laughed — a dry rasp, but genuine.
 
@@ -622,11 +622,11 @@ He laughed — a dry rasp, but genuine.
 
 "What _is_ this place?" she asked, glancing around.
 
-"[[Info/Locations/Other Realms/Crows_Wood\|Crow's Wood]]," he said again. "A little pocket I keep. Cut off. No gods. No Princes. Not even [[Info/Lore/Arkay\|Arkay]] can see here. Useful. The Archmagus helped me build it."
+"Crow's Wood," he said again. "A little pocket I keep. Cut off. No gods. No Princes. Not even Arkay can see here. Useful. The Archmagus helped me build it."
 
-"[[Info/Characters/NPCs/Archmagus_Mortgren\|Mortgren]]?" she asked.
+"Mortgren?" she asked.
 
-"Oh, met him, did you?" He grinned. "Yes, [[Info/Characters/NPCs/Archmagus_Mortgren\|Mortgren]]. High Advisor to Emeric. Friends in high places."
+"Oh, met him, did you?" He grinned. "Yes, Mortgren. High Advisor to Emeric. Friends in high places."
 
 She narrowed her eyes. "But if you know him... how old is he?"
 
@@ -644,7 +644,7 @@ She looked up, startled.
 
 He sipped his tea again. "Anyway. Still no idea what time it is. But feels about right for me to go."
 
-"How do I reach you again?" [[Info/Characters/Party/Periwyn\|Periwyn]] asked. "If I need to?"
+"How do I reach you again?" Periwyn asked. "If I need to?"
 
 "Oh, I'll find you," he said. "My crows are _everywhere_."
 

@@ -4,14 +4,19 @@
 
 # Kahru's Hollow
 
+## Overview
+A secluded, mist-shrouded forest hollow and road fork located several hours east of [[Info/Locations/The Rift/Riften\|Riften]] where the autumn woods thicken into dense, clammy wilderness.
+
 ## Description
-A secluded, rocky ravine and cave system in the hills of the Rift. It is located near a fork in the road where the woods thicken. The area is known as cursed ground where spirits have been twisted by pain and rage.
+A quiet valley containing overgrown stone foundations of an ancient First Era village, dense birch groves, isolated farmsteads (including [[Info/Characters/NPCs/Olgierd\|Olgierd]]'s hut), and the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted Hunting Lodge]].
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Hadvar\|Hadvar]]**: Inherited an ancestral lodge located near the hollow.
-- **[[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]]**: Undead draugr located at the hollow.
-- **[[Info/Characters/NPCs/Lagertha\|Lagertha]]**: Spirit located at the hollow.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Olgierd\|Olgierd]]**: Cautious homesteader living near the forest edge.
+- **[[Info/Characters/NPCs/Lagertha\|Lagertha]] & [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven_Cold-Moor]]**: Ancient spirits whose tragic love ended in the hollow.
 
-## Key Events
-- **[[2 -  Sessions/Session 008\|Session 008]]**: The party accepted a contract from [[Info/Characters/NPCs/Hadvar\|Hadvar]] to investigate his haunted ancestral hunting lodge located near the hollow. The shaman [[Info/Characters/NPCs/Adda\|Adda]] warned the party that the land around the hollow was cursed.
-- **[[2 -  Sessions/Session 009\|Session 009]]**: [[Info/Characters/NPCs/Speaks-Spells-Gently\|Speaks-Spells-Gently]] explained that the hollow was the spot where [[Info/Characters/NPCs/Sven_Cold-Moor\|Sven]] and [[Info/Characters/NPCs/Lagertha\|Lagertha]] were located.
+## Notable Events
+- **Expedition to the Hollow ([[2 -  Sessions/Session 008\|Session 008]], [[2 -  Sessions/Session 009\|Session 009]]):** The party traveled through the hollow, gathering warnings from local farmers before resolving the centuries-old haunting at the lodge.
+
+## Session Mentions
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]

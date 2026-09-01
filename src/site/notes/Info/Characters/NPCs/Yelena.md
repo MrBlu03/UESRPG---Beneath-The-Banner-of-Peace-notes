@@ -5,13 +5,16 @@
 # Yelena
 
 ## Description
-A female tanner and representative of the eastern tannery in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+A outspoken female tanner and labor representative of the eastern tannery workers in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
 
 ## Relationships
-- **[[Info/Characters/Party/Durov\|Durov]]**: Gave a statement to him regarding guild abuses.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Lodged a formal complaint with Durov during the public market protests.
 
 ## Location
-- Found working in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Eastern Tannery and Grand Market in **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Spoke with [[Info/Characters/Party/Durov\|Durov]] at a protest, explaining that tannery workers were being paid in smelly, strange gold and having their pay docked for refusing it. She mentioned that a specific worker had resorted to unpleasant means to afford food and was last seen at the warehouses.
+- **Tainted Gold Complaints ([[2 -  Sessions/Session 026\|Session 026]]):** Approached [[Info/Characters/Party/Durov\|Durov]] at the market protest to report that tannery workers were being paid in strange, foul-smelling discolored gold and had their wages docked when refusing the tainted coins, forcing some workers into desperate poverty.
+
+## Session Mentions
+- [[2 -  Sessions/Session 026\|Session 026]]

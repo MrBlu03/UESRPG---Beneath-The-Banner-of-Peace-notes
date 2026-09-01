@@ -2,12 +2,20 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/the-honed-edge/"}
 ---
 
+# The Honed Edge
+
+## Overview
+An elite specialty weaponsmith and master fletcher shop in [[Info/Locations/The Rift/Riften\|Riften]], owned and operated by the master smith [[Info/Characters/NPCs/Hilldis\|Hilldis]].
+
 ## Description
-A weaponsmith shop situated in front of [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil Keep]] in [[Info/Locations/The Rift/Riften\|Riften]]. It specializes in high-end weaponry, particularly silver weaponry used for hunting supernatural threats.
+A distinguished weapon shop displaying finely balanced blades, composite bows, silver-tipped hunting arrows, and ancestral armor pieces.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Hilldis\|Hilldis]]**: The owner of The Honed Edge, whose family historically lost a castle to Clan Volkihar.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Hilldis\|Hilldis]]**: Master weaponsmith whose ancestors fought Clan Volkihar.
 
-## Key Events
-- **[[2 -  Sessions/Session 003\|Session 003]]**: The party spotted the shop while exploring Riften near Mistveil Keep.
-- **[[2 -  Sessions/Session 004\|Session 004]]**: The party visited the shop before heading to [[Info/Locations/The Rift/Greenwall\|Greenwall]]. [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Kirya\|Kirya]] purchased bundles of silver arrows at a discount from the owner, [[Info/Characters/NPCs/Hilldis\|Hilldis]], who shared the tragic history of her family's castle being captured by [[Info/Organizations/Cults/Clan_Volkihar\|Clan Volkihar]].
+## Notable Events
+- **Silver Arrow Acquisition ([[2 -  Sessions/Session 004\|Session 004]]):** Prior to marching toward Greenwall, [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Kirya\|Kirya]] purchased bundles of 50 silver-tipped arrows at a generous discount from Hilldis, who shared family lore regarding the vampire threat.
+
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 004\|Session 004]]

@@ -2,30 +2,29 @@
 {"dg-publish":true,"permalink":"/info/quests/malacaths-interest-in-periwyn/"}
 ---
 
+# Malacath's Interest in Periwyn
 
-# Malacath's Interest & Periwyn's Trial
+## Quest Log Summary
+During comatose visions and deep meditation, [[Info/Characters/Party/Periwyn\|Periwyn]] experienced recurring nightmares involving **Malacath** (Prince of the Spurned and Cursed), examining her profound grief, the loss of her left ear, and the burden of carrying [[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]]'s warhammer.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Personal  
-**Assigned Session:** [[2 -  Sessions/Session 007\|Session 007]]  
-**Completed Session:** [[2 -  Sessions/Session 010\|Session 010]]  
-**Reward:** Spiritual Cleansing, Inner Peace  
+## Objectives & Progression
+- [x] Experience comatose dream threshold at Darnow Hollow with Malacath's spectral manifestation ([[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]).
+- [x] Process grief and guilt over mercy-killing Sir Gareth ([[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]], [[2 -  Sessions/Session 012a\|Session 012a]]).
+- [x] Receive spiritual absolution from Sir Gareth's memory at the dream forge ([[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]).
+- [x] Channel radiant sunbeam magic and heavy warhammer blows against Daedric abominations ([[2 -  Sessions/Session 028\|Session 028]], [[2 -  Sessions/Session 031\|Session 031]]).
+- [ ] Understand the ultimate purpose of the Daedric Prince's gaze upon her path.
 
-## Objective
-Overcome the corrupting vengeance visions of Malacath and achieve closure regarding the tragedy of Sir Gareth.
+## Key Participants & Factions
+- **[[Info/Characters/Party/Periwyn\|Periwyn Lunclaire]]**
+- **[[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]]**
+- **Malacath**: Daedric Prince of Oaths and the Spurned.
 
-## Key NPCs
-  - "[[Info/Characters/Party/Periwyn\|Periwyn]]"
-  - "[[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]]"
-  - "[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]"
-  - "[[Info/Lore/Malacath\|Malacath]]"
+## Locations Visited
+- [[Info/Locations/Other Realms/Darnow_Hollow\|Darnow_Hollow]] (Dreamscape)
+- [[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]]
 
-## Key Locations
-  - "[[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]]"
-  - "[[Info/Locations/Other Realms/Darnow_Hollow\|Darnow_Hollow]]"
-  - "[[Info/Locations/The Rift/Hall_of_Ysmir\|Hall_of_Ysmir]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 007\|Session 007]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] touched the Crimson Orb, suffering recurring nightmares of [[Info/Lore/Malacath\|Malacath]] on a throne of skulls.
-- **[[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]**: Reconciled with [[Info/Characters/NPCs/Sir_Gareth\|Sir_Gareth]]'s spirit in [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]], rejecting vengeance to write her own fate.
+## Session Mentions
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]
+- [[2 -  Sessions/Session 012a\|Session 012a]]
+- [[2 -  Sessions/Session 028\|Session 028]]
+- [[2 -  Sessions/Session 031\|Session 031]]

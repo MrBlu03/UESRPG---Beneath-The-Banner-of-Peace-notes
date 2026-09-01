@@ -5,13 +5,16 @@
 # Squire Peck
 
 ## Description
-A crow serving as a squire in the [[Blackfeather_Court\|Blackfeather_Court]]. He is tasked with gathering rumors and delivering messages.
+- No recorded appearance, personality, or traits documented in campaign session notes to date.
 
 ## Relationships
-- **[[Blackfeather_Court\|Blackfeather_Court]]**: Member and messenger.
+- No recorded relationships in campaign session notes to date.
 
 ## Location
-- Frequently seen pecking through the streets of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+- Unknown.
 
 ## Notes
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Arrived carrying several scraps of parchment bound beneath one wing, having spent the previous day pecking through the streets of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] for rumors about the Fangs.
+- This individual has not yet appeared or been mentioned in the campaign session logs.
+
+## Session Mentions
+- None recorded

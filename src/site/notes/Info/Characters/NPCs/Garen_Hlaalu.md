@@ -5,13 +5,16 @@
 # Garen Hlaalu
 
 ## Description
-A leader of [[Info/Organizations/Other/House_Hlaalu\|House_Hlaalu]] operations into Skyrim, reporting directly to Grand Master Belyn Hlaalu. He manages trade networks that sometimes dabble in illicit activities.
+A senior Dunmer wizard and high-ranking official within the [[Info/Organizations/Other/Mages_Guild\|Mages Guild]], responsible for directing guild research, antiquarian expeditions, and arcane investigations across the province of Skyrim.
 
 ## Relationships
-- **Belyn Hlaalu**: His direct employer and Grand Master of the house.
+- **[[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle Benele]]**: Acts as her direct superior, overseeing her field studies on Daedric relics and anomalies in Skyrim.
 
 ## Location
-- Operates trade networks stretching into Skyrim.
+- Regional headquarters of the **[[Info/Organizations/Other/Mages_Guild\|Mages Guild]]** in Skyrim.
 
 ## Notes
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Named in the translated ledgers of the captured Dunmer merchants as the head of a Hlaalu merchant network involved in smuggling moon sugar and connected to the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]].
+- **Mages Guild Direction ([[2 -  Sessions/Session 018\|Session 018]]):** Mentioned by [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle Benele]] as the regional director coordinating research into ancient Daedric relics and the Harrowstorm threat emerging in eastern Skyrim.
+
+## Session Mentions
+- [[2 -  Sessions/Session 018\|Session 018]]

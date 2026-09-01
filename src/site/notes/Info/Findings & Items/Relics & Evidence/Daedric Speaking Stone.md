@@ -3,6 +3,7 @@
 ---
 
 
+
 # Daedric Speaking Stone
 
 ## Basic Information

@@ -4,12 +4,19 @@
 
 # The Thistle Branch
 
+## Overview
+An herbalist apothecary and esoteric magic shop in [[Info/Locations/Falderstad/Falderstad\|Falderstad]], owned and managed by elder mage, scholar, and Lawspeaker [[Info/Characters/NPCs/Torik\|Torik]].
+
 ## Description
-An apothecary and hunting supply shop in Falderstad run by the herbalist Torik. 
+A fragrant, cluttered shop lined with dried alpine herbs, potion jars, alchemical retorts, runic scrolls, and mortar stations. Bundles of mountain thistles and curing plants hang from the timber beams.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Torik\|Torik]]**: The knowledgeable herbalist and hunter who runs the shop.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Torik\|Torik]]**: Proprietor, master alchemist, and Lawspeaker of Falderstad.
+- **[[Info/Characters/NPCs/Hoki\|Hoki]]**: Young local boy taken on as Torik's alchemy apprentice.
+- **[[Info/Characters/Party/Onasha\|Onasha]]**: Frequent patron who studies woad painting and herbal techniques here.
 
-## Key Events
-- **[[3 - The Fjelhorst Chronicles/Chapter 018\|Chapter 018]]**: Onasha visited the shop in the morning and asked Torik about the stag-shaped antler sliver recovered from the Ragged Lord's ashes.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Onasha visited Torik to learn the Fox's Guile woad and asked him about the antler token, which he explained was simply a hunter's token.
+## Notable Events
+- **Woad Training & Antler Token ([[2 -  Sessions/Session 018\|Session 018]]):** [[Info/Characters/Party/Onasha\|Onasha]] visited the shop to learn the ancient *Fox's Guile* woad for 30 gold. Torik explained the nature of the stag antler charm recovered from the Ragged Lord's ashes and accepted Hoki as his apprentice.
+
+## Session Mentions
+- [[2 -  Sessions/Session 018\|Session 018]]

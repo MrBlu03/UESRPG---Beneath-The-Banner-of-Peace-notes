@@ -5,15 +5,20 @@
 # Hillevi
 
 ## Description
-A calm and dedicated healer serving the [[Info/Organizations/Military/Companions\|Companions]]. A sincere warrior-medic who joined the ancient order seeking glory, entry to Sovngarde, and the chance to help others. Her open honesty often strikes those accustomed to deception as unusual.
+A dedicated, open-hearted Nord healer of [[The_Companions\|The Companions]], who has served with the order for six years across the Rift. Sincere and honorable, she joined the Companions seeking glory, entry to Sovngarde, and the chance to aid those in distress.
 
 ## Relationships
-- **[[Info/Characters/Party/Onasha\|Onasha]]**: Discussed the history and motives of the [[Info/Organizations/Military/Companions\|Companions]] at the war camp.
-- **[[Info/Characters/NPCs/Wuunferth\|Wuunferth]]**: Assumed medical responsibility for the gravely injured hunter.
+- **[[The_Companions\|The Companions]]**: Healer serving under Harbinger [[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]].
+- **[[Info/Characters/NPCs/Wuunferth\|Wuunferth]]**: Provided critical life-saving care to the tortured hunter inside Greenwall and escorted him to Mistwatch.
+- **[[Info/Characters/Party/Onasha\|Onasha]]**: Shared candid conversations regarding Companion traditions, Ysgramor's heritage, and their purpose.
 
 ## Location
-- Travels with the [[Info/Organizations/Military/Companions\|Companions]] war bands across Skyrim.
+- Camped at **[[Info/Locations/The Rift/Greenwall\|Greenwall]]**; later relocated to **[[Info/Locations/The Rift/Mistwatch\|Mistwatch]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 006\|Session 006]]**: Brought warm bread and porridge to the party amidst the unnatural darkness of the eclipse at the war camp. She openly discussed her six-year history with the [[Info/Organizations/Military/Companions\|Companions]] with [[Info/Characters/Party/Onasha\|Onasha]] and rushed to provide emergency healing to a barely-living victim recovered by the party.
-- **[[2 -  Sessions/Session 007\|Session 007]]**: Cared for the rescued [[Info/Characters/NPCs/Wuunferth\|Wuunferth the Hunter]] and committed to taking him to [[Info/Locations/The Rift/Mistwatch\|Mistwatch]] to seek ancient healing from the Old Gods once the snows melted.
+- **War Camp Hospitality & Lore ([[2 -  Sessions/Session 006\|Session 006]]):** Provided warm porridge and bread to the adventuring party on the morning of the assault on Greenwall during the eclipse. Explained Companion history and ideals to [[Info/Characters/Party/Onasha\|Onasha]].
+- **Triage & Evacuation ([[2 -  Sessions/Session 006\|Session 006]], [[2 -  Sessions/Session 007\|Session 007]]):** Stabilized the critically wounded [[Info/Characters/NPCs/Wuunferth\|Wuunferth]] inside Greenwall keep, and agreed to escort him to [[Info/Locations/The Rift/Mistwatch\|Mistwatch]] for advanced healing by the Old Gods until the winter thaws.
+
+## Session Mentions
+- [[2 -  Sessions/Session 006\|Session 006]]
+- [[2 -  Sessions/Session 007\|Session 007]]

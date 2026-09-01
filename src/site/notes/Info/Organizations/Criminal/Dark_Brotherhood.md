@@ -2,46 +2,26 @@
 {"dg-publish":true,"permalink":"/info/organizations/criminal/dark-brotherhood/"}
 ---
 
-
 # Dark Brotherhood
 
-## Description
-The Dark Brotherhood is a secretive organization of assassins who carry out contracts initiated through the Black Sacrament ritual. They serve [[Info/Lore/Sithis\|Sithis]], a deity associated with the void and death.
+## Overview
+The infamous, ancient guild of lethal contract assassins who revere **Sithis** (the Dread Father) and the **Night Mother**, operating through strict shadow tenets and lethal stealth across Tamriel.
 
-## Key Features
-- Secretive assassin's guild
-- Summoned through the Black Sacrament ritual
-- Members possess supernatural abilities (shadow manipulation)
-- Operate throughout Tamriel
-- Fulfill assassination contracts for payment
-- Connected to the deity [[Info/Lore/Sithis\|Sithis]]
+## Key Members & Associated Figures
+- **[[Info/Characters/NPCs/Milos\|Milos]]**: Argonian assassin and egg-brother to [[Info/Characters/Party/Onasha\|Onasha]]; stationed in the Barrow of the Oath-Breaker King.
+- **The Rafter Assassin**: Executed the Volkihar ritual master from the rafters at Greenwall.
+- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Operates in close coordination with shadow operatives.
 
-## Known Members
-- Unnamed Dunmer assassin: Encountered in [[Info/Locations/The Rift/Greenwall\|Greenwall]] during [[2 -  Sessions/Session 006\|Session 006]], completed a contract for the party
+## Operations & Notable Events
+- **Greenwall Contract ([[2 -  Sessions/Session 006\|Session 006]]):** A Dark Brotherhood assassin fulfilled a Black Sacrament contract during the siege, decapitating the Volkihar coven master from the keep ceiling.
+- **Kjalgrad Covert Operations ([[2 -  Sessions/Session 028\|Session 028]] – [[2 -  Sessions/Session 031\|Session 031]]):** [[Info/Characters/NPCs/Milos\|Milos]] teamed with [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] to breach the longhouse, unmask Scaafin steward [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]], and assist in planning the assault on the Dwemer cult facility.
 
-## Organization Structure
-- Highly secretive, full structure unknown
-- Respond to the Black Sacrament ritual
-- Enforce binding contracts sealed with blood
-
-## Current Activities
-- An assassin was summoned to [[Info/Locations/The Rift/Greenwall\|Greenwall]] via the Black Sacrament
-- Contracted by [[Info/Characters/Party/Durov\|Durov]] to eliminate the source of magical darkness
-- The assassin promised to return for payment at a later date
-
-## Related Rituals and Items
-- **Black Sacrament**: A ritual to summon the Dark Brotherhood
-  - Requires a circle of candles connected by dried blood
-  - Human remains (skull, flesh, heart, ribcage)
-  - An ebony dagger with Daedric runes
-  - A copy of "A Kiss, Sweet Mother" (ritual instructions)
-- **Blood Contract**: Binding agreement signed in blood
-
-## Related Locations
-- [[Info/Locations/The Rift/Greenwall\|Greenwall]]: Location where the Dark Brotherhood assassin was summoned
-- Velothi Mountains: Similar Daedric-runed daggers have been seen at statues there
-
-## Notes
-- The assassin recognized [[Info/Characters/Party/Periwyn\|Periwyn]]'s family name, suggesting possible connections or prior knowledge
-- The assassin showed exceptional abilities including shadow manipulation and impressive combat prowess
-- The nature of the payment owed to the Dark Brotherhood remains undetermined
+## Session Mentions
+- [[2 -  Sessions/Session 006\|Session 006]]
+- [[2 -  Sessions/Session 007\|Session 007]]
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 028\|Session 028]]
+- [[2 -  Sessions/Session 029\|Session 029]]
+- [[2 -  Sessions/Session 030\|Session 030]]
+- [[2 -  Sessions/Session 031\|Session 031]]

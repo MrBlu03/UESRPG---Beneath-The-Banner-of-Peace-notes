@@ -2,29 +2,25 @@
 {"dg-publish":true,"permalink":"/info/quests/investigate-camonna-tong-camp/"}
 ---
 
+# Investigate Camonna Tong Camp
 
-# Investigate the Abandoned Camonna Tong Camp
+## Quest Log Summary
+[[Info/Characters/NPCs/Vaelin_Marr\|Vaelin_Marr]] dispatched [[Info/Characters/Party/Durov\|Durov]] and [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]] to investigate an abandoned mountain encampment reportedly used by Camonna Tong smugglers, attempting to steer suspicion away from the Silverroad's internal cult operations.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Investigation  
-**Assigned Session:** [[2 -  Sessions/Session 028\|Session 028]]  
-**Completed Session:** [[2 -  Sessions/Session 029\|Session 029]]  
-**Reward:** Syndicate Movement Intelligence, 100 gold  
+## Objectives & Progression
+- [x] Accompany Captain Irlav to the abandoned mountain camp ([[2 -  Sessions/Session 028\|Session 028]]).
+- [x] Search tents and supply caches for contraband and ledgers ([[2 -  Sessions/Session 028\|Session 028]]).
+- [x] Discover evidence of ritual chalk, coin molds, and bone components ([[2 -  Sessions/Session 028\|Session 028]]).
+- [x] Track footprints leading east and north toward the mountain ridges ([[2 -  Sessions/Session 029\|Session 029]]).
 
-## Objective
-Investigate the abandoned Camonna Tong encampment northeast of Kjalgrad to determine where the syndicate relocated.
+## Key Participants & Factions
+- **[[Info/Characters/Party/Durov\|Durov]]**
+- **[[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]]**
+- **[[Info/Characters/NPCs/Vaelin_Marr\|Vaelin_Marr]]**
 
-## Key NPCs
-  - "[[Info/Characters/Party/Durov\|Durov]]"
-  - "[[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]]"
-  - "[[Info/Characters/NPCs/Proventus\|Proventus]]"
-  - "[[Info/Characters/NPCs/Vaelin_Marr\|Vaelin_Marr]]"
+## Locations Visited
+- Mountain Camp outside [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]
 
-## Key Locations
-  - "[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]"
-  - "[[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 028\|Session 028]]**: [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]], and the Imperial guard [[Info/Characters/NPCs/Proventus\|Proventus]] scouted the northern perimeter.
-- **[[2 -  Sessions/Session 029\|Session 029]]**: Located physical tracks leading east toward Morrowind border routes, confirming the syndicate fled following the warehouse fires.
+## Session Mentions
+- [[2 -  Sessions/Session 028\|Session 028]]
+- [[2 -  Sessions/Session 029\|Session 029]]

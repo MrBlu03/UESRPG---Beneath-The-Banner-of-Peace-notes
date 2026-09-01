@@ -2,15 +2,24 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/scent-of-serenity/"}
 ---
 
+# Scent of Serenity
+
+## Overview
+A peaceful, fragrant apothecary and herbalist shop in [[Info/Locations/The Rift/Riften\|Riften]], owned and operated by the master alchemist [[Info/Characters/NPCs/Alara\|Alara]] and her devoted son [[Info/Characters/NPCs/Hafjorg\|Hafjorg]].
+
 ## Description
-The Scent of Serenity is a well-stocked alchemy and herbalist shop in [[Info/Locations/The Rift/Riften\|Riften]], run by [[Info/Characters/NPCs/Alara\|Alara]] and her son [[Info/Characters/NPCs/Hafjorg\|Hafjorg]]. It features racks of botanical specimens and offers various healing potions and alchemical ingredients.
+A pleasant timber shop filled with bundles of lavender, drying mountain roots, glass distillation vials, and shelves of soothing balms and healing tinctures.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Alara\|Alara]]**: The skilled alchemist and owner of the shop.
-- **[[Info/Characters/NPCs/Hafjorg\|Hafjorg]]**: Alara's son, who helps run the shop.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Alara\|Alara]]**: Master herbalist with deep knowledge of nature spirits and spriggans.
+- **[[Info/Characters/NPCs/Hafjorg\|Hafjorg]]**: Alara's son who assists in managing the store.
 
-## Key Events
-- **[[2 -  Sessions/Session 001\|Session 001]]**: The party visited the shop and met [[Info/Characters/NPCs/Hafjorg\|Hafjorg]], purchasing healing potions.
-- **[[2 -  Sessions/Session 003\|Session 003]]**: The party learned that [[Info/Characters/NPCs/Alara\|Alara]] had been missing for several days while herb-gathering. A worried [[Info/Characters/NPCs/Hafjorg\|Hafjorg]] offered a 200 gold reward for her safe return.
-- **[[2 -  Sessions/Session 005\|Session 005]]**: The group returned to the shop to restock before heading to [[Info/Locations/The Rift/Greenwall\|Greenwall]]. [[Info/Characters/NPCs/Alara\|Alara]] (having returned safely) offered supplies to craft firebombs, but the party declined.
-- **[[2 -  Sessions/Session 009\|Session 009]]**: [[Info/Characters/Party/Kirya\|Kirya]] visited the shop for salt. [[Info/Characters/NPCs/Alara\|Alara]] freely gave it to her, saying she needed it more.
+## Notable Events
+- **Missing Alchemist Contract ([[2 -  Sessions/Session 003\|Session 003]]):** Hafjorg hired the party to find his missing mother, who was safely located foraging in the southern woods with a spriggan guardian.
+- **Greenwall Tragedy ([[2 -  Sessions/Session 007\|Session 007]]):** The party visited the shop to gently deliver news regarding the fate of family members lost in the Greenwall incursion.
+
+## Session Mentions
+- [[2 -  Sessions/Session 001\|Session 001]]
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 009\|Session 009]]

@@ -2,26 +2,25 @@
 {"dg-publish":true,"permalink":"/info/quests/periwyns-vampire-hunter-search/"}
 ---
 
+# Periwyn's Vampire Hunter Search (Wuunferth)
 
-# Periwyn's Armament & Silver Weapons
+## Quest Log Summary
+Driven to understand the vampire scourge that destroyed Arkayfell, [[Info/Characters/Party/Periwyn\|Periwyn]] tracked rumors of legendary vampire hunter [[Info/Characters/NPCs/Wuunferth\|Wuunferth]], learning he had been trapped within the besieged fortress of [[Info/Locations/The Rift/Greenwall\|Greenwall]].
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Personal  
-**Assigned Session:** [[2 -  Sessions/Session 004\|Session 004]]  
-**Completed Session:** [[2 -  Sessions/Session 004\|Session 004]]  
-**Reward:** 50 Silver Arrows, Blessed Silver Dagger  
+## Objectives & Progression
+- [x] Learn from town criers and hunters that Wuunferth is stranded in Greenwall ([[2 -  Sessions/Session 003\|Session 003]]).
+- [x] Coordinate with The Companions to breach Greenwall's defenses ([[2 -  Sessions/Session 005\|Session 005]]).
+- [x] Locate Wuunferth bound and severely wounded in the fortress dungeons ([[2 -  Sessions/Session 006\|Session 006]]).
+- [x] Slay his vampire captors and extract Wuunferth from the fortress ([[2 -  Sessions/Session 006\|Session 006]]).
+- [x] Arrange for Companion healer [[Info/Characters/NPCs/Hillevi\|Hillevi]] to transport him to [[Info/Locations/The Rift/Mistwatch\|Mistwatch]] for convalescence ([[2 -  Sessions/Session 007\|Session 007]]).
 
-## Objective
-Procure specialized silver weapons and alchemical wards to hunt Clan Volkihar vampires.
+## Key Participants & Factions
+- **[[Info/Characters/Party/Periwyn\|Periwyn Lunclaire]]**
+- **[[Info/Characters/NPCs/Wuunferth\|Wuunferth]]**: Renowned vampire hunter.
+- **[[Info/Characters/NPCs/Hillevi\|Hillevi]]**: Companion healer.
 
-## Key NPCs
-  - "[[Info/Characters/Party/Periwyn\|Periwyn]]"
-  - "[[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]]"
+## Locations Visited
+- [[Info/Locations/The Rift/Riften\|Riften]], [[Info/Locations/The Rift/Companions_War_Camp\|Companions_War_Camp]], [[Info/Locations/The Rift/Greenwall\|Greenwall]], [[Info/Locations/The Rift/Mistwatch\|Mistwatch]]
 
-## Key Locations
-  - "[[Info/Locations/The Rift/The_Honed_Edge\|The_Honed_Edge]]"
-  - "[[Info/Locations/The Rift/Riften\|Riften]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 004\|Session 004]]**: Purchased 50 silver arrows from [[Info/Locations/The Rift/The_Honed_Edge\|The_Honed_Edge]] and consecrated her weapons before marching to Greenwall.
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]], [[2 -  Sessions/Session 004\|Session 004]], [[2 -  Sessions/Session 005\|Session 005]], [[2 -  Sessions/Session 006\|Session 006]], [[2 -  Sessions/Session 007\|Session 007]]

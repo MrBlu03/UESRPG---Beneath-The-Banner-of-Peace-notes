@@ -4,29 +4,40 @@
 
 # Riften
 
+## Overview
+The historic capital city of [[Info/Locations/The Rift/The_Rift\|The_Rift]], situated upon the eastern shores of [[Info/Locations/The Rift/Lake_Honrich\|Lake_Honrich]]. Ruled with resolve by **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]** from [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil Keep]], Riften is a bustling hub of timber, fishing, blacksmithing, and commerce.
+
 ## Description
-Riften is the fortified capital of The Rift in southeastern Skyrim, ruled by [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]] from [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]]. The city is built around [[Info/Locations/The Rift/Lake_Honrich\|Lake_Honrich]] and features waterways, high stone walls, and bustling markets. It serves as a vibrant trade hub but hides criminal undercurrents beneath the streets in its subterranean Ratway network.
+Constructed of heavy Nordic timber and stone over a network of canal waterways, Riften is organized into distinct districts: the central Grand Marketplace, the artisan quarter, the royal palace of Mistveil Keep, the busy lakeside docks, the sacred [[Info/Locations/The Rift/Hall_of_Ysmir\|Hall_of_Ysmir]], and the subterranean undercity of [[The_Ratway\|The Ratway]].
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Ruler of Riften
-- **[[Info/Characters/NPCs/Captain_Harvold\|Captain Harvold]]**: Guard captain
-- **[[Info/Characters/NPCs/Speaks-Spells-Gently\|Speaks-Spells-Gently]]**: Court Wizard
-- **[[Info/Characters/NPCs/Torvald_Black-Foot\|Torvald Black-Foot]]**: Merchant of the Black-Foot Guild
-- **[[Info/Characters/NPCs/Hafjorg\|Hafjorg]]**: Local resident
-- **[[Info/Characters/NPCs/Alara\|Alara]]**: Alchemist of the Scent of Serenity
-- **[[Info/Characters/NPCs/Sigrid\|Sigrid]]**: Mortician at the Hall of the Dead
-- **[[Info/Characters/NPCs/Eirik_the_Quick\|Eirik the Quick]]**: Spry courier
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Sovereign ruler of the Rift.
+- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]]**: Royal court mage and scholar.
+- **[[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir Stormcrown]] & [[Info/Characters/NPCs/Adda\|Adda]]**: Leaders of the [[Info/Organizations/Religious/Cult_of_Ysmir\|Cult_of_Ysmir]].
+- **The Fangs of Fjelhorst**: The Queen's champions and royal problem-solvers.
 
-## Key Events
-- **[[2 -  Sessions/Session 001\|Session 001]]**: The party assembled at [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]] under royal summons from [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]] to investigate the water dispute at [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]].
-- **[[2 -  Sessions/Session 002\|Session 002]]**: The party returned with evidence of the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] conspiracy and delivered [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]]'s corpse to the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]].
-- **[[2 -  Sessions/Session 003\|Session 003]]**: The party regrouped, learned of [[Info/Characters/NPCs/Alara\|Alara]]'s disappearance, and left for the southern woods.
-- **[[2 -  Sessions/Session 004\|Session 004]]**: [[Info/Characters/NPCs/Queen_Freidr\|Queen_Freidr]] tasked the group with uncovering the silence at [[Info/Locations/Other Skyrim/Harmugstahl\|Harmugstahl]] and dubbed them [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|the Fangs of Fjelhorst]].
-- **[[2 -  Sessions/Session 005\|Session 005]]**: The party departed Riften to march on [[Info/Locations/The Rift/Greenwall\|Greenwall]].
-- **[[2 -  Sessions/Session 007\|Session 007]]**: The party returned from [[Info/Locations/The Rift/Greenwall\|Greenwall]] to report to the Queen and celebrate their victory.
-- **[[2 -  Sessions/Session 008\|Session 008]]**: The party accepted a contract to investigate a haunted hunting lodge.
-- **[[2 -  Sessions/Session 009\|Session 009]]**: [[Info/Characters/Party/Kirya\|Kirya]] returned briefly to gather supplies for [[Info/Lore/Arkay\|Arkay]]'s rite from [[Info/Characters/NPCs/Boran\|Boran]] and [[Info/Characters/NPCs/Alara\|Alara]].
-- **[[2 -  Sessions/Session 010\|Session 010]]**: The party returned from a camping trip, solidifying bonds with locals.
-- **[[2 -  Sessions/Session 011\|Session 011]]**: The party infiltrated the docks to dismantle a [[Info/Organizations/Criminal/Camonna_Tong\|Camonna_Tong]] smuggling ring and tracked a prisoner.
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Discovered a conspiracy involving the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]], fires in the Ratway, and rogue vampire [[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn_the_Ancient]]. The Queen granted them wide authority.
-- **[[2 -  Sessions/Session 013\|Session 013]]**: The party acquired horses and departed for [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+## Notable Events
+- **Formation of the Fangs ([[2 -  Sessions/Session 001\|Session 001]], [[2 -  Sessions/Session 004\|Session 004]]):** The party assembled under royal commission, resolving the Snow-Shod water crisis and earning their title and royal writs.
+- **Underworld Arson & Vampire Intelligence ([[2 -  Sessions/Session 012\|Session 012]]):** The party exposed cult connections behind the Ratway fires and set out north to Falderstad with royal warhorses.
+
+## Session Mentions
+- [[2 -  Sessions/Session 001\|Session 001]]
+- [[2 -  Sessions/Session 002\|Session 002]]
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 007\|Session 007]]
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 010\|Session 010]]
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 012a\|Session 012a]]
+- [[2 -  Sessions/Session 013\|Session 013]]
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 019\|Session 019]]
+- [[2 -  Sessions/Session 023\|Session 023]]
+- [[2 -  Sessions/Session 025\|Session 025]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]

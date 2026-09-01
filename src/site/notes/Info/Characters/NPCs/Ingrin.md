@@ -5,17 +5,23 @@
 # Ingrin
 
 ## Description
-The youngest and swiftest huntress and tracker in [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. She is a skilled archer and swordswoman who participated in the defense of the region against supernatural corruption.
+A seasoned Nord huntress and skilled master fletcher residing in [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. She possesses sharp tracking instincts and is proficient with both longsword and bow.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Svala\|Svala]]**: Hunted under her leadership.
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Comforted and guided her when fear took hold in the cursed forest.
-- **[[Info/Characters/NPCs/Runa\|Runa]]**: Saved her life by decapitating an attacking wolf.
+- **[[Info/Characters/NPCs/Svala\|Svala]], [[Info/Characters/NPCs/Torik\|Torik]], [[Info/Characters/NPCs/Alma\|Alma]], [[Info/Characters/NPCs/Runa\|Runa]]**: Fellow hunters in the expedition against the [[Info/Characters/NPCs/Nohrak\|Skinstealer]].
+- **[[Info/Characters/NPCs/Runa\|Runa]]**: Saved Runa's life in battle by decapitating a wolf that pinned her.
+- **[[Info/Characters/Party/Onasha\|Onasha]]**: Crafted a high-end customized hunting bow commissioned by Onasha.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Tackled and calmed by Durov when supernatural voices disoriented her in the woods.
 
 ## Location
-- Resides in [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- Fletcher workshop and streets in **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 016\|Session 016]]**: Joined the hunt for the [[Info/Characters/NPCs/Nohrak\|Nohrak]] Skinstealer, where she was nearly lured away and separated from the group by the creature mimicking her own voice.
-- **[[2 -  Sessions/Session 017\|Session 017]]**: Trembled with fear as the hunt began, but recovered to fight fiercely, decapitating a charging wolf with a longsword to save [[Info/Characters/NPCs/Runa\|Runa]].
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Mentioned as the fletcher who crafted a custom bow for [[Info/Characters/Party/Onasha\|Onasha]].
+- **Discovery of the Bone Shrine ([[2 -  Sessions/Session 016\|Session 016]]):** Originally discovered the grotesque sacrificial bone clearing in the Northern Forest. During the expedition, the Skinstealer mimicked her voice in an attempt to lure her away, causing a momentary panic before Durov stabilized her.
+- **Heroics in the Beast Battle ([[2 -  Sessions/Session 017\|Session 017]]):** Fought bravely in the climactic battle against the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]] and its wolf pack, delivering a decisive longsword decapitation against a wolf attacking [[Info/Characters/NPCs/Runa\|Runa]].
+- **Custom Bow Crafting ([[2 -  Sessions/Session 018\|Session 018]]):** Commissioned by [[Info/Characters/Party/Onasha\|Onasha]] to craft an exquisite custom composite hunting bow for 210 gold, arranged to be delivered to young [[Info/Characters/NPCs/Hoki\|Hoki]].
+
+## Session Mentions
+- [[2 -  Sessions/Session 016\|Session 016]]
+- [[2 -  Sessions/Session 017\|Session 017]]
+- [[2 -  Sessions/Session 018\|Session 018]]

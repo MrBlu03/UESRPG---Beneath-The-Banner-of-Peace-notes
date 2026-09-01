@@ -5,213 +5,94 @@
 
 # 🗺️ Location & Atlas Index
 
-## Legend
-**Types:** 🏰 City | 🏘️ Settlement | ⚔️ Military | 🏪 Shop | 🌲 Natural | ✨ Magical | 🏗️ Infrastructure | 📍 Other  
-**Status:** 🟢 Active | 🔴 Destroyed | ❄️ Frozen | 🟡 Abandoned | ❓ Unknown
+A complete geographic directory of all settlements, fortresses, taverns, ruins, and wilderness landmarks documented across Skyrim, Morrowind, and the Planes of Oblivion.
 
 ---
 
-## 🌍 All Locations Across Tamriel
-| File                                                                                            |    | Type                                                | Region / Hold                                                                      |    | First Visited |
-| ----------------------------------------------------------------------------------------------- | -- | --------------------------------------------------- | ---------------------------------------------------------------------------------- | -- | ------------- |
-| [[Info/Locations/The Rift/Abandoned_Cave_South_of_Riften\|Abandoned_Cave_South_of_Riften]]   | 🟢 | <ul><li>Natural</li></ul>                           | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Falderstad/Abandoned_Guild_House\|Abandoned_Guild_House]]                   | 🟡 | <ul><li>Other</li></ul>                             | <ul><li>[[Info/Locations/Falderstad/Falderstad.md\\|Falderstad]]</li></ul>         | 🟡 | \-            |
-| [[Info/Locations/The Rift/Abandoned_Hunter_Camp\|Abandoned_Hunter_Camp]]                     | 🟡 | <ul><li>Camp</li></ul>                              | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟡 | \-            |
-| [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]]                                           | 🔴 | <ul><li>Cult Facility</li></ul>                     | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🔴 | \-            |
-| [[Info/Locations/The Rift/Amber_Keg\|Amber_Keg]]                                             | 🟢 | <ul><li>Shop</li></ul>                              | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]]                                         | 🟢 | <ul><li>Settlement</li></ul>                        | <ul><li>[[Info/Lore/High_Rock.md\\|High_Rock]]</li></ul>                           | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]] | 🟢 | <ul><li>Dungeon</li><li>Ancient Ruins</li></ul>     | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Borans_Bulwarks\|Borans_Bulwarks]]                                 | 🟢 | <ul><li>Shop</li></ul>                              | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan_Morvan_Longhouse]]                     | 🟢 | <ul><li>Government</li></ul>                        | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Companions_War_Camp\|Companions_War_Camp]]                         | 🔴 | <ul><li>Military</li><li>Camp</li></ul>             | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🔴 | \-            |
-| [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]]                                       | 🟢 | <ul><li>Magical</li></ul>                           | <ul><li>[[The Evergloam\\|The Evergloam]]</li></ul>                                | 🟢 | \-            |
-| [[Info/Locations/The Rift/Cursed_Grove\|Cursed_Grove]]                                       | 🟢 | <ul><li>Natural</li></ul>                           | <ul><li>[[Info/Locations/The Rift/Northern_Forest.md\\|Northern_Forest]]</li></ul> | 🟢 | \-            |
-| [[Info/Locations/Other Realms/Darnow_Hollow\|Darnow_Hollow]]                                 | 🟢 | <ul><li>Magical</li></ul>                           | <ul><li>[[Spectral Realm\\|Spectral Realm]]</li></ul>                              | 🟢 | \-            |
-| [[Info/Locations/Morrowind/Ebonheart\|Ebonheart]]                                            | 🟢 | <ul><li>City</li></ul>                              | <ul><li>[[Info/Lore/Morrowind.md\\|Morrowind]]</li></ul>                           | 🟢 | \-            |
-| [[Info/Locations/Other Realms/Eyevea\|Eyevea]]                                               | 🟢 | <ul><li>Magical</li></ul>                           | <ul><li>[[Sanctuary Pocket Dimension\\|Sanctuary Pocket Dimension]]</li></ul>      | 🟢 | \-            |
-| [[Info/Locations/Falderstad/Falderstad\|Falderstad]]                                         | 🟢 | <ul><li>Town</li></ul>                              | <ul><li>[[Eastern_Skyrim\\|Eastern_Skyrim]]</li></ul>                              | 🟢 | \-            |
-| [[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone_Hall]]                               | 🟢 | <ul><li>Military</li></ul>                          | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Frost_Gate_Hall\|Frost_Gate_Hall]]                                 | 🟢 | <ul><li>Tavern</li></ul>                            | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Fultheim\|Fultheim]]                                               | 🟢 | <ul><li>Settlement</li></ul>                        | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Grand_Market_Kjalgrad\|Grand_Market_Kjalgrad]]                     | 🟢 | <ul><li>Market</li></ul>                            | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Greenwall\|Greenwall]]                                             | 🟢 | <ul><li>Fort</li></ul>                              | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]]                               | 🟢 | <ul><li>Religious</li><li>Other</li></ul>           | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Hall_of_Ysmir\|Hall_of_Ysmir]]                                     | 🟢 | <ul><li>Religious</li></ul>                         | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Other Skyrim/Harmugstahl\|Harmugstahl]]                                     | 🟢 | <ul><li>Dungeon</li></ul>                           | <ul><li>[[The Reach\\|The Reach]]</li></ul>                                        | 🟢 | \-            |
-| [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]]                     | 🟢 | <ul><li>Other</li></ul>                             | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Falderstad/Holmgang_Field\|Holmgang_Field]]                                 | 🟢 | <ul><li>Other</li></ul>                             | <ul><li>[[Info/Locations/Falderstad/Falderstad.md\\|Falderstad]]</li></ul>         | 🟢 | \-            |
-| [[Info/Locations/The Rift/Kahrus_Hollow\|Kahrus_Hollow]]                                     | 🟢 | <ul><li>Natural</li></ul>                           | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]                                               | 🟢 | <ul><li>City</li></ul>                              | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad_Sewers]]                                 | ❓  | <ul><li>Dungeon</li></ul>                           | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | ❓  | \-            |
-| [[Info/Locations/Kjalgrad/Kjalgrad_Warehouse_District\|Kjalgrad_Warehouse_District]]         | 🔴 | <ul><li>Infrastructure</li><li>Commercial</li></ul> | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🔴 | \-            |
-| [[Info/Locations/The Rift/Kjalls_Crossing\|Kjalls_Crossing]]                                 | 🟢 | <ul><li>Settlement</li></ul>                        | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Lake_Honrich\|Lake_Honrich]]                                       | 🟢 | <ul><li>Natural</li></ul>                           | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Lower_Lodge\|Lower_Lodge]]                                         | 🟢 | <ul><li>Underground</li><li>Safehouse</li></ul>     | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]]                                     | 🟢 | <ul><li>Fort</li></ul>                              | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Mistwatch\|Mistwatch]]                                             | 🟢 | <ul><li>Landmark</li></ul>                          | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Mount_Fjelhorst\|Mount_Fjelhorst]]                                 | 🟢 | <ul><li>Natural</li></ul>                           | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Falderstad/Nilans_House\|Nilans_House]]                                     | 🟢 | <ul><li>House</li></ul>                             | <ul><li>[[Info/Locations/Falderstad/Falderstad.md\\|Falderstad]]</li></ul>         | 🟢 | \-            |
-| [[Info/Locations/The Rift/Nimalten\|Nimalten]]                                               | 🟢 | <ul><li>Settlement</li></ul>                        | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]]                                 | 🟢 | <ul><li>Natural</li></ul>                           | <ul><li>[[Info/Locations/Falderstad/Falderstad.md\\|Falderstad]]</li></ul>         | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Old_Blackfoot_Guild_House\|Old_Blackfoot_Guild_House]]             | 🟡 | <ul><li>Infrastructure</li><li>Guildhouse</li></ul> | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟡 | \-            |
-| [[Info/Locations/The Rift/Outlaws_Refuge\|Outlaws_Refuge]]                                   | 🟢 | <ul><li>Other</li></ul>                             | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Ragged_Flagon\|Ragged_Flagon]]                                     | 🟢 | <ul><li>Shop</li></ul>                              | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Ratway\|Ratway]]                                                   | 🟢 | <ul><li>Underworld / Infrastructure</li></ul>       | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Riften\|Riften]]                                                   | 🟢 | <ul><li>City</li></ul>                              | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]]                       | 🟡 | <ul><li>Other</li></ul>                             | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟡 | \-            |
-| [[Info/Locations/The Rift/Scent_of_Serenity\|Scent_of_Serenity]]                             | 🟢 | <ul><li>Shop</li></ul>                              | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]]                                       | 🟢 | <ul><li>Magical</li></ul>                           | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Shors_Bastion\|Shors_Bastion]]                                     | 🟢 | <ul><li>Settlement</li></ul>                        | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Shors_Stone\|Shors_Stone]]                                         | 🟢 | <ul><li>Settlement</li></ul>                        | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Silver_Antler_Inn\|Silver_Antler_Inn]]                             | 🟢 | <ul><li>Tavern</li></ul>                            | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Silverroad_Guildhouse\|Silverroad_Guildhouse]]                     | 🟢 | <ul><li>Infrastructure</li><li>Guildhouse</li></ul> | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Sleeping_Stag\|Sleeping_Stag]]                                     | 🟢 | <ul><li>Shop</li><li>Tavern</li></ul>               | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod_Dam]]                                     | 🟢 | <ul><li>Infrastructure</li></ul>                    | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Snow-Shod_Estate\|Snow-Shod_Estate]]                               | 🟢 | <ul><li>Settlement</li></ul>                        | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Falderstad/Soggy_Beaver\|Soggy_Beaver]]                                     | 🟢 | <ul><li>Tavern</li></ul>                            | <ul><li>[[Info/Locations/Falderstad/Falderstad.md\\|Falderstad]]</li></ul>         | 🟢 | \-            |
-| [[Info/Locations/The Rift/Stromton\|Stromton]]                                               | 🟢 | <ul><li>Settlement</li></ul>                        | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty_Steel]]                                       | 🟢 | <ul><li>Shop</li><li>Blacksmith</li></ul>           | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/The_Honed_Edge\|The_Honed_Edge]]                                   | 🟢 | <ul><li>Shop</li></ul>                              | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/The_Rift\|The_Rift]]                                               | 🟢 | <ul><li>Region</li></ul>                            | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Falderstad/The_Thistle_Branch\|The_Thistle_Branch]]                         | 🟢 | <ul><li>Shop</li></ul>                              | <ul><li>[[Info/Locations/Falderstad/Falderstad.md\\|Falderstad]]</li></ul>         | 🟢 | \-            |
-| [[Info/Locations/The Rift/The_Three_Brothers\|The_Three_Brothers]]                           | 🟢 | <ul><li>Landmark</li></ul>                          | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Falderstad/The_Wounded_Boar\|The_Wounded_Boar]]                             | 🟢 | <ul><li>Tavern</li></ul>                            | <ul><li>[[Info/Locations/Falderstad/Falderstad.md\\|Falderstad]]</li></ul>         | 🟢 | \-            |
-| [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]]                                         | 🟢 | <ul><li>Settlement</li></ul>                        | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Wanderers_Rest\|Wanderers_Rest]]                                   | 🟢 | <ul><li>Tavern</li></ul>                            | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]]                                 | 🟢 | <ul><li>Storage</li></ul>                           | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Western_Woods\|Western_Woods]]                                     | 🟢 | <ul><li>Natural</li></ul>                           | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/The Rift/Widows_River\|Widows_River]]                                       | 🟢 | <ul><li>Landmark</li></ul>                          | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
-| [[Info/Locations/Other Skyrim/Winterhold\|Winterhold]]                                       | 🟢 | <ul><li>City</li></ul>                              | <ul><li>[[Northern_Skyrim\\|Northern_Skyrim]]</li></ul>                            | 🟢 | \-            |
-| [[Info/Locations/The Rift/Witchs_Clearing\|Witchs_Clearing]]                                 | 🟡 | <ul><li>Camp</li></ul>                              | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟡 | \-            |
-| [[Info/Locations/The Rift/Ysmirs_Hall\|Ysmirs_Hall]]                                         | 🟢 | <ul><li>Religious</li></ul>                         | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>               | 🟢 | \-            |
+## 🌲 The Rift (44 Locations)
 
-{ .block-language-dataview}
+| Location Name | Type | Key Features & Inhabitants | Status |
+| :--- | :--- | :--- | :--- |
+| [[Info/Locations/The Rift/Abandoned_Cave_South_of_Riften\|Abandoned_Cave_South_of_Riften]] | Natural Cave / Refuge | Foraging haven of Alara and her guardian spriggan | 🟢 Active |
+| [[Info/Locations/The Rift/Abandoned_Hunter_Camp\|Abandoned_Hunter_Camp]] | Wilderness Camp | Hunting camp east of Riften; stag hunt and M'aiq encounter | 🟢 Active |
+| [[Info/Locations/The Rift/Amber_Keg\|Amber_Keg]] | Tavern / Inn | Lively drinking hall in central Riften | 🟢 Active |
+| [[Info/Locations/The Rift/Borans_Bulwarks\|Borans_Bulwarks]] | Armory / Outfitter | Leatherworking shop in Riften owned by Boran | 🟢 Active |
+| [[Info/Locations/The Rift/Companions_War_Camp\|Companions_War_Camp]] | Siege Camp | Frontline siege post outside Greenwall under Vigrod | 🔴 Scarred |
+| [[Info/Locations/The Rift/Cursed_Grove\|Cursed_Grove]] | Corrupted Forest / Shrine | Ritual grove of Nohrak the Ragged Lord (Cleansed) | 🟢 Cleansed |
+| [[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone_Hall]] | Sovereign Guildhall | Ancient fortress of The Companions in the Rift | 🟢 Active |
+| [[Info/Locations/The Rift/Fultheim\|Fultheim]] | Settlement / Crossroad | Trading village where smugglers met contacts | 🟢 Active |
+| [[Info/Locations/The Rift/Greenwall\|Greenwall]] | Military Fortress | Strategic mountain citadel liberated from vampires | 🟢 Liberated |
+| [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] | Mortuary / Crypts | Sacred crypts in Riften maintained by Sigrid | 🟢 Active |
+| [[Info/Locations/The Rift/Hall_of_Ysmir\|Hall_of_Ysmir]] / [[Info/Locations/The Rift/Ysmirs_Hall\|Ysmirs_Hall]] | Temple / Chapterhouse | Sanctuary of the Cult of Ysmir under Gjellir and Adda | 🟢 Active |
+| [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]] | Ancient Lodge / Barrow | Ancestral First Era lodge cleansed of ancient ghosts | 🟢 Consecrated |
+| [[Info/Locations/The Rift/Kahrus_Hollow\|Kahrus_Hollow]] | Forest Hollow | Misty valley east of Riften housing ruined barrows | 🟢 Active |
+| [[Info/Locations/The Rift/Kjalls_Crossing\|Kjalls_Crossing]] | Agricultural Hamlet | Farmland north of Kjalgrad; Olaf's cabbage farm | 🟢 Active |
+| [[Info/Locations/The Rift/Lake_Honrich\|Lake_Honrich]] | Freshwater Lake | Expansive central lake bordering Riften | 🟢 Active |
+| [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]] | Royal Castle | Sovereign seat of Queen Freidr and court in Riften | 🟢 Active |
+| [[Info/Locations/The Rift/Mistwatch\|Mistwatch]] | Mountain Fortress | Healing sanctuary where Wuunferth was escorted | 🟢 Active |
+| [[Info/Locations/The Rift/Mount_Fjelhorst\|Mount_Fjelhorst]] | Mountain Peak | Dragon Cult peak; namesake of The Fangs of Fjelhorst | 🟢 Active |
+| [[Info/Locations/The Rift/Nimalten\|Nimalten]] | River Settlement | Fortified river town along the Treva River | 🟢 Active |
+| [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]] | Wilderness / Forest | Vast snowbound forest north of Falderstad | 🟢 Active |
+| [[Info/Locations/The Rift/Outlaws_Refuge\|Outlaws_Refuge]] | Subterranean Haven | Black market refuge in the Riften Ratway | 🟢 Active |
+| [[Info/Locations/The Rift/Ragged_Flagon\|Ragged_Flagon]] | Subterranean Tavern | Infamous tavern in the Ratway reservoir | 🟢 Active |
+| [[Info/Locations/The Rift/Ratway\|Ratway]] | Sewer Network | Labyrinthine aqueducts and undercity beneath Riften | 🟢 Active |
+| [[Info/Locations/The Rift/Riften\|Riften]] | Hold Capital | Fortified timber capital of the Rift ruled by Queen Freidr | 🟢 Active |
+| [[Info/Locations/The Rift/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]] | Decaying Cabin | Cellar where Nilan was drained by rogue vampire | 🏚️ Dilapidated |
+| [[Info/Locations/The Rift/Scent_of_Serenity\|Scent_of_Serenity]] | Apothecary | Fragrant alchemy shop in Riften owned by Alara | 🟢 Active |
+| [[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]] | Standing Stone | Ancient constellation obelisk radiating stealth magic | 🟢 Active |
+| [[Info/Locations/The Rift/Shors_Bastion\|Shors_Bastion]] | Mountain Redoubt | High watchpost in the Velothi Mountains | 🟢 Active |
+| [[Info/Locations/The Rift/Shors_Stone\|Shors_Stone]] | Mining Settlement | Iron and ebony mining village along northern highway | 🟢 Active |
+| [[Info/Locations/The Rift/Silver_Antler_Inn\|Silver_Antler_Inn]] | Roadside Tavern | Wayside inn staffed by barkeep Halla | 🟢 Active |
+| [[Info/Locations/The Rift/Sleeping_Stag\|Sleeping_Stag]] | Wayside Tavern | Roadside tavern where twin skalds performed | 🟢 Active |
+| [[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod_Dam]] | Hydraulic Dam | Treva River dam sabotaged with ungreased lever | 🟢 Repaired |
+| [[Info/Locations/The Rift/Snow-Shod_Estate\|Snow-Shod_Estate]] | Noble Manor / Farmlands | Sprawling ancestral estate of Clan Snow-Shod | 🟢 Active |
+| [[Info/Locations/The Rift/Stromton\|Stromton]] | Crossroad Waystation | Agricultural waystation along southern highway | 🟢 Active |
+| [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty_Steel]] | Blacksmith Forge | Fiery smithy in Riften owned by Bjorn and Svana | 🟢 Active |
+| [[Info/Locations/The Rift/The_Honed_Edge\|The_Honed_Edge]] | Specialized Smithy | Weaponsmith in Riften owned by Hilldis | 🟢 Active |
+| [[Info/Locations/The Rift/The_Rift\|The_Rift]] | Hold / Province | Golden birch hold of southeastern Skyrim | 🟢 Active |
+| [[Info/Locations/The Rift/The_Three_Brothers\|The_Three_Brothers]] | Standing Stones | Standing stones marking the trail to secret barrow | 🟢 Active |
+| [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]] | River Settlement | Downstream agrarian village led by Alderman Torgir | 🟢 Active |
+| [[Info/Locations/The Rift/Wanderers_Rest\|Wanderers_Rest]] | Tavern / Inn | Comfortable inn in Riften run by Bjorin and Astrid | 🟢 Active |
+| [[Info/Locations/The Rift/Western_Woods\|Western_Woods]] | Wilderness | Dense forest frontier harboring hunting trails | 🟢 Active |
+| [[Info/Locations/The Rift/Widows_River\|Widows_River]] | Frozen Stream | Ice stream followed by party to reach the barrow | 🟢 Active |
+| [[Info/Locations/The Rift/Witchs_Clearing\|Witchs_Clearing]] | Warded Clearing | Roost of the Witch of the Woods (Hagraven) | 🟢 Active |
 
 ---
 
-## 🍂 [[Info/Locations/The Rift/The_Rift\|The Rift]] (Hold & Capital)
-| File                                                                                          | Type                                          |    | First Visited | Importance |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------- | -- | ------------- | ---------- |
-| [[Info/Locations/The Rift/Abandoned_Hunter_Camp\|Abandoned_Hunter_Camp]]                   | <ul><li>Camp</li></ul>                        | 🟡 | \-            | \-         |
-| [[Info/Locations/The Rift/Witchs_Clearing\|Witchs_Clearing]]                               | <ul><li>Camp</li></ul>                        | 🟡 | \-            | \-         |
-| [[Info/Locations/The Rift/Riften\|Riften]]                                                 | <ul><li>City</li></ul>                        | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Greenwall\|Greenwall]]                                           | <ul><li>Fort</li></ul>                        | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil_Keep]]                                   | <ul><li>Fort</li></ul>                        | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod_Dam]]                                   | <ul><li>Infrastructure</li></ul>              | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Mistwatch\|Mistwatch]]                                           | <ul><li>Landmark</li></ul>                    | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/The_Three_Brothers\|The_Three_Brothers]]                         | <ul><li>Landmark</li></ul>                    | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Widows_River\|Widows_River]]                                     | <ul><li>Landmark</li></ul>                    | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Shadow_Stone\|Shadow_Stone]]                                     | <ul><li>Magical</li></ul>                     | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone_Hall]]                             | <ul><li>Military</li></ul>                    | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Companions_War_Camp\|Companions_War_Camp]]                       | <ul><li>Military</li><li>Camp</li></ul>       | 🔴 | \-            | \-         |
-| [[Info/Locations/The Rift/Abandoned_Cave_South_of_Riften\|Abandoned_Cave_South_of_Riften]] | <ul><li>Natural</li></ul>                     | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Cursed_Grove\|Cursed_Grove]]                                     | <ul><li>Natural</li></ul>                     | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Kahrus_Hollow\|Kahrus_Hollow]]                                   | <ul><li>Natural</li></ul>                     | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Lake_Honrich\|Lake_Honrich]]                                     | <ul><li>Natural</li></ul>                     | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Mount_Fjelhorst\|Mount_Fjelhorst]]                               | <ul><li>Natural</li></ul>                     | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]]                               | <ul><li>Natural</li></ul>                     | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Western_Woods\|Western_Woods]]                                   | <ul><li>Natural</li></ul>                     | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]]                   | <ul><li>Other</li></ul>                       | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Outlaws_Refuge\|Outlaws_Refuge]]                                 | <ul><li>Other</li></ul>                       | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]]                     | <ul><li>Other</li></ul>                       | 🟡 | \-            | \-         |
-| [[Info/Locations/The Rift/The_Rift\|The_Rift]]                                             | <ul><li>Region</li></ul>                      | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Hall_of_Ysmir\|Hall_of_Ysmir]]                                   | <ul><li>Religious</li></ul>                   | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Ysmirs_Hall\|Ysmirs_Hall]]                                       | <ul><li>Religious</li></ul>                   | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]]                             | <ul><li>Religious</li><li>Other</li></ul>     | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Fultheim\|Fultheim]]                                             | <ul><li>Settlement</li></ul>                  | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Kjalls_Crossing\|Kjalls_Crossing]]                               | <ul><li>Settlement</li></ul>                  | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Nimalten\|Nimalten]]                                             | <ul><li>Settlement</li></ul>                  | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Shors_Bastion\|Shors_Bastion]]                                   | <ul><li>Settlement</li></ul>                  | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Shors_Stone\|Shors_Stone]]                                       | <ul><li>Settlement</li></ul>                  | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Snow-Shod_Estate\|Snow-Shod_Estate]]                             | <ul><li>Settlement</li></ul>                  | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Stromton\|Stromton]]                                             | <ul><li>Settlement</li></ul>                  | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Trevas_Bend\|Trevas_Bend]]                                       | <ul><li>Settlement</li></ul>                  | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Amber_Keg\|Amber_Keg]]                                           | <ul><li>Shop</li></ul>                        | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Borans_Bulwarks\|Borans_Bulwarks]]                               | <ul><li>Shop</li></ul>                        | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Ragged_Flagon\|Ragged_Flagon]]                                   | <ul><li>Shop</li></ul>                        | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Scent_of_Serenity\|Scent_of_Serenity]]                           | <ul><li>Shop</li></ul>                        | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/The_Honed_Edge\|The_Honed_Edge]]                                 | <ul><li>Shop</li></ul>                        | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty_Steel]]                                     | <ul><li>Shop</li><li>Blacksmith</li></ul>     | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Sleeping_Stag\|Sleeping_Stag]]                                   | <ul><li>Shop</li><li>Tavern</li></ul>         | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Silver_Antler_Inn\|Silver_Antler_Inn]]                           | <ul><li>Tavern</li></ul>                      | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Wanderers_Rest\|Wanderers_Rest]]                                 | <ul><li>Tavern</li></ul>                      | 🟢 | \-            | \-         |
-| [[Info/Locations/The Rift/Ratway\|Ratway]]                                                 | <ul><li>Underworld / Infrastructure</li></ul> | 🟢 | \-            | \-         |
+## ⛰️ Falderstad & Kjalgrad (19 Locations)
 
-{ .block-language-dataview}
+| Location Name | Region | Type | Key Inhabitants & Features | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| [[Info/Locations/Falderstad/Abandoned_Guild_House\|Abandoned_Guild_House]] | Falderstad | Safehouse | Dilapidated tannery used by Stryder and Hooded Figure | 🏚️ Abandoned |
+| [[Info/Locations/Falderstad/Falderstad\|Falderstad]] | Eastmarch Border | Fortified Town | Nordic frontier settlement governed by Jarl Gorm | 🟢 Active |
+| [[Info/Locations/Falderstad/Holmgang_Field\|Holmgang_Field]] | Falderstad | Dueling Grounds | Traditional Nordic execution and duel field | 🟢 Active |
+| [[Info/Locations/Falderstad/Nilans_House\|Nilans_House]] | Falderstad | Hunter's Lodge | Stronghold deeded to the party by Jarl Gorm | 🟢 Party Owned |
+| [[Info/Locations/Falderstad/Soggy_Beaver\|Soggy_Beaver]] | Falderstad | Tavern | Market tavern owned by Bjalfi | 🟢 Active |
+| [[Info/Locations/Falderstad/The_Thistle_Branch\|The_Thistle_Branch]] | Falderstad | Apothecary | Herb and woad shop owned by Lawspeaker Torik | 🟢 Active |
+| [[Info/Locations/Falderstad/The_Wounded_Boar\|The_Wounded_Boar]] | Falderstad | Gatehouse Inn | Gate tavern staffed by Denskar; Boar's Blood Mead | 🟢 Active |
+| [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]] | Kjalgrad | Dwemer / Nordic Ruin | Counterfeit mint of the Cult of Clavicus Vile (Destroyed) | 🔴 Sacked |
+| [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]] | Kjalgrad Mountains | Ancient Barrow | Clandestine base of The Vestige and Milos | 🟢 Active |
+| [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan_Morvan_Longhouse]] | Kjalgrad | Seat of Power | Timber longhouse subverted by Scaafin steward | 🟢 Liberated |
+| [[Info/Locations/Kjalgrad/Frost_Gate_Hall\|Frost_Gate_Hall]] | Kjalgrad | Inn / Tavern | Respectable inn owned by Orgnar; Sweet Pork | 🟢 Active |
+| [[Info/Locations/Kjalgrad/Grand_Market_Kjalgrad\|Grand_Market_Kjalgrad]] | Kjalgrad | Commercial Plaza | Central market; staged the massive worker strike | 🟢 Active |
+| [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] | Eastmarch | Mining City | Mountain city controlled by the Guild of the Silverroad | 🟢 Active |
+| [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad_Sewers]] | Kjalgrad | Subterranean Vaults | Ancient ruins marked with diamond-circle symbols | 🟢 Active |
+| [[Info/Locations/Kjalgrad/Kjalgrad_Warehouse_District\|Kjalgrad_Warehouse_District]] | Kjalgrad | Industrial Sector | Warehouses sabotaged and burned by the party | 🔴 Burned |
+| [[Info/Locations/Kjalgrad/Lower_Lodge\|Lower_Lodge]] | Kjalgrad | Rebel Safehouse | Underground resistance headquarters led by Tarja | 🟢 Active |
+| [[Info/Locations/Kjalgrad/Old_Blackfoot_Guild_House\|Old_Blackfoot_Guild_House]] | Kjalgrad | Abandoned Hall | Trade hall where The Vestige revealed his identity | 🏚️ Abandoned |
+| [[Info/Locations/Kjalgrad/Silverroad_Guildhouse\|Silverroad_Guildhouse]] | Kjalgrad | Fortress / Guildhall | Headquarters of the Guild of the Silverroad | 🟢 Active |
+| [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]] | Kjalgrad | Storage Depot | Guarded depot holding counterfeit ledgers (Raided) | 🔴 Compromised |
 
 ---
 
-## 🏔️ [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] & Regional Strongholds
-| File                                                                                            | Type                                                |    | First Visited | Importance |
-| ----------------------------------------------------------------------------------------------- | --------------------------------------------------- | -- | ------------- | ---------- |
-| [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]]                                           | <ul><li>Cult Facility</li></ul>                     | 🔴 | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]] | <ul><li>Dungeon</li><li>Ancient Ruins</li></ul>     | 🟢 | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan_Morvan_Longhouse]]                     | <ul><li>Government</li></ul>                        | 🟢 | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Frost_Gate_Hall\|Frost_Gate_Hall]]                                 | <ul><li>Tavern</li></ul>                            | 🟢 | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Grand_Market_Kjalgrad\|Grand_Market_Kjalgrad]]                     | <ul><li>Market</li></ul>                            | 🟢 | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]                                               | <ul><li>City</li></ul>                              | 🟢 | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Kjalgrad_Sewers\|Kjalgrad_Sewers]]                                 | <ul><li>Dungeon</li></ul>                           | ❓  | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Kjalgrad_Warehouse_District\|Kjalgrad_Warehouse_District]]         | <ul><li>Infrastructure</li><li>Commercial</li></ul> | 🔴 | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Lower_Lodge\|Lower_Lodge]]                                         | <ul><li>Underground</li><li>Safehouse</li></ul>     | 🟢 | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Old_Blackfoot_Guild_House\|Old_Blackfoot_Guild_House]]             | <ul><li>Infrastructure</li><li>Guildhouse</li></ul> | 🟡 | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Silverroad_Guildhouse\|Silverroad_Guildhouse]]                     | <ul><li>Infrastructure</li><li>Guildhouse</li></ul> | 🟢 | \-            | \-         |
-| [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]]                                 | <ul><li>Storage</li></ul>                           | 🟢 | \-            | \-         |
+## 🌍 Other Realms, Morrowind & Other Skyrim (7 Locations)
 
-{ .block-language-dataview}
-
----
-
-## 🌲 [[Info/Locations/Falderstad/Falderstad\|Falderstad]] & Surrounding Wilderness
-| File                                                                          | Type                     |    | First Visited |
-| ----------------------------------------------------------------------------- | ------------------------ | -- | ------------- |
-| [[Info/Locations/Falderstad/Abandoned_Guild_House\|Abandoned_Guild_House]] | <ul><li>Other</li></ul>  | 🟡 | \-            |
-| [[Info/Locations/Falderstad/Falderstad\|Falderstad]]                       | <ul><li>Town</li></ul>   | 🟢 | \-            |
-| [[Info/Locations/Falderstad/Holmgang_Field\|Holmgang_Field]]               | <ul><li>Other</li></ul>  | 🟢 | \-            |
-| [[Info/Locations/Falderstad/Nilans_House\|Nilans_House]]                   | <ul><li>House</li></ul>  | 🟢 | \-            |
-| [[Info/Locations/Falderstad/Soggy_Beaver\|Soggy_Beaver]]                   | <ul><li>Tavern</li></ul> | 🟢 | \-            |
-| [[Info/Locations/Falderstad/The_Thistle_Branch\|The_Thistle_Branch]]       | <ul><li>Shop</li></ul>   | 🟢 | \-            |
-| [[Info/Locations/Falderstad/The_Wounded_Boar\|The_Wounded_Boar]]           | <ul><li>Tavern</li></ul> | 🟢 | \-            |
-
-{ .block-language-dataview}
-
----
-
-## 🏰 Forts, Keeps & Strongholds
-| File                                                                    | Region                                                               |    | First Visited |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------- | -- | ------------- |
-| [[Info/Locations/The Rift/Companions_War_Camp\|Companions_War_Camp]] | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul> | 🔴 | \-            |
-| [[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone_Hall]]       | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul> | 🟢 | \-            |
-
-{ .block-language-dataview}
-
----
-
-## 🍺 Taverns, Inns & Guildhouses
-| File                                                                    | Region                                                                     |    | First Visited |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------------- | -- | ------------- |
-| [[Info/Locations/The Rift/Amber_Keg\|Amber_Keg]]                     | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>       | 🟢 | \-            |
-| [[Info/Locations/The Rift/Borans_Bulwarks\|Borans_Bulwarks]]         | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>       | 🟢 | \-            |
-| [[Info/Locations/Kjalgrad/Frost_Gate_Hall\|Frost_Gate_Hall]]         | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>       | 🟢 | \-            |
-| [[Info/Locations/The Rift/Ragged_Flagon\|Ragged_Flagon]]             | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>       | 🟢 | \-            |
-| [[Info/Locations/The Rift/Scent_of_Serenity\|Scent_of_Serenity]]     | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>       | 🟢 | \-            |
-| [[Info/Locations/The Rift/Silver_Antler_Inn\|Silver_Antler_Inn]]     | <ul><li>[[Info/Locations/Kjalgrad/Kjalgrad.md\\|Kjalgrad]]</li></ul>       | 🟢 | \-            |
-| [[Info/Locations/The Rift/Sleeping_Stag\|Sleeping_Stag]]             | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>       | 🟢 | \-            |
-| [[Info/Locations/Falderstad/Soggy_Beaver\|Soggy_Beaver]]             | <ul><li>[[Info/Locations/Falderstad/Falderstad.md\\|Falderstad]]</li></ul> | 🟢 | \-            |
-| [[Info/Locations/The Rift/Sweaty_Steel\|Sweaty_Steel]]               | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>       | 🟢 | \-            |
-| [[Info/Locations/The Rift/The_Honed_Edge\|The_Honed_Edge]]           | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>       | 🟢 | \-            |
-| [[Info/Locations/Falderstad/The_Thistle_Branch\|The_Thistle_Branch]] | <ul><li>[[Info/Locations/Falderstad/Falderstad.md\\|Falderstad]]</li></ul> | 🟢 | \-            |
-| [[Info/Locations/Falderstad/The_Wounded_Boar\|The_Wounded_Boar]]     | <ul><li>[[Info/Locations/Falderstad/Falderstad.md\\|Falderstad]]</li></ul> | 🟢 | \-            |
-| [[Info/Locations/The Rift/Wanderers_Rest\|Wanderers_Rest]]           | <ul><li>[[Info/Locations/The Rift/The_Rift.md\\|The_Rift]]</li></ul>       | 🟢 | \-            |
-
-{ .block-language-dataview}
-
----
-
-## 🌌 Other Realms & Planar Pockets
-| File                                                            | Type                      |    | First Visited |
-| --------------------------------------------------------------- | ------------------------- | -- | ------------- |
-| [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]]       | <ul><li>Magical</li></ul> | 🟢 | \-            |
-| [[Info/Locations/Other Realms/Darnow_Hollow\|Darnow_Hollow]] | <ul><li>Magical</li></ul> | 🟢 | \-            |
-| [[Info/Locations/Other Realms/Eyevea\|Eyevea]]               | <ul><li>Magical</li></ul> | 🟢 | \-            |
-
-{ .block-language-dataview}
+| Location Name | Region | Type | Description | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| [[Info/Locations/Morrowind/Ebonheart\|Ebonheart]] | Morrowind | Coastal Port | Mainland trade port; origin of Dunmer smuggling routes | 🟢 Active |
+| [[Info/Locations/Other Realms/Crows_Wood\|Crows_Wood]] | Evergloam (Oblivion) | Pocket Realm | Twilight realm of the Crowfather / The Vestige | 🟢 Active |
+| [[Info/Locations/Other Realms/Darnow_Hollow\|Darnow_Hollow]] | Dreamscape | Mind Threshold | Memory estate within Periwyn's comatose dream | 🌌 Visionary |
+| [[Info/Locations/Other Realms/Eyevea\|Eyevea]] | Mages Guild Sanctuary | Island Realm | Sanctuary realm where the Harrowstorm core was stored | 🟢 Active |
+| [[Info/Locations/Other Skyrim/Arkayfell\|Arkayfell]] | Western Skyrim | Holy Monastery | Order of Arkay redoubt where Sir Gareth fell | 🔴 Fallen |
+| [[Info/Locations/Other Skyrim/Harmugstahl\|Harmugstahl]] | The Reach | Frontier Keep | Mountain keep investigated for supernatural freezing | 🟢 Active |
+| [[Info/Locations/Other Skyrim/Winterhold\|Winterhold]] | Northern Skyrim | Ancient Capital | Seat of the College of Winterhold | 🟢 Active |

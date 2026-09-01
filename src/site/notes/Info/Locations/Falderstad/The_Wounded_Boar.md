@@ -4,15 +4,22 @@
 
 # The Wounded Boar
 
+## Overview
+A rustic, welcoming tavern located near the southern entrance gate of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], staffed by server [[Info/Characters/NPCs/Denskar\|Denskar]].
+
 ## Description
-The premier inn and tavern of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], featuring a large roaring fireplace, sturdy pine tables, and hearty roasted game. Served as the party's primary lodging during the forest investigation. It features a roaring central stone hearth adorned with the mounted tusks of a giant forest boar, spacious second-floor rooms, and warm courtyard stables.
+A low-ceilinged timber tavern known for its robust hearth, hearty stews, and signature **Boar's Blood Mead** brewed with wild juniper berries and smoked salt.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Denskar\|Denskar]]**: A server at The Wounded Boar and contact point for local hunters.
-- **Unnamed Hunter**: A hunter who directed the party here to meet for a white stag hunt.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Denskar\|Denskar]]**: Attentive tavern server and local contact for hunting parties.
 
-## Key Events
-- **[[2 -  Sessions/Session 013\|Session 013]]**: The party was directed to Denskar at The Wounded Boar to arrange a white stag hunt. They took lodging on the east side of town.
-- **[[2 -  Sessions/Session 014\|Session 014]]**: [[Info/Characters/Party/Durov\|Durov]] arrived looking for the rest of the Fangs and learned from [[Info/Characters/NPCs/Denskar\|Denskar]] that they had taken lodging here.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: The party drank Boar's Blood Mead from The Wounded Boar during their celebration feast.
-- **[[2 -  Sessions/Session 019\|Session 019]]**: [[Info/Characters/Party/Periwyn\|Periwyn]] checked the tavern while searching for [[Info/Characters/Party/Durov\|Durov]], but [[Info/Characters/NPCs/Denskar\|Denskar]] had not seen him.
+## Notable Events
+- **Arrival Accommodations ([[2 -  Sessions/Session 013\|Session 013]]):** Provided the party with their first warm meal and beds upon their six-day winter journey from Riften.
+- **White Stag Leads ([[2 -  Sessions/Session 013\|Session 013]]):** Denskar shared intelligence on local hunting expeditions and rumors regarding the elusive white stag in the northern forests.
+- **Boar's Blood Mead for the Feasts ([[2 -  Sessions/Session 018\|Session 018]]):** Provided flagons of specialty mead for the victory celebration following the destruction of the Ragged Lord.
+
+## Session Mentions
+- [[2 -  Sessions/Session 013\|Session 013]]
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 019\|Session 019]]

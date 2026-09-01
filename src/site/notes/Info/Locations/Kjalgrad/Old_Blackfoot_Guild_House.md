@@ -2,15 +2,24 @@
 {"dg-publish":true,"permalink":"/info/locations/kjalgrad/old-blackfoot-guild-house/"}
 ---
 
+# Old Blackfoot Guild House
+
+## Overview
+The former guildhall and headquarters of the **[[Info/Organizations/Guilds/Black-Foot_Merchant_Guild\|Black-Foot Merchant Guild]]** in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], abandoned after the guild was aggressively ousted by the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild of the Silverroad]].
+
 ## Description
-The Old Blackfoot Guild House is an imposing, abandoned stone guildhall in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] that once served as the regional headquarters for the [[Info/Organizations/Guilds/Black-Foot_Merchant_Guild\|Black-Foot_Merchant_Guild]]. The building has a torn banner bearing the Black-Foot crest and a front door hanging off its hinges. It now serves as a covert meeting place in its surrounding alleys.
+A neglected, dust-covered stone and timber guildhall with weathered banners and empty trade offices, situated in the lower district near the back alleys.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]**: Also known as Sadrith, used the abandoned hall as a base.
-- **John**: A shady informant who frequents the alleys near the guild house.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Hedrek_Black-Foot\|Hedrek_Black-Foot]] & [[Info/Characters/NPCs/Silla_Fenmark\|Silla_Fenmark]]**: Exiled Black-Foot guild leaders.
+- **[[Info/Characters/NPCs/The_Vestige\|The_Vestige]] (Sadrith Indoril)**: Utilized the building as a covert meeting venue.
 
-## Key Events
-- **[[2 -  Sessions/Session 020\|Session 020]]**: Directed to the guild house by [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]]'s bounty, the party found the Dunmer target Sadrith waiting inside. Sadrith revealed himself to be [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] and enlisted their help.
-- **[[2 -  Sessions/Session 021\|Session 021]]**: The party lied to [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]], reporting they had searched the guild house but found no sign of the target.
-- **[[2 -  Sessions/Session 026\|Session 026]]**: [[Luulov\|Luulov]] brought [[Info/Characters/Party/Durov\|Durov]] to the alleys near the old guild house to meet shady informants regarding missing persons.
-- **[[2 -  Sessions/Session 027\|Session 027]]**: In the alleys near the guild house, [[Info/Characters/Party/Durov\|Durov]] and [[Info/Characters/NPCs/Captain_Irlav\|Captain_Irlav]] met the informant John, who handed over the journal scraps of a missing merchant.
+## Notable Events
+- **The Vestige's Identity Revealed ([[2 -  Sessions/Session 020\|Session 020]], [[2 -  Sessions/Session 021\|Session 021]]):** The party tracked the mysterious "Sadrith" here following a false bounty, where [[Info/Characters/NPCs/The_Vestige\|The Vestige]] formally revealed his true identity, forged an alliance with the party, and debriefed on the tainted gold conspiracy.
+
+## Session Mentions
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 021\|Session 021]]
+- [[2 -  Sessions/Session 023\|Session 023]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]

@@ -5,14 +5,16 @@
 # Ralof
 
 ## Description
-A brave young warrior who marches with the [[Info/Organizations/Military/Companions\|Companions]] to secure their holdings.
+A brave Nord warrior who answered the call to join the relief expedition and supply caravan marching from [[Info/Locations/The Rift/Riften\|Riften]] toward [[Info/Locations/The Rift/Greenwall\|Greenwall]].
 
 ## Relationships
-- **[[Info/Characters/NPCs/Hrongar\|Hrongar]]**: Fellow travel companion.
-- **[[Info/Characters/Party/Durov\|Durov]]**: Assisted him with supply loading.
+- **[[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir Stormcrown]] & [[The_Companions\|The Companions]]**: Marched in the vanguard supply column relieving Greenwall.
 
 ## Location
-- Based at [[Info/Locations/The Rift/Fallowstone_Hall\|Fallowstone_Hall]] and deployed to [[Info/Locations/The Rift/Greenwall\|Greenwall]].
+- **[[Info/Locations/The Rift/Riften\|Riften]]** and the mountain roads of the Rift.
 
 ## Notes
-- **[[2 -  Sessions/Session 005\|Session 005]]**: Traveled with the convoy heading to [[Info/Locations/The Rift/Greenwall\|Greenwall]], working alongside [[Info/Characters/NPCs/Hrongar\|Hrongar]] and [[Info/Characters/Party/Durov\|Durov]] to load supplies onto the cart at the stables.
+- **Caravan Deployment ([[2 -  Sessions/Session 005\|Session 005]]):** Assisted with loading wagons and marched with the armed column sent to relieve Greenwall fortress.
+
+## Session Mentions
+- [[2 -  Sessions/Session 005\|Session 005]]

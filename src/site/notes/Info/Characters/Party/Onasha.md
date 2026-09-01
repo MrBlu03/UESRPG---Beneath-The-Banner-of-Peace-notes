@@ -2,58 +2,81 @@
 {"dg-publish":true,"permalink":"/info/characters/party/onasha/"}
 ---
 
-
 # Onasha
 
-![Screenshot797.png](/img/user/Z%20-%20other%20bullshit/Z%20-%20Image%20Assets/Screenshot797.png)
-
 ## Overview
-- **Player:** Player Character
-- **Race:** Argonian (Saxhleel)
-- **Class:** Alchemist / Bomb-Maker / Toxicologist
-- **Background:** [[Info/Organizations/Other/Blacktongue_Tribe\|Blacktongue Tribe]] (Murkmire / Tear)
-- **Status:** Active ([[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The Fangs of Fjelhorst]])
+- **Player:** Onasha
+- **Race:** Argonian (Saxhleel, born in Tear, Black-Tongue tribe)
+- **Class:** Master Sniper / Survivalist / Herbalist & Tactician
+- **Background:** Escaped slave who fled House Dres captivity seven years ago at age nine, leaving behind her young bond-sister Xula. Highly resilient survivor who has adapted to northern wildernesses.
 
-## Description
-Onasha is a calculating, highly intelligent Argonian alchemist, chemist, and tactical bomb-crafter of [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]. Hailing from the feared [[Info/Organizations/Other/Blacktongue_Tribe\|Blacktongue_Tribe]] of Black Marsh, she possesses encyclopedic knowledge of venoms, botanical distillations, and explosive compounds. Beneath her quiet, pragmatic demeanor lies a fierce protector of her kin and a relentless seeker of esoteric lore.
+## Personality Traits
+- **Cautious & Guarded:** Slow to trust, holding a stoic exterior to mask deep trauma and guilt over those left behind.
+- **Fiercely Protective:** Demonstrates profound gentleness and loyalty toward vulnerable individuals (such as young [[Info/Characters/NPCs/Hoki\|Hoki]]) and her fellow adventurers.
+- **Analytical & Methodical:** Treats wilderness survival, alchemy, and archery with surgical focus.
+- **Animal Affinity:** Exceptionally skilled at taming and handling mounts (bonded with her warhorse [[Info/Characters/Party/The Horses\|Mossback]]).
 
-## Background & Heritage
-- Raised in the harsh swamps of Black Marsh and the border town of Tear, giving her fluent understanding of Dunmeri dialects, trade banking, and tribal herbalism.
-- Member of the legendary [[Info/Organizations/Other/Blacktongue_Tribe\|Blacktongue_Tribe]], renowned for their reverence of Sithis and mastery of shadow alchemy.
-- Discovered a fellow tribal member among the [[Info/Locations/The Rift/Riften\|Riften]] dockers in [[2 -  Sessions/Session 011\|Session 011]] and reunited with her egg-brother [[Info/Characters/NPCs/Milos\|Milos]] in [[2 -  Sessions/Session 019\|Session 019]].
-- Possesses a mysterious ancient parchment written in Dovahzul (the Dragon Language) connected to the [[Info/Organizations/Cults/Blackfeather Court\|Blackfeather_Court]], which produces black flames and turns to tar when burned.
+## Abilities and Skills
+- **Master Archery:** Devastating sniper capable of splitting arrows in target joints (*Killing blow on the Ragged Lord; neck shot on the Xivilai*).
+- **Alchemy & Woad Mastery:** Crafts potent fire varnishes, healing salves, and learned the ancient *Fox's Guile* woad from elder mage [[Info/Characters/NPCs/Torik\|Torik]].
+- **Emergency Field Surgery:** Saved huntress [[Info/Characters/NPCs/Alma\|Alma]]'s life on the battlefield with critical survival triage.
+- **Espionage Network Building:** Actively established regional informant networks in Riften ([[Info/Characters/NPCs/Astrid\|Astrid]]) and Falderstad ([[Info/Characters/NPCs/Hoki\|Hoki]]).
 
-## Personality & Quirks
-- **Pragmatic & Patient:** Believes patience and caution, rather than reckless pride, are the true guarantors of survival.
-- **Experimental Chemist:** Constantly crafts custom concoctions: paralysis bombs, flame bombs, frenzy bombs, and restorative draughts.
-- **Playful Rivalry:** Engages in an ongoing, humorous rivalry attempting (and repeatedly failing) to trip the agile acrobat [[Info/Characters/NPCs/Eirik_the_Quick\|Eirik_the_Quick]].
-- **Amphibious Habits:** Frequently sleeps underwater in cold rivers and lakes, startling her [[Info/Organizations/Military/Companions\|companions]] when emerging without warning.
+## Inventory
+- Custom composite hunting bow crafted by master fletcher [[Info/Characters/NPCs/Ingrin\|Ingrin]].
+- Quivers of silver-tipped and fire-varnished arrows.
+- Stag-shaped antler charm of Hircine recovered from the Ragged Lord's ashes.
+- Black feather tokens from [[Info/Characters/NPCs/The_Vestige\|The Vestige]].
+- Field alchemical kit, smelling salts, and paralysis bombs.
+- Sturdy warhorse mount [[Info/Characters/Party/The Horses\|Mossback]].
 
-## Abilities & Alchemical Arsenal
-- **Custom Bomb-Crafting:**
-  - *Paralysis Bombs:* Flash-dispersal neurotoxins that lock joints and muscles.
-  - *Flame Bombs:* Volatile naphtha/alchemical fire bombs creating barriers and structural destruction.
-  - *Frenzy Bombs:* Hallucinogenic spore clouds driving enemies into violent infighting.
-- **Waterbreathing & Aquatic Infiltration:** Seamlessly maneuvers through submerged tunnels, flooded barrows, and icy rivers.
-- **Forensic Toxicology:** Analyzes poisons, tissue necrosis, and rare herbal residues.
+## Goals
+- **Primary Goal:** Return to Morrowind and liberate her bond-sister [[Info/Characters/NPCs/Xula\|Xula]] and fellow slaves from House Dres captivity.
+- **Secondary Goal:** Establish an expansive intelligence network to destroy regional slave rings and Daedric cults.
 
-## Mount
-- **[[Info/Characters/Party/The Horses#Mossback\|Mossback]]**: A broad, deep chestnut gelding with mossy fetlocks. Steady, cautious, and fond of wading into rivers, mirroring Onasha's patient endurance and survivor's instinct.
+## Relationships
+- **[[Info/Characters/Party/Periwyn\|Periwyn]], [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Kirya\|Kirya]]**: Her companions in the Fangs of Fjelhorst; shares an intimate pact of mutual assistance with Periwyn.
+- **[[Info/Characters/NPCs/Xula\|Xula]]**: Her bond-sister left behind in Morrowind slavery.
+- **[[Info/Characters/NPCs/Milos\|Milos]]**: Egg-brother from the Black-Tongue tribe and fellow covert operative.
+- **[[Info/Characters/NPCs/Hoki\|Hoki]]**: Young boy in Falderstad whom she protects and recruited as an informant.
+- **[[Info/Characters/NPCs/The_Vestige\|The Vestige]]**: Allied with the legendary hero in combating Daedric cults.
 
-## Key Session Events
-- **[[2 -  Sessions/Session 002\|Session 002]]**: Dove into the freezing river to clear the sabotaged sluice gates at the [[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod_Dam]]. Upon finding the poisoned body of [[Info/Characters/NPCs/Adrith_Velan\|Adrith_Velan]], flared her spines and crushed his skull with a warhammer to prevent undead reanimation.
-- **[[2 -  Sessions/Session 004\|Session 004]]**: Purchased silver arrows and discovered a strange black feather radiating faint twilight magic.
-- **[[2 -  Sessions/Session 006\|Session 006]]**: Discovered dark occult treatises in the [[Info/Locations/The Rift/Greenwall\|Greenwall]] smuggler tunnels and recognized the Black Sacrament rites.
-- **[[2 -  Sessions/Session 007\|Session 007]]**: Had her dragon-language scroll translated by the [[Info/Characters/NPCs/Talking_Fox\|Talking_Fox]], learning it was a summoning ritual tied to doom and secrecy. Burned a corner of the scroll, producing supernatural black flames. Comforted [[Info/Characters/Party/Kirya\|Kirya]] during her moment of vulnerability regarding her lost sister.
-- **[[2 -  Sessions/Session 008\|Session 008]]**: Dove into the flooded well at the [[Info/Locations/The Rift/Haunted_Hunting_Lodge\|Haunted_Hunting_Lodge]] using her natural waterbreathing to retrieve the severed skull of [[Info/Characters/NPCs/Lagertha\|Lagertha]], breaking the ancient binding curse.
-- **[[2 -  Sessions/Session 010\|Session 010]]**: Slept underwater in the river during the camping trip, terrifying [[Info/Characters/Party/Durov\|Durov]] when she surfaced; hunted a stag with [[Info/Characters/NPCs/Astrid\|Astrid]] and harvested valuable trophy antlers.
-- **[[2 -  Sessions/Session 011\|Session 011]]**: Reconnected with a Blacktongue kinsman at the [[Info/Locations/The Rift/Riften\|Riften]] docks. Swam silently underwater to flank the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna_Tong]] smuggler vessel and punched the captured smuggler [[Info/Characters/NPCs/Tharen_Duleri\|Tharen_Duleri]], breaking his nose.
-- **[[2 -  Sessions/Session 013\|Session 013]]**: Bonded with her horse [[Mossback\|Mossback]] after five days of patient training; studied herbal texts borrowed from [[Info/Characters/NPCs/Adda\|Adda]].
-- **[[2 -  Sessions/Session 017\|Session 017]]**: Supported the party during the confrontation against the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]] in the [[Info/Locations/The Rift/Cursed_Grove\|Cursed_Grove]], deploying alchemical wards.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Translated the Dunmer ledger from a Kragenmoor bank, proving that regional debts were being manipulated by corrupt merchant cartels. Crafted antler charms with [[Info/Characters/NPCs/Torik\|Torik]].
-- **[[2 -  Sessions/Session 019\|Session 019]]**: Reunited with her egg-brother [[Info/Characters/NPCs/Milos\|Milos]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], purchasing rare alchemical reagents (snake's eye and crocodile's eye).
-- **[[2 -  Sessions/Session 024\|Session 024]]**: Deployed a frenzy bomb against two horned Daedric overseers guarding [[Info/Locations/Kjalgrad/Warehouse_Seven\|Warehouse_Seven]], inciting them to slaughter each other and exposing cult operations.
-- **[[2 -  Sessions/Session 025\|Session 025]]**: Dove into the submerged vault within the [[Info/Locations/Kjalgrad/Barrow_of_the_Oath-Breaker_King\|Barrow_of_the_Oath-Breaker_King]] to retrieve ancient coins and enchanted rings.
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Threw a flame bomb during the extraction from the [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan_Morvan_Longhouse]], setting fire to the administrative wing to trap Steward [[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]] above the blaze.
-- **[[2 -  Sessions/Session 028\|Session 028]]**: Interrogated the captured Dremora [[Info/Characters/NPCs/Darius_Caro\|Darius Caro]] in the sewers. Infuriated by his mocking defiance, slashed his cheek with her steel dagger before dragging him to the outskirts of [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]].
-- **[[2 -  Sessions/Session 030\|Session 030]]-**[[2 -  Sessions/Session 031\|Session 031]]**: Deployed advanced flame and paralysis bombs to breach the defenses of [[Info/Locations/Kjalgrad/Altan_Mesa\|Altan_Mesa]], supporting the destruction of the Daedric portal.
+## Achievements
+- Delivered the decisive killing shot to the knee of the Daedric Ragged Lord.
+- Shot the critical silver arrow through the neck of the Daedric Xivilai in the Dwemer ritual facility.
+- Rescued multiple missing captives in Kjalgrad, including noble merchant [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre_LaRouche]].
+- Finally completed her long-running personal challenge by tripping courier [[Info/Characters/NPCs/Eirik_the_Quick\|Eirik_the_Quick]] in Falderstad.
+- Successfully orchestrated the burning of the corrupt Silverroad warehouses in Kjalgrad.
+
+## Session Mentions
+- [[2 -  Sessions/Session 001\|Session 001]]
+- [[2 -  Sessions/Session 002\|Session 002]]
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 006\|Session 006]]
+- [[2 -  Sessions/Session 007\|Session 007]]
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 009\|Session 009]]
+- [[2 -  Sessions/Session 010\|Session 010]]
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 013\|Session 013]]
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 016\|Session 016]]
+- [[2 -  Sessions/Session 017\|Session 017]]
+- [[2 -  Sessions/Session 018\|Session 018]]
+- [[2 -  Sessions/Session 019\|Session 019]]
+- [[2 -  Sessions/Session 020\|Session 020]]
+- [[2 -  Sessions/Session 021\|Session 021]]
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 023\|Session 023]]
+- [[2 -  Sessions/Session 024\|Session 024]]
+- [[2 -  Sessions/Session 025\|Session 025]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]
+- [[2 -  Sessions/Session 028\|Session 028]]
+- [[2 -  Sessions/Session 029\|Session 029]]
+- [[2 -  Sessions/Session 030\|Session 030]]
+- [[2 -  Sessions/Session 031\|Session 031]]

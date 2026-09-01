@@ -5,20 +5,26 @@
 # Captain Irlav
 
 ## Description
-The honorable commander of the city guard in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Originally from Bruma in Cyrodiil, he found himself caught in the corrupt web of the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Silverroad]] and the false steward, but remained dedicated to the defense of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]'s people.
+An experienced Imperial guard officer in his early 30s, originally from Bruma in Cyrodiil. He is the son of [[Info/Characters/NPCs/Colleux\|Colleux]] (a blacksmith) and [[Info/Characters/NPCs/Leona\|Leona]]. He bears a shield emblazoned with the eagle **Crest of Bruma** and has served the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild of the Silverroad]] for approximately three years, acting as trusted personal guard and security lead for Trade Advocate [[Info/Characters/NPCs/Vaelin_Marr\|Vaelin Marr]]. He is perceptive, composed, and holds a disciplined military bearing.
 
 ## Relationships
-- **[[Info/Organizations/Other/Clan_Morvan\|Clan_Morvan]]**: Ruler of [[Info/Organizations/Other/Clan_Morvan\|Clan Morvan]] whom he faithfully protects.
-- **[[Info/Characters/NPCs/Darius_Caro\|Darius_Caro]]**: Clashed with the false steward over security protocols and jurisdiction.
-- **[[Info/Characters/Party/Durov\|Durov]]**: Respected [[Info/Characters/Party/Durov\|Durov]]'s military discipline, sharing intelligence and bonding over their shared northern origins.
-- **[[Info/Characters/NPCs/Vaelin_Marr\|Vaelin_Marr]]**: Served as personal guard and operative under his command.
+- **[[Info/Characters/NPCs/Vaelin_Marr\|Vaelin Marr]]**: Serves as Vaelin's personal security commander and trusted lieutenant within the Guild of the Silverroad.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Developed a close soldierly bond, partnering on guard details, sharing drinks and homeland histories, and investigating covert assignments together.
+- **[[Info/Characters/NPCs/Colleux\|Colleux]] & [[Info/Characters/NPCs/Leona\|Leona]]**: His parents residing in Bruma.
+- **[[Info/Characters/NPCs/Proventus\|Proventus]]**: Fellow Imperial guard in Vaelin's entourage assigned to assist on field operations.
+- **[[Info/Characters/NPCs/Darius_Caro\|Darius Caro]]**: Stood up against the corrupt steward in the Kjalgrad dungeons regarding prisoner jurisdiction.
 
 ## Location
-- Headquartered at the guard post in the [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Clan Morvan Longhouse]].
+- **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]** and the **[[Info/Locations/Kjalgrad/Altan_Mesa\|Main Facility Ruin]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 022\|Session 022]]**: Met [[Info/Characters/Party/Durov\|Durov]] and bonded over their similar shield crests. Shared intelligence regarding the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]] presence in the city and provided [[Info/Characters/Party/Durov\|Durov]] with a spell absorption potion.
-- **[[2 -  Sessions/Session 023\|Session 023]]**: Assigned [[Info/Characters/Party/Durov\|Durov]] to a warehouse inspection where they uncovered suspicious crates related to the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild of the Silverroad]]'s operations. Intervened to halt the illicit shipment.
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Secretly sought out [[Info/Characters/Party/Durov\|Durov]] to investigate the rash of disappearances plaguing the city, leading him to a covert meeting with a shady informant.
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Investigated the exploding [[Info/Locations/Kjalgrad/Kjalgrad_Warehouse_District\|Kjalgrad Warehouse District]] alongside [[Info/Characters/Party/Durov\|Durov]], discovering planted death bell flowers. Later clashed with [[Info/Characters/NPCs/Darius_Caro\|Darius Caro]] over jurisdiction in the dungeons, but ultimately chose to respect clan honor by allowing [[Info/Characters/Party/Durov\|Durov]] to conceal a discovered royal writ.
-- **[[2 -  Sessions/Session 028\|Session 028]]**: Accompanied [[Info/Characters/Party/Durov\|Durov]] on a midnight ride to the [[Info/Locations/Kjalgrad/Altan_Mesa\|Main Facility Ruin]], using [[Info/Characters/NPCs/Vaelin_Marr\|Vaelin Marr]]'s pendant to grant them access. Was reassigned by [[Info/Characters/NPCs/Vaelin_Marr\|Vaelin Marr]] to investigate an abandoned [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]] camp.
+- **Guard Duty & Syndicate Warnings ([[2 -  Sessions/Session 022\|Session 022]]):** Partnered with [[Info/Characters/Party/Durov\|Durov]] on bridge security duty, sharing stories of his Colovian roots and privately warning Durov of the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]]'s covert infiltration into Kjalgrad.
+- **Dungeon Intervention ([[2 -  Sessions/Session 027\|Session 027]]):** Descended into the longhouse dungeon with [[Info/Characters/Party/Durov\|Durov]] to interrogate detained prisoner [[Info/Characters/Party/Onasha\|Onasha]], sharply rebuffing steward [[Info/Characters/NPCs/Darius_Caro\|Darius Caro]]. Took possession of the [[Info/Findings & Items/Documents & Notes/Official Writ of Authority\|Queen's Writ]] found in [[Info/Characters/Party/Periwyn\|Periwyn]]'s journal to verify its authenticity.
+- **Ruins Ride & Planemeld History ([[2 -  Sessions/Session 028\|Session 028]]):** Rode through the night with [[Info/Characters/Party/Durov\|Durov]] to the [[Info/Locations/Kjalgrad/Altan_Mesa\|Main Facility ruin]] (unlocking the entrance with Vaelin's Ouroboros pendant). Explained the eagle Crest of Bruma on his shield, recounted the horrors of the Planemeld when a Daedric anchor landed on Bruma's marketplace before the Cathedral of Saint Lucia, and set off with Durov to investigate the abandoned [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]] camp.
+
+## Session Mentions
+- [[2 -  Sessions/Session 022\|Session 022]]
+- [[2 -  Sessions/Session 023\|Session 023]]
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]
+- [[2 -  Sessions/Session 028\|Session 028]]

@@ -5,13 +5,17 @@
 # Vampire Survivor
 
 ## Description
-A survivor from the [[Info/Locations/The Rift/Greenwall\|Greenwall]] incident who took shelter in an overgrown hunting lodge after being severely wounded.
+An arrogant, cunning vampire survivor from the [[Info/Locations/The Rift/Greenwall\|Greenwall]] occupation force belonging to [[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn the Ancient]]'s rogue coven. Severely wounded by a wilderness beast in the Northern Forest, he took refuge in hunter [[Info/Characters/NPCs/Nilan\|Nilan]]'s basement, turning Nilan into a living feeding thrall while regenerating his strength.
 
 ## Relationships
-- **Unknown**: A victim of the creature roaming the northern forests.
+- **[[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn the Ancient]]**: His coven master.
+- **[[Info/Characters/NPCs/Nilan\|Nilan]]**: Bound, enthralled, and bled Nilan to death.
 
 ## Location
-- Found taking refuge in the [[Info/Locations/The Rift/Ruined_Hunting_Lodge\|Ruined_Hunting_Lodge]].
+- Concealed basement in **[[Info/Locations/Falderstad/Nilans_House\|Nilan's House]]**, **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 014\|Session 014]]**: Discovered by the party inside the lodge, clutching a deep wound carved across his side by a beast from the woods. He did not attack the party and instead revealed extensive information about the vampire conspiracy and the events at [[Info/Locations/The Rift/Greenwall\|Greenwall]].
+- **Basement Interrogation ([[2 -  Sessions/Session 014\|Session 014]]):** Cornered by the party clutching a deep claw wound; boasted that the Greenwall massacre was merely a field experiment to test mortal defense capabilities before larger incursions, providing crucial intelligence on Majorn's conspiracy.
+
+## Session Mentions
+- [[2 -  Sessions/Session 014\|Session 014]]

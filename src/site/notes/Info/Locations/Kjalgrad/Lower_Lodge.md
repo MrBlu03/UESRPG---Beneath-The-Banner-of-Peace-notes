@@ -2,13 +2,23 @@
 {"dg-publish":true,"permalink":"/info/locations/kjalgrad/lower-lodge/"}
 ---
 
+# Lower Lodge
+
+## Overview
+A secure, fortified subterranean safehouse and operational headquarters for the **Lower Lodge resistance network**, hidden deep within the ancient sewer vaults beneath [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]].
+
 ## Description
-The Lower Lodge is a well-concealed underground sanctuary and base of operations for the [[Info/Organizations/Criminal/Lower_Lodge_Network\|Lower_Lodge_Network]] in the sewers beneath [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Marked by a diamond-circle symbol on its entrance, it serves as a secure meeting point and refugee shelter for those resisting the corrupt [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild_of_the_Silverroad]] and the Skin-Changer Jarl.
+A dry, reinforced subterranean chamber fitted with supply crates, weapon racks, mapping tables, emergency rations, and hidden escape tunnels marked by the diamond-circle insignia.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Tarja\|Tarja]]**: Also known as Taria, the primary contact and resistance coordinator running the Lower Lodge.
-- **[[Info/Characters/NPCs/Tabitha\|Tabitha]]**: A Lower Lodge contact who serves as a sewer guide.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Tarja\|Tarja (Taria)]]**: Tactical coordinator and leader of the Lower Lodge.
+- **[[Info/Characters/NPCs/Tabitha\|Tabitha]]**: Subterranean guide and scout.
+- **Resistance Operatives**: Disaffected laborers, artisans, and embedded warehouse contacts.
 
-## Key Events
-- **[[2 -  Sessions/Session 026\|Session 026]]**: [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Periwyn\|Periwyn]] visited the lodge, noticing warehouse refugees settling in. They met with [[Info/Characters/NPCs/Tarja\|Tarja]], who briefed them on the market protest operation and supplied them with encoded letters, death bell traps, and kindling to sabotage the warehouse district.
-- **[[2 -  Sessions/Session 027\|Session 027]]**: Following [[Info/Characters/Party/Onasha\|Onasha]]'s capture during the warehouse explosions, [[Info/Characters/Party/Periwyn\|Periwyn]] retreated to the Lower Lodge. [[Info/Characters/NPCs/Tarja\|Tarja]] provided her with a magicka potion and a replacement sword from the stash, and coordinated a rescue squad. Led by [[Info/Characters/NPCs/Tabitha\|Tabitha]], they navigated from the lodge through the sewers to a false wall behind the Yarls Hall dungeon to execute a successful jailbreak.
+## Notable Events
+- **Strike & Sabotage Briefing ([[2 -  Sessions/Session 026\|Session 026]]):** Tarja briefed [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Periwyn\|Periwyn]] on the coordinated market strike, delivering encrypted orders and sabotage materials to burn the Silverroad warehouses.
+- **Jailbreak Staging ([[2 -  Sessions/Session 027\|Session 027]]):** Following Onasha's capture, [[Info/Characters/Party/Periwyn\|Periwyn]] regrouped here with Tarja, receiving a magicka potion and replacement longsword before [[Info/Characters/NPCs/Tabitha\|Tabitha]] guided the squad to storm the longhouse dungeons.
+
+## Session Mentions
+- [[2 -  Sessions/Session 026\|Session 026]]
+- [[2 -  Sessions/Session 027\|Session 027]]

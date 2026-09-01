@@ -2,50 +2,23 @@
 {"dg-publish":true,"permalink":"/info/organizations/other/mages-guild/"}
 ---
 
-
 # Mages Guild
 
-## Basic Information
-**Type:** Magical Guild/Institution  
-**Region:** Tamriel-wide  
-**Status:** Active  
-**Main Guild Hall:** [[Info/Locations/Other Realms/Eyevea\|Eyevea]]
+## Overview
+The premier, continent-wide chartered academic institution dedicated to the study of magic, spell research, and the safe containment of dangerous planar and Daedric artifacts.
 
-## Description
-The Mages Guild is a prominent organization of mages across Tamriel, dedicated to the study and practice of magic. They provide expertise on magical artifacts, Daedric items, and supernatural threats.
+## Key Members & Associated Figures
+- **[[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]]**: Antiquarian and Daedric artifact researcher.
+- **[[Info/Characters/NPCs/Garen_Hlaalu\|Garen_Hlaalu]]**: Regional Director of the Mages Guild in Skyrim.
+- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus_Mortgren]]**: Collaborates on royal arcane forensics in Riften.
 
-## Key Personnel
-- **[[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]]**: High-ranking member and lead expert on Daedric artifacts
-- **[[Info/Characters/NPCs/Archmagus_Mortgren\|Archmagus Mortgren]]**: Associated with [[Info/Locations/The Rift/Greenwall\|Greenwall]] operations
-- **Vanus**: Guild member who owes [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]] a favor (related to artifact storage at [[Info/Locations/Other Realms/Eyevea\|Eyevea]])
+## Operations & Notable Events
+- **Harrowstorm Core Containment ([[2 -  Sessions/Session 007\|Session 007]], [[2 -  Sessions/Session 018\|Session 018]]):** Antiquarian Gabrielle Benele met the party in Falderstad, identified the Greenwall orb as an authentic Grey Host Harrowstorm Engine Core, and oversaw its transport to the vaults of [[Info/Locations/Other Realms/Eyevea\|Eyevea]].
 
-## Current Operations
-
-### Harrowstorm Engine Core Investigation ([[2 -  Sessions/Session 018\|Session 018]])
-- **[[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]]** traveled to [[Info/Locations/Falderstad/Falderstad\|Falderstad]] to deliver intelligence on the Ritual Orb
-- The orb has been identified as a **Harrowstorm Engine Core** from the [[Info/Lore/Grey_Host\|Grey Host]] crisis
-- The artifact has been wrapped in multiple layers of **anti-Daedric wards**
-- Departed [[Info/Locations/Falderstad/Falderstad\|Falderstad]] for [[Info/Lore/Windhelm\|Windhelm]] 1-2 days prior to the 10th of Sun's Dusk
-- Final destination: Main guild hall in [[Info/Locations/Other Realms/Eyevea\|Eyevea]] for safe storage
-
-### Greenwall Coordination
-- Mages Guild expedition sent to investigate Daedric orb at [[Info/Locations/The Rift/Greenwall\|Greenwall]]
-- Expected arrival: 31st of Frostfall (before Witches Festival)
-
-## Expertise Areas
-- **Daedric Artifacts**: Specialized analysis and containment
-- **Ancient Relics**: Historical and magical research
-- **Supernatural Threats**: Consultation on magical dangers
-- **Artifact Containment**: Anti-magic wards and safe storage protocols
-
-## Facilities
-- **Main Guild Hall**: [[Info/Locations/Other Realms/Eyevea\|Eyevea]] - primary artifact storage location
-- **[[Info/Locations/Other Skyrim/Winterhold\|College of Winterhold]]**: Associated magical institution in Skyrim (currently under reconstruction)
-
-## Related Quests
-- [[Info/Quests/Mages_Guild_Greenwall_Coordination\|Mages_Guild_Greenwall_Coordination]]: Coordination with incoming specialists
-- [[Info/Quests/Coiled_Serpent_Conspiracy\|Coiled_Serpent_Conspiracy]]: Analyzing Daedric connections
-
-## Session References
-- **[[2 -  Sessions/Session 012\|Session 012]]**: [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]] mentioned as incoming specialist
-- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]] arrived in [[Info/Locations/Falderstad/Falderstad\|Falderstad]] with Harrowstorm Engine Core intelligence
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 007\|Session 007]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 012a\|Session 012a]]
+- [[2 -  Sessions/Session 017\|Session 017]]
+- [[2 -  Sessions/Session 018\|Session 018]]

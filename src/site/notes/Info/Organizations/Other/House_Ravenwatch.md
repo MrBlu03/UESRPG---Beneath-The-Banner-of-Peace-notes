@@ -5,22 +5,10 @@
 # House Ravenwatch
 
 ## Overview
-- An organization or house mentioned only briefly in conversation.
+The noble, chivalric vampire house based in Rivenspire (High Rock), devoted to hunting predatory undead, protecting mortals, and proving that civilized vampires can resist bloodlust.
 
-## Structure
-- Unknown.
+## Key Lore & Philosophies
+- **Philosophy of Coexistence:** Stands in stark philosophical contrast to the predatory isolationism of Clan Volkihar, providing a beacon of restraint within esoteric lore.
 
-## Goals and Activities
-- Unknown.
-
-## Known Members
-- Unknown.
-
-## Relationships
-- Unknown.
-
-## Locations
-- Unknown.
-
-## Notes
-- Briefly referenced in Chapter 009a: Memoir - She Wore Her Grief Like Silk, in a dialogue regarding people not listening.
+## Session Mentions
+- [[2 -  Sessions/Session 009a (Periwyn's slumber)\|Session 009a (Periwyn's slumber)]]

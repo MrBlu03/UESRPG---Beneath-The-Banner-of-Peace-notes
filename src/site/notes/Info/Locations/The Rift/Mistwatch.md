@@ -2,12 +2,20 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/mistwatch/"}
 ---
 
+# Mistwatch
+
+## Overview
+An ancient stone fortress and mountain sanctuary situated in the high ridges near the border of the Rift and Eastmarch, renowned for its secluded healing shrines and restorative practitioners of the Old Gods.
+
 ## Description
-A place of ancient power situated deep in the Hirsing Range, long whispered about for its spiritual significance. It is tied to healing rituals involving the Old Gods.
+A series of fortified stone watchtowers connected by high bridges overlooking misty mountain valleys, offering natural thermal springs and herbal convalescence chambers.
 
-## Notable NPCs
-- None specified.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Wuunferth\|Wuunferth]]**: Renowned vampire hunter escorted here to recover from severe torture.
+- **[[Info/Characters/NPCs/Hillevi\|Hillevi]]**: Companion healer who transported Wuunferth to the sanctuary.
 
-## Key Events
-- **[[2 -  Sessions/Session 007\|Session 007]]**: [[Info/Characters/NPCs/Hillevi\|Hillevi]] planned to take the injured [[Info/Characters/NPCs/Wuunferth\|Wuunferth]] here to seek healing from the Old Gods once the snows melted.
-- **[[2 -  Sessions/Session 021\|Session 021]]**: [[Info/Characters/NPCs/The_Vestige\|The Vestige]] mentioned Mistwatch as a potential site of ancient power or spiritual rites while speaking with the party.
+## Notable Events
+- **Convalescence of Wuunferth ([[2 -  Sessions/Session 007\|Session 007]]):** Following the liberation of Greenwall, Companion healer Hillevi took the critically injured Wuunferth here for medical treatment under the care of the Old Gods until the spring thaw.
+
+## Session Mentions
+- [[2 -  Sessions/Session 007\|Session 007]]

@@ -2,11 +2,20 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/ruined-hunting-lodge/"}
 ---
 
+# Ruined Hunting Lodge
+
+## Overview
+A half-collapsed, dilapidated wooden hunting lodge situated in the snowbound woods north of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], near the boundary of the [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]].
+
 ## Description
-An abandoned, run-down, and half-collapsed hunting lodge located in the border forest between the Rift and Falderstad. 
+A decaying timber cabin with broken roof beams, weather-damaged walls, and a concealed stone basement hidden beneath floor timbers.
 
-## Notable NPCs
-- None specified.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Vampire_Survivor\|Vampire_Survivor]]**: Wounded Volkihar vampire from Greenwall who used the cellar as a hiding post.
+- **[[Info/Characters/NPCs/Nilan\|Nilan]]**: Hunter whose body was found bound and drained in the basement.
 
-## Key Events
-- **[[2 -  Sessions/Session 014\|Session 014]]**: The party discovered the half-collapsed ruins of this lodge while following a trail through the northern forest.
+## Notable Events
+- **Interrogation of the Vampire ([[2 -  Sessions/Session 014\|Session 014]]):** The party tracked blood trails to the cellar, discovering Nilan's corpse and cornering the wounded [[Info/Characters/NPCs/Vampire_Survivor\|Vampire_Survivor]], who revealed that the Greenwall massacre was merely a field experiment conducted by [[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn_the_Ancient]].
+
+## Session Mentions
+- [[2 -  Sessions/Session 014\|Session 014]]

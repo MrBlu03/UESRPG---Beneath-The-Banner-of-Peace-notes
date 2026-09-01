@@ -4,21 +4,19 @@
 
 # Cabbage Guy (Olaf)
 
-> *"My cabbages! Frozen, seized, or ruined by guard bastards—there is no peace for an honest produce merchant in Skyrim!"*
-
 ## Description
-An eccentric, perpetually exasperated produce vendor who carts wagonloads of cabbages across the harsh roads of Skyrim. Despite constant civil unrest, Daedric cults, and frozen mountain passes, Olaf remains absurdly committed to selling his brassicas, serving as an unwitting barometer of local economic conditions and street gossip.
+A jovial, hard-working produce vendor and farmer named Olaf who operates a merchant cart in the Rift and Eastmarch. He owns a modest farm near [[Info/Locations/The Rift/Kjalls_Crossing\|Kjall's Crossing]] north of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. He sells fresh cabbages during the growing season and pivots to selling frozen winter potatoes when the frost sets in.
 
 ## Relationships
-- **[[Info/Characters/Party/Durov\|Durov]]**: Frequent customer and bemused listener who occasionally trades loose septims or guardsman gossip for fresh heads of cabbage.
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Crossed paths with the party in three different holds, invariably complaining about how their heroics cause market disruptions.
+- **[[Info/Characters/Party/Durov\|Durov]]**: Shares an amusing, recurring banter regarding cabbages, potatoes, and farm produce.
 
 ## Location
-- Operates market stalls across [[Info/Locations/The Rift/Riften\|Riften]], [[Info/Locations/Falderstad/Falderstad\|Falderstad]], and the [[Info/Locations/Kjalgrad/Grand_Market_Kjalgrad\|Grand Market in Kjalgrad]].
+- Street markets in **[[Info/Locations/The Rift/Riften\|Riften]]** and **[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]**; farm located near **[[Info/Locations/The Rift/Kjalls_Crossing\|Kjall's Crossing]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 001\|Session 001]]**: Set up his wooden cart near the fountain in [[Info/Locations/The Rift/Riften\|Riften]]'s market square, loudly complaining about water tariffs and squabbling clans hurting vegetable irrigation.
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Encountered in the [[Info/Locations/The Rift/Riften\|Riften]] market following the suspicious [[Info/Locations/The Rift/Ratway\|Ratway]] fires; ranted bitterly to [[Info/Characters/Party/Durov\|Durov]] about corrupt hold guards shaking down street vendors and causing panics that trampled his fresh produce.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Spotted near the perimeter gate of [[Info/Locations/Falderstad/Falderstad\|Falderstad]], trying in vain to thaw rock-hard frozen cabbages over a smoky brazier while complaining about the northern chill.
-- **[[2 -  Sessions/Session 019\|Session 019]]**: Passed the party along the rocky road into the Reach, stubbornly pushing his rattling cart toward [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] to capitalize on city trade.
-- **[[2 -  Sessions/Session 022\|Session 022]]**: Established a temporary vegetable stall in the [[Info/Locations/Kjalgrad/Grand_Market_Kjalgrad\|Grand Market]] of [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]. Voiced deep frustration over the [[Info/Organizations/Guilds/Guild_of_the_Silverroad\|Guild of the Silverroad]]'s exorbitant market tariffs and whispered rumors of workers receiving counterfeit gold.
+- **Riften Market Banter ([[2 -  Sessions/Session 012\|Session 012]]):** Initially dismissed the adventurers' questions, but burst into laughter when [[Info/Characters/Party/Durov\|Durov]] posed strange questions phrased entirely in cabbage metaphors. Amused, he provided the party with helpful directions.
+- **Winter Trade in Kjalgrad ([[2 -  Sessions/Session 022\|Session 022]]):** Encountered in Kjalgrad selling frozen potatoes from his cart due to winter freezing the cabbage harvest, sharing friendly conversation with [[Info/Characters/Party/Durov\|Durov]].
+
+## Session Mentions
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 022\|Session 022]]

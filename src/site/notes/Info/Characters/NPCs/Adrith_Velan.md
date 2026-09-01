@@ -5,16 +5,26 @@
 # Adrith Velan
 
 ## Description
-Adrith Velan was a Dunmer saboteur and operative for the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]]. He traveled to [[Info/Locations/The Rift/Trevas_Bend\|Treva's Bend]] not to help the locals, but to inflame discord between fishermen and [[Info/Organizations/Other/Clan_Snow-Shod\|Clan Snow-Shod]] by blocking the flow regulators in the [[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod Dam]]. Once his mission was complete, he was murdered by his own faction using a rare, complex poison laced with Oblivion ingredients.
+A Dunmer merchant whose murdered body was discovered near the [[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod Dam]] in the Rift. He kept a personal diary detailing his affairs, which was later retrieved from his remains and delivered to the royal court.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Sigrid\|Sigrid]]**: The mortician at the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] in [[Info/Locations/The Rift/Riften\|Riften]] who examined his poisoned corpse.
-- **[[Info/Characters/NPCs/Captain_Harvold\|Captain Harvold]]**: The guard captain who recognized his name when the party brought in his body.
+- **[[Info/Characters/NPCs/Sigrid\|Sigrid]]**: Mortician at the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall of the Dead]] in [[Info/Locations/The Rift/Riften\|Riften]] who conducted the examination and autopsy of his remains.
+- **[[Info/Characters/NPCs/Captain_Harvold\|Captain Harvold]]**: Riften guard captain who recognized Velan by name when his corpse was brought to the barracks.
+- **[[Info/Characters/NPCs/Queen_Freidr\|Queen Freidr]]**: Received Adrith's recovered diary at [[Info/Locations/The Rift/Mistveil_Keep\|Mistveil Keep]] as evidence.
 
 ## Location
-- His body was discovered near [[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod_Dam]] and later moved to the [[Info/Locations/The Rift/Hall_of_the_Dead\|Hall_of_the_Dead]] in [[Info/Locations/The Rift/Riften\|Riften]].
+- Found dead near the **[[Info/Locations/The Rift/Snow-Shod_Dam\|Snow-Shod Dam]]** upstream from **[[Info/Locations/The Rift/Trevas_Bend\|Treva's Bend]]**.
+- Remains transported to the **[[Info/Locations/The Rift/Hall_of_the_Dead\|Hall of the Dead]]** morgue in **[[Info/Locations/The Rift/Riften\|Riften]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 002\|Session 002]]**: Discovered dead at the base of a gnarled oak near the dam, his face slack and lips stained purple from nightshade poison. [[Info/Characters/Party/Onasha\|Onasha]] struck his skull to ensure he wouldn't rise as an undead. His journal revealed his sabotage plot and ties to the [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]]. His body was dragged back by [[Info/Characters/Party/Durov\|Durov]] and delivered to the morgue in [[Info/Locations/The Rift/Riften\|Riften]].
-- **[[2 -  Sessions/Session 003\|Session 003]]-[[2 -  Sessions/Session 004\|Session 004]]**: His murder sparked an ongoing investigation. [[Info/Characters/NPCs/Sigrid\|Sigrid]] and [[Info/Characters/NPCs/Ralvard\|Ralvard]] determined the poison was a complex mixture involving vampire dust and shadow ichor, pointing to a powerful perpetrator.
-- **[[2 -  Sessions/Session 014\|Session 014]]**: The party discovered the body of [[Info/Characters/NPCs/Nilan\|Nilan]] murdered with the exact same distinct nightshade poison that killed Adrith Velan, drawing a direct connection between the two deaths.
+- **Murder Investigation ([[2 -  Sessions/Session 002\|Session 002]], [[2 -  Sessions/Session 003\|Session 003]], [[2 -  Sessions/Session 004\|Session 004]]):** His body was poisoned with a complex, exotic concoction laced with Oblivion ingredients, specifically vampire dust, shadow ichor, and nightshade.
+- **Conspiracy Clues:** At his campsite near the dam, investigators found burnt paper scraps and a mysterious emblem depicting the [[Info/Lore/Coiled_Serpent\|Coiled Serpent]].
+- **Poison Scent Recall ([[2 -  Sessions/Session 014\|Session 014]]):** Months later, [[Info/Characters/Party/Onasha\|Onasha]] recognized the distinctive sharp aroma of nightshade used in his assassination during subsequent investigations.
+
+## Session Mentions
+- [[2 -  Sessions/Session 002\|Session 002]]
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 020\|Session 020]]

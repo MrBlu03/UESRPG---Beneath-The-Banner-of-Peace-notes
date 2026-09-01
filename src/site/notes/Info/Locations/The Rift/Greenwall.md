@@ -2,21 +2,31 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/greenwall/"}
 ---
 
-# Fort Greenwall
+# Greenwall (Fort Greenwall)
+
+## Overview
+A massive, ancient stone fortress commanding the vital mountain pass between [[Info/Locations/The Rift/The_Rift\|The_Rift]] and Morrowind. Features towering stone ramparts, reinforced keeps, deep dungeons, and ancient smuggler tunnels dating back to the Three Banners War.
 
 ## Description
-Fort Greenwall is a formidable military fortress strategically positioned north of [[Info/Locations/The Rift/Riften\|Riften]] along the main road toward Eastmarch. Holding deep historical importance from the Three Banners War, the fort features imposing stone ramparts, catapult platforms, and a subterranean smuggler's tunnel network beneath the foundation.
+An imposing multi-tiered stone citadel engineered to control regional transit. During the crisis, it was shrouded in an unnatural, impenetrable magical blizzard created by an ancient vampire coven.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]]**: Harbinger of the [[Info/Organizations/Military/Companions\|Companions]], led the assault on Greenwall.
-- **[[Info/Characters/NPCs/Beitild_the_Unwavering\|Beitild the Unwavering]]**: Companion lost in the battle.
-- **[[Info/Characters/NPCs/Olen_the_Mer-Killer\|Olen the Mer-Killer]]**: Companion lost in the battle.
-- **[[Info/Characters/NPCs/Wuunferth\|Wuunferth]]**: Vampire hunter tortured in the fort.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Thrysnr_the_Unsullied\|Thrysnr_the_Unsullied]]**: Volkihar master vampire who commanded the occupying coven.
+- **[[Info/Characters/NPCs/Wuunferth\|Wuunferth]]**: Seasoned vampire hunter tortured and rescued from the keep.
+- **[[Info/Characters/NPCs/Vigrod_Wraithbane\|Vigrod Wraithbane]] & [[Info/Characters/NPCs/Gjellir_Stormcrown\|Gjellir Stormcrown]]**: Led the military siege to retake the fortress.
+- **The Fangs of Fjelhorst**: Infiltrated and broke the vampire occupation.
 
-## Key Events
-- **[[2 -  Sessions/Session 003\|Session 003]]**: Word reached Riften that Greenwall was swallowed by an unnatural magical blizzard.
-- **[[2 -  Sessions/Session 005\|Session 005]]**: The party journeyed to Greenwall and found the [[Info/Organizations/Military/Companions\|Companions]]' war camp decimated by a vampire ambush.
-- **[[2 -  Sessions/Session 006\|Session 006]]**: The party infiltrated Greenwall through a smuggler's tunnel, discovering a Black Sacrament ritual and a horrific altar to [[Info/Lore/Molag_Bal\|Molag_Bal]], successfully dispelling the magical darkness.
-- **[[2 -  Sessions/Session 007\|Session 007]]**: The party saved [[Info/Characters/NPCs/Wuunferth\|Wuunferth]], paid respects to fallen Companions, and delivered a decapitated vampire head back to [[Info/Locations/The Rift/Riften\|Riften]].
-- **[[2 -  Sessions/Session 014\|Session 014]]**: The party met a vampire survivor in [[Info/Locations/Falderstad/Falderstad\|Falderstad]] who boasted that the massacre at Greenwall was merely a field experiment by [[Info/Characters/NPCs/Majorn_the_Ancient\|Majorn_the_Ancient]].
-- **[[2 -  Sessions/Session 018\|Session 018]]**: [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]] of the [[Info/Organizations/Other/Mages_Guild\|Mages_Guild]] arrived and confirmed the crimson orb found in Greenwall was a dormant Harrowstorm engine core left by the [[Info/Lore/Grey_Host\|Grey_Host]].
+## Notable Events
+- **The Unnatural Blizzard & Eclipse ([[2 -  Sessions/Session 003\|Session 003]], [[2 -  Sessions/Session 005\|Session 005]]):** Occupied by Majorn the Ancient's coven, who utilized a **Harrowstorm Engine Core** to blot out the sun and ambush approaching garrisons.
+- **Infiltration & Liberation ([[2 -  Sessions/Session 006\|Session 006]], [[2 -  Sessions/Session 007\|Session 007]]):** The party navigated forgotten smuggler tunnels beneath the fortress, assassinated the vampire ritualists, rescued Wuunferth, secured the Harrowstorm Engine Core, and delivered Thrysnr's severed head to Queen Freidr.
+
+## Session Mentions
+- [[2 -  Sessions/Session 003\|Session 003]]
+- [[2 -  Sessions/Session 004\|Session 004]]
+- [[2 -  Sessions/Session 005\|Session 005]]
+- [[2 -  Sessions/Session 006\|Session 006]]
+- [[2 -  Sessions/Session 007\|Session 007]]
+- [[2 -  Sessions/Session 008\|Session 008]]
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 018\|Session 018]]

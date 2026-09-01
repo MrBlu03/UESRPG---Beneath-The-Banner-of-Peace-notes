@@ -2,32 +2,23 @@
 {"dg-publish":true,"permalink":"/info/quests/kirya-sister-search/"}
 ---
 
+# Kirya's Sister Search
 
-# Kirya's Search for Her Lost Sister
+## Quest Log Summary
+[[Info/Characters/Party/Kirya\|Kirya Ma'Tael]], a skilled Khajiit scout and skald, travels across Skyrim to search for clues regarding the fate of her beloved sister, who vanished years ago during a tragic bandit raid.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Personal  
-**Assigned Session:** [[2 -  Sessions/Session 007\|Session 007]]  
-**Completed Session:** [[2 -  Sessions/Session 026\|Session 026]]  
-**Reward:** New Journey, Protective Black Feather  
+## Objectives & Progression
+- [x] Confide in [[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]] regarding her loss and protective bond with the party ([[2 -  Sessions/Session 008\|Session 008]]).
+- [x] Inquire with caravan traders and tavernkeepers across Riften, Falderstad, and Kjalgrad ([[2 -  Sessions/Session 004\|Session 004]], [[2 -  Sessions/Session 018\|Session 018]]).
+- [x] Gather intelligence on Khajiit merchant routes and border slave networks ([[2 -  Sessions/Session 022\|Session 022]]).
+- [ ] Locate definitive proof or track her sister's current whereabouts in Tamriel.
 
-## Objective
-Follow leads across Skyrim regarding the fate of Kirya's lost sister and find closure.
+## Key Participants & Factions
+- **[[Info/Characters/Party/Kirya\|Kirya Ma'Tael]]**
+- **The Fangs of Fjelhorst**: [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/Party/Onasha\|Onasha]], [[Info/Characters/Party/Periwyn\|Periwyn]].
 
-## Key NPCs
-  - "[[Info/Characters/Party/Kirya\|Kirya]]"
-  - "[[Info/Characters/NPCs/Jzargo\|Jzargo]]"
-  - "[[Info/Characters/NPCs/The_Vestige\|The_Vestige]]"
-  - "[[Info/Characters/Party/Onasha\|Onasha]]"
+## Locations Visited
+- [[Info/Locations/The Rift/Riften\|Riften]], [[Info/Locations/Falderstad/Falderstad\|Falderstad]], [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]
 
-## Key Locations
-  - "[[Info/Locations/The Rift/Riften\|Riften]]"
-  - "[[Info/Locations/Falderstad/Falderstad\|Falderstad]]"
-  - "[[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]]"
-  - "[[Info/Locations/Other Skyrim/Winterhold\|Winterhold]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 007\|Session 007]]**: [[Info/Characters/Party/Kirya\|Kirya]] vulnerably revealed her past trauma and the loss of her sister to [[Info/Characters/Party/Onasha\|Onasha]].
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Received a correspondence letter from [[Info/Characters/NPCs/Jzargo\|Jzargo]] from the College of Winterhold.
-- **[[2 -  Sessions/Session 026\|Session 026]]**: Reunited with [[Info/Characters/NPCs/Jzargo\|Jzargo]] in [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]] with a promising lead; bid farewell to [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]] to pursue her own quest.
+## Session Mentions
+- [[2 -  Sessions/Session 004\|Session 004]], [[2 -  Sessions/Session 008\|Session 008]], [[2 -  Sessions/Session 018\|Session 018]], [[2 -  Sessions/Session 022\|Session 022]]

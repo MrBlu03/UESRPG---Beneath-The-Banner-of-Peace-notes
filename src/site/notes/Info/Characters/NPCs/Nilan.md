@@ -4,20 +4,21 @@
 
 # Nilan
 
-> *"A quiet trapper whose humble homestead became the gruesome ground zero for a vampire's blood-well."*
-
 ## Description
-A solitary Nord woodsman and trapper living on the outskirts of [[Info/Locations/Falderstad/Falderstad\|Falderstad]]. Respected by local hunters for his tracking instincts and knowledge of mountain trails, his sudden disappearance triggered alarm across the settlement. The party subsequently uncovered that he had been abducted, murdered, and raised as a thrall by an undercover vampire agent, his cellar turned into a ritual slaughterhouse.
+A respected Nord hunter of [[Info/Locations/Falderstad/Falderstad\|Falderstad]] whose secluded residence on the northern border of town was secretly seized by a wounded vampire survivor from the Greenwall coven.
 
 ## Relationships
-- **[[Info/Characters/NPCs/Jarl_Gorm\|Jarl_Gorm]]**: Local subject of the Jarl; Gorm officially deeded Nilan's abandoned cottage to [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The Fangs]] as a reward for resolving the horror.
-- **[[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]]**: Uncovered his murder, put his reanimated corpse to rest, and inherited his home.
+- **[[Info/Characters/NPCs/Vampire_Survivor\|Vampire_Survivor]]**: Captured, enthralled, and fed upon by the rogue vampire.
+- **The Fangs of Fjelhorst**: Discovered his tragic fate, laid him to rest, and inherited his house.
 
 ## Location
-- Formerly resided at [[Info/Locations/Falderstad/Nilans_House\|Nilan's House]] on the northern perimeter of [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- **[[Info/Locations/Falderstad/Nilans_House\|Nilan's House]]** in **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]**.
 
 ## Notes
-- **[[2 -  Sessions/Session 014\|Session 014]]**: Reported missing in [[Info/Locations/Falderstad/Falderstad\|Falderstad]] alongside several hunters. The party searched his locked house, discovering blood spatters, disturbed furniture, and a concealed trapdoor leading into the root cellar.
-- **[[2 -  Sessions/Session 015\|Session 015]]**: Down in the dark cellar, the party encountered Nilan's reanimated corpse acting as an undead thrall beside a blood-drain altar. After defeating the thrall and his vampiric master, they recovered poisoned daggers and alchemical notes linking his fate to [[Info/Organizations/Cults/Clan_Volkihar\|Clan_Volkihar]].
-- **[[2 -  Sessions/Session 019\|Session 019]]**: [[Info/Characters/NPCs/Jarl_Gorm\|Jarl_Gorm]] officially granted the deed of Nilan's cleansed house to the party before their departure toward [[Info/Locations/Kjalgrad/Kjalgrad\|Kjalgrad]], providing them with a permanent base in Falderstad.
-- **[[2 -  Sessions/Session 017\|Session 017]]**: Following the hunt for [[Info/Characters/NPCs/Nohrak\|Nohrak]], the party returned to Nilan's cellar to consecrate the blood altar with holy fire, ensuring no further necromantic thralls could be raised.
+- **Tragic Discovery & Cremation ([[2 -  Sessions/Session 014\|Session 014]]):** Discovered by the party bound against the wall of his concealed basement, heavily bruised and drained of blood after being enthralled as a living feeding thrall. The party gave his remains an honorable Nord funeral pyre behind the cottage.
+- **Gift of Nilan's House ([[2 -  Sessions/Session 017\|Session 017]]):** Following the slaying of the [[Info/Characters/NPCs/Nohrak\|Ragged Lord]], Jarl [[Info/Characters/NPCs/Jarl_Gorm\|Gorm]] rewarded the party with perpetual free deed and use of Nilan's former house as their personal base in Falderstad.
+
+## Session Mentions
+- [[2 -  Sessions/Session 014\|Session 014]]
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 017\|Session 017]]

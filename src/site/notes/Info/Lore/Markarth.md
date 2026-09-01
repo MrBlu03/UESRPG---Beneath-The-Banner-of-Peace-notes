@@ -2,17 +2,13 @@
 {"dg-publish":true,"permalink":"/info/lore/markarth/"}
 ---
 
-# Markarth
+# Markarth (City of Stone)
 
 ## Overview
-The ancient stone city built into the cliffs of the western Reach by the Dwemer, known as the City of Stone.
+The ancient, fortified stone capital of [[Info/Lore/The_Reach\|The_Reach]] built into the cliffs of an ancient Dwemer city in western Skyrim, renowned for rich silver mines.
 
-## Significance
-Strategic western stronghold renowned for silver mining and ancient Dwemer ruins.
+## Trade Connections
+- Evaluated during regional trade agreements regarding silver smelting, lumber supplies, and overland merchant caravans connecting eastern and western holds.
 
-## Connections
-- [[Info/Lore/The_Reach\|The_Reach]]
-- [[Info/Locations/Other Skyrim/Harmugstahl\|Harmugstahl]]
-
-## Notes
-- Recorded in campaign journals and historical treatises consulted by [[Info/Organizations/Other/The_Fangs_of_Fjelhorst\|The_Fangs_of_Fjelhorst]].
+## Session Mentions
+- [[2 -  Sessions/Session 018\|Session 018]]

@@ -5,77 +5,43 @@
 
 # 📜 Lore, Deities & Historical Archives
 
-## Legend
-**Types:** ⚡ Divine / Deity | 😈 Daedric Prince | 🌌 Planar Realm | 📜 Historical Text | 🗺️ Regional Lore  
-**Significance:** ⭐ Major | 📌 Regional | 🔍 Historical
+A comprehensive archive of all theological pantheons, Daedric Princes, occult phenomena, and regional geography referenced across the campaign.
 
 ---
 
-## ⚡ Deities & Daedric Princes
-| File                                            | Category                                           | First Mentioned                | Importance              |
-| ----------------------------------------------- | -------------------------------------------------- | ------------------------------ | ----------------------- |
-| [[Info/Lore/Arkay\|Arkay]]                   | \-                                                 | \-                             | \-                      |
-| [[Info/Lore/Black_Marsh\|Black_Marsh]]       | <ul><li>Region / Province</li></ul>                | Session 011                    | Major                   |
-| [[Info/Lore/Bruma\|Bruma]]                   | <ul><li>City</li></ul>                             | <ul><li>Session 005</li></ul>  | Major                   |
-| [[Info/Lore/Clavicus_Vile\|Clavicus_Vile]]   | \-                                                 | \-                             | \-                      |
-| [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] | \-                                                 | \-                             | \-                      |
-| [[Info/Lore/Cyrodiil\|Cyrodiil]]             | <ul><li>Region / Province</li></ul>                | <ul><li>Session 001</li></ul>  | Major                   |
-| [[Info/Lore/Eastmarch\|Eastmarch]]           | <ul><li>Region / Hold</li></ul>                    | <ul><li>Session 003</li></ul>  | Major                   |
-| [[Info/Lore/Grey_Host\|Grey_Host]]           | \-                                                 | \-                             | \-                      |
-| [[Info/Lore/Harkon\|Harkon]]                 | <ul><li>Historical Figure / Vampire Lord</li></ul> | <ul><li>Session 004</li></ul>  | Major                   |
-| [[Info/Lore/High_Rock\|High_Rock]]           | <ul><li>Region / Province</li></ul>                | <ul><li>Session 001</li></ul>  | Major                   |
-| [[Info/Lore/Hircine\|Hircine]]               | <ul><li>Daedric Prince</li></ul>                   | <ul><li>Session 016</li></ul>  | <ul><li>Major</li></ul> |
-| [[Info/Lore/Kyne\|Kyne]]                     | <ul><li>Nordic Deity</li></ul>                     | <ul><li>Session 016</li></ul>  | <ul><li>Major</li></ul> |
-| [[Info/Lore/Malacath\|Malacath]]             | \-                                                 | \-                             | \-                      |
-| [[Info/Lore/Markarth\|Markarth]]             | <ul><li>City</li></ul>                             | <ul><li>Session 004</li></ul>  | Major                   |
-| [[Info/Lore/Mimicry_Daedra\|Mimicry_Daedra]] | \-                                                 | \-                             | \-                      |
-| [[Info/Lore/Molag_Bal\|Molag_Bal]]           | <ul><li>Daedric Prince</li></ul>                   | <ul><li>Session 006</li></ul>  | <ul><li>Major</li></ul> |
-| [[Info/Lore/Morrowind\|Morrowind]]           | <ul><li>Region / Province</li></ul>                | <ul><li>Session 001</li></ul>  | Major                   |
-| [[Info/Lore/Nocturnal\|Nocturnal]]           | \-                                                 | \-                             | \-                      |
-| [[Info/Lore/Orkey\|Orkey]]                   | <ul><li>Nordic Deity</li></ul>                     | <ul><li>Session 018</li></ul>  | <ul><li>Minor</li></ul> |
-| [[Info/Lore/Shor\|Shor]]                     | <ul><li>Nordic Deity</li></ul>                     | <ul><li>Session 018</li></ul>  | <ul><li>Major</li></ul> |
-| [[Info/Lore/Sithis\|Sithis]]                 | <ul><li>Cosmic Force / The Void</li></ul>          | <ul><li>Session 011</li></ul>  | Major                   |
-| [[Info/Lore/Sovngarde\|Sovngarde]]           | <ul><li>Aetherial Realm</li></ul>                  | <ul><li>Session 005</li></ul>  | Major                   |
-| [[Info/Lore/The_Reach\|The_Reach]]           | <ul><li>Region / Hold</li></ul>                    | <ul><li>Session 004</li></ul>  | Major                   |
-| [[Info/Lore/Tsun\|Tsun]]                     | <ul><li>Nordic Deity</li></ul>                     | <ul><li>Session 020a</li></ul> | <ul><li>Minor</li></ul> |
-| [[Info/Lore/Windhelm\|Windhelm]]             | <ul><li>City</li></ul>                             | <ul><li>Session 003</li></ul>  | Major                   |
+## ⚡ Deities, Daedra & Occult Entities (16 Files)
 
-{ .block-language-dataview}
+| Topic | Category | Key Significance in the Campaign |
+| :--- | :--- | :--- |
+| [[Info/Lore/Arkay\|Arkay]] | Divine / Eight Divines | God of Life & Death; patron of the Knights of Arkay and mortician Sigrid |
+| [[Info/Lore/Clavicus_Vile\|Clavicus_Vile]] | Daedric Prince | Prince of Bargains; patron of the counterfeit coin cult at Altan Mesa |
+| [[Info/Lore/Coiled_Serpent\|Coiled_Serpent]] | Occult Syndicate | Triple Ouroboros symbol marking conspirators, saboteurs, and cultists |
+| [[Info/Lore/Grey_Host\|Grey_Host]] | Ancient Undead Army | First Era army of vampires/werewolves who forged Harrowstorm Engine Cores |
+| [[Info/Lore/Harkon\|Harkon]] | Pureblood Vampire Lord | Master of Castle Volkihar; predecessor to Majorn the Ancient's rogue coven |
+| [[Info/Lore/Hircine\|Hircine]] | Daedric Prince | Prince of the Hunt; manifested as Nohrak the Ragged Lord (Skinstealer) |
+| [[Info/Lore/Kyne\|Kyne]] | Nordic Divine | Mother of Men & Goddess of Storms; patron of hunters in Falderstad |
+| [[Info/Lore/Malacath\|Malacath]] | Daedric Prince | Prince of Oaths & the Spurned; challenged Periwyn in comatose visions |
+| [[Info/Lore/Mimicry_Daedra\|Mimicry_Daedra]] | Daedric Classification | Scaafin and skin-changers anchored by dark runic stones to replace leaders |
+| [[Info/Lore/Molag_Bal\|Molag_Bal]] | Daedric Prince | Prince of Domination; creator of pureblood vampires and the Planemeld |
+| [[Info/Lore/Nocturnal\|Nocturnal]] | Daedric Prince | Mistress of Shadows; sovereign of Evergloam and the Blackfeather Court |
+| [[Info/Lore/Orkey\|Orkey]] | Nordic Pantheon | God of trials and winter mortality testing northern endurance |
+| [[Info/Lore/Shor\|Shor]] | Nordic High God | Dead god of creation and Lord of Sovngarde; namesake of Shor's Stone |
+| [[Info/Lore/Sithis\|Sithis]] | Primordial Void | The Dread Father worshipped by the Dark Brotherhood and Blacktongue tribe |
+| [[Info/Lore/Sovngarde\|Sovngarde]] | Afterlife Realm | Sacred hall of valor in Aetherius for honorable fallen Nord warriors |
+| [[Info/Lore/Tsun\|Tsun]] | Nordic Divine | Shield-thane who guards the Whalebone Bridge in Sovngarde |
 
 ---
 
-## 📚 Historical Texts, Treatises & Sagas
-| File                                                                                                                                   | Type | Archive Location                       |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- |
-| [[Info/Findings & Items/Historical Texts/A Survey of the Eastern Valleys of the Rift\|A Survey of the Eastern Valleys of the Rift]] | \-   | Info/Findings & Items/Historical Texts |
-| [[Info/Findings & Items/Historical Texts/On the Early Jarls of the Rift\|On the Early Jarls of the Rift]]                           | \-   | Info/Findings & Items/Historical Texts |
-| [[Info/Findings & Items/Historical Texts/On the Old Holds\|On the Old Holds]]                                                       | \-   | Info/Findings & Items/Historical Texts |
-| [[Info/Findings & Items/Historical Texts/Sagas of the Broken Jarls\|Sagas of the Broken Jarls]]                                     | \-   | Info/Findings & Items/Historical Texts |
+## 🗺️ Provinces, Holds & Major Cities (9 Files)
 
-{ .block-language-dataview}
-
----
-
-## 📑 Official Documents, Letters & Evidence
-| File                                                                                                                                                                    | Type    | Archive Location                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------------------------------------- |
-| [[Info/Findings & Items/Documents & Notes/Blackfeather_Court_Note\|Blackfeather_Court_Note]]                                                                         | finding | Info/Findings & Items/Documents & Notes |
-| [[Info/Findings & Items/Documents & Notes/Forged Letter - Dunmer Conspiracy\|Forged Letter - Dunmer Conspiracy]]                                                     | item    | Info/Findings & Items/Documents & Notes |
-| [[Info/Findings & Items/Documents & Notes/Official Writ of Authority\|Official Writ of Authority]]                                                                   | \-      | Info/Findings & Items/Documents & Notes |
-| [[Info/Findings & Items/Documents & Notes/Onasha's Recollection of the Autopsy Report of Adrith Velan\|Onasha's Recollection of the Autopsy Report of Adrith Velan]] | \-      | Info/Findings & Items/Documents & Notes |
-| [[Info/Findings & Items/Documents & Notes/Reconstruction Report — Arcanaeum, College of Winterhold\|Reconstruction Report — Arcanaeum, College of Winterhold]]       | \-      | Info/Findings & Items/Documents & Notes |
-| [[Info/Findings & Items/Documents & Notes/Valen_Office_Intelligence\|Valen_Office_Intelligence]]                                                                     | finding | Info/Findings & Items/Documents & Notes |
-
-{ .block-language-dataview}
-
----
-
-## 🔮 Relics, Artifacts & Curious Items
-| File                                                                                          | Type    | Archive Location                        |
-| --------------------------------------------------------------------------------------------- | ------- | --------------------------------------- |
-| [[Info/Findings & Items/Relics & Evidence/Bloody Fur Cloak\|Bloody Fur Cloak]]             | finding | Info/Findings & Items/Relics & Evidence |
-| [[Info/Findings & Items/Relics & Evidence/Coin_Molds\|Coin_Molds]]                         | finding | Info/Findings & Items/Relics & Evidence |
-| [[Info/Findings & Items/Relics & Evidence/Daedric Speaking Stone\|Daedric Speaking Stone]] | item    | Info/Findings & Items/Relics & Evidence |
-| [[Info/Findings & Items/Relics & Evidence/Dark Runic Stone\|Dark Runic Stone]]             | finding | Info/Findings & Items/Relics & Evidence |
-
-{ .block-language-dataview}
+| Region / City | Category | Geographic Scope & Campaign Connection |
+| :--- | :--- | :--- |
+| [[Info/Lore/Black_Marsh\|Black_Marsh]] | Province | Subtropical wetlands; ancestral homeland of Onasha, Milos, and Blacktongues |
+| [[Info/Lore/Bruma\|Bruma]] | Cyrodiilic City | Mountain city in northern Cyrodiil; origin of Captain Irlav and legionnaires |
+| [[Info/Lore/Cyrodiil\|Cyrodiil]] | Imperial Province | Imperial heartland; homeland of Durov, Gaius, and Imperial officers |
+| [[Info/Lore/Eastmarch\|Eastmarch]] | Skyrim Hold | Eastern volcanic hold; setting for the Kjalgrad and Altan Mesa campaigns |
+| [[Info/Lore/High_Rock\|High_Rock]] | Province | Feudal Breton kingdoms; origin of Periwyn, House Lunclaire, and Sir Gareth |
+| [[Info/Lore/Markarth\|Markarth]] | City / The Reach | Ancient Dwemer stone capital in western Skyrim; silver trade center |
+| [[Info/Lore/Morrowind\|Morrowind]] | Province | Dunmer homeland; site of House Dres slave plantations targeted by Onasha |
+| [[Info/Lore/The_Reach\|The_Reach]] | Skyrim Hold | Rugged western frontier hold; site of the Harmugstahl keep investigation |
+| [[Info/Lore/Windhelm\|Windhelm]] | Hold Capital | Ancient capital of Eastmarch; seat of silk barons and regional commerce |

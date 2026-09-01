@@ -2,26 +2,24 @@
 {"dg-publish":true,"permalink":"/info/quests/moonsugar-business-venture/"}
 ---
 
+# Moon-Sugar Business Venture
 
-# Toren's Moon Sugar Trade Proposal
+## Quest Log Summary
+[[Info/Characters/Party/Kirya\|Kirya]] investigated opportunities to establish legal, licensed trade routes importing culinary moon-sugar and southern spices from Elsweyr into Skyrim's markets.
 
-## Overview
-**Status:** Completed  
-**Quest Type:** Optional  
-**Assigned Session:** [[2 -  Sessions/Session 012\|Session 012]]  
-**Completed Session:** [[2 -  Sessions/Session 013\|Session 013]]  
-**Reward:** Underworld Favor  
+## Objectives & Progression
+- [x] Inquire with Khajiit merchant caravans outside Riften regarding spice supply lines ([[2 -  Sessions/Session 011\|Session 011]]).
+- [x] Evaluate legal trade regulations and import taxes in eastern holds ([[2 -  Sessions/Session 018\|Session 018]]).
+- [ ] Secure commercial permits and supplier agreements.
 
-## Objective
-Evaluate the 500-gold moon sugar smuggling venture proposed by Toren the Fence in the Riften Ratway.
+## Key Participants & Factions
+- **[[Info/Characters/Party/Kirya\|Kirya Ma'Tael]]**
+- **Khajiit Merchants**
 
-## Key NPCs
-  - "[[Info/Characters/NPCs/Toren_the_Fence\|Toren_the_Fence]]"
-  - "[[Info/Characters/Party/Durov\|Durov]]"
+## Locations Visited
+- [[Info/Locations/The Rift/Riften\|Riften]]
+- [[Info/Locations/Falderstad/Falderstad\|Falderstad]]
 
-## Key Locations
-  - "[[Info/Locations/The Rift/Ratway\|Ratway]]"
-  - "[[Info/Locations/The Rift/Riften\|Riften]]"
-
-## Timeline & Progression
-- **[[2 -  Sessions/Session 012\|Session 012]]-**[[2 -  Sessions/Session 013\|Session 013]]**: The party gathered intelligence on the syndicate before declining direct involvement to maintain their royal standing.
+## Session Mentions
+- [[2 -  Sessions/Session 011\|Session 011]]
+- [[2 -  Sessions/Session 018\|Session 018]]

@@ -9,7 +9,7 @@
 - Following the ward explosion on the walkway outside the **Alton Mesa Cult Facility**, the **unnamed priest of Stendarr** is left comatose from psychic backlash. **[[Info/Characters/Party/Durov\|Durov]]** stares down **[[Info/Characters/Party/Periwyn\|Periwyn]]** in silent fury.
 - The **Vestige** dissolves the secondary door's ward using a **hagraven-feather tincture**. As cult guards investigate the blast at the front gates, [[Info/Characters/Party/Periwyn\|Periwyn]], [[Info/Characters/Party/Onasha\|Onasha]], and [[Info/Characters/NPCs/The_Vestige\|the Vestige]] infiltrate the **Dwemer ventilation shafts**, while [[Info/Characters/Party/Durov\|Durov]] bluffs his way inside from ground level.
 - Following red cloth markers through the steam-filled ducts, the party locates the **Central Ritual Chamber**, where the **[[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]]** is powering the **counterfeit Septim vanishing ritual** using captive mortals.
-- Spying from above, the party spots missing townsfolk tied up and unconscious near the altar, including the eccentric clothes merchant **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre Laroche]]**. Presiding over the ritual is a towering, silvery-blue **Xivilai**. [[Info/Characters/NPCs/The_Vestige\|The Vestige]] moves off to eliminate adjacent guards to prevent reinforcements.
+- Spying from above, the party spots missing townsfolk tied up and unconscious near the altar, including the eccentric clothes merchant **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]]**. Presiding over the ritual is a towering, silvery-blue **Xivilai**. [[Info/Characters/NPCs/The_Vestige\|The Vestige]] moves off to eliminate adjacent guards to prevent reinforcements.
 - **[[Info/Characters/Party/Durov\|Durov]]** enters the chamber posing as a thirsty sentry and challenges [[Info/Characters/NPCs/The_Xivilai\|the Xivilai]] to a **drinking contest** with half-litre flagons, deflecting questions about his shield crest to buy time for an ambush.
 - **[[Info/Characters/Party/Periwyn\|Periwyn]] and [[Info/Characters/Party/Onasha\|Onasha]]** drop **Paralysis Bombs** from the overhead vents onto the two cult guards. [[Info/Characters/Party/Periwyn\|Periwyn]] drops down to decapitate the first guard in a drive-by sword strike, while [[Info/Characters/Party/Durov\|Durov]] executes the second.
 - In the ensuing boss fight against [[Info/Characters/NPCs/The_Xivilai\|the Xivilai]]:
@@ -18,7 +18,7 @@
   - [[Info/Characters/Party/Durov\|Durov]] executes a **Grapple and Takedown**, pinning and restraining [[Info/Characters/NPCs/The_Xivilai\|the Xivilai]].
   - [[Info/Characters/Party/Onasha\|Onasha]] lands a critical **silver arrow** through [[Info/Characters/NPCs/The_Xivilai\|the Xivilai]]'s neck from the overhead vent.
   - [[Info/Characters/Party/Durov\|Durov]] drives his hands into the neck wound and **tears [[Info/Characters/NPCs/The_Xivilai\|the Xivilai]]'s head and spine off**.
-- The party frees the captives. [[Info/Characters/Party/Onasha\|Onasha]] uses smelling salts to revive the woozy **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre Laroche]]**, and [[Info/Characters/Party/Durov\|Durov]] gives him a map to navigate back to Kilgard.
+- The party frees the captives. [[Info/Characters/Party/Onasha\|Onasha]] uses smelling salts to revive the woozy **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]]**, and [[Info/Characters/Party/Durov\|Durov]] gives him a map to navigate back to Kilgard.
 - The party regroups with the **Vestige**, who single-handedly slaughtered the cultists in the adjoining chamber.
 - Returning to [[Info/Characters/NPCs/The_Vestige\|the Vestige]]'s ruin with the comatose priest, [[Info/Characters/NPCs/The_Vestige\|the Vestige]] explains the man is trapped in a **vegetative mental prison** and summons healer mages via **messenger crow**.
 - Overwhelmed with guilt, **[[Info/Characters/Party/Periwyn\|Periwyn]] writes a detailed apology letter**, signs it with her family seal and the **[[Info/Organizations/Religious/Knights_of_Arkay\|Knights of the Circle]] emblem**, and slips it into the priest's robes.
@@ -56,7 +56,7 @@ Along the route:
 
 The vents led to an elevated viewpoint overlooking the **Central Ritual Chamber** — a large, pillared Dwemer hall lined with copper piping and drainage grates converging around a glowing sacrificial circle.
 
-Tied up and unconscious on the chamber floor were several missing citizens from Kilgard, slated to be sacrificed to power the **[[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]]'s** ritual sustaining the **37,000 counterfeit Septims** flooding the economy. Among the captives, [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Periwyn\|Periwyn]] recognized the eccentric clothes merchant **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre Laroche]]** (Marquis of the Sapphire Coast, Baron of the Nine Looms).
+Tied up and unconscious on the chamber floor were several missing citizens from Kilgard, slated to be sacrificed to power the **[[Info/Organizations/Cults/Cult_of_Clavicus_Vile\|Cult of Clavicus Vile]]'s** ritual sustaining the **37,000 counterfeit Septims** flooding the economy. Among the captives, [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Periwyn\|Periwyn]] recognized the eccentric clothes merchant **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]]** (Marquis of the Sapphire Coast, Baron of the Nine Looms).
 
 Presiding over the altar and flanked by two armored guards was the ritual commander: a towering **Xivilai** with silvery-blue skin and horns. 
 
@@ -109,9 +109,9 @@ With the lackeys dead before they could act, the fight immediately shifted to th
 ### Part 7 — Rescuing the Captives & The Facility Aftermath
 
 With [[Info/Characters/NPCs/The_Xivilai\|the Xivilai]] dead, the party tended to the unconscious prisoners tied up around the sacrificial circle:
-- [[Info/Characters/Party/Onasha\|Onasha]] used smelling salts from her medkit to revive the noble merchant **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre Laroche]]**.
-- Upon waking, a tearful and disoriented Laroche began pompously reciting his full titles before being gently calmed by [[Info/Characters/Party/Onasha\|Onasha]].
-- [[Info/Characters/Party/Durov\|Durov]] handed Laroche a map marked with a route back to Kilgard, advising him to exercise caution given the civil unrest and protests currently rocking the city.
+- [[Info/Characters/Party/Onasha\|Onasha]] used smelling salts from her medkit to revive the noble merchant **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]]**.
+- Upon waking, a tearful and disoriented LaRouche began pompously reciting his full titles before being gently calmed by [[Info/Characters/Party/Onasha\|Onasha]].
+- [[Info/Characters/Party/Durov\|Durov]] handed LaRouche a map marked with a route back to Kilgard, advising him to exercise caution given the civil unrest and protests currently rocking the city.
 - The party untied the remaining captives, ensuring they were stabilized and able to escape the complex.
 
 Moving to check the adjoining wing:
@@ -154,7 +154,7 @@ The session concluded with the party resting safely in the ruin.
 - **[[Info/Characters/NPCs/The_Vestige\|The Vestige]]:** Dunmer assassin. Dissolved the secondary ward with his hagraven tincture, guided the party through the vents, cleared the adjacent chamber of cultists alone, summoned healer mages via messenger crow, and reprimanded [[Info/Characters/Party/Periwyn\|Periwyn]] over her duty to the [[Info/Organizations/Religious/Knights_of_Arkay\|Knights of the Circle]].
 - **Unnamed Priest of Stendarr:** Breton restoration mage hired by [[Info/Characters/Party/Periwyn\|Periwyn]]. Struck by severe ward backlash, leaving him comatose in a mental prison awaiting specialized healer mages.
 - **[[Info/Characters/NPCs/The_Xivilai\|The Xivilai]]:** Daedric commander of the [[Info/Lore/Clavicus_Vile\|Clavicus Vile]] counterfeit coin ritual. Decapitated by [[Info/Characters/Party/Durov\|Durov]] after [[Info/Characters/Party/Onasha\|Onasha]] shot him through the throat.
-- **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre Laroche]]:** Eccentric Breton clothes merchant from Kilgard (Marquis of the Sapphire Coast, Baron of the Nine Looms). Captured by the cult for sacrifice, revived with smelling salts by [[Info/Characters/Party/Onasha\|Onasha]], and given a map by [[Info/Characters/Party/Durov\|Durov]].
+- **[[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]]:** Eccentric Breton clothes merchant from Kilgard (Marquis of the Sapphire Coast, Baron of the Nine Looms). Captured by the cult for sacrifice, revived with smelling salts by [[Info/Characters/Party/Onasha\|Onasha]], and given a map by [[Info/Characters/Party/Durov\|Durov]].
 - **Sacrificial Captives:** Missing citizens from Kilgard held in the ritual chamber; rescued and freed by the party.
 - **Cult Guards:** Servants of [[Info/Lore/Clavicus_Vile\|Clavicus Vile]]; two were paralyzed and executed in the ritual chamber, while the rest were cut down by [[Info/Characters/NPCs/The_Vestige\|the Vestige]].
 - **[[Info/Characters/Party/The Horses\|Mossback]], Rhymefang, [[Info/Characters/Party/The Horses\|Ashen]]:** The party's mounts resting in the Dwemer ruin.
@@ -191,14 +191,14 @@ The session concluded with the party resting safely in the ruin.
 ### Completed
 - **Break the Cult Facility Wards:** Bypassed and dissolved using [[Info/Characters/NPCs/The_Vestige\|the Vestige]]'s hagraven-feather tincture on the ventilation access door.
 - **Assault the Alton Mesa Cult Facility (Ritual Chamber):** Infiltrated the facility via Dwemer ducts, distracted [[Info/Characters/NPCs/The_Xivilai\|the Xivilai]] with a drinking contest, ambushed the guards, and eliminated the Daedric leader.
-- **Rescue [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre Laroche]] & Missing Captives:** Freed the unconscious Kilgard citizens slated for Daedric sacrifice in the ritual chamber.
+- **Rescue [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]] & Missing Captives:** Freed the unconscious Kilgard citizens slated for Daedric sacrifice in the ritual chamber.
 
 ---
 
 ## Player Notes
 
 - **[[Info/Organizations/Religious/Knights_of_Arkay\|Knights of the Circle]] Accountability:** [[Info/Characters/NPCs/The_Vestige\|The Vestige]]'s reprimand emphasized that [[Info/Characters/Party/Periwyn\|Periwyn]]'s noble heritage and association with the [[Info/Organizations/Religious/Knights_of_Arkay\|Knights of the Circle]] carry broad significance across Tamriel, and that status requires accountability rather than reckless delegation.
-- **Daedric Kidnappings in Kilgard:** The presence of missing citizens, including the high-society merchant [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre Laroche]], confirms the cult was systematically abducting townsfolk from Kilgard to fuel their economic destabilization ritual.
+- **Daedric Kidnappings in Kilgard:** The presence of missing citizens, including the high-society merchant [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]], confirms the cult was systematically abducting townsfolk from Kilgard to fuel their economic destabilization ritual.
 - **[[Info/Characters/Party/Durov\|Durov]]'s Shield Crest:** [[Info/Characters/NPCs/The_Xivilai\|The Xivilai]]'s recognition of the crest on [[Info/Characters/Party/Durov\|Durov]]'s shield suggests a historical or Daedric connection tied to [[Info/Characters/Party/Durov\|Durov]]'s background or employer.
 - **Combat Synergy:** The combination of overhead *Paralysis Bombs*, [[Info/Characters/Party/Durov\|Durov]]'s frontline tanking and *Grapple/Takedown*, [[Info/Characters/Party/Periwyn\|Periwyn]]'s *Sunbeam* fire support and weapon denial, and [[Info/Characters/Party/Onasha\|Onasha]]'s precision archery neutralized a high-tier Daedric opponent with minimal party casualties.
 

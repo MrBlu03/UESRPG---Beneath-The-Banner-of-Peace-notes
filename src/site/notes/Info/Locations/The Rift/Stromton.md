@@ -2,11 +2,19 @@
 {"dg-publish":true,"permalink":"/info/locations/the-rift/stromton/"}
 ---
 
+# Stromton
+
+## Overview
+A rural trading settlement and agricultural waystation situated along the southern overland highway in [[Info/Locations/The Rift/The_Rift\|The_Rift]].
+
 ## Description
-A settlement situated in the Rift that serves as a travel waypoint along regional highways.
+A collection of timber farmsteads, grain silos, and traveler waystations supporting regional commerce and courier routes.
 
-## Notable NPCs
-- None specified.
+## Key Inhabitants & Associated Figures
+- **Merchants & Farmers**: Support regional trade circuits.
 
-## Key Events
-- **[[2 -  Sessions/Session 019\|Session 019]]**: The party plotted their travel route across the region, which included Stromton as a planned stop between [[Info/Locations/The Rift/Riften\|Riften]] and [[Info/Locations/The Rift/Nimalten\|Nimalten]].
+## Notable Events
+- **Overland Circuit Planning ([[2 -  Sessions/Session 019\|Session 019]]):** Identified as a travel waypoint on the party's planned circuit through the Rift connecting Riften and Nimalten.
+
+## Session Mentions
+- [[2 -  Sessions/Session 019\|Session 019]]

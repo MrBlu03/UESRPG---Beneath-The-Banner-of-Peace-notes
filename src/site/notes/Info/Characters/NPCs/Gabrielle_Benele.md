@@ -5,15 +5,20 @@
 # Gabrielle Benele
 
 ## Description
-A brilliant, inquisitive Breton antiquarian and high-ranking scholar for the [[Info/Organizations/Other/Mages_Guild\|Mages_Guild]]. Dedicated to studying ancient planar anomalies and Daedric artifacts, she travels extensively to investigate dangerous relics left behind by historical incursions.
+A celebrated Breton antiquarian and high-ranking scholar of the [[Info/Organizations/Other/Mages_Guild\|Mages Guild]]. Intelligent, observant, and well-traveled across Tamriel and the outer realms, she specializes in Daedric artifacts, planar anomalies, and ancient magical relics.
 
 ## Relationships
-- **[[Info/Characters/Party/Periwyn\|Periwyn]]**: Shared arcane expertise regarding planar rifts and Daedric history.
-- **[[Info/Characters/Party/Onasha\|Onasha]]**: Assisted by [[Info/Characters/Party/Onasha\|Onasha]]'s summoning of Daedric messenger crows for her correspondence.
+- **[[Info/Characters/NPCs/Garen_Hlaalu\|Garen Hlaalu]]**: Her direct superior directing Mages Guild operations and field research across Skyrim.
+- **[[Info/Characters/NPCs/Baron_Jangleplume\|Baron Jangleplume]]**: Acquaintance from planar expeditions, notably recalling his mischievous antics in the Clockwork City.
+- **The Fangs of Fjelhorst**: Provided crucial analysis of the artifact recovered by the party.
 
 ## Location
-- Travels across Skyrim, recently encountered in [[Info/Locations/Falderstad/Falderstad\|Falderstad]].
+- **[[Info/Locations/Falderstad/Falderstad\|Falderstad]]** and Mages Guild chapters across Tamriel.
 
 ## Notes
-- **[[2 -  Sessions/Session 012\|Session 012]]**: Mentioned as the lead expert dispatched by the [[Info/Organizations/Other/Mages_Guild\|Mages_Guild]] to travel to [[Info/Locations/The Rift/Greenwall\|Greenwall]] and study the strange ritual orb left behind from the massacre.
-- **[[2 -  Sessions/Session 018\|Session 018]]**: Met with the party privately in [[Info/Locations/Falderstad/Falderstad\|Falderstad]] at [[Info/Characters/NPCs/Jarl_Gorm\|Jarl Gorm]]'s behest. She identified the ritual orb as a Harrowstorm Engine Core from the [[Info/Lore/Grey_Host\|Grey Host]] crisis and quickly recognized [[Info/Characters/NPCs/Baron_Jangleplume\|Baron Jangleplume]] as an immortal Daedric crow of [[Info/Lore/Nocturnal\|Nocturnal]] when [[Info/Characters/Party/Onasha\|Onasha]] summoned the bird to send her letters.
+- **Harrowstorm Engine Analysis ([[2 -  Sessions/Session 018\|Session 018]]):** Arrived in Falderstad to inspect the mysterious ritual orb recovered from the vampire coven at [[Info/Locations/The Rift/Greenwall\|Greenwall]]. Identified the artifact as a component of an ancient Daedric Harrowstorm engine, referencing scholarly connections with Arch-Mage Vanus Galerion.
+- **Daedric Crow Identification ([[2 -  Sessions/Session 018\|Session 018]]):** Recognized the intelligent crows accompanying [[Info/Characters/Party/Onasha\|Onasha]] as immortal Daedric crows from [[Evergloam\|Evergloam]], amusedly recalling Baron Jangleplume's antics.
+
+## Session Mentions
+- [[2 -  Sessions/Session 012\|Session 012]]
+- [[2 -  Sessions/Session 018\|Session 018]]

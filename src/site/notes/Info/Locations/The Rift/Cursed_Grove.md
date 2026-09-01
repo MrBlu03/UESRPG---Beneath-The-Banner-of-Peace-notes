@@ -4,15 +4,22 @@
 
 # Cursed Grove
 
+## Overview
+A deeply corrupted, unhallowed woodland grove nestled within the [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]] north of Falderstad, dedicated as a ritual hunting ground and blood altar to **[[Info/Characters/NPCs/Nohrak\|Nohrak, the Ragged Lord]]** (an aspect of Hircine).
+
 ## Description
-A sinister, corrupted clearing located in the heart of the [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]], where the veil between the mortal world and the supernatural thinned. The grove is marked by a territorial supernatural creature and a history of dark events.
+An eerie clearing enshrouded in unnatural mist, marked by flayed animal skins, human bone totems, carved Othala runes, and reality-bending spatial enchantments that trap intruders within an endless circular maze.
 
-## Notable NPCs
-- **[[Info/Characters/NPCs/Svala\|Svala]]**: Experienced hunter who organized an expedition to hunt the territorial creature in the grove.
-- **[[Info/Characters/NPCs/Hoki\|Hoki]]**: Young impulsive hunter who was traumatized by an experience in the grove.
-- **[[Info/Characters/NPCs/Brovin\|Brovin]]**: A hunting dog who sensed the danger of the grove and refused to enter.
+## Key Inhabitants & Associated Figures
+- **[[Info/Characters/NPCs/Nohrak\|Nohrak (The Ragged Lord / Skinstealer)]]**: Daedric monster and apex hunter of the grove.
+- **Corrupted Wolf Pack**: Ferocious beasts serving the Ragged Lord.
+- **[[Info/Characters/NPCs/Torik\|Torik]] & [[Info/Characters/NPCs/Svala\|Svala]]**: Led the expeditionary force that cleansed the grove.
 
-## Key Events
-- **[[2 -  Sessions/Session 015\|Session 015]]**: During the [[Info/Quests/White_Stag_Hunt\|White_Stag_Hunt]], [[Info/Characters/Party/Onasha\|Onasha]] and [[Info/Characters/Party/Kirya\|Kirya]] tracked a wounded stag into the grove alongside local hunters [[Info/Characters/NPCs/Svala\|Svala]] and [[Info/Characters/NPCs/Hoki\|Hoki]]. Here they faced a territorial supernatural creature.
-- **[[2 -  Sessions/Session 016\|Session 016]]**: The party continued their activities in the [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]], including the grove.
-- **[[2 -  Sessions/Session 017\|Session 017]]**: The party operated in the [[Info/Locations/The Rift/Northern_Forest\|Northern_Forest]] and the grove.
+## Notable Events
+- **The Spatial Trap ([[2 -  Sessions/Session 016\|Session 016]]):** Trapped Svala's hunting expedition in an illusory labyrinth where woodsman [[Info/Characters/NPCs/Bjorr\|Bjorr]] was killed before elder mage [[Info/Characters/NPCs/Torik\|Torik]] shattered the illusion with consecrated fire salts.
+- **The Boss Battle & Cleansing ([[2 -  Sessions/Session 017\|Session 017]]):** Torik summoned the beast by reciting its ancient nymic at the bone shrine; the party wiped out its wolf pack, severed the creature's limbs, and destroyed the Ragged Lord, liberating the forest from its curse.
+
+## Session Mentions
+- [[2 -  Sessions/Session 015\|Session 015]]
+- [[2 -  Sessions/Session 016\|Session 016]]
+- [[2 -  Sessions/Session 017\|Session 017]]
