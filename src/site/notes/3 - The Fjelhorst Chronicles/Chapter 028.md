@@ -469,4 +469,4 @@ For the longest night had not yet reached its deepest hour.
 
 
 
-[[Chapter 029\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 029\|Next Chapter →]]

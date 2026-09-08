@@ -106,7 +106,7 @@
 
 ### In Progress
 - **[[Info/Quests/The_Witch_of_the_Woods\|The Hag Raven Feather]]**: [[Info/Characters/NPCs/The_Vestige\|The Vestige]] is still on route to retrieve it.
-- **[[Info/Quests/Assault_Main_Facility\|Assault the Main Facility North of Kjalgrad]]**: Ward dispelling plan (varnish or [[Info/Characters/NPCs/Father_Aldric\|Father_Aldric]]) is still in preparation.
+- **[[Info/Quests/Assault_Main_Facility\|Assault the Main Facility North of Kjalgrad]]**: Ward dispelling plan (varnish or [[Info/Characters/NPCs/Bretton priest\|Bretton priest]]) is still in preparation.
 - **[[Info/Quests/The_Skin_Changer_Jarl\|The Skin-Changer Jarl]]**: Still on the throne inside the burning [[Info/Locations/Kjalgrad/Clan_Morvan_Longhouse\|Yarls Hall]].
 - **[[Info/Quests/Coiled_Serpent_Conspiracy\|The Coiled Serpent / Guild Corruption]]**: Docked pay, strange gold, and corrupt officials.
 - **[[Info/Quests/Jean_Pierre_LaRouche_Missing\|Missing People]]**: [[Info/Characters/NPCs/Jean-Pierre_LaRouche\|Jean-Pierre LaRouche]] and other merchants remain missing.
@@ -147,4 +147,4 @@
 - **[[Info/Characters/Party/Durov\|Durov]]'s Alibi**: [[Info/Characters/Party/Durov\|Durov]] must manage his alibi with [[Info/Characters/NPCs/Captain_Irlav\|Irlav]] and [[Info/Characters/NPCs/Vaelin_Marr\|Valen_Marr]] after leaving the dungeon shortly before the jailbreak and fire.
 - **Assess the Yarls Hall Fire**: Discover the aftermath of the fire. Did the steward [[Info/Characters/NPCs/Darius_Caro\|Darius_Karo]] or the Jarl survive? How will the Jarl respond?
 - **Investigate the Mesa**: Search the mesa for the missing merchant and check if it connects to the main cult facility.
-- **Wait for [[Info/Characters/NPCs/The_Vestige\|the Vestige]] and [[Info/Characters/NPCs/Father_Aldric\|Father Aldric]]**: Reconnect with [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] (with the feather) and [[Info/Characters/NPCs/Father_Aldric\|Father_Aldric]] at the [[Info/Locations/Kjalgrad/Frost_Gate_Hall\|inn]] tomorrow to finalize the ruin assault.
+- **Wait for [[Info/Characters/NPCs/The_Vestige\|the Vestige]] and [[Info/Characters/NPCs/Bretton priest\|Father Aldric]]**: Reconnect with [[Info/Characters/NPCs/The_Vestige\|The_Vestige]] (with the feather) and [[Info/Characters/NPCs/Bretton priest\|Bretton priest]] at the [[Info/Locations/Kjalgrad/Frost_Gate_Hall\|inn]] tomorrow to finalize the ruin assault.

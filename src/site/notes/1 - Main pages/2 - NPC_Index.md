@@ -58,7 +58,7 @@ A master directory of all notable non-player characters and figures encountered 
 | [[Info/Characters/NPCs/Dunmer_Merchants\|Dunmer_Merchants]]        | Falderstad, Northern_Forest                           | 🟢 Alive           | ⚖️ Neutral  |
 | [[Info/Characters/NPCs/Eirik_the_Quick\|Eirik_the_Quick]]         | Riften, Falderstad                                    | 🟢 Alive           | ⚖️ Neutral  |
 | [[Info/Characters/NPCs/Eydis\|Eydis]]                   | Sleeping_Stag, Riften                                 | 🟢 Alive           | ⚖️ Neutral  |
-| [[Info/Characters/NPCs/Father_Aldric\|Father_Aldric]]           | Barrow_of_the_Oath-Breaker_King, Kjalgrad             | 🟡 Comatose        | 🤝 Friendly |
+| [[Info/Characters/NPCs/Bretton priest\|Bretton priest]]           | Barrow_of_the_Oath-Breaker_King, Kjalgrad             | 🟡 Comatose        | 🤝 Friendly |
 | [[Info/Characters/NPCs/Gabrielle_Benele\|Gabrielle_Benele]]        | Falderstad, Mages_Guild                               | 🟢 Alive           | ⚖️ Neutral  |
 | [[Info/Characters/NPCs/Gaius\|Gaius]]                   | Falderstad                                            | 🟢 Alive           | ⚖️ Neutral  |
 | [[Info/Characters/NPCs/Garen_Hlaalu\|Garen_Hlaalu]]            | Mages_Guild, Skyrim Chapter                           | 🟢 Alive           | ⚖️ Neutral  |

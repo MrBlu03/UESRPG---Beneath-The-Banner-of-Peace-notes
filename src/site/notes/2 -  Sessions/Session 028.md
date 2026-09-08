@@ -100,5 +100,5 @@
 
 - **Investigate the [[Info/Organizations/Criminal/Camonna_Tong\|Camonna Tong]] Camp**: [[Info/Characters/Party/Durov\|Durov]], [[Info/Characters/NPCs/Captain_Irlav\|Irlav]], and [[Info/Characters/NPCs/Proventus\|Proventus]] must locate the abandoned camp and find where they relocated.
 - **Brew the Ward Varnish**: [[Info/Characters/Party/Periwyn\|Periwyn]] must brew the Ward-dissolving varnish using the pearl and the hag raven feather retrieved by [[Info/Characters/NPCs/The_Vestige\|the Vestige]].
-- **Brief [[Info/Characters/NPCs/Father_Aldric\|Father Aldric]]**: Introduce [[Info/Characters/NPCs/Father_Aldric\|Father_Aldric]] to the rest of the party at the inn and finalize the plan to dispel the Wards.
+- **Brief [[Info/Characters/NPCs/Bretton priest\|Father Aldric]]**: Introduce [[Info/Characters/NPCs/Bretton priest\|Bretton priest]] to the rest of the party at the inn and finalize the plan to dispel the Wards.
 - **Plan the Ruin Assault**: Coordinate with [[Info/Characters/NPCs/The_Vestige\|Milos]] at the barrow for the assault on the Main Facility now that [[Info/Characters/NPCs/Darius_Caro\|Darius Karo]] is captured.
