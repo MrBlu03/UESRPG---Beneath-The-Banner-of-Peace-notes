@@ -346,4 +346,4 @@ Then he dissolved the second ward with a varnish of hagraven feather — the pla
 
 And then, at last, they walked in.
 
-[[Chapter 031\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 031\|Next Chapter →]]
