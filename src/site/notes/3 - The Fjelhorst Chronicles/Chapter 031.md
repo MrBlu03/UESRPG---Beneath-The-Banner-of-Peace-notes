@@ -177,4 +177,4 @@ Racked with guilt for dragging an unprepared priest into mortal danger, she wrot
 Before resting, Durov placed a reassuring hand upon the priest's shoulder.
 
 He said, quietly, that the nightmare would be over soon.
-[[Z - other bullshit/Chapter 032\|Next Chapter →]]
+[[3 - The Fjelhorst Chronicles/Chapter 032\|Chapter 032]]
